@@ -2,18 +2,13 @@
 
 Serves 2. About 45 minutes.
 
-Instant Pot rice, 1 cup water to 1 cup rice, high pressure for 3 minutes. The broth in a heavy saucepan. The pour oil in a small skillet.
+The broth in a heavy saucepan. The pour oil in a small skillet.
 
-Start the rice, then marinate the fish. While it sits, chop the doubanjiang and cut the aromatics. Fry the paste, then start the pour oil while the broth simmers. Poach the fish when that oil is nearly ready. When the Instant Pot beeps, turn the valve to venting and leave the lid on until you serve.
+Marinate the fish. While it sits, chop the doubanjiang and cut the aromatics. Fry the paste, then start the pour oil while the broth simmers. Poach the fish when that oil is nearly ready.
 
 Measure each ingredient once. A later list is that same amount again.
 
 ## Ingredients
-
-**Rice**
-
-- 1 cup jasmine rice
-- 1 cup water
 
 **Fish**
 
@@ -47,16 +42,6 @@ Measure each ingredient once. A later list is that same amount again.
 - 1/2 cup peanut oil, for the pour
 
 ---
-
-## Rice
-
-- 1 cup jasmine rice
-- 1 cup water
-
-1. Rinse the **jasmine rice** under cold water until the runoff is almost clear. Drain it well.
-2. Put the rice and the **water** in the Instant Pot and stir once.
-3. Lock the lid, set the valve to sealing, and pressure cook on high for 3 minutes. Go on to the fish.
-4. When it beeps, turn the valve to venting. Leave the lid on until you serve, then fluff the rice.
 
 ## Fish
 
@@ -143,4 +128,4 @@ These amounts were measured above.
 1. Slide the **snakehead fillet** into the shivering broth, one slice at a time. Don't stir. Skim off any foam. When the slices are white and the edges have curled, about 1 minute, pour the broth and the fish over the sprouts.
 2. Set the small skillet back on the coil if it is off. The **peanut oil for the pour** is ready when a wooden spoon handle makes small bubbles and the oil does not smoke. If the handle stays quiet, leave it there until the bubbles come. If it is smoking, pull the skillet off the coil until the smoke stops, then set it back for a few seconds.
 3. Scatter the greens of the **scallions**, the **garlic for the pour**, the **dried facing-heaven chilies**, and the **Sichuan peppercorns** over the fish.
-4. Pour the **peanut oil for the pour** over those aromatics. It should crackle as it lands. Serve with the rice. Eat the fish, the sprouts, and the scallion greens. The chilies and the peppercorns stay in the bowl for their aroma.
+4. Pour the **peanut oil for the pour** over those aromatics. It should crackle as it lands. Eat the fish, the sprouts, and the scallion greens. The chilies and the peppercorns stay in the bowl for their aroma.

@@ -2,18 +2,13 @@
 
 Serves 2. About 45 minutes.
 
-Instant Pot rice, 1 cup water to 1 cup rice, high pressure for 3 minutes. The chicken fries in a deep heavy saucepan on the coil. The toss is in the wok, and the wok stays in its ring.
+The chicken fries in a deep heavy saucepan on the coil. The toss is in the wok, and the wok stays in its ring.
 
-Start the rice, then marinate the chicken. While it sits, cut the chilies and the aromatics, and start the oil. Coat the chicken when the oil is ready, then fry it. When the Instant Pot beeps, turn the valve to venting and leave the lid on until you serve.
+Marinate the chicken. While it sits, cut the chilies and the aromatics, and start the oil. Coat the chicken when the oil is ready, then fry it.
 
 Measure each ingredient once. A later list is that same amount again.
 
 ## Ingredients
-
-**Rice**
-
-- 1 cup jasmine rice
-- 1 cup water
 
 **Chicken**
 
@@ -39,16 +34,6 @@ Measure each ingredient once. A later list is that same amount again.
 - 4 tbsp potato starch
 
 ---
-
-## Rice
-
-- 1 cup jasmine rice
-- 1 cup water
-
-1. Rinse the **jasmine rice** under cold water until the runoff is almost clear. Drain it well.
-2. Put the rice and the **water** in the Instant Pot and stir once.
-3. Lock the lid, set the valve to sealing, and pressure cook on high for 3 minutes. Go on to the chicken.
-4. When it beeps, turn the valve to venting. Leave the lid on until you serve, then fluff the rice.
 
 ## Chicken
 
@@ -119,4 +104,4 @@ These amounts were measured above.
 2. When the oil shimmers, add the **Sichuan peppercorns** and the **dried facing-heaven chilies** together. Stir until the chilies smell toasty and turn one shade darker, still red, about 30 seconds. If they blacken, turn the coil off and stir until they cool, then turn the coil back to medium-low.
 3. Add the **garlic** and the **ginger** together. Stir until fragrant, about 15 seconds.
 4. Add the **chicken thighs**, the **sugar**, the **Shaoxing wine**, and the **scallions** together. Toss until the chicken is coated and the wine has cooked off, about 1 minute.
-5. Serve with the rice. Eat the chicken and the scallions. The chilies and the peppercorns stay on the plate for their aroma.
+5. Eat the chicken and the scallions. The chilies and the peppercorns stay on the plate for their aroma.

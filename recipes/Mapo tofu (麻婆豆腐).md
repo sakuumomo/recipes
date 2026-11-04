@@ -2,18 +2,13 @@
 
 Serves 2. About 40 minutes.
 
-Instant Pot rice, 1 cup water to 1 cup rice, high pressure for 3 minutes. Tofu in a heavy saucepan. Peppercorns in a small skillet. Stir-fry in a 10 in heavy skillet on the coil.
+Tofu in a heavy saucepan. Peppercorns in a small skillet. Stir-fry in a 10 in heavy skillet on the coil.
 
-Start the rice and work straight down. When the tofu timer rings, drain the tofu, then keep going. Leave the rice lid on until you serve.
+Work straight down. When the tofu timer rings, drain the tofu, then keep going.
 
 Measure each ingredient once. A later list is that same amount again.
 
 ## Ingredients
-
-**Rice**
-
-- 1 cup jasmine rice
-- 1 cup water
 
 **Tofu**
 
@@ -45,16 +40,6 @@ Measure each ingredient once. A later list is that same amount again.
 - 3 scallions, cut into 3/4 in lengths
 
 ---
-
-## Rice
-
-- 1 cup jasmine rice
-- 1 cup water
-
-1. Rinse the **jasmine rice** under cold water until the runoff is almost clear. Drain it well.
-2. Put the rice and the **water** in the Instant Pot and stir once.
-3. Lock the lid, set the valve to sealing, and pressure cook on high for 3 minutes. Go on to the tofu.
-4. When it beeps, turn the valve to venting. Leave the lid on until you serve, then fluff the rice.
 
 ## Tofu
 
@@ -139,4 +124,4 @@ These amounts were measured above.
 7. Add the **drained tofu** and the **scallions**. Simmer 3 minutes, until the tofu is red and the scallions have softened. Push the tofu aside, scrape the center, and fold the tofu back through the sauce. If the center boils hard, pull the skillet so it sits half on the coil.
 8. Return the **ground beef** and simmer 1 minute, folding the tofu through the sauce.
 9. Stir the **starch slurry**. Pour in about a third and fold the tofu through the sauce. Add the rest in one or two more pours, and stop when the sauce is glossy and coats the back of a spoon. If the center starts to stick, pull the skillet off the coil and keep folding.
-10. Spoon it into a bowl, sprinkle with the **ground Sichuan pepper**, and serve with the rice.
+10. Spoon it into a bowl, sprinkle with the **ground Sichuan pepper**, and serve.

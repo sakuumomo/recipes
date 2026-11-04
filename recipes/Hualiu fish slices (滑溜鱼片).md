@@ -2,18 +2,13 @@
 
 Serves 2. About 40 minutes.
 
-Instant Pot rice, 1 cup water to 1 cup rice, high pressure for 3 minutes. The fish slips in oil in a deep heavy saucepan on the coil. The glaze is in a 10 in heavy skillet on the coil.
+The fish slips in oil in a deep heavy saucepan on the coil. The glaze is in a 10 in heavy skillet on the coil.
 
-Start the rice and soak the wood ear. Slice and marinate the fish. While it sits, finish the prep. Slip the fish when the oil is ready. When the Instant Pot beeps, turn the valve to venting and leave the lid on until you serve.
+Soak the wood ear. Slice and marinate the fish. While it sits, finish the prep. Slip the fish when the oil is ready.
 
 Measure each ingredient once. A later list is that same amount again.
 
 ## Ingredients
-
-**Rice**
-
-- 1 cup jasmine rice
-- 1 cup water
 
 **Wood ear**
 
@@ -49,16 +44,6 @@ Measure each ingredient once. A later list is that same amount again.
 - 2 cups peanut oil, for slipping
 
 ---
-
-## Rice
-
-- 1 cup jasmine rice
-- 1 cup water
-
-1. Rinse the **jasmine rice** under cold water until the runoff is almost clear. Drain it well.
-2. Put the rice and the **water** in the Instant Pot and stir once.
-3. Lock the lid, set the valve to sealing, and pressure cook on high for 3 minutes. Go on to the wood ear.
-4. When it beeps, turn the valve to venting. Leave the lid on until you serve, then fluff the rice.
 
 ## Wood ear
 
@@ -148,4 +133,4 @@ These amounts were measured above.
 2. Add the **unsalted chicken stock**, the **winter bamboo shoots**, the **soaked wood ear**, the **Shaoxing wine for the sauce**, the **kosher salt for the sauce**, and the **ground white pepper for the sauce** together. Simmer until the bamboo is hot, about 1 minute. If it is still hard and bright, simmer another minute. If the center boils hard, pull the skillet so it sits half on the coil.
 3. Stir the **sweet potato starch for the sauce** and the **cold water**. Pour in about half and fold. Add the rest only if the sauce does not yet flow off a spoon in a thin ribbon. If the center sticks, pull the skillet off the coil and keep folding.
 4. Slide in the **slipped snakehead fillet**. Fold once or twice until every slice is coated, about 30 seconds.
-5. Pull the skillet off the coil. Add the **toasted sesame oil** and tilt the skillet to sheet it through the sauce. Serve with the rice.
+5. Pull the skillet off the coil. Add the **toasted sesame oil** and tilt the skillet to sheet it through the sauce. Serve.

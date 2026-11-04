@@ -28,13 +28,13 @@ Keep the cut, the coating, the fat, the defining aromatics, the cook order, and 
 
 Done when every part has a name, a place in the cook order, and a vessel.
 
-A part is a component the cook finishes before it joins the dish, or a stage with its own lines: rice, a blanch, a toasted spice, a slurry, the knife-and-cup prep, the cook in the pan.
+A part is a component the cook finishes before it joins the dish, or a stage with its own lines: a blanch, a toasted spice, a slurry, the knife-and-cup prep, the cook in the pan.
 
 Order the parts in the order the cook starts them. A dish cooked as one sequence is one part. That part measures its own lines and cooks them.
 
 When earlier parts measure everything the last part uses, the last part is a combining section. Name it for the action (`Stir-fry`). Every line in it was already measured. It still gets a cooking section.
 
-When the dish is served with rice, add a Rice part and scale it at 1/2 cup of dry rice per person.
+Rice is its own page, `recipes/Jasmine rice.md`. Do not add a Rice part to another dish.
 
 ## 4. Choose the vessel
 
@@ -42,7 +42,7 @@ Done when every part uses one vessel from this kitchen.
 
 This cook has an electric stove with exposed coils, a round-bottom wok that sits in a ring, and an Instant Pot. The neutral oil is peanut oil.
 
-- **Rice.** The Instant Pot. Rinse the rice until the runoff is almost clear and drain it well. Use 1 cup of water for each 1 cup of rice. Lock the lid, set the valve to sealing, and pressure cook on high for 3 minutes. When it beeps, turn the valve to venting. Leave the lid on until serving, then fluff the rice.
+- **Rice.** Only on `recipes/Jasmine rice.md`. The Instant Pot. Rinse the rice until the runoff is almost clear and drain it well. Use 1 cup of water for each 1 cup of rice. Lock the lid, set the valve to sealing, and pressure cook on high for 3 minutes. When it beeps, turn the valve to venting. Leave the lid on until serving, then fluff the rice. Do not copy this part into another dish.
 - **A pot of water.** A heavy saucepan on a coil: blanching, boiling, a simmer you hold at a shiver. When the boil is harder than the step wants, pull the pot so it sits half on the coil.
 - **A spoonful of spices.** A small skillet on a coil. Slide the skillet off the coil if they smoke.
 - **A sear, a paste, or a fry that turns into a simmer.** A 10 in heavy skillet on a coil. This pan can leave the coil.
@@ -182,7 +182,7 @@ Done when every item below holds and the file is saved at `recipes/<title>.md`.
 - An ingredient that an English search commonly misidentifies carries its original name. The mapo tofu page is the calibration.
 - A spoon measure of kosher salt names Diamond Crystal. Parentheses hold only an original-language name.
 - The neutral oil is peanut oil. A flavored oil is named only when the dish needs that flavor.
-- A Rice part uses the Instant Pot method. Every part uses the vessel this kitchen assigns it.
+- Rice stays on `recipes/Jasmine rice.md`. Another dish has no Rice part. Every part uses the vessel this kitchen assigns it.
 - Heat changes use the coil moves. A wok stays in the ring.
 - Steps are a tight numbered list. The added thing is bold. Each step ends on a cue.
 - Work that a short step depends on is finished in an earlier part.
