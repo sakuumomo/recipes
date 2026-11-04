@@ -1,0 +1,151 @@
+# Hualiu fish slices (滑溜鱼片)
+
+Serves 2. About 40 minutes.
+
+Instant Pot rice, 1 cup water to 1 cup rice, high pressure for 3 minutes. The fish slips in oil in a deep heavy saucepan on the coil. The glaze is in a 10 in heavy skillet on the coil.
+
+Start the rice and soak the wood ear. Slice and marinate the fish. While it sits, finish the prep. Slip the fish when the oil is ready. When the Instant Pot beeps, turn the valve to venting and leave the lid on until you serve.
+
+Measure each ingredient once. A later list is that same amount again.
+
+## Ingredients
+
+**Rice**
+
+- 1 cup jasmine rice
+- 1 cup water
+
+**Wood ear**
+
+- 1/2 oz dried wood ear (干黑木耳)
+- 2 cups hot water
+
+**Fish**
+
+- 12 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick
+- 2 tsp Shaoxing wine (绍兴酒), for the fish
+- 1/2 tsp kosher salt, Diamond Crystal, for the fish
+- 1/8 tsp ground white pepper, for the fish
+- 1 egg white
+- 1 tbsp sweet potato starch (红薯淀粉), for the fish
+- 1 tsp peanut oil, for the fish
+
+**Prep**
+
+- 1 tbsp peanut oil, for the glaze
+- 1/2 oz ginger, sliced
+- 1 scallion, cut into 1 in lengths
+- 3/4 cup unsalted chicken stock
+- 2 oz winter bamboo shoots (冬笋), sliced thin
+- 1 tsp Shaoxing wine (绍兴酒), for the sauce
+- 1/2 tsp kosher salt, Diamond Crystal, for the sauce
+- 1/8 tsp ground white pepper, for the sauce
+- 2 tsp sweet potato starch (红薯淀粉), for the sauce
+- 2 tbsp cold water
+- 1 tsp toasted sesame oil (香油)
+
+**Slip**
+
+- 2 cups peanut oil, for slipping
+
+---
+
+## Rice
+
+- 1 cup jasmine rice
+- 1 cup water
+
+1. Rinse the **jasmine rice** under cold water until the runoff is almost clear. Drain it well.
+2. Put the rice and the **water** in the Instant Pot and stir once.
+3. Lock the lid, set the valve to sealing, and pressure cook on high for 3 minutes. Go on to the wood ear.
+4. When it beeps, turn the valve to venting. Leave the lid on until you serve, then fluff the rice.
+
+## Wood ear
+
+- 1/2 oz dried wood ear (干黑木耳)
+- 2 cups hot water
+
+1. Put the **dried wood ear** in a bowl and cover it with the **hot water**. Set a timer for 20 minutes. Go on to the fish.
+2. When the timer rings, drain the **dried wood ear** and rinse it. Pinch off any hard knobs and tear the pieces into bites. If you are mid-cut, finish that piece first.
+
+## Fish
+
+- 12 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick
+- 2 tsp Shaoxing wine (绍兴酒), for the fish
+- 1/2 tsp kosher salt, Diamond Crystal, for the fish
+- 1/8 tsp ground white pepper, for the fish
+- 1 egg white
+- 1 tbsp sweet potato starch (红薯淀粉), for the fish
+- 1 tsp peanut oil, for the fish
+
+1. If the **snakehead fillet** still has skin, cut the skin off. Slice the fillet on a bias into pieces about 2 in long and 1/8 in thick.
+2. Rinse the slices under cold water until the water runs clear. Pat them dry.
+3. Add the **Shaoxing wine for the fish**, the **kosher salt for the fish**, and the **ground white pepper for the fish** together. Stir until the slices feel sticky.
+4. Add the **egg white** and stir until every slice looks slick.
+5. Add the **sweet potato starch for the fish** and stir until each slice has a thin coat.
+6. Drizzle the **peanut oil for the fish** over the top and turn the slices once. Set a timer for 15 minutes. Go on to the prep.
+
+## Prep
+
+Do this while the fish marinates. When the wood ear timer rings, drain and tear the wood ear.
+
+- 1 tbsp peanut oil, for the glaze
+- 1/2 oz ginger, sliced
+- 1 scallion, cut into 1 in lengths
+- 3/4 cup unsalted chicken stock
+- 2 oz winter bamboo shoots (冬笋), sliced thin
+- 1 tsp Shaoxing wine (绍兴酒), for the sauce
+- 1/2 tsp kosher salt, Diamond Crystal, for the sauce
+- 1/8 tsp ground white pepper, for the sauce
+- 2 tsp sweet potato starch (红薯淀粉), for the sauce
+- 2 tbsp cold water
+- 1 tsp toasted sesame oil (香油)
+
+1. Put the **peanut oil for the glaze** in a cup.
+2. Slice the **ginger**. Cut the **scallion** into 1 in lengths.
+3. If the **winter bamboo shoots** still have a husk, peel it off. If they are canned or packed in water, rinse them. Slice them thin.
+4. Put the **unsalted chicken stock**, the **Shaoxing wine for the sauce**, the **kosher salt for the sauce**, and the **ground white pepper for the sauce** in cups.
+5. Stir the **sweet potato starch for the sauce** and the **cold water** together until smooth. Stir it again just before it goes into the skillet.
+6. Put the **toasted sesame oil** in a spoon.
+
+## Slip
+
+- 2 cups peanut oil, for slipping
+- 12 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick, marinated
+
+1. Put the **peanut oil for slipping** in a deep heavy saucepan. Set it on a coil turned to medium. Heat until a wooden spoon handle makes small, lazy bubbles and the oil does not smoke, about 8 minutes. If it smokes, or the bubbles turn hard, pull the saucepan off the coil until it calms, then set it back.
+2. When the oil is ready and the fish has finished its 15 minutes, slide in half of the **snakehead fillet** in one layer. Nudge the slices apart. When they are white and still soft, with no browning, about 45 seconds, lift them out with a slotted spoon.
+3. Let the oil come back to small bubbles. Slip the remaining half the same way. Lift them out.
+4. Turn the coil off. Pour the oil slowly into a heatproof bowl until the saucepan is empty.
+
+## Glaze
+
+These amounts were measured above.
+
+**Prep**
+
+- 1 tbsp peanut oil, for the glaze
+- 1/2 oz ginger, sliced
+- 1 scallion, cut into 1 in lengths
+- 3/4 cup unsalted chicken stock
+- 2 oz winter bamboo shoots (冬笋), sliced thin
+- 1 tsp Shaoxing wine (绍兴酒), for the sauce
+- 1/2 tsp kosher salt, Diamond Crystal, for the sauce
+- 1/8 tsp ground white pepper, for the sauce
+- 2 tsp sweet potato starch (红薯淀粉), for the sauce
+- 2 tbsp cold water
+- 1 tsp toasted sesame oil (香油)
+
+**Wood ear**
+
+- 1/2 oz dried wood ear (干黑木耳), soaked
+
+**Fish**
+
+- 12 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick, slipped
+
+1. Put a 10 in heavy skillet on a coil set to medium. Add the **peanut oil for the glaze**. When it shimmers, about 1 minute, add the **ginger** and the **scallion**. Stir until they smell sweet, about 20 seconds. Lift them out.
+2. Add the **unsalted chicken stock**, the **winter bamboo shoots**, the **soaked wood ear**, the **Shaoxing wine for the sauce**, the **kosher salt for the sauce**, and the **ground white pepper for the sauce** together. Simmer until the bamboo is hot, about 1 minute. If it is still hard and bright, simmer another minute. If the center boils hard, pull the skillet so it sits half on the coil.
+3. Stir the **sweet potato starch for the sauce** and the **cold water**. Pour in about half and fold. Add the rest only if the sauce does not yet flow off a spoon in a thin ribbon. If the center sticks, pull the skillet off the coil and keep folding.
+4. Slide in the **slipped snakehead fillet**. Fold once or twice until every slice is coated, about 30 seconds.
+5. Pull the skillet off the coil. Add the **toasted sesame oil** and tilt the skillet to sheet it through the sauce. Serve with the rice.
