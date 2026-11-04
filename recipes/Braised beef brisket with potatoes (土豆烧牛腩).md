@@ -35,7 +35,7 @@ Measure each ingredient once. A later list is that same amount again.
 
 ## Beef
 
-Leave the fat on so the chunks stay moist.
+Use the fatty plate sold as 牛腩, and leave the fat on.
 
 - 16 oz beef brisket (牛腩)
 - 8 cups water, for the blanch
@@ -46,7 +46,7 @@ Leave the fat on so the chunks stay moist.
 
 ## Stew
 
-Use a waxy potato so the chunks stay whole.
+Use a waxy potato so the chunks stay whole. Use unsalted Shaoxing.
 
 - 1 tbsp peanut oil
 - 1 small onion, sliced

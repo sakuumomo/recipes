@@ -45,6 +45,8 @@ Measure each ingredient once. A later list is that same amount again.
 
 ## Fish
 
+Use unsalted Shaoxing.
+
 - 12 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick
 - 2 tsp Shaoxing wine (绍兴酒), for the fish
 - 1/2 tsp kosher salt, Diamond Crystal, for the fish
@@ -62,7 +64,7 @@ Measure each ingredient once. A later list is that same amount again.
 
 ## Prep
 
-Do this while the fish marinates.
+Do this while the fish marinates. Use the coarse Pixian paste.
 
 - 2 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
 - 2 tsp garlic, minced, for the paste

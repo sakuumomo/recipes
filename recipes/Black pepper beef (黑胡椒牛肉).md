@@ -41,7 +41,7 @@ Measure each ingredient once. A later list is that same amount again.
 
 ## Beef
 
-Use flank steak so the slices soften in this time.
+Use flank steak so the slices soften in this time. Use unsalted Shaoxing.
 
 - 10 oz flank steak
 - 1 tsp Shaoxing wine (绍兴酒), for the beef

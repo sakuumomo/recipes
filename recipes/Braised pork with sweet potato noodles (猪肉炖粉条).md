@@ -39,7 +39,7 @@ Measure each ingredient once. A later list is that same amount again.
 
 ## Noodles
 
-Use thick sweet potato noodles, because thin mung bean threads fall apart in this stew.
+Use dried sweet potato cords about as thick as a chopstick. Thin mung bean threads fall apart in this stew.
 
 - 3 oz sweet potato noodles (红薯粉条)
 - 4 cups water, for the noodles
@@ -60,6 +60,8 @@ Leave the skin on.
 3. Lift the pork out. Rinse it under hot water until the scum is gone, and drain it. Pour off the blanch water and wipe the saucepan dry.
 
 ## Stew
+
+Use unsalted Shaoxing.
 
 - 1 tsp peanut oil
 - 12 oz pork belly, blanched

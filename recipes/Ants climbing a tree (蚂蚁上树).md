@@ -34,7 +34,7 @@ Measure each ingredient once. A later list is that same amount again.
 
 ## Noodles
 
-Use thin mung bean threads, because thick sweet potato noodles go soft and gluey in this dish.
+Use thin threads with mung bean starch first. A little pea starch is fine, and thick sweet potato noodles go soft and gluey.
 
 - 4 oz mung bean vermicelli (绿豆粉丝)
 - 4 cups water, for the noodles
@@ -44,7 +44,7 @@ Use thin mung bean threads, because thick sweet potato noodles go soft and gluey
 
 ## Stir-fry
 
-Use ground pork that shows some fat.
+Use ground pork that shows some fat. Use the coarse Pixian paste, medium 二荆条 flakes marked 中辣, and unsalted Shaoxing.
 
 - 1 1/2 tbsp peanut oil
 - 1 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped

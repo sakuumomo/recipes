@@ -24,7 +24,7 @@ Measure each ingredient once. A later list is that same amount again.
 
 ## Sauce
 
-This is the dip for the steamed dumplings and the fried dumplings.
+This is the dip for the steamed dumplings and the fried dumplings. Use plain red chili oil.
 
 - 1 tbsp garlic, minced
 - 1 scallion, minced

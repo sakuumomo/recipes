@@ -57,6 +57,8 @@ Flat green beans and common green beans both turn silky in this stew.
 
 ## Stew
 
+Use unsalted Shaoxing.
+
 - 16 oz pork spare ribs, blanched
 - 1 tbsp ginger, sliced
 - 2 scallions, cut into 2 in lengths

@@ -58,7 +58,7 @@ Use ground pork that shows some fat.
 
 ## Dumplings
 
-Use round wheat wrappers from the refrigerator or freezer case. If they are frozen, thaw them covered until a wrapper bends without cracking. A thick square egg roll wrapper will not pleat.
+Use round white Shanghai-style wheat wrappers from the refrigerator or freezer case. If they are frozen, thaw them covered until a wrapper bends without cracking. A thick square egg roll wrapper will not pleat.
 
 - 16 dumpling wrappers (饺子皮)
 - 1 tbsp water, for the seal

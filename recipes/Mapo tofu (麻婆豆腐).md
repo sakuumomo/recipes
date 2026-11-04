@@ -43,6 +43,8 @@ Measure each ingredient once. A later list is that same amount again.
 
 ## Tofu
 
+Use water-packed soft tofu.
+
 - 14 oz soft tofu (嫩豆腐)
 - 4 cups water
 - 1 tsp kosher salt, Diamond Crystal
@@ -67,7 +69,7 @@ Measure each ingredient once. A later list is that same amount again.
 
 ## Prep
 
-Do this before the skillet is hot.
+Do this before the skillet is hot. Use the coarse Pixian paste, and medium 二荆条 flakes marked 中辣.
 
 - 1 tbsp peanut oil, for the beef
 - 4 oz ground beef

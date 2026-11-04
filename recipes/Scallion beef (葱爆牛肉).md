@@ -33,7 +33,7 @@ Measure each ingredient once. A later list is that same amount again.
 
 ## Beef
 
-Use flank steak so the slices soften in this time.
+Use flank steak so the slices soften in this time. Use unsalted Shaoxing.
 
 - 10 oz flank steak
 - 2 tsp light soy sauce (生抽), for the beef

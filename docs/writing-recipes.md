@@ -76,6 +76,7 @@ Each line is one measure the cook makes, written `quantity unit name` or `count 
 - A spoon measure of kosher salt names the brand after a comma: `1/2 tsp kosher salt, Diamond Crystal`.
 - Parentheses hold the original-language name and nothing else, placed after the English name and before any comma: `2 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped`.
 - Add that original name when an English search commonly returns a different product. The mapo tofu page is the calibration: soft tofu (嫩豆腐), Sichuan peppercorns (红花椒), Pixian doubanjiang (郫县豆瓣酱), fermented black beans (豆豉), Sichuan chili flakes (四川辣椒面). Garlic, ginger, scallions, peanut oil, stock, rice, potato starch, and white pepper stay in English. When a recipe needs a neutral oil, write peanut oil. Do not substitute canola, vegetable oil, or rapeseed oil. A flavored oil stays when the dish needs that flavor, and it keeps its original name: toasted sesame oil (香油).
+- When that named product still has kinds a shopper mixes up, the part that first measures it opens with a short sentence naming the kind this page uses. Say it once. Copy a sentence this book already uses, rather than writing a new one for the same product: water-packed soft tofu, the coarse Pixian paste, medium 二荆条 flakes marked 中辣, unsalted Shaoxing, thin threads with mung bean starch first, dried sweet potato cords about as thick as a chopstick, round white Shanghai-style wheat wrappers, the fatty plate sold as 牛腩, plain red chili oil.
 - The gather list contains each line once, under the bold label of the part that first measures it. Labels follow cook order. Inside a part, lines follow use order.
 - Every part that measures a line repeats it with the same words.
 - A later part may append only the state the ingredient is in now: `, drained`, `, toasted and crushed`.
@@ -146,7 +147,7 @@ These amounts were measured above.
 - The gather list is one `## Ingredients` section. Its groups are bold labels, so the outline stays the cooking sections.
 - A `---` sits between the gather list and the first cooking section.
 - Cooking sections are `##` headings in cook order.
-- A part may open with one plain sentence under the heading. Prep that must finish before heat says so. The combining section says `These amounts were measured above.`
+- A part may open with one or two short sentences under the heading. One names the kind of ingredient, when the line alone still fits more than one product. Prep that must finish before heat says so. The combining section says `These amounts were measured above.`
 - Ingredient bullets sit under the heading or the bold label. The numbered steps follow them.
 - Keep each numbered list on consecutive lines, so the numbers stay one series.
 - The page teaches the cook the dish. Filename, heading, and parenthesis rules stay in this document.
@@ -180,6 +181,7 @@ Done when every item below holds and the file is saved at `recipes/<title>.md`.
 - Labels in the gather list follow cook order. Inside a part, lines follow use order.
 - Copies of a line match. A later copy adds only the current state.
 - An ingredient that an English search commonly misidentifies carries its original name. The mapo tofu page is the calibration.
+- When a named product still has kinds a shopper mixes up, the part that first measures it names the kind in a short sentence. A choice already written on another page is copied.
 - A spoon measure of kosher salt names Diamond Crystal. Parentheses hold only an original-language name.
 - The neutral oil is peanut oil. A flavored oil is named only when the dish needs that flavor.
 - Rice stays on `recipes/Jasmine rice.md`. Another dish has no Rice part. Every part uses the vessel this kitchen assigns it.

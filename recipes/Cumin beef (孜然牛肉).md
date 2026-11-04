@@ -42,7 +42,7 @@ Measure each ingredient once. A later list is that same amount again.
 
 ## Beef
 
-Use flank steak so the slices soften in this time.
+Use flank steak so the slices soften in this time. Use unsalted Shaoxing.
 
 - 10 oz flank steak
 - 1/4 tsp kosher salt, Diamond Crystal
@@ -65,7 +65,7 @@ Use flank steak so the slices soften in this time.
 
 ## Stir-fry
 
-Do this before the wok is hot.
+Do this before the wok is hot. Use medium 二荆条 flakes marked 中辣.
 
 - 2 tbsp peanut oil, for the stir-fry
 - 10 oz flank steak, marinated

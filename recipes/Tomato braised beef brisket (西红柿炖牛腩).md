@@ -37,7 +37,7 @@ Measure each ingredient once. A later list is that same amount again.
 
 ## Beef
 
-Leave the fat on so the chunks stay moist.
+Use the fatty plate sold as 牛腩, and leave the fat on.
 
 - 16 oz beef brisket (牛腩)
 - 8 cups water, for the blanch
@@ -55,6 +55,8 @@ Use ripe tomatoes that smell sweet.
 1. Core the **tomatoes** and cut them into 1 in wedges.
 
 ## Stew
+
+Use unsalted Shaoxing.
 
 - 1 tbsp peanut oil
 - 16 oz beef brisket (牛腩), blanched

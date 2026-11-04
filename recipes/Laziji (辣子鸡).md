@@ -37,6 +37,8 @@ Measure each ingredient once. A later list is that same amount again.
 
 ## Chicken
 
+Use unsalted Shaoxing.
+
 - 16 oz boneless skinless chicken thighs, cut into 3/4 in pieces
 - 1 tbsp Shaoxing wine (绍兴酒)
 - 2 tsp light soy sauce (生抽)
