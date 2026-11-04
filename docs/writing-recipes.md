@@ -40,17 +40,18 @@ Rice is its own page, `recipes/Jasmine rice.md`. Do not add a Rice part to anoth
 
 Done when every part uses one vessel from this kitchen.
 
-This cook has an electric stove with exposed coils, a round-bottom wok that sits in a ring, and an Instant Pot. The neutral oil is peanut oil.
+This cook has an electric stove with exposed coils, a round-bottom wok that sits in a ring, an Instant Pot, and a frying thermometer. The neutral oil is peanut oil.
 
 - **Rice.** Only on `recipes/Jasmine rice.md`. The Instant Pot. Rinse the rice until the runoff is almost clear and drain it well. Use 1 cup of water for each 1 cup of rice. Lock the lid, set the valve to sealing, and pressure cook on high for 3 minutes. When it beeps, turn the valve to venting. Leave the lid on until serving, then fluff the rice. Do not copy this part into another dish.
 - **A pot of water.** A heavy saucepan on a coil: blanching, boiling, a simmer you hold at a shiver. When the boil is harder than the step wants, pull the pot so it sits half on the coil.
 - **A spoonful of spices.** A small skillet on a coil. Slide the skillet off the coil if they smoke.
 - **A sear, a paste, or a fry that turns into a simmer.** A 10 in heavy skillet on a coil. This pan can leave the coil.
-- **The round bowl.** The wok, when the wall is doing the work: a full load tossed through a small hot center, a deep pool of oil, or food held up the sides while the bottom reduces. The wok stays in the ring for the whole cook.
+- **The round bowl.** The wok, when the wall is doing the work: a full load tossed through a small hot center, or food held up the sides while the bottom reduces. The wok stays in the ring for the whole cook.
+- **Deep frying.** A deep heavy saucepan on a coil. A slip through a deep pot of oil uses this same pot. Read the oil on a frying thermometer, in Fahrenheit. The step names the temperature. A slip stays cooler than a crust fry, and the food should not brown. Bring the oil back to that temperature between batches. When the oil smokes or climbs past it, pull the saucepan off the coil until it returns, then set it back. A few tablespoons in a skillet is too shallow for the thermometer. That oil is ready when it shimmers. A pour onto dried chilies is ready when a dry wooden spoon handle makes small bubbles and the oil has not yet smoked. Smoking oil blackens those chilies. A pour that blooms spices in the pan is ready when the oil just starts to smoke, and the pan comes off the coil before the spices go in.
 
 ### Coil moves
 
-Write these into the step that changes the heat.
+Write these into the step that changes the heat. The water drop is for an empty pan. Once oil is in the pan, do not flick water into it to judge the heat.
 
 For a skillet or a saucepan:
 
@@ -76,7 +77,7 @@ Each line is one measure the cook makes, written `quantity unit name` or `count 
 - A spoon measure of kosher salt names the brand after a comma: `1/2 tsp kosher salt, Diamond Crystal`.
 - Parentheses hold the original-language name and nothing else, placed after the English name and before any comma: `2 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped`.
 - Add that original name when an English search commonly returns a different product. The mapo tofu page is the calibration: soft tofu (嫩豆腐), Sichuan peppercorns (红花椒), Pixian doubanjiang (郫县豆瓣酱), fermented black beans (豆豉), Sichuan chili flakes (四川辣椒面). Garlic, ginger, scallions, peanut oil, stock, rice, potato starch, and white pepper stay in English. When a recipe needs a neutral oil, write peanut oil. Do not substitute canola, vegetable oil, or rapeseed oil. A flavored oil stays when the dish needs that flavor, and it keeps its original name: toasted sesame oil (香油).
-- When that named product still has kinds a shopper mixes up, the part that first measures it opens with a short sentence naming the kind this page uses. Say it once. Copy a sentence this book already uses, rather than writing a new one for the same product: water-packed soft tofu, the coarse Pixian paste, medium 二荆条 flakes marked 中辣, unsalted Shaoxing, thin threads with mung bean starch first, dried sweet potato cords about as thick as a chopstick, round white Shanghai-style wheat wrappers, the fatty plate sold as 牛腩, plain red chili oil.
+- When that named product still has kinds a shopper mixes up, the part that first measures it opens with a short sentence naming the kind this page uses. Say it once. Copy a sentence this book already uses, rather than writing a new one for the same product: water-packed soft tofu, the coarse Pixian paste, medium 二荆条 flakes marked 中辣, unsalted Shaoxing, thin threads with mung bean starch first, dried sweet potato cords about as thick as a chopstick, round white Shanghai-style wheat wrappers from the refrigerator or freezer case, thick square wrappers from the refrigerator case, the fatty plate sold as 牛腩, and leave the fat on, plain red chili oil, flank steak so the slices soften in this time, thick Chinese scallions so the pieces stay crisp, the thin marbled slices sold for hot pot, a waxy potato so the pieces stay whole, ripe tomatoes that smell sweet, ground pork that shows some fat, large peeled shrimp with the tails off, cleaned squid tubes, the yolks from salted duck eggs, unsweetened shredded coconut, tomato ketchup, plain rice vinegar, the thick stem of celtuce, and fresh shiitake. For green beans: Flat green beans and common green beans both turn silky in this stew.
 - The gather list contains each line once, under the bold label of the part that first measures it. Labels follow cook order. Inside a part, lines follow use order.
 - Every part that measures a line repeats it with the same words.
 - A later part may append only the state the ingredient is in now: `, drained`, `, toasted and crushed`.
@@ -186,6 +187,7 @@ Done when every item below holds and the file is saved at `recipes/<title>.md`.
 - The neutral oil is peanut oil. A flavored oil is named only when the dish needs that flavor.
 - Rice stays on `recipes/Jasmine rice.md`. Another dish has no Rice part. Every part uses the vessel this kitchen assigns it.
 - Heat changes use the coil moves. A wok stays in the ring.
+- Deep-fry oil, and oil for a slip, is a Fahrenheit temperature on a thermometer. The step names the temperature, and the oil returns to it between batches. A shallow skillet of oil does not.
 - Steps are a tight numbered list. The added thing is bold. Each step ends on a cue.
 - Work that a short step depends on is finished in an earlier part.
 - An uncommon tool has one `Tool:` line. Every other tool is named in the step.

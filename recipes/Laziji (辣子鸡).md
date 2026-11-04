@@ -72,12 +72,12 @@ Do this while the chicken marinates.
 - 4 tbsp potato starch
 - 16 oz boneless skinless chicken thighs, cut into 3/4 in pieces, marinated
 
-1. Put the **peanut oil** in a deep heavy saucepan. Set it on a coil turned to high. Heat until a wooden spoon handle bubbles hard as soon as it goes in, about 8 minutes. If the oil smokes, pull the saucepan off the coil until the smoke stops, then set it back.
+1. Put the **peanut oil** in a deep heavy saucepan. Set it on a coil turned to high. Heat until a thermometer in the oil reads 350°F, about 8 minutes. If the oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back.
 2. When the oil is ready and the chicken has finished its 15 minutes, toss the chicken with the **potato starch** until each piece has a thin, even coat.
-3. Add 8 oz of the **chicken thighs** at once. Leave them still for 1 minute so the coating sets, then turn any pale side. Fry until the coating is set, the chicken is cooked through, and the pieces are pale gold, about 4 minutes. If the oil smokes, pull the saucepan off the coil until the smoke stops, then set it back. Lift the chicken out with a slotted spoon.
-4. Let the oil return to a hard bubble. Fry the remaining 8 oz the same way. Lift them out.
-5. When the spoon handle bubbles hard again, return 8 oz of the chicken. Fry until deep golden and crisp, about 1 minute. Lift them out.
-6. Let the oil return to a hard bubble. Fry the remaining 8 oz until deep golden and crisp, about 1 minute. Lift them out.
+3. Add 8 oz of the **chicken thighs** at once. Leave them still for 1 minute so the coating sets, then turn any pale side. Fry until the coating is set, the chicken is cooked through, and the pieces are pale gold, about 4 minutes. If the oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back. Lift the chicken out with a slotted spoon.
+4. Let the oil return to 350°F. Fry the remaining 8 oz the same way. Lift them out.
+5. Let the oil return to 350°F. Return 8 oz of the chicken. Fry until deep golden and crisp, about 1 minute. Lift them out.
+6. Let the oil return to 350°F. Fry the remaining 8 oz until deep golden and crisp, about 1 minute. Lift them out.
 7. Turn the coil off. Pour the oil slowly into a heatproof bowl until 2 tbsp remains in the saucepan.
 
 ## Toss

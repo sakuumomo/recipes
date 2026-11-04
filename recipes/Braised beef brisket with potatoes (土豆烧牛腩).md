@@ -46,7 +46,7 @@ Use the fatty plate sold as 牛腩, and leave the fat on.
 
 ## Stew
 
-Use a waxy potato so the chunks stay whole. Use unsalted Shaoxing.
+Use a waxy potato so the pieces stay whole. Use unsalted Shaoxing.
 
 - 1 tbsp peanut oil
 - 1 small onion, sliced

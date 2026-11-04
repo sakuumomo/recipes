@@ -96,7 +96,7 @@ Use thick square wrappers from the refrigerator case. Thin frozen sheets and ric
 - 4 cups peanut oil, for frying
 - 6 egg roll wrappers, rolled
 
-1. Put the **peanut oil for frying** in the dry saucepan. Set it on a coil turned to medium. Heat until a wooden spoon handle sends up a steady stream of bubbles and the oil does not smoke, about 15 minutes. A few lazy bubbles is not hot enough. Leave it on the coil until the stream is steady. If the bubbles turn hard and loud, or the oil smokes, pull the saucepan off the coil until it calms, then set it back.
-2. Slide 3 of the **egg roll wrappers** in, seam side down, away from you. Leave room between them. Fry until the bottoms are deep golden, about 2 minutes, then turn them. Fry until they are deep golden all over and the bubbles around them get louder, about 3 minutes more. If a side stays pale, turn it. If the oil smokes, pull the saucepan off the coil until the smoke stops, then set it back. Lift them out with a slotted spoon and stand them on a plate.
-3. Let the spoon handle send up a steady stream of bubbles again. Fry the remaining **egg roll wrappers** the same way. Stand them on the plate.
+1. Put the **peanut oil for frying** in the dry saucepan. Set it on a coil turned to medium. Heat until a thermometer in the oil reads 350°F, about 15 minutes. If the oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back.
+2. Slide 3 of the **egg roll wrappers** in, seam side down, away from you. Leave room between them. Fry until the bottoms are deep golden, about 2 minutes, then turn them. Fry until they are deep golden all over and the bubbles around them get louder, about 3 minutes more. If a side stays pale, turn it. If the oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back. Lift them out with a slotted spoon and stand them on a plate.
+3. Let the oil return to 350°F. Fry the remaining **egg roll wrappers** the same way. Stand them on the plate.
 4. Turn the coil off. Eat them while the wrappers are still crisp.

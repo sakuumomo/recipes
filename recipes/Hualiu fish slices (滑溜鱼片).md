@@ -100,9 +100,9 @@ Do this while the fish marinates. When the wood ear timer rings, drain and tear 
 - 2 cups peanut oil, for slipping
 - 12 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick, marinated
 
-1. Put the **peanut oil for slipping** in a deep heavy saucepan. Set it on a coil turned to medium. Heat until a wooden spoon handle makes small, lazy bubbles and the oil does not smoke, about 8 minutes. If it smokes, or the bubbles turn hard, pull the saucepan off the coil until it calms, then set it back.
-2. When the oil is ready and the fish has finished its 15 minutes, slide in half of the **snakehead fillet** in one layer. Nudge the slices apart. When they are white and still soft, with no browning, about 45 seconds, lift them out with a slotted spoon.
-3. Let the oil come back to small bubbles. Slip the remaining half the same way. Lift them out.
+1. Put the **peanut oil for slipping** in a deep heavy saucepan. Set it on a coil turned to medium. Heat until a thermometer in the oil reads 275°F, about 8 minutes. If the oil smokes or climbs past 275°F, pull the saucepan off the coil until it returns to 275°F, then set it back.
+2. When the oil is ready and the fish has finished its 15 minutes, slide in half of the **snakehead fillet** in one layer. Nudge the slices apart. When they are white and still soft, with no browning, about 30 seconds, lift them out with a slotted spoon. If a slice is still translucent, leave it 15 seconds more.
+3. Let the oil return to 275°F. Slip the remaining half the same way. Lift them out.
 4. Turn the coil off. Pour the oil slowly into a heatproof bowl until the saucepan is empty.
 
 ## Glaze
