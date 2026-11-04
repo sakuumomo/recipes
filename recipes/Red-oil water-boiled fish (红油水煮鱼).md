@@ -23,7 +23,7 @@ Measure each ingredient once. A later list is that same amount again.
 - 1/4 tsp ground white pepper, for the fish
 - 1 egg white
 - 1 tbsp sweet potato starch (红薯淀粉)
-- 2 tsp fragrant rapeseed oil (浓香菜籽油), for the fish
+- 2 tsp peanut oil, for the fish
 
 **Prep**
 
@@ -39,12 +39,12 @@ Measure each ingredient once. A later list is that same amount again.
 
 **Broth**
 
-- 3 tbsp fragrant rapeseed oil (浓香菜籽油), for the paste
+- 3 tbsp peanut oil, for the paste
 - 3 cups unsalted chicken stock
 - 2 tsp Shaoxing wine (绍兴酒), for the broth
 - 1/8 tsp ground white pepper, for the broth
 - 1/2 tsp kosher salt, Diamond Crystal, for the broth
-- 1/2 cup fragrant rapeseed oil (浓香菜籽油), for the pour
+- 1/2 cup peanut oil, for the pour
 
 ---
 
@@ -66,14 +66,14 @@ Measure each ingredient once. A later list is that same amount again.
 - 1/4 tsp ground white pepper, for the fish
 - 1 egg white
 - 1 tbsp sweet potato starch (红薯淀粉)
-- 2 tsp fragrant rapeseed oil (浓香菜籽油), for the fish
+- 2 tsp peanut oil, for the fish
 
 1. If the **snakehead fillet** still has skin, cut the skin off. Slice the fillet on a bias, 1/8 in thick.
 2. Rinse the slices under cold water until the water runs clear. Pat them dry.
 3. Add the **Shaoxing wine for the fish**, the **kosher salt for the fish**, and the **ground white pepper for the fish** together. Stir until the slices feel sticky.
 4. Add the **egg white** and stir until every slice looks slick.
 5. Add the **sweet potato starch** and stir until each slice has a thin coat.
-6. Drizzle the **fragrant rapeseed oil for the fish** over the top and turn the slices once. Set a timer for 15 minutes. Go on to the prep. The fish can wait longer if the broth is not ready yet.
+6. Drizzle the **peanut oil for the fish** over the top and turn the slices once. Set a timer for 15 minutes. Go on to the prep. The fish can wait longer if the broth is not ready yet.
 
 ## Prep
 
@@ -100,7 +100,7 @@ Do this while the fish marinates.
 
 ## Broth
 
-- 3 tbsp fragrant rapeseed oil (浓香菜籽油), for the paste
+- 3 tbsp peanut oil, for the paste
 - 2 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
 - 2 tsp garlic, minced, for the paste
 - 1/2 oz ginger, sliced
@@ -110,13 +110,13 @@ Do this while the fish marinates.
 - 1/8 tsp ground white pepper, for the broth
 - 1/2 tsp kosher salt, Diamond Crystal, for the broth
 - 1/2 tsp sugar
-- 1/2 cup fragrant rapeseed oil (浓香菜籽油), for the pour
+- 1/2 cup peanut oil, for the pour
 - 8 oz soybean sprouts (黄豆芽)
 
-1. Put the **fragrant rapeseed oil for the paste** in a heavy saucepan on a coil set to medium. When it shimmers, about 2 minutes, add the **Pixian doubanjiang**. Fry, stirring, until the oil is deep red and smells toasty, about 1 minute. If it smells sharp, pull the saucepan off the coil and stir until the smell sweetens, then set it back.
+1. Put the **peanut oil for the paste** in a heavy saucepan on a coil set to medium. When it shimmers, about 2 minutes, add the **Pixian doubanjiang**. Fry, stirring, until the oil is deep red and smells toasty, about 1 minute. If it smells sharp, pull the saucepan off the coil and stir until the smell sweetens, then set it back.
 2. Add the **garlic for the paste**, the **ginger**, and the whites of the **scallions** together. Stir until fragrant, about 20 seconds.
 3. Add the **unsalted chicken stock**, the **Shaoxing wine for the broth**, the **ground white pepper for the broth**, the **kosher salt for the broth**, and the **sugar** together. Bring them to a simmer. When the center boils hard, pull the saucepan so it sits half on the coil.
-4. Put the **fragrant rapeseed oil for the pour** in a small skillet on another coil turned to medium. Go on to the next step. If a wooden spoon handle makes small bubbles before the fish is in the bowl, pull that skillet off the coil.
+4. Put the **peanut oil for the pour** in a small skillet on another coil turned to medium. Go on to the next step. If a wooden spoon handle makes small bubbles before the fish is in the bowl, pull that skillet off the coil.
 5. Simmer the broth until the raw paste smell is gone, about 3 minutes.
 6. Add the **soybean sprouts**. Cook until they soften but still snap, about 1 minute. Lift them into the heatproof bowl.
 7. Keep the broth at a shiver. If it rolls again, pull the saucepan so it sits half on the coil. Go on to the pour.
@@ -138,9 +138,9 @@ These amounts were measured above.
 
 **Broth**
 
-- 1/2 cup fragrant rapeseed oil (浓香菜籽油), for the pour
+- 1/2 cup peanut oil, for the pour
 
 1. Slide the **snakehead fillet** into the shivering broth, one slice at a time. Don't stir. Skim off any foam. When the slices are white and the edges have curled, about 1 minute, pour the broth and the fish over the sprouts.
-2. Set the small skillet back on the coil if it is off. The **fragrant rapeseed oil for the pour** is ready when a wooden spoon handle makes small bubbles and the oil does not smoke. If the handle stays quiet, leave it there until the bubbles come. If it is smoking, pull the skillet off the coil until the smoke stops, then set it back for a few seconds.
+2. Set the small skillet back on the coil if it is off. The **peanut oil for the pour** is ready when a wooden spoon handle makes small bubbles and the oil does not smoke. If the handle stays quiet, leave it there until the bubbles come. If it is smoking, pull the skillet off the coil until the smoke stops, then set it back for a few seconds.
 3. Scatter the greens of the **scallions**, the **garlic for the pour**, the **dried facing-heaven chilies**, and the **Sichuan peppercorns** over the fish.
-4. Pour the **fragrant rapeseed oil for the pour** over those aromatics. It should crackle as it lands. Serve with the rice. Eat the fish, the sprouts, and the scallion greens. The chilies and the peppercorns stay in the bowl for their aroma.
+4. Pour the **peanut oil for the pour** over those aromatics. It should crackle as it lands. Serve with the rice. Eat the fish, the sprouts, and the scallion greens. The chilies and the peppercorns stay in the bowl for their aroma.

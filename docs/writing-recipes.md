@@ -40,7 +40,7 @@ When the dish is served with rice, add a Rice part and scale it at 1/2 cup of dr
 
 Done when every part uses one vessel from this kitchen.
 
-This cook has an electric stove with exposed coils, a round-bottom wok that sits in a ring, and an Instant Pot.
+This cook has an electric stove with exposed coils, a round-bottom wok that sits in a ring, and an Instant Pot. The neutral oil is peanut oil.
 
 - **Rice.** The Instant Pot. Rinse the rice until the runoff is almost clear and drain it well. Use 1 cup of water for each 1 cup of rice. Lock the lid, set the valve to sealing, and pressure cook on high for 3 minutes. When it beeps, turn the valve to venting. Leave the lid on until serving, then fluff the rice.
 - **A pot of water.** A heavy saucepan on a coil: blanching, boiling, a simmer you hold at a shiver. When the boil is harder than the step wants, pull the pot so it sits half on the coil.
@@ -75,7 +75,7 @@ Each line is one measure the cook makes, written `quantity unit name` or `count 
 - Weight is ounces. Volume is teaspoons, tablespoons, and cups. Size is inches. Write fractions as `1/2`, `1/4`, `1/8`, `3/4`.
 - A spoon measure of kosher salt names the brand after a comma: `1/2 tsp kosher salt, Diamond Crystal`.
 - Parentheses hold the original-language name and nothing else, placed after the English name and before any comma: `2 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped`.
-- Add that original name when an English search commonly returns a different product. The mapo tofu page is the calibration: soft tofu (嫩豆腐), Sichuan peppercorns (红花椒), Pixian doubanjiang (郫县豆瓣酱), fermented black beans (豆豉), Sichuan chili flakes (四川辣椒面). Garlic, ginger, scallions, peanut oil, stock, rice, potato starch, and white pepper stay in English.
+- Add that original name when an English search commonly returns a different product. The mapo tofu page is the calibration: soft tofu (嫩豆腐), Sichuan peppercorns (红花椒), Pixian doubanjiang (郫县豆瓣酱), fermented black beans (豆豉), Sichuan chili flakes (四川辣椒面). Garlic, ginger, scallions, peanut oil, stock, rice, potato starch, and white pepper stay in English. When a recipe needs a neutral oil, write peanut oil. Do not substitute canola, vegetable oil, or rapeseed oil. A flavored oil stays when the dish needs that flavor, and it keeps its original name: toasted sesame oil (香油).
 - The gather list contains each line once, under the bold label of the part that first measures it. Labels follow cook order. Inside a part, lines follow use order.
 - Every part that measures a line repeats it with the same words.
 - A later part may append only the state the ingredient is in now: `, drained`, `, toasted and crushed`.
@@ -181,6 +181,7 @@ Done when every item below holds and the file is saved at `recipes/<title>.md`.
 - Copies of a line match. A later copy adds only the current state.
 - An ingredient that an English search commonly misidentifies carries its original name. The mapo tofu page is the calibration.
 - A spoon measure of kosher salt names Diamond Crystal. Parentheses hold only an original-language name.
+- The neutral oil is peanut oil. A flavored oil is named only when the dish needs that flavor.
 - A Rice part uses the Instant Pot method. Every part uses the vessel this kitchen assigns it.
 - Heat changes use the coil moves. A wok stays in the ring.
 - Steps are a tight numbered list. The added thing is bold. Each step ends on a cue.
