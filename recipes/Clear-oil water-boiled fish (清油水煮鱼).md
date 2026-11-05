@@ -88,7 +88,7 @@ Do this while the fish marinates.
 - 8 oz soybean sprouts (黄豆芽)
 
 1. Put the **ginger**, the whites of the **scallions**, the **unsalted chicken stock**, the **kosher salt for the broth**, the **ground white pepper for the broth**, and the **Shaoxing wine for the broth** in a heavy saucepan together. Bring them to a simmer over high heat. When the center boils hard, pull the saucepan so it sits half on the coil.
-2. While the stock heats, put the **peanut oil for the pour** in a small skillet on another coil turned to medium. If a wooden spoon handle makes small bubbles before the fish is in the bowl, pull that skillet off the coil.
+2. While the stock heats, put the **peanut oil for the pour** in a small skillet on another coil turned to medium. If a dry wooden spoon handle makes small bubbles before the fish is in the bowl, pull that skillet off the coil.
 3. Add the **soybean sprouts** to the simmering broth. Cook until they soften but still snap, about 1 minute. Lift them into the heatproof bowl.
 4. Keep the broth at a shiver. If it rolls again, pull the saucepan so it sits half on the coil. Go on to the pour.
 
@@ -112,6 +112,6 @@ These amounts were measured above.
 - 1/2 cup peanut oil, for the pour
 
 1. Slide in half of the **snakehead fillet**, a few slices at a time. Don't stir. Skim off any foam. When the slices are white and the edges have curled, about 30 seconds, lift them onto the sprouts. If a slice is still translucent, leave it 15 seconds more. Cook the remaining half the same way. Pour the broth over the sprouts.
-2. Set the small skillet back on the coil if it is off. The **peanut oil for the pour** is ready when a wooden spoon handle makes small bubbles and the oil does not smoke. If the handle stays quiet, leave it there until the bubbles come. If it is smoking, pull the skillet off the coil until the smoke stops, then set it back for a few seconds.
+2. Set the small skillet back on the coil if it is off. The **peanut oil for the pour** is ready when a dry wooden spoon handle makes small bubbles and the oil does not smoke. If the handle stays quiet, leave it there until the bubbles come. If it is smoking, pull the skillet off the coil until the smoke stops, then set it back for a few seconds.
 3. Scatter the greens of the **scallions**, the **garlic**, the **dried facing-heaven chilies**, and the **green Sichuan peppercorns** over the fish.
 4. Pour the **peanut oil for the pour** over those aromatics. It should crackle as it lands. Eat the fish, the sprouts, and the scallion greens. The chilies and the peppercorns stay in the bowl for their aroma.

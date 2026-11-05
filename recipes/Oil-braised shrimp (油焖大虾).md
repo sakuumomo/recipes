@@ -47,6 +47,7 @@ Use large peeled shrimp with the tails off. Use unsalted Shaoxing.
 Do this while the shrimp sit. Use tomato ketchup.
 
 - 2 tbsp peanut oil
+- 10 oz large shrimp, peeled and deveined, seasoned
 - 2 tsp ginger, minced
 - 2 cloves garlic, minced
 - 3 tbsp tomato ketchup (番茄酱)
@@ -56,7 +57,6 @@ Do this while the shrimp sit. Use tomato ketchup.
 - 2 tbsp water
 - 1 tsp Zhenjiang vinegar (镇江香醋)
 - 1 scallion, chopped
-- 10 oz large shrimp, peeled and deveined, seasoned
 
 1. Mince the **ginger**. Mince the **garlic**. Chop the **scallion**.
 2. If the shrimp have not finished their 10 minutes, wait. Put a 10 in heavy skillet on a coil turned to medium. Add the **peanut oil**. When it shimmers, about 1 minute, add half of the **seasoned large shrimp** in one layer. Cook until the undersides are pink, about 30 seconds. Turn them. Cook until the outside is pink and the center is still slightly translucent, about 20 seconds more. If the oil smokes, pull the skillet off the coil until the smoke stops, then set it back. Scoop the shrimp onto a plate.

@@ -2,7 +2,7 @@
 
 Serves 2. About 75 minutes.
 
-The vegetables blanch in a heavy saucepan. Dry that saucepan, then fry the rolls in it.
+The vegetables blanch in a deep heavy saucepan. Dry that saucepan, then fry the rolls in it.
 
 Blanch and mix the filling. Wrap the rolls, then heat the oil.
 
@@ -51,7 +51,7 @@ Measure each ingredient once. A later list is that same amount again.
 - 1 1/2 tsp peanut oil, for the filling
 - 1/8 tsp ground white pepper
 
-1. Put the **water for blanching** in a heavy saucepan. Set it on a coil turned to high.
+1. Put the **water for blanching** in a deep heavy saucepan. Set it on a coil turned to high.
 2. Shred the **green cabbage** into 1/4 in strips.
 3. Shred the **carrot** into thin strips.
 4. Slice the **celery** thin.

@@ -73,7 +73,7 @@ Done when the gather list and every part list satisfy this section. Scale the sh
 
 Each line is one measure the cook makes, written `quantity unit name` or `count name`. Two uses of one ingredient are two lines. Each use of water is its own line. Put the role or the prep after a comma: `1 tbsp peanut oil, for the beef`, `2 tsp garlic, minced`, `3 scallions, cut into 3/4 in lengths`.
 
-- Weight is ounces. Volume is teaspoons, tablespoons, and cups. Size is inches. Write fractions as `1/2`, `1/4`, `1/8`, `3/4`.
+- Weight is ounces. Volume is teaspoons, tablespoons, and cups. Size is inches. Write fractions as `1/2`, `1/4`, `1/8`, `3/4`. Count garlic by cloves, or measure it by the teaspoon, the tablespoon, or the ounce.
 - A spoon measure of kosher salt names the brand after a comma: `1/2 tsp kosher salt, Diamond Crystal`.
 - Parentheses hold the original-language name and nothing else, placed after the English name and before any comma: `2 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped`.
 - Add that original name when an English search commonly returns a different product. The mapo tofu page is the calibration: soft tofu (嫩豆腐), Sichuan peppercorns (红花椒), Pixian doubanjiang (郫县豆瓣酱), fermented black beans (豆豉), Sichuan chili flakes (四川辣椒面). Garlic, ginger, scallions, peanut oil, stock, rice, potato starch, and white pepper stay in English. When a recipe needs a neutral oil, write peanut oil. Do not substitute canola, vegetable oil, or rapeseed oil. A flavored oil stays when the dish needs that flavor, and it keeps its original name: toasted sesame oil (香油).
@@ -178,7 +178,7 @@ Done when every item below holds and the file is saved at `recipes/<title>.md`.
 - The gather list is `## Ingredients` with bold labels. Each line appears there once.
 - A combining section is absent from the gather list and present among the cooking sections, with its amounts grouped by the part that measured them. A one-part dish has no combining section.
 - A `---` sits between the gather list and the first cooking section. Cooking sections are `##` headings in cook order.
-- Every line is one measure, with a quantity and a unit or a count. Units are ounces, teaspoons, tablespoons, cups, and inches, written as fractions.
+- Every line is one measure, with a quantity and a unit or a count. Units are ounces, teaspoons, tablespoons, cups, and inches, written as fractions. Count garlic by cloves, or measure it by the teaspoon, the tablespoon, or the ounce.
 - Labels in the gather list follow cook order. Inside a part, lines follow use order.
 - Copies of a line match. A later copy adds only the current state.
 - An ingredient that an English search commonly misidentifies carries its original name. The mapo tofu page is the calibration.

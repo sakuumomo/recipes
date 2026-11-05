@@ -66,7 +66,7 @@ Use large peeled shrimp with the tails off. Use unsalted Shaoxing.
 1. Put the **peanut oil for frying** in a deep heavy saucepan. Set it on a coil turned to high. Heat until a thermometer in the oil reads 350°F, about 8 minutes. If the oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back.
 2. When the shrimp have finished their 10 minutes, pat them dry. Toss the **seasoned large shrimp** with the **potato starch** until each shrimp has a thin coat. Shake off the extra starch.
 3. Slide in half of the **seasoned large shrimp** in one layer. Leave them still until the coating sets, about 20 seconds, then turn them. Fry until they are pale gold, curled in a loose C, and the center is just opaque, about 40 seconds more. If they curl into a tight ring, lift them out. If the oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back. Lift them out with a slotted spoon.
-4. Let the oil return to 350°F. Fry the remaining half the same way. Lift them out.
+4. Let the oil return to 350°F. Fry the remaining **seasoned large shrimp** the same way. Lift them out.
 5. Turn the coil off.
 
 ## Toss

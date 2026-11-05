@@ -74,5 +74,5 @@ Do this while the eggplant sits. Use the coarse Pixian paste, sweet wheat sauce 
 3. Add the **Pixian doubanjiang** and the **sweet wheat sauce** together. Stir until the oil turns red and the pastes smell sweet, about 45 seconds. If they smell sharp, pull the skillet off the coil and stir until the smell sweetens, then set it back.
 4. Add the **sugar**, the **light soy sauce**, the **dark soy sauce**, the **Shaoxing wine**, and the **water for the sauce** together. Stir until the sauce bubbles, about 20 seconds.
 5. Add the **fried eggplant**. Stir until the pieces are coated and soft, about 1 minute. If a center is still firm, cook 1 minute more. If the sauce sticks, pull the skillet so it sits half on the coil.
-6. Stir the starch mixture again. Pour it in. Stir until the sauce looks glossy and clings to the pieces, about 20 seconds.
+6. Stir the **starch mixture** again. Pour it in. Stir until the sauce looks glossy and clings to the pieces, about 20 seconds.
 7. Pull the skillet off the coil. Add the **Zhenjiang vinegar** and the **scallion**. Stir until the vinegar smells sharp, about 10 seconds.

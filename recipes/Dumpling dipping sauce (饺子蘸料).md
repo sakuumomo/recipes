@@ -35,7 +35,7 @@ This is the dip for the steamed dumplings and the fried dumplings. Use plain red
 - 1/2 tsp toasted sesame oil (香油)
 
 1. Mince the **garlic** and the **scallion** into a heatproof bowl.
-2. Put the **peanut oil** in a small skillet. Set the skillet on medium. Heat until a wooden spoon handle makes small bubbles and the oil does not smoke, about 2 minutes. If it smokes, pull the skillet off the coil until the smoke stops, then set it back for a few seconds.
+2. Put the **peanut oil** in a small skillet. Set the skillet on medium. Heat until the oil shimmers and does not smoke, about 2 minutes. If it smokes, pull the skillet off the coil until the smoke stops, then set it back for a few seconds.
 3. Pour the **peanut oil** over the **garlic** and the **scallion**. It should sizzle, and the raw garlic smell should turn sweet, about 30 seconds.
 4. Add the **Zhenjiang vinegar**, the **light soy sauce**, the **chili oil**, and the **toasted sesame oil** together. Stir until the sauce looks reddish.
 5. Leave the bowl 10 minutes. The garlic smells sweet and the vinegar smells malty. Stir once more before eating.

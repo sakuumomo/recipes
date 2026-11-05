@@ -25,12 +25,12 @@ Measure each ingredient once. A later list is that same amount again.
 - 1 clove garlic, minced
 - 3 tbsp tomato ketchup (番茄酱)
 - 2 tbsp sugar
-- 2 tbsp rice vinegar (米醋)
 - 1 tsp light soy sauce (生抽)
 - 1/4 tsp kosher salt, Diamond Crystal, for the sauce
 - 3 tbsp water, for the sauce
 - 1 tsp potato starch, for the sauce
 - 1 tbsp cold water, for the slurry
+- 2 tbsp rice vinegar (米醋)
 - 1 scallion, chopped
 
 **Fry**
@@ -63,12 +63,12 @@ Do this while the fish marinates. Use tomato ketchup. Use plain rice vinegar.
 - 1 clove garlic, minced
 - 3 tbsp tomato ketchup (番茄酱)
 - 2 tbsp sugar
-- 2 tbsp rice vinegar (米醋)
 - 1 tsp light soy sauce (生抽)
 - 1/4 tsp kosher salt, Diamond Crystal, for the sauce
 - 3 tbsp water, for the sauce
 - 1 tsp potato starch, for the sauce
 - 1 tbsp cold water, for the slurry
+- 2 tbsp rice vinegar (米醋)
 - 1 scallion, chopped
 
 1. Stir the **tomato ketchup**, the **sugar**, the **light soy sauce**, the **kosher salt for the sauce**, and the **water for the sauce** together until the sugar dissolves. Leave the **rice vinegar** in its cup.
@@ -100,12 +100,12 @@ These amounts were measured above.
 - 1 clove garlic, minced
 - 3 tbsp tomato ketchup (番茄酱)
 - 2 tbsp sugar
-- 2 tbsp rice vinegar (米醋)
 - 1 tsp light soy sauce (生抽)
 - 1/4 tsp kosher salt, Diamond Crystal, for the sauce
 - 3 tbsp water, for the sauce
 - 1 tsp potato starch, for the sauce
 - 1 tbsp cold water, for the slurry
+- 2 tbsp rice vinegar (米醋)
 - 1 scallion, chopped
 
 **Fish**

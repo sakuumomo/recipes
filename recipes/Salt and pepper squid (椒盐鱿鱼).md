@@ -4,7 +4,7 @@ Serves 2. About 35 minutes.
 
 The squid fries in a deep heavy saucepan on the coil. The peppercorns toast in a small skillet. The toss is in the wok, and the wok stays in its ring.
 
-Cut the squid and let it sit. Heat the oil, batter the squid, and fry it. Toss it as soon as it comes out.
+Cut the squid and let it sit 10 minutes. Toast the pepper salt while it sits. Heat the oil, batter the squid, and fry it. Toss it as soon as it comes out.
 
 Measure each ingredient once. A later list is that same amount again.
 

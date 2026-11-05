@@ -120,13 +120,13 @@ Once the dough has doubled, shape 8 small buns and close each top so the juice s
 ## Fry
 
 - 1 tbsp peanut oil
-- 1 cup all-purpose flour, for the dough, shaped
+- 1 cup all-purpose flour, for the dough, shaped into 8 buns
 - 3/4 cup water, for the skillet
 - 1 tsp white sesame seeds (白芝麻), toasted
 - 1 scallion, minced, for the top
 
 1. Put the **peanut oil** in a cold 10 in heavy skillet.
-2. Set the shaped **all-purpose flour for the dough** in, pleat side up, with space between the buns.
+2. Set the **all-purpose flour for the dough** in, shaped into 8 buns, pleat side up, with space between them.
 3. Set the skillet on medium. Fry without moving the buns until the bottoms are pale gold, about 8 minutes. If a bottom smells sharp, pull the skillet off the coil until the smell sweetens, then set it back.
 4. Hold the lid in front of the skillet. Pour in the **water for the skillet** and cover at once. The oil will spit.
 5. Cook until the water is gone and the tops look set and puffed, about 8 minutes. If the bottoms smell sharp, pull the skillet off the coil until the smell sweetens, then set it back.
