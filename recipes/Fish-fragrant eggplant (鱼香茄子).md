@@ -85,3 +85,5 @@ A globe eggplant works peeled. Weigh 12 oz after peeling. Toss that flesh with 1
 For the 2 tsp vinegar, use plain rice vinegar. If the bottle is seasoned sushi vinegar, the sugar line is 2 tsp. If you have balsamic, use 1 1/2 tsp plain rice vinegar and 1/2 tsp balsamic for those 2 tsp.
 
 Cornstarch uses the same spoons as the potato starch, on the eggplant and in the sauce.
+
+If there are no pickled red chilies, chop the Pixian doubanjiang and fry it on its own in that step until the oil turns red and smells sweet, about 45 seconds. With pickled jalapeño, drain and chop 1 tbsp and fry it with the doubanjiang in that same step.
