@@ -61,11 +61,11 @@ Use ground pork that shows some fat. Use the coarse Pixian paste, medium 二荆�
 - 2 scallions, minced
 
 1. Put each ingredient into its own cup or pile, prepared the way the line says. When a noodle strand bends without breaking, drain the noodles and set them with the cups. If a strand is still stiff, wait.
-2. Set the wok in the ring on a coil turned to medium. Add the **peanut oil**. When it shimmers, about 2 minutes, add the **Pixian doubanjiang** and the **Sichuan chili flakes** together. If the oil smokes, turn the coil off and stir until the smoke stops, then turn the coil back to medium.
-3. Fry, stirring, until the oil is red and smells toasty, about 30 seconds. If it smells sharp, turn the coil off and stir until the smell sweetens, then turn the coil back to medium.
-4. Add the **ground pork** and the **ginger**. Break the pork into small bits and stir until the bits are browned, about 2 minutes.
+2. Set the wok in the ring on a coil turned to medium-high. Add the **peanut oil**. When it shimmers, about 2 minutes, add the **Pixian doubanjiang** and the **Sichuan chili flakes** together. If the oil smokes, turn the coil off and stir until the smoke stops, then turn the coil back to medium-high.
+3. Fry, stirring, until the oil is red and smells toasty, about 30 seconds. If it smells sharp, turn the coil off and stir until the smell sweetens, then turn the coil back to medium-high.
+4. Add the **ground pork** and the **ginger**. Break the pork into small bits and stir until the bits are browned, about 3 minutes. If the bits are still pink, cook until the pink is gone, about 1 minute more.
 5. Add the **Shaoxing wine** and the **light soy sauce** together. Stir until the liquid is gone, about 30 seconds.
 6. Add the **sugar**, **ground white pepper**, and **unsalted chicken stock** together. Bring it to a simmer.
-7. Add the **drained mung bean vermicelli**. Stir until the noodles are translucent and only a thin sauce is left, about 4 minutes. If the sauce is still pooling, push the noodles up the sides and let the bottom reduce, then fold them back down. If the center boils hard or starts to stick, turn the coil off until the center settles, then turn the coil back to medium.
+7. Add the **drained mung bean vermicelli**. Stir until the noodles are translucent and only a thin sauce is left, about 6 minutes. If the sauce is still pooling, push the noodles up the sides and let the bottom reduce, then fold them back down. If the center boils hard or starts to stick, turn the coil off until the center settles, then turn the coil back to medium-high.
 8. Add the **garlic** and the **scallions** together. Stir until the scallions smell sweet, about 30 seconds.
 9. Eat it hot.

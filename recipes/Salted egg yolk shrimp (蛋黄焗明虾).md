@@ -67,8 +67,8 @@ Do this before the wok is hot.
 - 1 scallion, chopped
 
 1. Mince the **garlic**. Chop the **scallion**. If the yolks are still whole, mash them until they are a fine paste.
-2. Set the wok in the ring on a coil turned to medium. Add the **peanut oil**. When it shimmers, about 1 minute, add half of the **coated large shrimp** in one layer in the bottom. Cook until the undersides are pink, about 30 seconds. Turn them. Cook until they curl in a loose C and the center is just opaque, about 30 seconds more. If they curl into a tight ring or brown hard, turn the coil off and scoop them onto a plate.
-3. Turn the coil to medium if it is off. When the oil shimmers again, cook the remaining **coated large shrimp** the same way. Scoop them onto the plate.
+2. Set the wok in the ring on a coil turned to medium-high. Add the **peanut oil**. When it shimmers, about 2 minutes, add half of the **coated large shrimp** in one layer in the bottom. Cook until the undersides are pink, about 30 seconds. Turn them. Cook until they curl in a loose C and the center is just opaque, about 30 seconds more. If they curl into a tight ring or brown hard, turn the coil off and scoop them onto a plate.
+3. Turn the coil to medium-high if it is off. When the oil shimmers again, cook the remaining **coated large shrimp** the same way. Scoop them onto the plate.
 4. Turn the coil off. When it stops glowing, turn it to medium-low. Add the **garlic**, the **steamed and mashed salted duck egg yolks**, and the **sugar**. Stir and press until the yolks foam and look sandy, about 1 minute. If they smell sharp, turn the coil off and stir until the smell sweetens, then turn the coil back to medium-low.
 5. Return the **coated large shrimp**. Toss until every shrimp wears an even gold coat, about 30 seconds.
 6. Turn the coil off. Add the **scallion**. Toss until it smells sweet, about 15 seconds.

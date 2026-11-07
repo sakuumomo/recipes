@@ -62,7 +62,8 @@ For a skillet or a saucepan:
 
 For the wok:
 
-- Heat the empty wok in the ring on high until a drop of water flicked into the center vanishes, about 5 minutes.
+- Heat the empty wok in the ring on high until a drop of water flicked into the center vanishes, about 5 minutes. High is for a sear that has to color in under a minute.
+- Brown, blister, or boil a sauce down on medium-high. After a high sear, turn to medium-low for a paste or for dried chilies.
 - Keep the food in the bottom, where the heat is. The walls stay cooler. Food can sit up the sides while the sauce cooks in the bottom, then fold back down.
 - To lower the heat, turn the coil off, wait until it stops glowing, and turn it to the lower setting. The wok stays in the ring.
 - When a paste smells sharp, turn the coil off and stir until the smell sweetens, then turn the coil back to the lower setting.

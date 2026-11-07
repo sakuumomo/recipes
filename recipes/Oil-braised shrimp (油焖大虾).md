@@ -59,11 +59,11 @@ Do this while the shrimp sit. Use tomato ketchup.
 - 1 scallion, chopped
 
 1. Mince the **ginger**. Mince the **garlic**. Chop the **scallion**.
-2. If the shrimp have not finished their 10 minutes, wait. Set the wok in the ring on a coil turned to medium. Add the **peanut oil**. When it shimmers, about 1 minute, add half of the **seasoned large shrimp** in one layer in the bottom. Cook until the undersides are pink, about 30 seconds. Turn them. Cook until the outside is pink and the center is still slightly translucent, about 20 seconds more. If the oil smokes, turn the coil off and stir until the smoke stops, then turn the coil back to medium. Scoop the shrimp onto a plate.
+2. If the shrimp have not finished their 10 minutes, wait. Set the wok in the ring on a coil turned to medium-high. Add the **peanut oil**. When it shimmers, about 2 minutes, add half of the **seasoned large shrimp** in one layer in the bottom. Cook until the undersides are pink, about 30 seconds. Turn them. Cook until the outside is pink and the center is still slightly translucent, about 20 seconds more. If the oil smokes, turn the coil off and stir until the smoke stops, then turn the coil back to medium-high. Scoop the shrimp onto a plate.
 3. When the oil shimmers again, cook the remaining **seasoned large shrimp** the same way. Scoop them onto the plate.
 4. Add the **ginger** and the **garlic** to the oil left in the wok. Stir until they smell sweet, about 20 seconds.
-5. Add the **tomato ketchup**. Stir until the oil around it turns red and the paste smells sweet, about 1 minute. If it smells sharp, turn the coil off and stir until the smell sweetens, then turn the coil back to medium.
+5. Add the **tomato ketchup**. Stir until the oil around it turns red and the paste smells sweet, about 1 minute. If it smells sharp, turn the coil off and stir until the smell sweetens, then turn the coil back to medium-high.
 6. Add the **Shaoxing wine for the sauce**, the **light soy sauce**, the **sugar**, and the **water** together. Stir until the sauce bubbles, about 20 seconds.
-7. Return the **seasoned large shrimp**. Toss until the center is just opaque and the sauce clings to every shrimp, about 30 seconds. If the sauce sticks, turn the coil off and keep tossing until the sauce loosens, then turn the coil back to medium.
+7. Return the **seasoned large shrimp**. Toss until the center is just opaque and the sauce clings to every shrimp, about 30 seconds. If the sauce sticks, turn the coil off and keep tossing until the sauce loosens, then turn the coil back to medium-high.
 8. Turn the coil off. Add the **Zhenjiang vinegar** and the **scallion**. Toss until the scallion smells sweet, about 15 seconds.
 9. Eat it hot.

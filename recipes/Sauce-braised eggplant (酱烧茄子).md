@@ -46,7 +46,7 @@ Use a long Chinese eggplant.
 
 1. Trim the **eggplant** and cut it into pieces about 2 in long and 3/4 in thick. Toss the pieces with the **kosher salt**. Set a timer for 15 minutes. Go on to the sauce.
 2. When the timer rings, squeeze the pieces and pat them dry. Toss them with the **potato starch** until each piece has a thin coat. Shake off the extra starch.
-3. Set the wok in the ring on a coil turned to medium. Add the **peanut oil for the eggplant**. When it shimmers, about 2 minutes, add a single layer of the **eggplant** in the bottom. Cook until the underside is golden, about 2 minutes. Turn the pieces. Cook until both sides are golden and the center of a piece looks creamy, about 2 minutes more. If the oil smokes, turn the coil off until the smoke stops, then turn the coil back to medium. If the center is still white and spongy, cook 1 minute more. Lift the pieces out.
+3. Set the wok in the ring on a coil turned to medium-high. Add the **peanut oil for the eggplant**. When it shimmers, about 2 minutes, add a single layer of the **eggplant** in the bottom. Cook until the underside is golden, about 2 minutes. Turn the pieces. Cook until both sides are golden and the center of a piece looks creamy, about 2 minutes more. If the oil smokes, turn the coil off until the smoke stops, then turn the coil back to medium-high. If the center is still white and spongy, cook 1 minute more. Lift the pieces out.
 4. Cook the rest of the **eggplant** the same way, one layer at a time. Lift the pieces out.
 5. Pour off the oil until about 1 tbsp remains. Go back to the sauce.
 
