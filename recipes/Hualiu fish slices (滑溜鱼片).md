@@ -2,7 +2,7 @@
 
 Serves 2. About 40 minutes.
 
-The fish slips in oil in a deep heavy saucepan on the coil. The glaze is in a 10 in heavy skillet on the coil.
+The fish slips in oil in a deep heavy saucepan on the coil. The glaze is in the wok, and the wok stays in its ring.
 
 Soak the wood ear. Slice and marinate the fish. While it sits, finish the prep. Slip the fish when the oil is ready.
 
@@ -92,7 +92,7 @@ Do this while the fish marinates. When the wood ear timer rings, drain and tear 
 2. Slice the **ginger**. Cut the **scallion** into 1 in lengths.
 3. If the **winter bamboo shoots** still have a husk, peel it off. If they are canned or packed in water, rinse them. Slice them thin.
 4. Put the **unsalted chicken stock**, the **Shaoxing wine for the sauce**, the **kosher salt for the sauce**, and the **ground white pepper for the sauce** in cups.
-5. Stir the **sweet potato starch for the sauce** and the **cold water** together until smooth. Stir it again just before it goes into the skillet.
+5. Stir the **sweet potato starch for the sauce** and the **cold water** together until smooth. Stir it again just before it goes into the wok.
 6. Put the **toasted sesame oil** in a spoon.
 
 ## Slip
@@ -131,8 +131,8 @@ These amounts were measured above.
 
 - 12 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick, slipped
 
-1. Put a 10 in heavy skillet on a coil set to medium. Add the **peanut oil for the glaze**. When it shimmers, about 1 minute, add the **ginger** and the **scallion**. Stir until they smell sweet, about 20 seconds. Lift them out.
-2. Add the **unsalted chicken stock**, the **winter bamboo shoots**, the **soaked wood ear**, the **Shaoxing wine for the sauce**, the **kosher salt for the sauce**, and the **ground white pepper for the sauce** together. Simmer until the bamboo is hot, about 1 minute. If it is still hard and bright, simmer another minute. If the center boils hard, pull the skillet so it sits half on the coil.
-3. Stir the **sweet potato starch for the sauce** and the **cold water**. Pour in about half and fold. Add the rest only if the sauce does not yet flow off a spoon in a thin ribbon. If the center sticks, pull the skillet off the coil and keep folding.
+1. Set the wok in the ring on a coil turned to medium. Add the **peanut oil for the glaze**. When it shimmers, about 1 minute, add the **ginger** and the **scallion**. Stir until they smell sweet, about 20 seconds. Lift them out.
+2. Add the **unsalted chicken stock**, the **winter bamboo shoots**, the **soaked wood ear**, the **Shaoxing wine for the sauce**, the **kosher salt for the sauce**, and the **ground white pepper for the sauce** together. Simmer until the bamboo is hot, about 1 minute. If it is still hard and bright, simmer another minute. If the center boils hard, turn the coil off until the surface settles, then turn the coil back to medium.
+3. Stir the **sweet potato starch for the sauce** and the **cold water**. Pour in about half and fold. Add the rest only if the sauce does not yet flow off a spoon in a thin ribbon. If the center sticks, turn the coil off and keep folding.
 4. Slide in the **slipped snakehead fillet**. Fold once or twice until every slice is coated, about 30 seconds.
-5. Pull the skillet off the coil. Add the **toasted sesame oil** and tilt the skillet to sheet it through the sauce. Serve.
+5. Turn the coil off. Add the **toasted sesame oil** and stir until it sheets through the sauce. Serve.

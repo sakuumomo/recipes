@@ -2,9 +2,9 @@
 
 Serves 2. About 35 minutes.
 
-The eggplant and the sauce cook in a 10 in heavy skillet on the coil.
+The eggplant and the sauce cook in the wok, and the wok stays in its ring.
 
-Salt the eggplant. Cut the sauce while it sits. When the 15 minutes are up, fry the eggplant, then cook the pork and the sauce in the same skillet.
+Salt the eggplant. Cut the sauce while it sits. When the 15 minutes are up, fry the eggplant, then cook the pork and the sauce in the same wok.
 
 Measure each ingredient once. A later list is that same amount again.
 
@@ -46,8 +46,8 @@ Use a long Chinese eggplant.
 
 1. Trim the **eggplant** and cut it into pieces about 2 in long and 3/4 in thick. Toss the pieces with the **kosher salt**. Set a timer for 15 minutes. Go on to the sauce.
 2. When the timer rings, squeeze the pieces and pat them dry. Toss them with the **potato starch** until each piece has a thin coat. Shake off the extra starch.
-3. Set a 10 in heavy skillet on a coil turned to medium. Add the **peanut oil for the eggplant**. When it shimmers, about 2 minutes, add half of the **eggplant** in one layer. Cook until the underside is golden, about 2 minutes. Turn the pieces. Cook until both sides are golden and the center of a piece looks creamy, about 2 minutes more. If the oil smokes, pull the skillet off the coil. If the center is still white and spongy, cook 1 minute more. Lift the pieces out.
-4. Add the remaining half of the **eggplant**. Cook it the same way. Lift the pieces out.
+3. Set the wok in the ring on a coil turned to medium. Add the **peanut oil for the eggplant**. When it shimmers, about 2 minutes, add a single layer of the **eggplant** in the bottom. Cook until the underside is golden, about 2 minutes. Turn the pieces. Cook until both sides are golden and the center of a piece looks creamy, about 2 minutes more. If the oil smokes, turn the coil off until the smoke stops, then turn the coil back to medium. If the center is still white and spongy, cook 1 minute more. Lift the pieces out.
+4. Cook the rest of the **eggplant** the same way, one layer at a time. Lift the pieces out.
 5. Pour off the oil until about 1 tbsp remains. Go back to the sauce.
 
 ## Sauce
@@ -70,13 +70,13 @@ Do this while the eggplant sits. Use ground pork that shows some fat, Sichuan pi
 - 2 tsp Zhenjiang vinegar (镇江香醋)
 
 1. Mince the **ginger** and the **garlic**. Separate the whites and the greens of the **scallions**, and chop both. Chop the **pickled red chilies** and the **Pixian doubanjiang**. Stir the **potato starch for the sauce** and the **cold water for the sauce** together until the liquid is smooth. Go back and finish the eggplant. Come back to the next step when the oil has been poured off.
-2. Set the skillet on medium. If the oil smokes, pull the skillet off the coil until it stops, then set it back. Add the **ground pork**. Stir, breaking it into small bits, until the pink is gone and the bits look dry and crumbly, about 2 minutes. If they brown hard, pull the skillet off the coil.
-3. Add the **pickled red chilies** and the **Pixian doubanjiang** together. Stir until the oil turns red and smells sweet, about 45 seconds. If they smell sharp, pull the skillet off the coil and stir until the smell sweetens, then set it back.
-4. Add the **ginger**, the **garlic**, and the whites of the **scallions** together. Stir until they smell sweet, about 20 seconds. If they color, pull the skillet off the coil.
+2. Turn the coil to medium. If the oil smokes, turn the coil off until the smoke stops, then turn the coil back to medium. Add the **ground pork**. Stir, breaking it into small bits, until the pink is gone and the bits look dry and crumbly, about 2 minutes. If they brown hard, turn the coil off and stir until they cool, then turn the coil back to medium.
+3. Add the **pickled red chilies** and the **Pixian doubanjiang** together. Stir until the oil turns red and smells sweet, about 45 seconds. If they smell sharp, turn the coil off and stir until the smell sweetens, then turn the coil back to medium.
+4. Add the **ginger**, the **garlic**, and the whites of the **scallions** together. Stir until they smell sweet, about 20 seconds. If they color, turn the coil off and stir until they cool, then turn the coil back to medium.
 5. Add the **sugar**, the **light soy sauce**, the **Shaoxing wine**, and the **water for the sauce** together. Stir until the sauce bubbles, about 20 seconds.
-6. Add the **fried eggplant**. Stir until the pieces are coated and soft, about 1 minute. If a center is still firm, cook 1 minute more. If the sauce sticks, pull the skillet so it sits half on the coil.
+6. Add the **fried eggplant**. Stir until the pieces are coated and soft, about 1 minute. If a center is still firm, cook 1 minute more. If the sauce sticks, turn the coil off until the sauce loosens, then turn the coil back to medium.
 7. Stir the **starch mixture** again. Pour it in. Stir until the sauce looks glossy and clings to the pieces, about 20 seconds.
-8. Pull the skillet off the coil. Add the **Zhenjiang vinegar** and the greens of the **scallions**. Stir until the vinegar smells sharp and the greens turn bright, about 10 seconds.
+8. Turn the coil off. Add the **Zhenjiang vinegar** and the greens of the **scallions**. Stir until the vinegar smells sharp and the greens turn bright, about 10 seconds.
 
 ---
 

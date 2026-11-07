@@ -44,10 +44,10 @@ This cook has an electric stove with exposed coils, a round-bottom wok that sits
 
 - **Rice.** Only on `recipes/Jasmine rice.md`. The Instant Pot. Rinse the rice until the runoff is almost clear and drain it well. Use 1 cup of water for each 1 cup of rice. Lock the lid, set the valve to sealing, and pressure cook on high for 3 minutes. When it beeps, turn the valve to venting. Leave the lid on until serving, then fluff the rice. Do not copy this part into another dish.
 - **A pot of water.** A heavy saucepan on a coil: blanching, boiling, a simmer you hold at a shiver. When the boil is harder than the step wants, pull the pot so it sits half on the coil.
-- **A spoonful of spices.** A small skillet on a coil. Slide the skillet off the coil if they smoke.
-- **A sear, a paste, or a fry that turns into a simmer.** A 10 in heavy skillet on a coil. This pan can leave the coil.
-- **The round bowl.** The wok, when the wall is doing the work: a full load tossed through a small hot center, or food held up the sides while the bottom reduces. The wok stays in the ring for the whole cook.
-- **Deep frying.** A deep heavy saucepan on a coil. A slip through a deep pot of oil uses this same pot. Read the oil on a frying thermometer, in Fahrenheit. The step names the temperature. A slip stays cooler than a crust fry, and the food should not brown. Bring the oil back to that temperature between batches. When the oil smokes or climbs past it, pull the saucepan off the coil until it returns, then set it back. A few tablespoons in a skillet is too shallow for the thermometer. That oil is ready when it shimmers. A pour onto dried chilies is ready when a dry wooden spoon handle makes small bubbles and the oil has not yet smoked. Smoking oil blackens those chilies. A pour that blooms spices in the pan is ready when the oil just starts to smoke, and the pan comes off the coil before the spices go in.
+- **A spoonful of spices, or a small pour of oil.** A small skillet on a coil. Slide the skillet off the coil the moment it is ready. A small pour has to leave the coil, and this skillet can.
+- **A flat face, a lidded crust, or a sizzle.** A 10 in heavy skillet on a coil. The food sits still against the flat bottom, the pan comes off the coil while a crust steams under a lid, or the sizzle has to leave the heat. This pan can leave the coil.
+- **The round bowl.** The wok, for a toss through the hot bottom, food held up the sides while the bottom reduces, or a paste that becomes a sauce. The wok stays in the ring for the whole cook.
+- **Deep frying.** A deep heavy saucepan on a coil. A slip through a deep pot of oil uses this same pot. Read the oil on a frying thermometer, in Fahrenheit. The step names the temperature. A slip stays cooler than a crust fry, and the food should not brown. Bring the oil back to that temperature between batches. When the oil smokes or climbs past it, pull the saucepan off the coil until it returns, then set it back. A few tablespoons of oil is too shallow for the thermometer. That oil is ready when it shimmers. A pour onto dried chilies is ready when a dry wooden spoon handle makes small bubbles and the oil has not yet smoked. Smoking oil blackens those chilies. A pour that blooms spices in the pan is ready when the oil just starts to smoke, and the pan comes off the coil before the spices go in.
 
 ### Coil moves
 
@@ -187,7 +187,7 @@ Done when every item below holds and the file is saved at `recipes/<title>.md`.
 - The neutral oil is peanut oil. A flavored oil is named only when the dish needs that flavor.
 - Rice stays on `recipes/Jasmine rice.md`. Another dish has no Rice part. Every part uses the vessel this kitchen assigns it.
 - Heat changes use the coil moves. A wok stays in the ring.
-- Deep-fry oil, and oil for a slip, is a Fahrenheit temperature on a thermometer. The step names the temperature, and the oil returns to it between batches. A shallow skillet of oil does not.
+- Deep-fry oil, and oil for a slip, is a Fahrenheit temperature on a thermometer. The step names the temperature, and the oil returns to it between batches. A shallow pan of oil does not.
 - Steps are a tight numbered list. The added thing is bold. Each step ends on a cue.
 - Work that a short step depends on is finished in an earlier part.
 - An uncommon tool has one `Tool:` line. Every other tool is named in the step.
