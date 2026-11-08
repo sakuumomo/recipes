@@ -82,9 +82,9 @@ These amounts were measured above.
 
 1. If the beef is not tacky yet, wait. Set the wok in the ring on a coil turned to high. Heat it until a drop of water flicked into the center vanishes, about 5 minutes.
 2. Add 1 tbsp of the **peanut oil for the stir-fry**. Swirl it over the bottom.
-3. Add half of the **marinated flank steak** in one layer. Leave it still until the underside browns, about 30 seconds. Toss until the red is gone, about 30 seconds more. Scoop it onto a plate. If the oil smokes, turn the coil off and stir until the smoke stops, then turn the coil back to high. When the oil shimmers, keep going.
-4. Add the rest of the **peanut oil for the stir-fry** and the rest of the **marinated flank steak**. Cook the beef the same way, about 1 minute. Scoop it onto the plate.
-5. Turn the coil off. When it stops glowing, turn it to medium. Add the **ginger**, the **garlic**, and the white pieces of the **Chinese scallions** together. Stir until they smell sweet, about 30 seconds.
+3. Add half of the **marinated flank steak** in one layer. Leave it still until the underside browns, about 30 seconds. Toss until the red is gone, about 30 seconds more. If the oil smokes, turn the coil off and stir until the smoke stops, then turn the coil back to high. When the oil shimmers, keep going. Scoop it onto a plate.
+4. Add the rest of the **peanut oil for the stir-fry** and the rest of the **marinated flank steak**. Leave it still until the underside browns, about 30 seconds. Toss until the red is gone, about 30 seconds more. If the oil smokes, turn the coil off and stir until the smoke stops, then turn the coil back to high. When the oil shimmers, keep going. Scoop it onto the plate.
+5. Turn the coil off. Add the **ginger**, the **garlic**, and the white pieces of the **Chinese scallions** together. When the coil stops glowing, turn it to medium. Stir until they smell sweet and any smoke has stopped, about 30 seconds.
 6. Add the green pieces of the **Chinese scallions**. Stir until they turn bright green and still have bite, about 30 seconds.
 7. Add the **marinated flank steak**, the **light soy sauce for the stir-fry**, the **Shaoxing wine for the stir-fry**, and the **sugar** together. Toss until the beef is glossy and the scallions still have bite, about 30 seconds.
 8. Eat it hot.

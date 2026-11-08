@@ -66,6 +66,7 @@ For the wok:
 - Brown, blister, or boil a sauce down on medium-high. After a high sear, turn to medium-low for a paste or for dried chilies.
 - Keep the food in the bottom, where the heat is. The walls stay cooler. Food can sit up the sides while the sauce cooks in the bottom, then fold back down.
 - To lower the heat, turn the coil off, wait until it stops glowing, and turn it to the lower setting. The wok stays in the ring.
+- After a sear, add the next oil as soon as the coil is off. Hold a paste, black pepper, or dried chilies until that oil shimmers and has stopped smoking. An empty wok scorches the film left in it.
 - When a paste smells sharp, turn the coil off and stir until the smell sweetens, then turn the coil back to the lower setting.
 
 ## 5. Write the lines

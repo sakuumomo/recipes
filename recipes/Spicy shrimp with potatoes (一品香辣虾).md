@@ -133,6 +133,6 @@ These amounts were measured above.
 1. Set the wok in the ring on a coil turned to medium. Add the **peanut oil for the toss**. When it shimmers, about 1 minute, add the **garlic**, the **ginger**, and the **dried facing-heaven chilies** together. Stir until the garlic smells sweet and the chilies turn one shade darker, still red, about 30 seconds. If they blacken, turn the coil off and stir until they cool, then turn the coil back to medium.
 2. Add the **Chinese celery**, the **roasted salted peanuts**, and the **scallion**. Stir until the celery is bright green, about 30 seconds.
 3. Add the **light soy sauce**, the **sugar**, the **chili oil**, and the **toasted sesame oil** together.
-4. Add the **fried potatoes** and the **fried large shrimp**. Toss until every piece looks glossy and the shrimp are still tender, about 30 seconds.
+4. Add the **fried potatoes** and the **fried large shrimp**. Toss until every piece looks glossy and the shrimp are still tender, about 30 seconds. If a potato is cool in the center, push the shrimp up the sides and let the potatoes heat in the bottom, about 1 minute more, then fold the shrimp back down.
 5. Turn the coil off. Add the **white sesame seeds**. Toss until they stick, about 10 seconds.
 6. Eat it hot.

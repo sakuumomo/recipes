@@ -93,10 +93,10 @@ Tool: bamboo steamer.
 1. Pour the **water for the wok** into the wok. Set the wok in the ring on high. The water must sit below the steamer.
 2. Cut a round of parchment to fit the steamer. Poke about 8 holes in it so the steam can pass.
 3. When the water boils hard, line the steamer with the parchment. Set 8 of the **dumpling wrappers** on it, pleat side up, with space between them.
-4. Set the steamer over the wok and cover it. Turn the coil off, wait until it stops glowing, and turn it to medium.
-5. Steam until the wrappers look glossy and a dumpling feels firm when pressed, about 10 minutes. Leave the lid on. If a wrapper still looks chalky, cover and steam 2 minutes more.
+4. Set the steamer over the wok and cover it. Turn the coil off, wait until it stops glowing, and turn it to medium-high. The water should keep boiling, and the lid should drip.
+5. Steam until the wrappers look glossy and a dumpling feels firm when pressed, about 10 minutes. Leave the lid on. If the lid stops dripping, turn the coil up until it drips again. If a wrapper still looks chalky, cover and steam 2 minutes more.
 6. Lift that batch onto a plate and cover the plate.
-7. If the water is not boiling, turn the coil to high until it boils hard, then turn the coil off, wait until it stops glowing, and turn it to medium.
+7. If the water is not boiling, turn the coil to high until it boils hard, then turn the coil off, wait until it stops glowing, and turn it to medium-high. The lid should drip. If it stops dripping, turn the coil up until it drips again.
 8. Set the parchment back in the steamer. Add the remaining **dumpling wrappers**, pleat side up, with space between them. Cover the steamer.
 9. Steam until the wrappers look glossy and a dumpling feels firm, about 10 minutes.
 10. Eat them hot with Dumpling dipping sauce (饺子蘸料).

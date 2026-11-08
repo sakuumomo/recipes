@@ -59,7 +59,7 @@ Use dried sweet potato cords about as thick as a chopstick.
 - 3 cups water, for the noodles
 
 1. Put the **sweet potato noodles** in a bowl.
-2. Put the **water for the noodles** in a heavy saucepan on high until it steams and a finger can stay in it, about 5 minutes.
+2. Put the **water for the noodles** in a heavy saucepan on high until it steams, about 5 minutes. Pull the saucepan off the coil. Wait until a finger can stay in the water.
 3. Pour the **water for the noodles** over them. Leave them until a strand bends without snapping, about 30 minutes. Go on to the broth. If a strand still snaps when the broth is ready, wait.
 
 ## Broth
@@ -122,6 +122,6 @@ Cut these before they go into the broth. Use firm tofu, the block marked 北豆�
 1. Cut the **firm tofu** into 3/4 in cubes and pat the cubes dry. Trim the base off the **enoki mushrooms**, tear them into small bunches, and rinse them. If the **hot-pot beef slices** are frozen together, separate them while they are still cold. Pat them dry. Cut the **bok choy** into 2 in pieces and rinse it.
 2. If a strand of the **sweet potato noodles** still snaps, wait. Drain them.
 3. Add the **drained sweet potato noodles** to the broth and press them under the surface. Cook until they turn translucent at the edges, about 6 minutes. If the surface boils hard, pull the saucepan so it sits half on the coil.
-4. Lay the **firm tofu** on the noodles. Cook until the noodles are translucent and chewy and the tofu is hot, about 2 minutes. If a noodle still has a white core, cook 2 minutes more.
+4. Lay the **firm tofu** on the noodles. Cook until the noodles are chewy and the tofu is hot, about 2 minutes. Break one strand. The center is translucent. If the center is still white, cook until it turns translucent, about 5 minutes more.
 5. Add the **enoki mushrooms**, the **hot-pot beef slices**, and the **bok choy** together. Stir once. Cook until the pink is gone and the slices are still tender, the mushrooms have wilted, and the bok choy leaves have wilted with the stems still crisp, about 45 seconds. If the beef stiffens, pull the saucepan off the coil.
 6. Ladle the pot and the broth into the two bowls. Scatter the **scallion** and the **cilantro** over the top.

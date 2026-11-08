@@ -51,7 +51,7 @@ Use a long Chinese eggplant.
 
 1. Trim the **eggplant** and cut it into sticks about 1/2 in thick and 2 in long. Toss the sticks with the **kosher salt**. Set a timer for 15 minutes. Go on to the sauce.
 2. When the timer rings, squeeze the sticks and pat them dry. Toss them with the **potato starch** until each stick has a thin coat. Shake off the extra starch.
-3. Set a 10 in heavy skillet on a coil turned to medium. Add the **peanut oil for the eggplant**. When it shimmers, about 2 minutes, add half of the **eggplant** in one layer. Cook until the underside is golden, about 2 minutes. Turn the sticks. Cook until both sides are golden and the center of a stick looks creamy, about 2 minutes more. If the oil smokes, pull the skillet off the coil. If the center is still white and spongy, cook 1 minute more. Lift the sticks out.
+3. Set a 10 in heavy skillet on a coil turned to medium. Add the **peanut oil for the eggplant**. When it shimmers, about 2 minutes, add half of the **eggplant** in one layer. Cook until the underside is golden, about 2 minutes. Turn the sticks. Cook until both sides are golden and the center of a stick looks creamy, about 2 minutes more. If the oil smokes, pull the skillet off the coil until the smoke stops, then set it back. If the center is still white and spongy, cook 1 minute more. Lift the sticks out.
 4. Add the remaining half of the **eggplant**. Cook it the same way. Lift the sticks out.
 5. Pour off the oil. Wipe the skillet until a dry towel comes away dry. Go on to the sizzle.
 
@@ -98,8 +98,7 @@ Do this while the eggplant sits.
 - 1 tsp potato starch
 
 1. Chop the **scallion**.
-2. Set the empty skillet on a coil turned to high. When a drop of water flicked into it skitters and vanishes, about 3 minutes, add the **peanut oil for the skillet** and swirl it over the bottom.
-3. Set the saucepan on medium. Stir until the sauce bubbles, about 1 minute. If it sticks, pull the saucepan half off the coil. Pull it off the coil.
-4. Add the **fried eggplant** in one layer. Pour the **sauce mixture** over it. It should sizzle. Stir until the glaze clings, about 15 seconds. If the glaze smells sharp or turns dull, pull the skillet off the coil.
-5. Pull the skillet off the coil. Add the **Zhenjiang vinegar**. Stir until it smells sharp, about 10 seconds.
-6. Scatter the **scallion** and the **white sesame seeds**. Eat it hot.
+2. Set the empty skillet on a coil turned to high. Set the saucepan on another coil turned to medium. Stir the **sauce mixture**. When it bubbles, about 1 minute, pull the saucepan off the coil. If it sticks before then, pull the saucepan half off the coil. When a drop of water flicked into the skillet skitters and vanishes, about 3 minutes, go on. The oil goes in only when the eggplant and the sauce are ready to follow it.
+3. Add the **peanut oil for the skillet** and swirl it over the bottom. Add the **fried eggplant**. Pour the **sauce mixture** over it at once. It should sizzle. Stir until the glaze clings, about 15 seconds. If the glaze smells sharp or turns dull, pull the skillet off the coil.
+4. Pull the skillet off the coil. Add the **Zhenjiang vinegar**. Stir until it smells sharp, about 10 seconds.
+5. Scatter the **scallion** and the **white sesame seeds**. Eat it hot.

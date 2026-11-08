@@ -30,7 +30,7 @@ Measure each ingredient once. A later list is that same amount again.
 
 **Fry**
 
-- 2 cups peanut oil
+- 3 cups peanut oil
 - 4 tbsp potato starch
 
 ---
@@ -68,13 +68,13 @@ Do this while the chicken marinates.
 
 ## Fry
 
-- 2 cups peanut oil
+- 3 cups peanut oil
 - 4 tbsp potato starch
 - 16 oz boneless skinless chicken thighs, cut into 3/4 in pieces, marinated
 
 1. Put the **peanut oil** in a deep heavy saucepan. Set it on a coil turned to high. Heat until a thermometer in the oil reads 350°F, about 8 minutes. If the oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back.
 2. When the oil is ready and the chicken has finished its 15 minutes, toss the chicken with the **potato starch** until each piece has a thin, even coat.
-3. Add 8 oz of the **marinated chicken thighs** at once. Leave them still for 1 minute so the coating sets, then turn any pale side. Fry until the coating is set, the chicken is cooked through, and the pieces are pale gold, about 4 minutes. If the oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back. Lift the chicken out with a slotted spoon.
+3. Add 8 oz of the **marinated chicken thighs** in one layer so the oil covers every piece. Leave them still for 1 minute so the coating sets, then turn any pale side. Fry until the coating is set, the chicken is cooked through, and the pieces are pale gold, about 4 minutes. If the oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back. Lift the chicken out with a slotted spoon.
 4. Let the oil return to 350°F. Fry the remaining **marinated chicken thighs** the same way. Lift them out.
 5. Set the coil on high. When a thermometer in the oil reads 375°F, return 8 oz of the **marinated chicken thighs**. Fry until deep golden and crisp, about 1 minute. If the oil smokes or climbs past 375°F, pull the saucepan off the coil until it returns to 375°F, then set it back. Lift them out.
 6. Let the oil return to 375°F. Fry the remaining **marinated chicken thighs** until deep golden and crisp, about 1 minute. If the oil smokes or climbs past 375°F, pull the saucepan off the coil until it returns to 375°F, then set it back. Lift them out.
@@ -100,7 +100,7 @@ These amounts were measured above.
 
 **Fry**
 
-- 2 cups peanut oil, all but 2 tbsp poured off
+- 3 cups peanut oil, all but 2 tbsp poured off
 
 1. Set the wok in the ring on a coil turned to medium-low. Pour in the remaining **peanut oil**.
 2. When the oil shimmers, add the **Sichuan peppercorns** and the **dried facing-heaven chilies** together. Stir until the chilies smell toasty and turn one shade darker, still red, about 30 seconds. If they blacken, turn the coil off and stir until they cool, then turn the coil back to medium-low.

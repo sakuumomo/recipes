@@ -4,7 +4,7 @@ Serves 2. About 40 minutes.
 
 The fish slips in oil in a deep heavy saucepan on the coil. The glaze is in the wok, and the wok stays in its ring.
 
-Soak the wood ear. Slice and marinate the fish. While it sits, finish the prep. Slip the fish when the oil is ready.
+Soak the wood ear. Slice and marinate the fish. While it sits, finish the prep. Start the slip oil, make the glaze while it heats, and slip the fish into the glaze while the slices are still soft.
 
 Measure each ingredient once. A later list is that same amount again.
 
@@ -100,12 +100,14 @@ Do this while the fish marinates. When the wood ear timer rings, drain and tear 
 - 2 cups peanut oil, for slipping
 - 12 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick, marinated
 
-1. Put the **peanut oil for slipping** in a deep heavy saucepan. Set it on a coil turned to medium. Heat until a thermometer in the oil reads 275°F, about 8 minutes. If the oil smokes or climbs past 275°F, pull the saucepan off the coil until it returns to 275°F, then set it back.
-2. When the oil is ready and the fish has finished its 15 minutes, slide in half of the **snakehead fillet** in one layer. Nudge the slices apart. When they are white and still soft, with no browning, about 30 seconds, lift them out with a slotted spoon. If a slice is still translucent, leave it 15 seconds more.
+1. Put the **peanut oil for slipping** in a deep heavy saucepan. Set it on a coil turned to medium. Heat until a thermometer in the oil reads 275°F, about 8 minutes. Go on to the glaze now, while the oil heats. If the oil smokes or climbs past 275°F before the glaze is ready, pull the saucepan off the coil until it returns to 275°F, and leave it off. Come back to the next step when the sauce is shivering.
+2. If the saucepan is off the coil, set it back and bring the oil to 275°F. When the oil is 275°F and the fish has finished its 15 minutes, slide in half of the **snakehead fillet** in one layer. Nudge the slices apart. When they are white and still soft, with no browning, about 30 seconds, lift them out with a slotted spoon. If a slice is still translucent, leave it 15 seconds more.
 3. Let the oil return to 275°F. Slip the remaining half the same way. Lift them out.
-4. Turn the coil off. Pour the oil slowly into a heatproof bowl until the saucepan is empty.
+4. Turn the coil off. Take the fish to the glaze. Leave the oil in the saucepan.
 
 ## Glaze
+
+Do this while the slip oil heats.
 
 These amounts were measured above.
 
@@ -133,6 +135,6 @@ These amounts were measured above.
 
 1. Set the wok in the ring on a coil turned to medium. Add the **peanut oil for the glaze**. When it shimmers, about 1 minute, add the **ginger** and the **scallion**. Stir until they smell sweet, about 20 seconds. Lift them out.
 2. Add the **unsalted chicken stock**, the **winter bamboo shoots**, the **soaked wood ear**, the **Shaoxing wine for the sauce**, the **kosher salt for the sauce**, and the **ground white pepper for the sauce** together. Simmer until the bamboo is hot, about 1 minute. If it is still hard and bright, simmer another minute. If the center boils hard, turn the coil off until the surface settles, then turn the coil back to medium.
-3. Stir the **sweet potato starch for the sauce** and the **cold water**. Pour in about half and fold. Add the rest only if the sauce does not yet flow off a spoon in a thin ribbon. If the center sticks, turn the coil off and keep folding.
-4. Slide in the **slipped snakehead fillet**. Fold once or twice until every slice is coated, about 30 seconds.
-5. Turn the coil off. Add the **toasted sesame oil** and stir until it sheets through the sauce. Serve.
+3. Stir the **sweet potato starch for the sauce** and the **cold water**. Pour in about half and fold. Add the rest only if the sauce does not yet flow off a spoon in a thin ribbon. If the center sticks, turn the coil off and keep folding. Leave the sauce shivering and go back to the slip.
+4. When the fish is slipped, slide in the **slipped snakehead fillet**. Fold once or twice until every slice is coated, about 30 seconds. If the sauce has cooled, turn the coil to medium and stir until it shivers, then fold the fish in.
+5. Turn the coil off. Add the **toasted sesame oil** and stir until it sheets through the sauce. Pour the slip oil slowly into a heatproof bowl. Serve.

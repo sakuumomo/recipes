@@ -134,6 +134,6 @@ Do this before the wok is hot. Use the thin marbled slices sold for hot pot, the
 4. Add the **Pixian doubanjiang**. Stir until the oil turns red and the paste smells sweet, about 45 seconds. If it smells sharp, turn the coil off and stir until the smell sweetens, then turn the coil back to medium-low.
 5. Add the **Sichuan chili flakes**, the **ground cumin**, the **sugar**, the **light soy sauce**, and the **Shaoxing wine** together. Stir until the wine cooks off, about 15 seconds.
 6. Turn the coil to medium. Add the **blanched cauliflower**, the **blanched napa cabbage**, the **blanched enoki mushrooms**, the **soaked wood ear**, the **seared potatoes**, and the **seared luncheon meat** together. Toss until every piece is coated and no liquid pools, about 45 seconds. If liquid pools, keep the food up the sides and let the bottom cook until it looks dry.
-7. Add the **hot-pot beef slices**. Toss until the pink is gone and the slices are still tender, about 30 seconds. If they stiffen, turn the coil off.
+7. Push the pot up the sides. Add the **hot-pot beef slices** in the bottom. Toss until the pink is gone and the slices are still tender, about 30 seconds. Fold the pot back down. If they stiffen, turn the coil off.
 8. Turn the coil off. Add the **chili oil**, the **toasted sesame oil**, the **white sesame seeds**, the **scallion**, and the **cilantro** together. Toss until the scallion smells sweet and the cilantro wilts, about 15 seconds.
 9. Eat the pot hot. The chilies and the peppercorns stay in it for their aroma.

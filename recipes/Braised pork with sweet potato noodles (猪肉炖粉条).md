@@ -45,7 +45,7 @@ Use dried sweet potato cords about as thick as a chopstick. Thin mung bean threa
 - 4 cups water, for the noodles
 
 1. Put the **sweet potato noodles** in a bowl.
-2. Put the **water for the noodles** in a heavy saucepan on high until it steams and a finger can stay in it, about 5 minutes.
+2. Put the **water for the noodles** in a heavy saucepan on high until it steams, about 5 minutes. Pull the saucepan off the coil. Wait until a finger can stay in the water.
 3. Pour the **water for the noodles** over them. Leave them until a strand bends without snapping, about 30 minutes. Go on to the pork. If a strand still snaps when the pork is ready, wait.
 
 ## Pork
@@ -84,5 +84,5 @@ Use unsalted Shaoxing.
 4. Pour in the **water for the stew**. Turn the coil to high. When it boils, skim any foam. Pull the saucepan so it sits half on the coil. The surface should bubble gently. Cover it.
 5. Simmer until a fork pushed into a chunk meets little resistance, about 45 minutes. If the center boils hard, pull the saucepan farther off the coil.
 6. Lift out the star anise and the cassia bark.
-7. Add the **kosher salt** and the **drained sweet potato noodles** together. Press the noodles under the surface. Cook, uncovered, until they are translucent and chewy and the gravy still pools in a spoon, about 10 minutes. If the bottom starts to catch, pull the saucepan half off the coil and stir.
+7. Add the **kosher salt** and the **drained sweet potato noodles** together. Press the noodles under the surface. Cook, uncovered, until they are chewy and the gravy still pools in a spoon, about 10 minutes. Break one strand. The center is translucent. If the center is still white, cook until it turns translucent, about 5 minutes more. If the bottom starts to catch, pull the saucepan half off the coil and stir.
 8. Eat it hot. The noodles keep drinking the gravy as it sits.

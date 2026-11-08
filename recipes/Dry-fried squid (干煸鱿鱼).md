@@ -4,7 +4,7 @@ Serves 2. About 35 minutes.
 
 The squid blanches, then fries, in a deep heavy saucepan on the coil. The toss is in the wok, and the wok stays in its ring.
 
-Cut the squid. Blanch it and dry it. Heat the oil, coat the squid, and fry it. Toss it as soon as it comes out.
+Cut the squid. Blanch it and dry it. Cut the toss before the oil is hot. Fry the squid, and toss it as soon as it comes out.
 
 Measure each ingredient once. A later list is that same amount again.
 
@@ -16,20 +16,23 @@ Measure each ingredient once. A later list is that same amount again.
 - 10 oz squid tubes
 - 1 tbsp Shaoxing wine (绍兴酒), for the blanch
 
-**Fry**
+**Prep**
 
-- 2 cups peanut oil, for frying
-- 3 tbsp potato starch
-
-**Toss**
-
-- 1 tbsp peanut oil, for the toss
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 1/2 tsp Sichuan peppercorns (红花椒)
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
 - 4 oz Chinese celery (香芹), cut into thin 2 in strips
 - 2 oz onion, sliced thin
+
+**Fry**
+
+- 2 cups peanut oil, for frying
+- 3 tbsp potato starch
+- 1 tbsp peanut oil, for the toss
+
+**Toss**
+
 - 1/2 tsp kosher salt, Diamond Crystal
 - 1/2 tsp sugar
 - 1 tsp light soy sauce (生抽)
@@ -49,15 +52,29 @@ Use cleaned squid tubes. Use unsalted Shaoxing.
 3. When the water boils, add the **Shaoxing wine for the blanch** and the **squid tubes**. Stir until the strips curl and turn opaque, about 15 seconds. Drain them. Spread them out and pat them dry.
 4. Empty the saucepan. Wipe it until a dry towel comes away dry.
 
+## Prep
+
+Do this before the oil is hot.
+
+- 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+- 1/2 tsp Sichuan peppercorns (红花椒)
+- 2 cloves garlic, sliced
+- 1 tsp ginger, sliced
+- 4 oz Chinese celery (香芹), cut into thin 2 in strips
+- 2 oz onion, sliced thin
+
+1. Snip the **dried facing-heaven chilies** in half and shake out the loose seeds. Slice the **garlic**. Slice the **ginger**. Cut the **Chinese celery** into thin strips about 2 in long. Slice the **onion** thin.
+
 ## Fry
 
 - 2 cups peanut oil, for frying
 - 3 tbsp potato starch
+- 1 tbsp peanut oil, for the toss
 - 10 oz squid tubes, blanched
 
 1. Put the **peanut oil for frying** in the dry saucepan. Set it on a coil turned to high. Heat until a thermometer in the oil reads 350°F, about 8 minutes. If the oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back.
 2. Toss the **blanched squid tubes** with the **potato starch** until each strip has a thin coat. Shake off the extra starch.
-3. Slide in half of the **blanched squid tubes**, a few strips at a time so they stay separate. Fry until the coat is set and the strips have curled, about 30 seconds. If the oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back. Lift them out with a slotted spoon.
+3. Slide in half of the **blanched squid tubes**, a few strips at a time so they stay separate. Set the wok in the ring on a coil turned to medium-low and add the **peanut oil for the toss**. Fry until the coat is set and the strips have curled, about 30 seconds. If the fry oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back. If the toss oil smokes, turn that coil off. Lift the squid out with a slotted spoon.
 4. Let the oil return to 350°F. Fry the remaining half the same way. Lift them out.
 5. Set the coil on high. When a thermometer in the oil reads 375°F, return half of the strips. Fry until the coat is pale gold and crisp, about 15 seconds. If the oil climbs past 375°F, pull the saucepan off the coil until it returns to 375°F, then set it back. Lift them out.
 6. Let the oil return to 375°F. Fry the remaining half the same way. Lift them out.
@@ -65,7 +82,7 @@ Use cleaned squid tubes. Use unsalted Shaoxing.
 
 ## Toss
 
-Do this before the wok is hot.
+Do this as soon as the squid comes out.
 
 - 1 tbsp peanut oil, for the toss
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
@@ -79,9 +96,8 @@ Do this before the wok is hot.
 - 1/2 tsp sugar
 - 1 tsp light soy sauce (生抽)
 
-1. Snip the **dried facing-heaven chilies** in half and shake out the loose seeds. Slice the **garlic**. Slice the **ginger**. Cut the **Chinese celery** into thin strips about 2 in long. Slice the **onion** thin.
-2. Set the wok in the ring on a coil turned to medium-low. Add the **peanut oil for the toss**. When it shimmers, about 2 minutes, add the **dried facing-heaven chilies** and the **Sichuan peppercorns** together. Stir until the peppercorns smell citrusy and the chilies turn one shade darker, still red, about 20 seconds. If they blacken, turn the coil off and stir until they cool, then turn the coil back to medium-low.
-3. Add the **garlic** and the **ginger** together. Stir until they smell sweet, about 15 seconds.
-4. Turn the coil off. When it stops glowing, turn it to medium. Add the **Chinese celery** and the **onion**. Toss until the celery is bright and still has bite, about 45 seconds.
-5. Add the **fried squid tubes**, the **kosher salt**, the **sugar**, and the **light soy sauce** together. Toss until the squid looks dry and the coating is still crisp, about 20 seconds.
-6. Eat the squid, the celery, and the onion hot. The chilies and the peppercorns stay on the plate for their aroma.
+1. The **peanut oil for the toss** should already be shimmering. If the coil is off, turn it back to medium-low. When the oil shimmers and has stopped smoking, add the **dried facing-heaven chilies** and the **Sichuan peppercorns** together. Stir until the peppercorns smell citrusy and the chilies turn one shade darker, still red, about 20 seconds. If they blacken, turn the coil off and stir until they cool, then turn the coil back to medium-low.
+2. Add the **garlic** and the **ginger** together. Stir until they smell sweet, about 15 seconds.
+3. Turn the coil off. When it stops glowing, turn it to medium. Add the **Chinese celery** and the **onion**. Toss until the celery is bright and still has bite, about 45 seconds.
+4. Add the **fried squid tubes**, the **kosher salt**, the **sugar**, and the **light soy sauce** together. Toss until the squid looks dry and the coating is still crisp, about 20 seconds.
+5. Eat the squid, the celery, and the onion hot. The chilies and the peppercorns stay on the plate for their aroma.

@@ -113,7 +113,8 @@ These amounts were measured above.
 - 12 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/4 in thick, fried
 
 1. Set the wok in the ring on a coil turned to medium. Add the **peanut oil for the sauce**. When it shimmers, about 1 minute, add the **ginger** and the **garlic** together. Stir until they smell sweet, about 15 seconds. If they smell sharp, turn the coil off and stir until the smell sweetens, then turn the coil back to medium.
-2. Stir the **potato starch for the sauce** and the **cold water for the slurry** again. Pour in the **tomato ketchup**, the **sugar**, the **light soy sauce**, the **kosher salt for the sauce**, the **water for the sauce**, the **potato starch for the sauce**, and the **cold water for the slurry** together. Stir until the sauce is glossy and a spoon dragged through it leaves a clear trail, about 1 minute. If the center boils hard, turn the coil off until it calms, then turn the coil back to medium.
-3. Turn the coil off. Add the **rice vinegar**. Stir until the sauce smells sharp, about 5 seconds.
-4. Add the **fried snakehead fillet** and the **scallion**. Fold until every slice is coated and the sauce clings, about 20 seconds.
-5. Eat it hot, while the coating is still crisp.
+2. Pour in the **tomato ketchup**, the **sugar**, the **light soy sauce**, the **kosher salt for the sauce**, and the **water for the sauce** together. Stir until the sauce bubbles, about 30 seconds. If it smells sharp, turn the coil off and stir until the smell sweetens, then turn the coil back to medium.
+3. Stir the **potato starch for the sauce** and the **cold water for the slurry** again. Pour them in. Stir until the sauce is glossy and a spoon dragged through it leaves a clear trail, about 30 seconds. If the center boils hard, turn the coil off until the sauce calms, then turn the coil back to medium.
+4. Turn the coil off. Add the **rice vinegar**. Stir until the sauce smells sharp, about 5 seconds.
+5. Add the **fried snakehead fillet** and the **scallion**. Fold until every slice is coated and the sauce clings, about 20 seconds.
+6. Eat it hot, while the coating is still crisp.
