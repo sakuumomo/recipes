@@ -53,7 +53,7 @@ Use large peeled shrimp with the tails off. Use unsalted Shaoxing.
 - 1 red chili (小米辣), sliced
 - 1 scallion, chopped
 
-1. Toast the **Sichuan peppercorns** in a small skillet over medium-low heat, shaking often, until they smell citrusy, about 1 minute. Slide the skillet off the coil if they start to smoke.
+1. Toast the **Sichuan peppercorns** in a small skillet over medium-low heat, shaking often, until they smell citrusy, about 1 minute. Slide the skillet off the coil and turn that coil off.
 2. Cool them 1 minute. Crush them to a powder with the back of a spoon.
 3. Stir in the **kosher salt** and the **ground white pepper**.
 4. Slice the **garlic**. Slice the **red chili**. Chop the **scallion**.
@@ -65,10 +65,10 @@ Use large peeled shrimp with the tails off. Use unsalted Shaoxing.
 - 2 tsp peanut oil, for the toss
 - 10 oz large shrimp, peeled and deveined, seasoned
 
-1. Put the **peanut oil for frying** in a deep heavy saucepan. Set it on a coil turned to high. Heat until a thermometer in the oil reads 350°F, about 8 minutes. If the oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back.
+1. Put the **peanut oil for frying** in a deep heavy saucepan. Set it on a coil turned to high. Stay with the thermometer. Heat until it reads 350°F, about 8 minutes. Pull the saucepan fully off. Turn the coil to the setting that holds 350°F. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
 2. When the shrimp have finished their 10 minutes, pat them dry. Toss the **seasoned large shrimp** with the **potato starch** until each shrimp has a thin coat. Shake off the extra starch.
-3. Slide in half of the **seasoned large shrimp** in one layer. Set the wok in the ring on a coil turned to medium and add the **peanut oil for the toss**. Leave the shrimp still until the coating sets, about 20 seconds, then turn them. Fry until they are pale gold, curled in a loose C, and the center is just opaque, about 40 seconds more. If they curl into a tight ring, lift them out. If the fry oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back. If the toss oil smokes, turn that coil off. Lift the shrimp out with a slotted spoon.
-4. Let the oil return to 350°F. Fry the remaining **seasoned large shrimp** the same way. Lift them out.
+3. Slide in half of the **seasoned large shrimp** in one layer. Leave the shrimp still until the coating sets, about 20 seconds, then turn them. Fry until they are pale gold, curled in a loose C, and the center is just opaque, about 40 seconds more. If they curl into a tight ring, lift them out. If the oil smokes or climbs past 350°F, pull the saucepan fully off and turn the coil off. When the oil returns to 350°F, turn the coil back to the setting that holds it and set the saucepan fully back on. Lift the shrimp out with a slotted spoon.
+4. Let the oil return to 350°F on the setting that holds it. Fry the remaining **seasoned large shrimp** the same way. Lift them out.
 5. Turn the coil off.
 
 ## Toss
@@ -94,6 +94,6 @@ These amounts were measured above.
 
 - 2 tsp peanut oil, for the toss
 
-1. The **peanut oil for the toss** should already be shimmering. If the coil is off, turn it back to medium. When the oil shimmers and has stopped smoking, add the **garlic** and the **red chili** together. Stir until the garlic is pale gold, about 40 seconds. If it darkens, turn the coil off and stir until it cools, then turn the coil back to medium.
+1. Set the wok in the ring on a coil turned to medium. Add the **peanut oil for the toss**. When it shimmers, about 1 minute, add the **garlic** and the **red chili** together. Stir until the garlic is pale gold, about 40 seconds. If it darkens, turn the coil off and stir until it cools. Wait until the coil stops glowing, then turn the coil back to medium.
 2. Add the **fried large shrimp**, the **scallion**, the **toasted and crushed Sichuan peppercorns**, the **kosher salt**, and the **ground white pepper** together. Toss until every shrimp is seasoned and the coating is still crisp, about 20 seconds.
 3. Eat them hot, while the coating is still crisp.

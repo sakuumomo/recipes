@@ -4,7 +4,7 @@ Serves 2. About 120 minutes.
 
 The beef blanches in a heavy saucepan. The same saucepan stews it.
 
-Blanch the beef first. Cut the tomatoes while the water heats. Stew when the beef is rinsed.
+Blanch the beef and stay with the pot. Cut the tomatoes after the beef is rinsed. Stew when the tomatoes are cut.
 
 Measure each ingredient once. A later list is that same amount again.
 
@@ -44,7 +44,7 @@ Use the fatty plate sold as 牛腩, and leave the fat on.
 - 8 cups water, for the blanch
 
 1. Cut the **beef brisket** into 1 1/2 in chunks.
-2. Put the **beef brisket** and the **water for the blanch** in a heavy saucepan. Set it on high. Go on to the tomatoes. When the water boils, skim the gray foam and cook 2 minutes.
+2. Put the **beef brisket** and the **water for the blanch** in a heavy saucepan. Set it on high. Stay with it. When the water boils, skim the gray foam and cook 2 minutes. Turn the coil off.
 3. Lift the beef out. Rinse it under hot water until the scum is gone, and drain it. Pour off the blanch water and wipe the saucepan dry.
 
 ## Tomatoes
@@ -76,12 +76,12 @@ Use unsalted Shaoxing.
 - 8 oz tomatoes, for the finish, cut
 - 1/2 tsp kosher salt, Diamond Crystal
 
-1. Set the saucepan on medium. Add the **peanut oil**. When it shimmers, about 1 minute, add the **blanched beef brisket**. Stir until the cut edges brown, about 4 minutes. If the oil smokes, pull the saucepan off the coil until the smoke stops, then set it back.
+1. Set the saucepan on medium. Add the **peanut oil**. When it shimmers, about 1 minute, add the **blanched beef brisket**. Stir until the cut edges brown, about 4 minutes. If the oil smokes, pull the saucepan fully off and turn the coil off. When the smoke stops, turn the coil back to medium and set the saucepan fully back on.
 2. Add the **ginger**, **scallions**, **garlic**, and **star anise** together. Stir until they smell sweet, about 1 minute.
 3. Add the **cut tomatoes for the base**. Stir until they collapse and the oil turns red, about 5 minutes.
 4. Add the **Shaoxing wine**, **light soy sauce**, **dark soy sauce**, and **sugar** together. Stir until the beef looks reddish-brown, about 30 seconds.
 5. Pour in the **water for the stew**. Press the beef under the surface. Turn the coil to high. When it boils, skim any foam. Pull the saucepan fully off the coil. Turn the coil to low and wait until it stops glowing. Set the saucepan fully back on. The surface should bubble gently. Cover it.
-6. Simmer until a fork pushed into a chunk meets a little resistance, about 60 minutes. If the center boils hard, pull the saucepan fully off until the surface settles, then set it fully back on. If it boils hard again, leave it off until the surface needs heat. If the surface goes still, turn the coil one setting higher and leave the saucepan fully on. If the beef is still firm, cover and cook 15 minutes more.
-7. Add the **cut tomatoes for the finish** on top and cover again. Simmer until the tomato pieces are just soft and a fork pushed into a chunk meets little resistance, about 15 minutes. If the center boils hard, pull the saucepan fully off until the surface settles, then set it fully back on.
-8. Add the **kosher salt**. Uncover. Turn the coil to medium and leave the saucepan fully on. Cook, stirring, until the sauce coats a spoon and the broth is red, about 8 minutes. A few soft pieces of tomato are fine. If it starts to stick, pull the saucepan fully off and stir until it releases, then set it fully back on.
+6. Simmer until a fork pushed into a chunk meets a little resistance, about 60 minutes. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to low and set the saucepan fully back on. If it boils hard again, do the same again. If the surface goes still, turn the coil one setting higher and leave the saucepan fully on. If the beef is still firm, cover and cook 15 minutes more.
+7. Add the **cut tomatoes for the finish** on top and cover again. Simmer until the tomato pieces are just soft and a fork pushed into a chunk meets little resistance, about 15 minutes. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to low and set the saucepan fully back on.
+8. Add the **kosher salt**. Uncover. Turn the coil to medium and leave the saucepan fully on. Cook, stirring, until the sauce coats a spoon and the broth is red, about 8 minutes. A few soft pieces of tomato are fine. If it starts to stick, pull the saucepan fully off and turn the coil off. Stir until it releases. Turn the coil back to medium and set the saucepan fully back on.
 9. Pick out the star anise. Eat it hot.

@@ -61,8 +61,8 @@ Use unsweetened shredded coconut.
 - 1 cup unsweetened shredded coconut (椰丝)
 - 10 oz large shrimp, peeled and deveined, seasoned
 
-1. Put the **peanut oil for frying** in a deep heavy saucepan. Set it on a coil turned to medium. Heat until a thermometer in the oil reads 325°F, about 10 minutes. If the oil smokes or climbs past 325°F, pull the saucepan off the coil until it returns to 325°F, then set it back.
+1. Put the **peanut oil for frying** in a deep heavy saucepan. Set it on a coil turned to high. Stay with the thermometer. Heat until it reads 325°F, about 8 minutes. Pull the saucepan fully off. Turn the coil to the setting that holds 325°F. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
 2. Roll 4 of the **seasoned large shrimp** in the **potato starch**, then in the **egg**, then in the **unsweetened shredded coconut**. Press so the coconut sticks.
-3. Slide those **seasoned large shrimp** in, with room between them. Fry until the coconut is gold and the shrimp curl in a loose C, about 2 1/2 minutes, turning once. If they curl into a tight ring, lift them out. If the coconut darkens fast, pull the saucepan off the coil until the oil returns to 325°F, then set it back. Lift them out with a slotted spoon.
-4. Let the oil return to 325°F. Coat and fry the remaining **seasoned large shrimp** the same way, 4 at a time.
+3. Slide those **seasoned large shrimp** in, with room between them. Fry until the coconut is gold and the shrimp curl in a loose C, about 2 1/2 minutes, turning once. If they curl into a tight ring, lift them out. If the coconut darkens fast, pull the saucepan fully off and turn the coil off. When the oil returns to 325°F, turn the coil back to the setting that holds it and set the saucepan fully back on. Lift them out with a slotted spoon.
+4. Let the oil return to 325°F on the setting that holds it. Coat and fry the remaining **seasoned large shrimp** the same way, 4 at a time.
 5. Turn the coil off. Eat them while the coconut is still crisp.

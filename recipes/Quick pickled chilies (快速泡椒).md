@@ -49,7 +49,7 @@ Use plain rice vinegar.
 
 1. Smash the **garlic**. Slice the **ginger**. Put them in the jar with the **Sichuan peppercorns** and the **dried facing-heaven chilies**.
 2. Put the **rice vinegar**, the **water**, the **kosher salt**, and the **sugar** in a small heavy saucepan together.
-3. Set the saucepan on a coil turned to medium. Heat until the salt dissolves and the surface shivers, about 3 minutes. If it boils hard, pull the saucepan off the coil until it settles, then set it back.
+3. Set the saucepan on a coil turned to medium. Heat until the salt dissolves and the surface shivers, about 3 minutes. If it boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to medium and set the saucepan fully back on. Turn the coil off.
 4. Pour the **rice vinegar** and the **water** slowly over the chilies. Press the chilies down with a clean spoon until they are covered. The jar smells sharp.
 5. Leave the jar on the counter until you can hold the glass in your hand, about 30 minutes.
 6. Screw the lid on and refrigerate until a chili is plump and the center tastes sour, about 1 day. The chilies stay under the brine. If the center is still dry, leave it 1 day more.

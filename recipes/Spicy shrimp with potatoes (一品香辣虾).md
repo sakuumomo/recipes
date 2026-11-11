@@ -4,7 +4,7 @@ Serves 2. About 45 minutes.
 
 The potatoes and the shrimp fry in a deep heavy saucepan on the coil. The toss is in the wok, and the wok stays in its ring.
 
-Soak the potatoes. Season the shrimp and cut the aromatics while they soak. Fry the potatoes, then the shrimp. Toss as soon as the shrimp come out.
+Soak the potatoes. Season the shrimp and cut the aromatics while they soak. Fry the shrimp, then the potatoes. Toss as soon as the potatoes come out.
 
 Measure each ingredient once. A later list is that same amount again.
 
@@ -40,7 +40,6 @@ Measure each ingredient once. A later list is that same amount again.
 **Fry**
 
 - 3 cups peanut oil, for frying
-- 2 tbsp potato starch
 
 ---
 
@@ -91,17 +90,15 @@ Do this while the potatoes soak. Use plain red chili oil.
 ## Fry
 
 - 3 cups peanut oil, for frying
-- 8 oz potatoes, drained
-- 2 tbsp potato starch
 - 10 oz large shrimp, peeled and deveined, seasoned
+- 8 oz potatoes, drained
 
-1. Put the **peanut oil for frying** in a deep heavy saucepan. Set it on a coil turned to high. Heat until a thermometer in the oil reads 350°F, about 8 minutes. If the oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back.
-2. Slide in half of the **drained potatoes**. Leave them still for 1 minute so the outsides set, then turn them. Fry until the outside is gold and a baton is soft in the middle, about 4 minutes. If the oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back. Lift them out with a slotted spoon.
-3. Let the oil return to 350°F. Fry the remaining **drained potatoes** the same way. Lift them out.
-4. Toss the **seasoned large shrimp** with the **potato starch** until each shrimp has a thin coat. Shake off the extra starch.
-5. Let the oil return to 350°F. Slide in half of the **seasoned large shrimp** in one layer. Leave them still until the coating sets, about 20 seconds, then turn them. Fry until they curl in a loose C and the center is just opaque, about 40 seconds more. If they curl into a tight ring, they are done. Lift them out.
-6. Let the oil return to 350°F. Fry the remaining **seasoned large shrimp** the same way. Lift them out.
-7. Turn the coil off.
+1. Put the **peanut oil for frying** in a deep heavy saucepan. Set it on a coil turned to high. Stay with the thermometer. Heat until it reads 350°F, about 8 minutes. Pull the saucepan fully off. Turn the coil to the setting that holds 350°F. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
+2. Slide in half of the **seasoned large shrimp**. Fry until they are pink, curled in a loose C, and the center is just opaque, about 45 seconds. If a shrimp curls into a tight ring, lift it out. If the oil smokes or climbs past 350°F, pull the saucepan fully off and turn the coil off. When the oil returns to 350°F, turn the coil back to the setting that holds it and set the saucepan fully back on. Lift them out with a slotted spoon.
+3. Let the oil return to 350°F on the setting that holds it. Fry the remaining **seasoned large shrimp** the same way. Lift them out.
+4. Slide in half of the **drained potatoes**. Leave them still for 1 minute so the outsides set, then turn them. Fry until the outside is gold and a baton is soft in the middle, about 4 minutes. If the oil smokes or climbs past 350°F, pull the saucepan fully off and turn the coil off. When the oil returns to 350°F, turn the coil back to the setting that holds it and set the saucepan fully back on. Lift them out with a slotted spoon.
+5. Let the oil return to 350°F on the setting that holds it. Fry the remaining **drained potatoes** the same way. Lift them out.
+6. Turn the coil off.
 
 ## Toss
 
@@ -130,9 +127,9 @@ These amounts were measured above.
 
 - 10 oz large shrimp, peeled and deveined, fried
 
-1. Set the wok in the ring on a coil turned to medium. Add the **peanut oil for the toss**. When it shimmers, about 1 minute, add the **garlic**, the **ginger**, and the **dried facing-heaven chilies** together. Stir until the garlic smells sweet and the chilies turn one shade darker, still red, about 30 seconds. If they blacken, turn the coil off and stir until they cool, then turn the coil back to medium.
+1. Set the wok in the ring on a coil turned to medium. Add the **peanut oil for the toss**. When it shimmers, about 1 minute, add the **garlic**, the **ginger**, and the **dried facing-heaven chilies** together. Stir until the garlic smells sweet and the chilies turn one shade darker, still red, about 30 seconds. If they blacken, turn the coil off and stir until they cool. Wait until the coil stops glowing, then turn the coil back to medium.
 2. Add the **Chinese celery**, the **roasted salted peanuts**, and the **scallion**. Stir until the celery is bright green, about 30 seconds.
 3. Add the **light soy sauce**, the **sugar**, the **chili oil**, and the **toasted sesame oil** together.
-4. Add the **fried potatoes** and the **fried large shrimp**. Toss until every piece looks glossy and the shrimp are still tender, about 30 seconds. If a potato is cool in the center, push the shrimp up the sides and let the potatoes heat in the bottom, about 1 minute more, then fold the shrimp back down.
+4. Add the **fried potatoes** and the **fried large shrimp**. Toss until every piece looks glossy and the shrimp are still tender, about 30 seconds. If the shrimp have cooled, toss until they are hot again, about 30 seconds more.
 5. Turn the coil off. Add the **white sesame seeds**. Toss until they stick, about 10 seconds.
 6. Eat it hot.

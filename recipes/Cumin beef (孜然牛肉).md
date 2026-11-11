@@ -28,11 +28,11 @@ Measure each ingredient once. A later list is that same amount again.
 
 - 2 tbsp peanut oil, for the stir-fry
 - 1 tsp peanut oil, for the spices
-- 1 tsp cumin seeds (孜然)
-- 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 2 tsp ginger, minced
 - 3 cloves garlic, sliced
 - 1 small red onion, cut into 1/2 in pieces
+- 1 tsp cumin seeds (孜然)
+- 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 1 tbsp ground cumin (孜然)
 - 1 tsp Sichuan chili flakes (四川辣椒面)
 - 1/2 tsp sugar
@@ -60,7 +60,7 @@ Use flank steak so the slices soften in this time. Use unsalted Shaoxing.
 
 - 1/2 tsp Sichuan peppercorns (红花椒)
 
-1. Toast the **Sichuan peppercorns** in a small skillet over medium-low heat, shaking often, until they smell citrusy, about 2 minutes. Slide the skillet off the coil if they start to smoke.
+1. Toast the **Sichuan peppercorns** in a small skillet over medium-low heat, shaking often, until they smell citrusy, about 2 minutes. Slide the skillet off the coil and turn that coil off.
 2. Cool them 1 minute. Put them in a small bowl and crush them to a powder with the back of a spoon.
 
 ## Stir-fry
@@ -70,11 +70,11 @@ Do this before the wok is hot. Use medium 二荆条 flakes marked 中辣.
 - 2 tbsp peanut oil, for the stir-fry
 - 10 oz flank steak, marinated
 - 1 tsp peanut oil, for the spices
-- 1 tsp cumin seeds (孜然)
-- 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 2 tsp ginger, minced
 - 3 cloves garlic, sliced
 - 1 small red onion, cut into 1/2 in pieces
+- 1 tsp cumin seeds (孜然)
+- 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 1 tbsp ground cumin (孜然)
 - 1 tsp Sichuan chili flakes (四川辣椒面)
 - 1/2 tsp sugar
@@ -83,11 +83,12 @@ Do this before the wok is hot. Use medium 二荆条 flakes marked 中辣.
 
 1. Put each ingredient into its own cup or pile, prepared the way the line says. Set the marinated beef and the crushed peppercorns with them.
 2. If the beef is not tacky yet, wait. Set the wok in the ring on a coil turned to high. Heat it until a drop of water flicked into the center vanishes, about 5 minutes.
-3. Add 1 tbsp of the **peanut oil for the stir-fry**. Swirl it over the bottom. Add half of the **marinated flank steak** in one layer. Leave it still until the underside browns, about 45 seconds. Toss until the pink is gone, about 45 seconds more. If the oil smokes, turn the coil off and stir until the smoke stops, then turn the coil back to high. When the oil shimmers, keep going. Scoop it onto a plate.
-4. Add the rest of the **peanut oil for the stir-fry** and the rest of the **marinated flank steak**. Leave it still until the underside browns, about 45 seconds. Toss until the pink is gone, about 45 seconds more. If the oil smokes, turn the coil off and stir until the smoke stops, then turn the coil back to high. When the oil shimmers, keep going. Scoop it onto the plate.
-5. Turn the coil off. Add the **peanut oil for the spices**. Wait until the oil stops smoking. When the coil stops glowing, turn it to medium-low. Add the **cumin seeds** and the **dried facing-heaven chilies** together. Stir until the seeds smell toasty and the chilies turn one shade darker, still red, about 20 seconds. If they blacken, turn the coil off and stir until they cool, then turn the coil back to medium-low.
+3. Add 1 tbsp of the **peanut oil for the stir-fry**. Swirl it over the bottom. Add half of the **marinated flank steak** in one layer. Leave it still until the underside browns, about 45 seconds. Toss until the pink is gone, about 45 seconds more. If the oil smokes, turn the coil off and stir until the smoke stops. Wait until the coil stops glowing, then turn the coil back to high. When the oil shimmers, keep going. Scoop it onto a plate.
+4. Add the rest of the **peanut oil for the stir-fry** and the rest of the **marinated flank steak**. Leave it still until the underside browns, about 45 seconds. Toss until the pink is gone, about 45 seconds more. If the oil smokes, turn the coil off and stir until the smoke stops. Wait until the coil stops glowing, then turn the coil back to high. When the oil shimmers, keep going. Scoop it onto the plate.
+5. Turn the coil off. Add the **peanut oil for the spices**. When the coil stops glowing, turn it to medium.
 6. Add the **ginger** and the **garlic** together. Stir until they smell sweet, about 15 seconds.
 7. Add the **red onion**. Stir until the edges soften and the pieces still have bite, about 1 minute.
-8. Add the **marinated flank steak**, the **ground cumin**, the **Sichuan chili flakes**, the **sugar**, and the **toasted and crushed Sichuan peppercorns** together. Toss until the spices cling and the beef smells toasty, about 30 seconds.
-9. Turn the coil off. Add the **cilantro**. Toss until it wilts, about 15 seconds.
-10. Eat it hot.
+8. Turn the coil off. When it stops glowing, turn it to medium-low. When the oil shimmers and has stopped smoking, add the **cumin seeds** and the **dried facing-heaven chilies** together. Stir until the seeds smell toasty and the chilies turn one shade darker, still red, about 20 seconds. If they blacken, turn the coil off and stir until they cool. Wait until the coil stops glowing, then turn the coil back to medium-low.
+9. Add the **marinated flank steak**, the **ground cumin**, the **Sichuan chili flakes**, the **sugar**, and the **toasted and crushed Sichuan peppercorns** together. Toss until the spices cling and the beef smells toasty, about 30 seconds.
+10. Turn the coil off. Add the **cilantro**. Toss until it wilts, about 15 seconds.
+11. Eat it hot.

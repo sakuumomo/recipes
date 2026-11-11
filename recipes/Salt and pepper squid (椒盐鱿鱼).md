@@ -61,7 +61,7 @@ Use cleaned squid tubes. Use unsalted Shaoxing.
 - 1 red chili (小米辣), sliced
 - 1 scallion, chopped
 
-1. Toast the **Sichuan peppercorns** in a small skillet over medium-low heat, shaking often, until they smell citrusy, about 1 minute. Slide the skillet off the coil if they start to smoke.
+1. Toast the **Sichuan peppercorns** in a small skillet over medium-low heat, shaking often, until they smell citrusy, about 1 minute. Slide the skillet off the coil and turn that coil off.
 2. Cool them 1 minute. Crush them to a powder with the back of a spoon.
 3. Stir in the **kosher salt** and the **ground white pepper**.
 4. Slice the **garlic**. Slice the **ginger**. Slice the **red chili**. Chop the **scallion**.
@@ -78,10 +78,10 @@ Use cleaned squid tubes. Use unsalted Shaoxing.
 - 2 tsp peanut oil, for the toss
 - 10 oz squid tubes, drained
 
-1. Put the **peanut oil for frying** in a deep heavy saucepan. Set it on a coil turned to high. Heat until a thermometer in the oil reads 350°F, about 8 minutes. If the oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back.
+1. Put the **peanut oil for frying** in a deep heavy saucepan. Set it on a coil turned to high. Stay with the thermometer. Heat until it reads 350°F, about 8 minutes. Pull the saucepan fully off. Turn the coil to the setting that holds 350°F. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
 2. When the oil is ready and the squid has finished its 10 minutes, stir the **all-purpose flour**, the **potato starch**, the **baking powder**, and the **kosher salt for the batter** together. Add the **water** and the **peanut oil for the batter**. Stir until the batter is a thick cream and a ribbon falls slowly. Toss the **drained squid tubes** in it until each ring is coated.
-3. Slide in half of the **drained squid tubes**, a few rings at a time so they stay separate. Set the wok in the ring on a coil turned to medium and add the **peanut oil for the toss**. Fry until the coating is pale gold and the squid is just opaque, about 45 seconds. If a ring curls into a tight ball, lift it out. If the fry oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back. If the toss oil smokes, turn that coil off. Lift the squid out with a slotted spoon.
-4. Let the oil return to 350°F. Fry the remaining half the same way. Lift them out.
+3. Slide in half of the **drained squid tubes**, a few rings at a time so they stay separate. Fry until the coating is pale gold and the squid is just opaque, about 45 seconds. If a ring curls into a tight ball, lift it out. If the oil smokes or climbs past 350°F, pull the saucepan fully off and turn the coil off. When the oil returns to 350°F, turn the coil back to the setting that holds it and set the saucepan fully back on. Lift the squid out with a slotted spoon.
+4. Let the oil return to 350°F on the setting that holds it. Fry the remaining half the same way. Lift them out.
 5. Turn the coil off.
 
 ## Toss
@@ -108,6 +108,6 @@ These amounts were measured above.
 
 - 2 tsp peanut oil, for the toss
 
-1. The **peanut oil for the toss** should already be shimmering. If the coil is off, turn it back to medium. When the oil shimmers and has stopped smoking, add the **garlic**, the **ginger**, and the **red chili** together. Stir until the garlic is pale gold, about 40 seconds. If it darkens, turn the coil off and stir until it cools, then turn the coil back to medium.
+1. Set the wok in the ring on a coil turned to medium. Add the **peanut oil for the toss**. When it shimmers, about 1 minute, add the **garlic**, the **ginger**, and the **red chili** together. Stir until the garlic is pale gold, about 40 seconds. If it darkens, turn the coil off and stir until it cools. Wait until the coil stops glowing, then turn the coil back to medium.
 2. Add the **fried squid tubes**, the **scallion**, the **toasted and crushed Sichuan peppercorns**, the **kosher salt**, and the **ground white pepper** together. Toss until every ring is seasoned and the coating is still crisp, about 20 seconds.
 3. Eat it hot, while the coating is still crisp.

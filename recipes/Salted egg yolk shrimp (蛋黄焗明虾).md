@@ -38,8 +38,8 @@ Use the yolks from salted duck eggs.
 - 2 cups water, for steaming
 - 3 salted duck egg yolks (咸蛋黄)
 
-1. Put the **water for steaming** in a heavy saucepan. Set it on a coil turned to high.
-2. When the water boils, turn the coil down until the surface shivers. Set a rack in the saucepan so it stands above the water. If you have no rack, set a small heatproof cup upside down in the water. Set a small heatproof plate on the rack or the cup so the plate stays dry. Put the **salted duck egg yolks** on the plate. Cover the saucepan. Steam until a yolk breaks into dry sandy crumbs when pressed, about 10 minutes. A yolk that is already firm may be ready in about 2 minutes. If the plate gets wet, the yolks mash instead of crumbling. Go on to the shrimp while it steams.
+1. Put the **water for steaming** in a heavy saucepan. Set it on a coil turned to high. Stay with it.
+2. When the water boils, pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should shiver. Set a rack in the saucepan so it stands above the water. If you have no rack, set a small heatproof cup upside down in the water. Set a small heatproof plate on the rack or the cup so the plate stays dry. Put the **salted duck egg yolks** on the plate. Cover the saucepan. Steam until a yolk breaks into dry sandy crumbs when pressed, about 10 minutes. A yolk that is already firm may be ready in about 2 minutes. If the plate gets wet, the yolks mash instead of crumbling. Go on to the shrimp while it steams.
 3. When a yolk breaks into sandy crumbs, mash the **salted duck egg yolks** with a spoon until they are a fine paste. If you are mid-cut, finish that piece first.
 
 ## Shrimp
@@ -69,7 +69,7 @@ Do this before the wok is hot.
 1. Mince the **garlic**. Chop the **scallion**. If the yolks are still whole, mash them until they are a fine paste.
 2. Set the wok in the ring on a coil turned to medium-high. Add the **peanut oil**. When it shimmers, about 2 minutes, add half of the **coated large shrimp** in one layer in the bottom. Cook until the undersides are pink, about 30 seconds. Turn them. Cook until they curl in a loose C and the center is just opaque, about 30 seconds more. If they curl into a tight ring or brown hard, turn the coil off and scoop them onto a plate.
 3. Turn the coil to medium-high if it is off. When the oil shimmers again, cook the remaining **coated large shrimp** the same way. Scoop them onto the plate.
-4. Turn the coil off. When it stops glowing, turn it to medium-low. Add the **garlic**, the **steamed and mashed salted duck egg yolks**, and the **sugar**. Stir and press until the yolks foam and look sandy, about 1 minute. If they smell sharp, turn the coil off and stir until the smell sweetens, then turn the coil back to medium-low.
+4. Turn the coil off. When it stops glowing, turn it to medium-low. Add the **garlic**, the **steamed and mashed salted duck egg yolks**, and the **sugar**. Stir and press until the yolks foam and look sandy, about 1 minute. If they smell sharp, turn the coil off and stir until the smell sweetens. Wait until the coil stops glowing, then turn the coil back to medium-low.
 5. Return the **coated large shrimp**. Toss until every shrimp wears an even gold coat, about 30 seconds.
 6. Turn the coil off. Add the **scallion**. Toss until it smells sweet, about 15 seconds.
 7. Eat it hot.

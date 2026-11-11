@@ -72,13 +72,14 @@ Do this before the oil is hot.
 - 1 tbsp peanut oil, for the toss
 - 10 oz squid tubes, blanched
 
-1. Put the **peanut oil for frying** in the dry saucepan. Set it on a coil turned to high. Heat until a thermometer in the oil reads 350°F, about 8 minutes. If the oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back.
+1. Put the **peanut oil for frying** in the dry saucepan. Set it on a coil turned to high. Stay with the thermometer. Heat until it reads 350°F, about 8 minutes. Pull the saucepan fully off. Turn the coil to the setting that holds 350°F. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
 2. Toss the **blanched squid tubes** with the **potato starch** until each strip has a thin coat. Shake off the extra starch.
-3. Slide in half of the **blanched squid tubes**, a few strips at a time so they stay separate. Set the wok in the ring on a coil turned to medium-low and add the **peanut oil for the toss**. Fry until the coat is set and the strips have curled, about 30 seconds. If the fry oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back. If the toss oil smokes, turn that coil off. Lift the squid out with a slotted spoon.
-4. Let the oil return to 350°F. Fry the remaining half the same way. Lift them out.
-5. Set the coil on high. When a thermometer in the oil reads 375°F, return half of the strips. Fry until the coat is pale gold and crisp, about 15 seconds. If the oil climbs past 375°F, pull the saucepan off the coil until it returns to 375°F, then set it back. Lift them out.
-6. Let the oil return to 375°F. Fry the remaining half the same way. Lift them out.
-7. Turn the coil off.
+3. Slide in half of the **blanched squid tubes**, a few strips at a time so they stay separate. Fry until the coat is set and the strips have curled, about 30 seconds. If the oil smokes or climbs past 350°F, pull the saucepan fully off and turn the coil off. When the oil returns to 350°F, turn the coil back to the setting that holds it and set the saucepan fully back on. Lift the squid out with a slotted spoon.
+4. Let the oil return to 350°F on the setting that holds it. Fry the remaining half the same way. Lift them out.
+5. Turn the coil up and leave the saucepan fully on. Stay with the thermometer. When it reads 375°F, pull the saucepan fully off. Turn the coil to the setting that holds 375°F. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
+6. Return half of the strips. Fry until the coat is pale gold and crisp, about 15 seconds. If the oil climbs past 375°F, pull the saucepan fully off and turn the coil off. When the oil returns to 375°F, turn the coil back to the setting that holds it and set the saucepan fully back on. Lift them out.
+7. Let the oil return to 375°F on the setting that holds it. Fry the remaining half the same way. If the oil climbs past 375°F, pull the saucepan fully off and turn the coil off. When the oil returns to 375°F, turn the coil back to the setting that holds it and set the saucepan fully back on. Lift them out.
+8. Turn the coil off.
 
 ## Toss
 
@@ -96,8 +97,8 @@ Do this as soon as the squid comes out.
 - 1/2 tsp sugar
 - 1 tsp light soy sauce (生抽)
 
-1. The **peanut oil for the toss** should already be shimmering. If the coil is off, turn it back to medium-low. When the oil shimmers and has stopped smoking, add the **dried facing-heaven chilies** and the **Sichuan peppercorns** together. Stir until the peppercorns smell citrusy and the chilies turn one shade darker, still red, about 20 seconds. If they blacken, turn the coil off and stir until they cool, then turn the coil back to medium-low.
+1. Set the wok in the ring on a coil turned to medium-low. Add the **peanut oil for the toss**. When the oil shimmers and has not smoked, about 2 minutes, add the **dried facing-heaven chilies** and the **Sichuan peppercorns** together. Stir until the peppercorns smell citrusy and the chilies turn one shade darker, still red, about 20 seconds. If they blacken, turn the coil off and stir until they cool. Wait until the coil stops glowing, then turn the coil back to medium-low.
 2. Add the **garlic** and the **ginger** together. Stir until they smell sweet, about 15 seconds.
-3. Turn the coil off. When it stops glowing, turn it to medium. Add the **Chinese celery** and the **onion**. Toss until the celery is bright and still has bite, about 45 seconds.
+3. Add the **Chinese celery** and the **onion**. Toss until the celery is bright and still has bite, about 1 minute.
 4. Add the **fried squid tubes**, the **kosher salt**, the **sugar**, and the **light soy sauce** together. Toss until the squid looks dry and the coating is still crisp, about 20 seconds.
 5. Eat the squid, the celery, and the onion hot. The chilies and the peppercorns stay on the plate for their aroma.

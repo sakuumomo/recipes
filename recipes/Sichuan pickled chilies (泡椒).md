@@ -46,8 +46,8 @@ Use a clear grain liquor marked 白酒.
 - 1 1/2 tsp sugar
 - 1 tbsp baijiu (白酒)
 
-1. Put the **water** in a small heavy saucepan. Set the saucepan on a coil turned to high. Heat until the water boils, about 4 minutes.
-2. Pull the saucepan off the coil. Add the **kosher salt** and the **sugar**. Stir until they dissolve, about 30 seconds.
+1. Put the **water** in a small heavy saucepan. Set the saucepan on a coil turned to high. Stay with it. Heat until the water boils, about 4 minutes.
+2. Pull the saucepan fully off and turn the coil off. Add the **kosher salt** and the **sugar**. Stir until they dissolve, about 30 seconds.
 3. Leave the saucepan off the coil until the brine feels as cool as the counter, about 1 hour. Go on to the aromatics. Come back when the brine is cool.
 4. Stir in the **baijiu** until the saucepan smells faintly of liquor, about 10 seconds. Go on to the pack.
 

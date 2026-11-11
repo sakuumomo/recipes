@@ -60,7 +60,7 @@ Measure each ingredient once. A later list is that same amount again.
 
 - 1 tsp white sesame seeds (白芝麻)
 
-1. Toast the **white sesame seeds** in a small skillet over medium-low heat, shaking often, until they are golden and smell nutty, about 2 minutes. Slide the skillet off the coil if they start to smoke.
+1. Toast the **white sesame seeds** in a small skillet over medium-low heat, shaking often, until they are golden and smell nutty, about 2 minutes. Slide the skillet off the coil and turn that coil off. If they start to smoke, slide the skillet off and turn that coil off.
 2. Pour them onto a plate so they stop cooking.
 
 ## Filling
@@ -127,9 +127,9 @@ Once the dough has doubled, shape 8 small buns and close each top so the juice s
 
 1. Put the **peanut oil** in a cold 10 in heavy skillet.
 2. Set the **all-purpose flour for the dough** in, shaped into 8 buns, pleat side up, with space between them.
-3. Set the skillet on medium. Fry without moving the buns until the bottoms are pale gold, about 8 minutes. If a bottom smells sharp, pull the skillet off the coil until the smell sweetens, then set it back.
+3. Set the skillet on medium. Fry without moving the buns until the bottoms are pale gold, about 8 minutes. If a bottom smells sharp, pull the skillet fully off and turn the coil off. When the smell sweetens, turn the coil back to medium and set the skillet fully back on.
 4. Hold the lid in front of the skillet. Pour in the **water for the skillet** and cover at once. The oil will spit.
-5. Cook until the water is gone and the tops look set and puffed, about 8 minutes. If the bottoms smell sharp, pull the skillet off the coil until the smell sweetens, then set it back.
+5. Cook until the water is gone and the tops look set and puffed, about 8 minutes. If the bottoms smell sharp, pull the skillet fully off and turn the coil off. When the smell sweetens, turn the coil back to medium and set the skillet fully back on.
 6. Take the lid off. Scatter the **white sesame seeds** and the **scallion for the top** over the buns. Cover until the scallion smells sweet, about 1 minute.
 7. Take the lid off. Cook until the bottoms are deep golden and the skillet sounds dry, about 1 minute. If a bun sticks, leave it 30 seconds and lift again.
 8. Lift the buns out, crisp side up. The center is hot and juicy. Eat them hot.

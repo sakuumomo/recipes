@@ -46,9 +46,9 @@ Use a long Chinese eggplant.
 
 1. Trim the **eggplant** and cut it into pieces about 2 in long and 3/4 in thick. Toss the pieces with the **kosher salt**. Set a timer for 15 minutes. Go on to the sauce.
 2. When the timer rings, squeeze the pieces and pat them dry. Toss them with the **potato starch** until each piece has a thin coat. Shake off the extra starch.
-3. Set the wok in the ring on a coil turned to medium-high. Add the **peanut oil for the eggplant**. When it shimmers, about 2 minutes, add a single layer of the **eggplant** in the bottom. Cook until the underside is golden, about 2 minutes. Turn the pieces. Cook until both sides are golden and the center of a piece looks creamy, about 2 minutes more. If the oil smokes, turn the coil off until the smoke stops, then turn the coil back to medium-high. If the center is still white and spongy, cook 1 minute more. Lift the pieces out.
+3. Set the wok in the ring on a coil turned to medium-high. Add the **peanut oil for the eggplant**. When it shimmers, about 2 minutes, add a single layer of the **eggplant** in the bottom. Cook until the underside is golden, about 2 minutes. Turn the pieces. Cook until both sides are golden and the center of a piece looks creamy, about 2 minutes more. If the oil smokes, turn the coil off until the smoke stops and the coil stops glowing, then turn the coil back to medium-high. If the center is still white and spongy, cook 1 minute more. Lift the pieces out.
 4. Cook the rest of the **eggplant** the same way, one layer at a time. Lift the pieces out.
-5. Lift the wok out of the ring. Pour the oil into a heatproof bowl until about 1 tbsp remains, and set the wok back in the ring. If the wok is dry, pour back about 1 tbsp of that oil. Go back to the sauce.
+5. Turn the coil off. Spoon the oil into a heatproof bowl until about 1 tbsp remains. The wok stays in the ring. If the wok is dry, pour back about 1 tbsp of that oil. Go back to the sauce.
 
 ## Sauce
 
@@ -70,9 +70,9 @@ Do this while the eggplant sits. Use the coarse Pixian paste, sweet wheat sauce 
 - 12 oz eggplant, fried
 
 1. Mince the **ginger** and the **garlic**. Chop the **scallion**. Chop the **Pixian doubanjiang**. Stir the **potato starch for the sauce** and the **cold water for the sauce** together until the liquid is smooth. Go back and finish the eggplant. Come back to the next step when the oil has been poured off.
-2. Turn the coil off. When it stops glowing, turn it to medium-low. Add the **ginger** and the **garlic**. Stir until they smell sweet, about 20 seconds. If they color, turn the coil off and stir until they cool, then turn the coil back to medium-low.
-3. Add the **Pixian doubanjiang** and the **sweet wheat sauce** together. Stir until the oil turns red and the pastes smell sweet, about 45 seconds. If they smell sharp, turn the coil off and stir until the smell sweetens, then turn the coil back to medium-low.
+2. Turn the coil off. When it stops glowing, turn it to medium-low. Add the **ginger** and the **garlic**. Stir until they smell sweet, about 20 seconds. If they color, turn the coil off and stir until they cool. Wait until the coil stops glowing, then turn the coil back to medium-low.
+3. Add the **Pixian doubanjiang** and the **sweet wheat sauce** together. Stir until the oil turns red and the pastes smell sweet, about 45 seconds. If they smell sharp, turn the coil off and stir until the smell sweetens. Wait until the coil stops glowing, then turn the coil back to medium-low.
 4. Add the **sugar**, the **light soy sauce**, the **dark soy sauce**, the **Shaoxing wine**, and the **water for the sauce** together. Stir until the sauce bubbles, about 20 seconds.
-5. Add the **fried eggplant**. Stir until the pieces are coated and soft, about 1 minute. If a center is still firm, cook 1 minute more. If the sauce sticks, turn the coil off until the sauce loosens, then turn the coil back to medium-low.
+5. Add the **fried eggplant**. Stir until the pieces are coated and soft, about 1 minute. If a center is still firm, cook 1 minute more. If the sauce sticks, turn the coil off until the sauce loosens and the coil stops glowing, then turn the coil back to medium-low.
 6. Stir the **starch mixture** again. Pour it in. Stir until the sauce looks glossy and clings to the pieces, about 20 seconds.
 7. Turn the coil off. Add the **Zhenjiang vinegar** and the **scallion**. Stir until the vinegar smells sharp, about 10 seconds.

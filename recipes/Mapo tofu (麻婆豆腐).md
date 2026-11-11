@@ -50,14 +50,14 @@ Use water-packed soft tofu.
 - 1 tsp kosher salt, Diamond Crystal
 
 1. Cut the **soft tofu** into 3/4 in cubes.
-2. Put the **water** and the **kosher salt** in a heavy saucepan. Bring them to a bare simmer over medium-high heat. When the water starts to boil, turn the coil down until the surface only shivers.
+2. Put the **water** and the **kosher salt** in a heavy saucepan. Set the saucepan on a coil turned to high. Stay with it. When the water boils, pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should only shiver.
 3. Slide in the tofu and set a timer for 8 minutes. Go on to the Sichuan pepper. When the timer rings, lift the tofu out with a slotted spoon and let it drain.
 
 ## Sichuan pepper
 
 - 1/2 tsp Sichuan peppercorns (红花椒)
 
-1. Toast the **Sichuan peppercorns** in a small skillet over medium-low heat, shaking often, until they smell citrusy, about 2 minutes. Slide the skillet off the coil if they start to smoke.
+1. Toast the **Sichuan peppercorns** in a small skillet over medium-low heat, shaking often, until they smell citrusy, about 2 minutes. Slide the skillet off the coil and turn that coil off.
 2. Cool them 1 minute. Put them in a small bowl and crush them to a powder with the back of a spoon.
 
 ## Starch slurry
@@ -118,12 +118,12 @@ These amounts were measured above.
 - 1/2 tsp Sichuan peppercorns (红花椒), toasted and crushed
 
 1. Set the wok in the ring on a coil turned to high. Heat it until a drop of water flicked into the center vanishes, about 5 minutes.
-2. Add the **peanut oil for the beef**. When it shimmers and a thin wisp of smoke shows, add the **ground beef** and keep it in the bottom. Stir-fry, breaking it into small bits, until it is browned, about 2 minutes. If the smoke thickens, turn the coil off and stir until it thins, then turn the coil back to high. Scoop it back into its bowl.
+2. Add the **peanut oil for the beef**. When it shimmers and a thin wisp of smoke shows, add the **ground beef** and keep it in the bottom. Stir-fry, breaking it into small bits, until it is browned, about 2 minutes. If the smoke thickens, turn the coil off and stir until it thins. Wait until the coil stops glowing, then turn the coil back to high. Scoop it back into its bowl.
 3. Turn the coil off. Add the **peanut oil for the doubanjiang**. Wait until the oil stops smoking. When the coil stops glowing, turn it to medium-low. The oil should be shimmering. If it is not, wait until it shimmers.
-4. Add the **Pixian doubanjiang** and fry, stirring, until the oil is deep red and smells toasty, about 30 seconds. If it smells sharp, turn the coil off and stir until the smell sweetens, then turn the coil back to medium-low.
+4. Add the **Pixian doubanjiang** and fry, stirring, until the oil is deep red and smells toasty, about 30 seconds. If it smells sharp, turn the coil off and stir until the smell sweetens. Wait until the coil stops glowing, then turn the coil back to medium-low.
 5. Add the **fermented black beans**, **Sichuan chili flakes**, **garlic**, and **ginger** together. Stir-fry until fragrant, about 20 seconds.
 6. Pour in the **chicken stock** and the **ground white pepper**. Bring it to a simmer.
-7. Add the **drained tofu**. Simmer 3 minutes, until the tofu is red. Push the tofu up the sides, scrape the bottom, and fold the tofu back down. If the center boils hard, turn the coil off until the surface settles, then turn the coil back to medium-low.
+7. Add the **drained tofu**. Simmer 3 minutes, until the tofu is red. Push the tofu up the sides, scrape the bottom, and fold the tofu back down. If the center boils hard, turn the coil off until the surface settles and the coil stops glowing, then turn the coil back to medium-low.
 8. Return the **ground beef** and simmer 1 minute, folding the tofu through the sauce.
 9. Stir the **starch slurry**. Pour in about a third and fold the tofu through the sauce. Add the rest in one or two more pours, and stop when the sauce is glossy and coats the back of a spoon. If the center starts to stick, turn the coil off and keep folding.
 10. Turn the coil off. Add the **scallions**. Stir until they turn bright and smell sweet, about 15 seconds.

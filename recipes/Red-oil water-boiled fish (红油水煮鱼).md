@@ -100,13 +100,12 @@ Do this while the fish marinates. Use the coarse Pixian paste.
 - 1/2 cup peanut oil, for the pour
 - 8 oz soybean sprouts (黄豆芽)
 
-1. Put the **peanut oil for the paste** in a heavy saucepan on a coil set to medium. When it shimmers, about 2 minutes, add the **Pixian doubanjiang**. Fry, stirring, until the oil is deep red and smells toasty, about 1 minute. If it smells sharp, pull the saucepan off the coil and stir until the smell sweetens, then set it back.
+1. Put the **peanut oil for the paste** in a heavy saucepan on a coil set to medium. When it shimmers, about 2 minutes, add the **Pixian doubanjiang**. Fry, stirring, until the oil is deep red and smells toasty, about 1 minute. If it smells sharp, pull the saucepan fully off and stir until the smell sweetens. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
 2. Add the **garlic for the paste**, the **ginger**, and the whites of the **scallions** together. Stir until fragrant, about 20 seconds.
-3. Add the **unsalted chicken stock**, the **Shaoxing wine for the broth**, the **ground white pepper for the broth**, the **kosher salt for the broth**, and the **sugar** together. Turn the coil to high. When it boils, pull the saucepan fully off the coil. Turn the coil to low and wait until it stops glowing. Set the saucepan fully back on. The surface should shiver.
-4. Put the **peanut oil for the pour** in a small skillet on another coil turned to medium. Go on to the next step. If a dry wooden spoon handle makes small bubbles before the fish is in the bowl, pull that skillet off the coil.
-5. Simmer the broth until the raw paste smell is gone, about 3 minutes.
-6. Add the **soybean sprouts**. Cook until they soften but still snap, about 1 minute. Lift them into the heatproof bowl.
-7. Keep the broth at a shiver. If it rolls again, pull the saucepan fully off until the surface settles, then set it fully back on. If it rolls again, leave it off until the surface needs heat. Go on to the pour.
+3. Add the **unsalted chicken stock**, the **Shaoxing wine for the broth**, the **ground white pepper for the broth**, the **kosher salt for the broth**, and the **sugar** together. Turn the coil to high. Stay with it. When it boils, pull the saucepan fully off the coil. Turn the coil to low and wait until it stops glowing. Set the saucepan fully back on. The surface should shiver.
+4. Simmer the broth until the raw paste smell is gone, about 3 minutes.
+5. Add the **soybean sprouts**. Cook until they soften but still snap, about 1 minute. Lift them into the heatproof bowl.
+6. Keep the broth at a shiver. If it rolls again, pull the saucepan fully off and turn the coil off. When the surface settles, turn the coil back to low and set the saucepan fully back on. If it rolls again, do the same again. Go on to the pour.
 
 ## Pour
 
@@ -128,6 +127,6 @@ These amounts were measured above.
 - 1/2 cup peanut oil, for the pour
 
 1. Slide in half of the **snakehead fillet**, a few slices at a time. Don't stir. Skim off any foam. When the slices are white and the edges have curled, about 30 seconds, lift them onto the sprouts. If a slice is still translucent, leave it 15 seconds more. Cook the remaining half the same way. Pour the broth over the sprouts.
-2. Set the small skillet back on the coil if it is off. The **peanut oil for the pour** is ready when a dry wooden spoon handle makes small bubbles and the oil does not smoke. If the handle stays quiet, leave it there until the bubbles come. If it is smoking, pull the skillet off the coil until the smoke stops, then set it back for a few seconds.
+2. Put the **peanut oil for the pour** in a small skillet. Set it on a coil turned to medium. Stay with it. The oil is ready when a dry wooden spoon handle makes small bubbles and the oil has not smoked, about 3 minutes. Slide the skillet off the coil and turn that coil off. If the oil is smoking, wait until the smoke stops. Leave the skillet off the coil.
 3. Scatter the greens of the **scallions**, the **garlic for the pour**, the **dried facing-heaven chilies**, and the **Sichuan peppercorns** over the fish.
 4. Pour the **peanut oil for the pour** over those aromatics. It should crackle as it lands. Eat the fish, the sprouts, and the scallion greens. The chilies and the peppercorns stay in the bowl for their aroma.

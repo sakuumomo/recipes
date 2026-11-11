@@ -81,13 +81,14 @@ Do this while the fish marinates. Use tomato ketchup. Use plain rice vinegar.
 - 1/3 cup potato starch, for the coating
 - 12 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/4 in thick, marinated
 
-1. Put the **peanut oil for frying** in a deep heavy saucepan. Set it on a coil turned to high. Heat until a thermometer in the oil reads 350°F, about 8 minutes. If the oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back.
+1. Put the **peanut oil for frying** in a deep heavy saucepan. Set it on a coil turned to high. Stay with the thermometer. Heat until it reads 350°F, about 8 minutes. Pull the saucepan fully off. Turn the coil to the setting that holds 350°F. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
 2. When the oil is ready and the fish has finished its 15 minutes, toss the **marinated snakehead fillet** with the **potato starch for the coating** until each slice has a thin, even coat. Shake off the extra starch.
-3. Slide in half of the **marinated snakehead fillet** in one layer. Leave the slices still until the coating sets, about 30 seconds, then turn any pale side. Fry until the coating is pale gold. Break one slice open. The center is just opaque, about 45 seconds more. If the center is still translucent, fry 20 seconds more. If the oil smokes or climbs past 350°F, pull the saucepan off the coil until it returns to 350°F, then set it back. Lift the slices out with a slotted spoon.
-4. Let the oil return to 350°F. Fry the remaining half the same way. Lift them out.
-5. Set the coil on high. When a thermometer in the oil reads 375°F, return half of the slices. Fry until the coating is light gold and crisp, about 20 seconds. If the oil climbs past 375°F, pull the saucepan off the coil until it returns to 375°F, then set it back. Lift them out.
-6. Let the oil return to 375°F. Fry the remaining half the same way. Lift them out.
-7. Turn the coil off.
+3. Slide in half of the **marinated snakehead fillet** in one layer. Leave the slices still until the coating sets, about 30 seconds, then turn any pale side. Fry until the coating is pale gold. Break one slice open. The center is just opaque, about 45 seconds more. If the center is still translucent, fry 20 seconds more. If the oil smokes or climbs past 350°F, pull the saucepan fully off and turn the coil off. When the oil returns to 350°F, turn the coil back to the setting that holds it and set the saucepan fully back on. Lift the slices out with a slotted spoon.
+4. Let the oil return to 350°F on the setting that holds it. Fry the remaining half the same way. Lift them out.
+5. Turn the coil up and leave the saucepan fully on. Stay with the thermometer. When it reads 375°F, pull the saucepan fully off. Turn the coil to the setting that holds 375°F. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
+6. Return half of the slices. Fry until the coating is light gold and crisp, about 20 seconds. If the oil climbs past 375°F, pull the saucepan fully off and turn the coil off. When the oil returns to 375°F, turn the coil back to the setting that holds it and set the saucepan fully back on. Lift them out.
+7. Let the oil return to 375°F on the setting that holds it. Fry the remaining half the same way. If the oil climbs past 375°F, pull the saucepan fully off and turn the coil off. When the oil returns to 375°F, turn the coil back to the setting that holds it and set the saucepan fully back on. Lift them out.
+8. Turn the coil off.
 
 ## Glaze
 
@@ -112,9 +113,9 @@ These amounts were measured above.
 
 - 12 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/4 in thick, fried
 
-1. Set the wok in the ring on a coil turned to medium. Add the **peanut oil for the sauce**. When it shimmers, about 1 minute, add the **ginger** and the **garlic** together. Stir until they smell sweet, about 15 seconds. If they smell sharp, turn the coil off and stir until the smell sweetens, then turn the coil back to medium.
-2. Pour in the **tomato ketchup**, the **sugar**, the **light soy sauce**, the **kosher salt for the sauce**, and the **water for the sauce** together. Stir until the sauce bubbles, about 30 seconds. If it smells sharp, turn the coil off and stir until the smell sweetens, then turn the coil back to medium.
-3. Stir the **potato starch for the sauce** and the **cold water for the slurry** again. Pour them in. Stir until the sauce is glossy and a spoon dragged through it leaves a clear trail, about 30 seconds. If the center boils hard, turn the coil off until the sauce calms, then turn the coil back to medium.
+1. Set the wok in the ring on a coil turned to medium. Add the **peanut oil for the sauce**. When it shimmers, about 1 minute, add the **ginger** and the **garlic** together. Stir until they smell sweet, about 15 seconds. If they smell sharp, turn the coil off and stir until the smell sweetens. Wait until the coil stops glowing, then turn the coil back to medium.
+2. Pour in the **tomato ketchup**, the **sugar**, the **light soy sauce**, the **kosher salt for the sauce**, and the **water for the sauce** together. Stir until the sauce bubbles, about 30 seconds. If it smells sharp, turn the coil off and stir until the smell sweetens. Wait until the coil stops glowing, then turn the coil back to medium.
+3. Stir the **potato starch for the sauce** and the **cold water for the slurry** again. Pour them in. Stir until the sauce is glossy and a spoon dragged through it leaves a clear trail, about 30 seconds. If the center boils hard, turn the coil off until the sauce calms and the coil stops glowing, then turn the coil back to medium.
 4. Turn the coil off. Add the **rice vinegar**. Stir until the sauce smells sharp, about 5 seconds.
 5. Add the **fried snakehead fillet** and the **scallion**. Fold until every slice is coated and the sauce clings, about 20 seconds.
 6. Eat it hot, while the coating is still crisp.
