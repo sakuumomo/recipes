@@ -23,4 +23,4 @@ Measure each ingredient once. A later list is that same amount again.
 1. Rinse the **jasmine rice** under cold water until the runoff is almost clear. Drain it well.
 2. Put the rice and the **water** in the Instant Pot and stir once.
 3. Lock the lid, set the valve to sealing, and pressure cook on high for 3 minutes.
-4. When it beeps, turn the valve to venting. Leave the lid on until you serve, then fluff the rice.
+4. When it beeps, stand clear of the valve and turn it to venting. The valve can throw starchy foam. Leave the lid on until you serve, then fluff the rice.

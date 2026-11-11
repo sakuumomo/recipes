@@ -85,9 +85,9 @@ Use the coarse Pixian paste, medium 二荆条 flakes marked 中辣, and plain re
 4. Add the **Pixian doubanjiang**. Stir until the oil turns red and the paste smells sweet, about 45 seconds. If it smells sharp, pull the saucepan off the coil and stir until the smell sweetens, then set it back.
 5. Add the **Sichuan chili flakes** and the **chili oil for the broth**. Stir until the oil is red, about 15 seconds.
 6. Pull the saucepan off the coil. Add the **water for the broth**, the **light soy sauce**, and the **sugar for the broth** together. Set the saucepan back on high.
-7. When the broth boils, pull the saucepan so it sits half on the coil and the surface bubbles gently. Simmer until the broth smells numbing, about 8 minutes.
-8. Lift out the **dried facing-heaven chilies**, the **Sichuan peppercorns**, the **ginger**, and the **garlic** with a slotted spoon. Leave the saucepan half off the coil.
-9. Add the **whole milk**. Stir until the broth turns opaque and the surface shivers, about 1 minute. If the surface boils hard, pull the saucepan farther off the coil. If the noodles are not ready, leave the saucepan half off the coil.
+7. When the broth boils, pull the saucepan fully off the coil. Turn the coil to low and wait until it stops glowing. Set the saucepan fully back on. The surface should bubble gently. Simmer until the broth smells numbing, about 8 minutes. If the center boils hard, pull the saucepan fully off until the surface settles, then set it fully back on. If it boils hard again, leave it off until the surface needs heat.
+8. Lift out the **dried facing-heaven chilies**, the **Sichuan peppercorns**, the **ginger**, and the **garlic** with a slotted spoon.
+9. Add the **whole milk**. Stir until the broth turns opaque and the surface shivers, about 1 minute. If the surface boils hard, pull the saucepan fully off until it settles, then set it fully back on. If the noodles are not ready, pull the saucepan fully off the coil. Set it back on low when a strand bends.
 
 ## Bowls
 
@@ -121,7 +121,7 @@ Cut these before they go into the broth. Use firm tofu, the block marked 北豆�
 
 1. Cut the **firm tofu** into 3/4 in cubes and pat the cubes dry. Trim the base off the **enoki mushrooms**, tear them into small bunches, and rinse them. If the **hot-pot beef slices** are frozen together, separate them while they are still cold. Pat them dry. Cut the **bok choy** into 2 in pieces and rinse it.
 2. If a strand of the **sweet potato noodles** still snaps, wait. Drain them.
-3. Add the **drained sweet potato noodles** to the broth and press them under the surface. Cook until they turn translucent at the edges, about 6 minutes. If the surface boils hard, pull the saucepan so it sits half on the coil.
+3. If the saucepan is off the coil, set it back on low. Add the **drained sweet potato noodles** to the broth and press them under the surface. Cook until they turn translucent at the edges, about 6 minutes. If the surface boils hard, pull the saucepan fully off until the surface settles, then set it fully back on. If the surface goes still, turn the coil one setting higher and leave the saucepan fully on.
 4. Lay the **firm tofu** on the noodles. Cook until the noodles are chewy and the tofu is hot, about 2 minutes. Break one strand. The center is translucent. If the center is still white, cook until it turns translucent, about 5 minutes more.
 5. Add the **enoki mushrooms**, the **hot-pot beef slices**, and the **bok choy** together. Stir once. Cook until the pink is gone and the slices are still tender, the mushrooms have wilted, and the bok choy leaves have wilted with the stems still crisp, about 45 seconds. If the beef stiffens, pull the saucepan off the coil.
 6. Ladle the pot and the broth into the two bowls. Scatter the **scallion** and the **cilantro** over the top.

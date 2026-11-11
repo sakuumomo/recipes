@@ -96,7 +96,7 @@ Use canned pork luncheon meat.
 - 3 oz luncheon meat (午餐肉), sliced 1/4 in thick
 
 1. Slice the **luncheon meat** 1/4 in thick. If the potatoes are still in the water, drain them. Pat the **drained potatoes** very dry.
-2. Set a 10 in heavy skillet on a coil turned to medium. Add the **peanut oil for the sear**. When it shimmers, about 1 minute, add half of the **drained potatoes** in one layer. Cook until the underside is gold, about 2 minutes. Turn the slices. Cook until both sides are gold and the center is tender, about 2 minutes more. If they scorch, pull the skillet half off the coil. Lift them out.
+2. Set a 10 in heavy skillet on a coil turned to medium. Add the **peanut oil for the sear**. When it shimmers, about 1 minute, add half of the **drained potatoes** in one layer. Cook until the underside is gold, about 2 minutes. Turn the slices. Cook until both sides are gold and the center is tender, about 2 minutes more. If they scorch, pull the skillet fully off the coil until they stop scorching, then set it fully back on. Lift them out.
 3. Add the remaining half of the **drained potatoes**. Cook them the same way. Lift them out.
 4. Add the **luncheon meat** in one layer. Cook until the edges brown, about 1 minute. Turn the slices and brown the other side, about 1 minute. If they blacken, pull the skillet off the coil. Lift them out.
 

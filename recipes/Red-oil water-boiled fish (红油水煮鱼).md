@@ -102,11 +102,11 @@ Do this while the fish marinates. Use the coarse Pixian paste.
 
 1. Put the **peanut oil for the paste** in a heavy saucepan on a coil set to medium. When it shimmers, about 2 minutes, add the **Pixian doubanjiang**. Fry, stirring, until the oil is deep red and smells toasty, about 1 minute. If it smells sharp, pull the saucepan off the coil and stir until the smell sweetens, then set it back.
 2. Add the **garlic for the paste**, the **ginger**, and the whites of the **scallions** together. Stir until fragrant, about 20 seconds.
-3. Add the **unsalted chicken stock**, the **Shaoxing wine for the broth**, the **ground white pepper for the broth**, the **kosher salt for the broth**, and the **sugar** together. Bring them to a simmer. When the center boils hard, pull the saucepan so it sits half on the coil.
+3. Add the **unsalted chicken stock**, the **Shaoxing wine for the broth**, the **ground white pepper for the broth**, the **kosher salt for the broth**, and the **sugar** together. Turn the coil to high. When it boils, pull the saucepan fully off the coil. Turn the coil to low and wait until it stops glowing. Set the saucepan fully back on. The surface should shiver.
 4. Put the **peanut oil for the pour** in a small skillet on another coil turned to medium. Go on to the next step. If a dry wooden spoon handle makes small bubbles before the fish is in the bowl, pull that skillet off the coil.
 5. Simmer the broth until the raw paste smell is gone, about 3 minutes.
 6. Add the **soybean sprouts**. Cook until they soften but still snap, about 1 minute. Lift them into the heatproof bowl.
-7. Keep the broth at a shiver. If it rolls again, pull the saucepan so it sits half on the coil. Go on to the pour.
+7. Keep the broth at a shiver. If it rolls again, pull the saucepan fully off until the surface settles, then set it fully back on. If it rolls again, leave it off until the surface needs heat. Go on to the pour.
 
 ## Pour
 

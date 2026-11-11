@@ -42,12 +42,12 @@ Done when every part uses one vessel from this kitchen.
 
 This cook has an electric stove with exposed coils, a round-bottom wok that sits in a ring, an Instant Pot, and a frying thermometer. The neutral oil is peanut oil.
 
-- **Rice.** Only on `recipes/Jasmine rice.md`. The Instant Pot. Rinse the rice until the runoff is almost clear and drain it well. Use 1 cup of water for each 1 cup of rice. Lock the lid, set the valve to sealing, and pressure cook on high for 3 minutes. When it beeps, turn the valve to venting. Leave the lid on until serving, then fluff the rice. Do not copy this part into another dish.
-- **A pot of water.** A heavy saucepan on a coil: blanching, boiling, a simmer you hold at a shiver. When the boil is harder than the step wants, pull the pot so it sits half on the coil.
+- **Rice.** Only on `recipes/Jasmine rice.md`. The Instant Pot. Rinse the rice until the runoff is almost clear and drain it well. Use 1 cup of water for each 1 cup of rice. Lock the lid, set the valve to sealing, and pressure cook on high for 3 minutes. When it beeps, stand clear of the valve and turn it to venting. The valve can throw starchy foam. Leave the lid on until serving, then fluff the rice. Do not copy this part into another dish.
+- **A pot of water.** A heavy saucepan fully on a coil: blanching, boiling, and a simmer. Bring a boil on high and stay with it. Hold a simmer or a shiver fully on a low coil. The pan sits fully on the coil or fully off it.
 - **A spoonful of spices, or a small pour of oil.** A small skillet on a coil. Slide the skillet off the coil the moment it is ready. A small pour has to leave the coil, and this skillet can.
 - **A flat face, a lidded crust, or a sizzle.** A 10 in heavy skillet on a coil. The food sits still against the flat bottom, the pan comes off the coil while a crust steams under a lid, or the sizzle has to leave the heat. This pan can leave the coil.
 - **The round bowl.** The wok, for a toss through the hot bottom, food held up the sides while the bottom reduces, or a paste that becomes a sauce. The wok stays in the ring for the whole cook.
-- **Deep frying.** A deep heavy saucepan on a coil. A slip through a deep pot of oil uses this same pot. Read the oil on a frying thermometer, in Fahrenheit. The step names the temperature. A slip stays cooler than a crust fry, and the food should not brown. Bring the oil back to that temperature between batches. When the oil smokes or climbs past it, pull the saucepan off the coil until it returns, then set it back. A few tablespoons of oil is too shallow for the thermometer. That oil is ready when it shimmers. A pour onto dried chilies is ready when a dry wooden spoon handle makes small bubbles and the oil has not yet smoked. Smoking oil blackens those chilies. A pour that blooms spices in the pan is ready when the oil just starts to smoke, and the pan comes off the coil before the spices go in.
+- **Deep frying.** A deep heavy saucepan on a coil. A slip through a deep pot of oil uses this same pot. Read the oil on a frying thermometer, in Fahrenheit. The step names the temperature. A slip stays cooler than a crust fry, and the food should not brown. Bring the oil back to that temperature between batches. When the oil smokes or climbs past it, pull the saucepan fully off the coil until it returns, then set it fully back on. A few tablespoons of oil is too shallow for the thermometer. That oil is ready when it shimmers. A pour onto dried chilies is ready when a dry wooden spoon handle makes small bubbles and the oil has not yet smoked. Smoking oil blackens those chilies. A pour that blooms spices in the pan is ready when the oil just starts to smoke, and the pan comes off the coil before the spices go in.
 
 ### Coil moves
 
@@ -55,10 +55,12 @@ Write these into the step that changes the heat. The water drop is for an empty 
 
 For a skillet or a saucepan:
 
-- Heat the empty pan on high until a drop of water skitters and vanishes, about 3 minutes for the 10 in skillet.
-- To lower the heat, pull the pan off the coil, turn the coil down, wait until the coil stops glowing, and set the pan back.
-- When the center boils hard, pull the pan so it sits half on the coil, or turn the coil down one notch.
-- When a paste smells sharp, pull the pan off the coil and stir until the smell sweetens, then set it back.
+- Heat the empty pan on high until a drop of water skitters and vanishes, about 3 minutes for the 10 in skillet. An empty pan on high is for a sear or a sizzle that gets food as soon as the pan is hot.
+- To lower the heat, pull the pan fully off the coil, turn the coil to the lower setting, wait until the coil stops glowing, and set the pan fully back on.
+- To raise the heat, turn the coil up and leave the pan fully on.
+- Hold a covered simmer or a shiver on low, with the pan fully on the coil. The surface bubbles gently, or only shivers. If it boils hard, pull the pan fully off until the surface settles, then set it fully back on. If it boils hard again, leave it off until the surface needs heat. If the surface goes still, turn the coil one setting higher and leave the pan fully on.
+- A pot left alone sits fully on a coil that has already been turned down, or it sits fully off. High is a boil you stay and catch.
+- When a paste smells sharp, pull the pan fully off and stir until the smell sweetens. If the coil was too hot, turn it to the lower setting and wait until it stops glowing. Set the pan fully back on.
 
 For the wok:
 
@@ -188,7 +190,7 @@ Done when every item below holds and the file is saved at `recipes/<title>.md`.
 - A spoon measure of kosher salt names Diamond Crystal. Parentheses hold only an original-language name.
 - The neutral oil is peanut oil. A flavored oil is named only when the dish needs that flavor.
 - Rice stays on `recipes/Jasmine rice.md`. Another dish has no Rice part. Every part uses the vessel this kitchen assigns it.
-- Heat changes use the coil moves. A wok stays in the ring.
+- Heat changes use the coil moves. A saucepan sits fully on the coil or fully off it. A wok stays in the ring.
 - Deep-fry oil, and oil for a slip, is a Fahrenheit temperature on a thermometer. The step names the temperature, and the oil returns to it between batches. A shallow pan of oil does not.
 - Steps are a tight numbered list. The added thing is bold. Each step ends on a cue.
 - Work that a short step depends on is finished in an earlier part.

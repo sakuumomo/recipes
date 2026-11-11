@@ -76,11 +76,11 @@ Use the thick stem of celtuce, and fresh shiitake.
 - 2 oz shiitake mushrooms (香菇)
 - 2 oz onion, sliced thin
 
-1. Put the **water for blanching** and the **kosher salt for the blanch** in a heavy saucepan. Set it on a coil turned to high.
+1. Put the **water for blanching** and the **kosher salt for the blanch** in a heavy saucepan. Set it on a coil turned to high. Stay with it. If it boils before the vegetables are cut, pull the saucepan fully off and turn the coil off.
 2. Peel the **celtuce stem** until the pale flesh shows. Slice it 1/4 in thick, in pieces about 2 in long.
 3. Trim the base off the **enoki mushrooms**. Tear them into small bunches and rinse them.
 4. Slice the **shiitake mushrooms** thin. Slice the **onion** thin.
-5. Go on to the storm oil. When that part is done, come back. When the fish has finished its 15 minutes and the water boils, add the **celtuce stem**, the **shiitake mushrooms**, and the **onion** together. Cook until the celtuce is crisp-tender and the shiitake have softened, about 2 minutes. Lift them out and let them drain. Add the **enoki mushrooms**. Lift them out as soon as they wilt, about 15 seconds. Longer than that and they turn to slime. If the water boils while you are still on the storm oil, pull the saucepan half off the coil.
+5. Pull the saucepan fully off and turn the coil off. Go on to the storm oil. When that part is done, come back. Set the saucepan on high and stay with it. When the water boils, if the fish has not finished its 15 minutes, pull the saucepan fully off and turn the coil off. When the fish has finished its 15 minutes, set the saucepan on high until the water boils. Add the **celtuce stem**, the **shiitake mushrooms**, and the **onion** together. Cook until the celtuce is crisp-tender and the shiitake have softened, about 2 minutes. Lift them out and let them drain. Add the **enoki mushrooms**. Lift them out as soon as they wilt, about 15 seconds. Longer than that and they turn to slime.
 
 ## Storm oil
 
@@ -130,7 +130,7 @@ These amounts were measured above.
 - 1 tsp toasted sesame oil (香油)
 - 1 tsp white sesame seeds (白芝麻)
 
-1. Pull the saucepan so it sits half on the coil. The **water for blanching** should shiver. Slide in half of the **marinated snakehead fillet**, a few slices at a time. When the slices are white and firm, about 30 seconds, lift them out with a slotted spoon. If a slice is still translucent, leave it 15 seconds more. Cook the remaining half the same way.
+1. Pull the saucepan fully off the coil. Turn the coil to low and wait until it stops glowing. Set the saucepan fully back on. The **water for blanching** should shiver. If the surface is still, turn the coil one setting higher and leave the saucepan fully on. Slide in half of the **marinated snakehead fillet**, a few slices at a time. When the slices are white and firm, about 30 seconds, lift them out with a slotted spoon. If a slice is still translucent, leave it 15 seconds more. Cook the remaining half the same way.
 2. Spread the **blanched celtuce stem**, the **blanched enoki mushrooms**, the **blanched shiitake mushrooms**, and the **blanched onion** in a wide heatproof bowl. Lay the slices over them in one overlapping layer.
 3. Put the **peanut oil for the pour** in a small skillet. Set it on a coil turned to medium. The oil is ready when a dry wooden spoon handle makes small bubbles and the oil does not smoke, about 3 minutes. Slide the skillet off the coil. If the oil is smoking, let it cool until the smoke stops before the spices go in. Add the **dried facing-heaven chilies**, the **Sichuan peppercorns**, the **green Sichuan peppercorns**, the **cumin seeds for the oil**, the **garlic**, and the **ginger** together. Stir until the seeds smell toasty and the chilies turn one shade darker, still red, about 15 seconds. If they blacken, keep stirring until they cool.
 4. Pour the **peanut oil for the pour**, spices and all, evenly over the slices.
