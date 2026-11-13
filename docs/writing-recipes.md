@@ -43,11 +43,11 @@ Done when every part uses one vessel from this kitchen.
 This cook has an electric stove with exposed coils, a round-bottom wok that sits in a ring, an Instant Pot, and a frying thermometer. The neutral oil is peanut oil.
 
 - **Rice.** Only on `recipes/Jasmine rice.md`. The Instant Pot. Rinse the rice until the runoff is almost clear and drain it well. Use 1 cup of water for each 1 cup of rice. Lock the lid, set the valve to sealing, and pressure cook on high for 3 minutes. When it beeps, stand clear of the valve and turn it to venting. The valve can throw starchy foam. Leave the lid on until serving, then fluff the rice. Do not copy this part into another dish.
-- **A pot of water.** A heavy saucepan fully on a coil: blanching, boiling, a simmer, and a reduction. Bring a boil on high and stay with it. Hold a covered simmer or a shiver fully on a low coil. Hold an uncovered reduction fully on medium. The pan sits fully on the coil or fully off it.
-- **A spoonful of spices, or a small pour of oil.** A small skillet on a coil. Slide the skillet off the coil the moment it is ready, and turn that coil off. A small pour has to leave the coil, and this skillet can. A pour onto dried chilies is ready when a dry wooden spoon handle makes small bubbles and the oil has not yet smoked. Smoking oil blackens those chilies. A pour that blooms spices in the pan is ready when the oil just starts to smoke. The pan comes off the coil, and that coil goes off, before the spices go in.
-- **A flat face, a lidded crust, or a sizzle.** A 10 in heavy skillet on a coil. The food sits still against the flat bottom, the pan comes off the coil while a crust steams under a lid, or the sizzle has to leave the heat. This pan can leave the coil. When the pan stays off, turn that coil off.
+- **A pot of water.** A heavy saucepan: blanching, boiling, a simmer, and a reduction. A small heavy saucepan is that pot for a brine or a small sauce. A boil is high, and you stay with it. A covered simmer or a shiver is low. An uncovered reduction is medium.
+- **A spoonful of spices, or a small pour of oil.** A small skillet. The pour has to leave the coil, and this skillet can.
+- **A flat face, a lidded crust, or a sizzle.** A 10 in heavy skillet. The food sits still against the flat bottom, the pan comes off the coil while a crust steams under a lid, or the sizzle has to leave the heat. This pan can leave the coil.
 - **The round bowl.** The wok, for a toss through the hot bottom, food held up the sides while the bottom reduces, or a paste that becomes a sauce. The wok stays in the ring for the whole cook.
-- **Deep frying.** A deep heavy saucepan on a coil. A slip through a deep pot of oil uses this same pot. Read the oil on a frying thermometer, in Fahrenheit. The step names the temperature. A slip stays cooler than a crust fry, and the food should not brown. Bring the oil up on high, and stay with the thermometer the whole time that coil is on. Once the oil is at the named temperature, use the lower-heat move to the setting that holds it. Between batches, bring the oil back to that temperature on the setting that holds it. When the oil smokes or climbs past it, pull the saucepan fully off and turn the coil off. When the oil returns to that temperature, turn the coil back to the setting that holds it and set the saucepan fully back on.
+- **Deep frying.** A deep heavy saucepan. A slip through a deep pot of oil uses this same pot. Read the oil on a frying thermometer, in Fahrenheit. The step names the temperature. A slip stays cooler than a crust fry, and the food should not brown.
 
 ### Coil moves
 
@@ -55,6 +55,7 @@ Write these into the step that changes the heat. The water drop is for an empty 
 
 For a skillet or a saucepan:
 
+- The pan sits fully on the coil or fully off it.
 - Heat the empty pan on high until a drop of water skitters and vanishes, about 3 minutes for the 10 in skillet. An empty pan on high is for a sear or a sizzle that gets food as soon as the pan is hot. A saucepan of liquid does not get an empty high preheat.
 - To lower the heat, pull the pan fully off the coil and turn the coil to the lower setting. If the coil is glowing, wait until it stops. Set the pan fully back on.
 - To raise the heat, turn the coil up and leave the pan fully on.
@@ -64,6 +65,11 @@ For a skillet or a saucepan:
 - If the pot is on the coil and the surface goes still, turn the coil one setting higher and leave the pan fully on.
 - A pot left alone sits fully on a coil that is already at the setting that holds its cue, or it sits fully off and that coil is off. High is a boil you stay and catch. High under a pot of oil is a temperature you stay and read.
 - When a paste smells sharp, pull the pan fully off and stir until the smell sweetens. Turn the coil to the lower setting. If the coil is glowing, wait until it stops. Set the pan fully back on.
+- A small skillet slides off the coil the moment it is ready, and that coil goes off.
+- A pour onto dried chilies is ready when a dry wooden spoon handle makes small bubbles and the oil has not yet smoked. Smoking oil blackens those chilies. A pour that blooms spices in the pan is ready when the oil just starts to smoke. The pan is off the coil, and that coil is off, before the spices go in.
+- When a 10 in skillet stays off the coil, turn that coil off.
+- Bring deep-fry oil, and oil for a slip, up on high. Stay with the thermometer the whole time that coil is on. Once the oil is at the named temperature, use the lower-heat move to the setting that holds it.
+- Between batches, bring the oil back to that temperature on the setting that holds it. When the oil smokes or climbs past that temperature, pull the saucepan fully off and turn the coil off. When the oil returns to that temperature, turn the coil back to the setting that holds it and set the saucepan fully back on.
 
 For the wok:
 
@@ -190,10 +196,10 @@ These amounts were measured above.
 - The gather list is one `## Ingredients` section. Its groups are bold labels, so the outline stays the cooking sections.
 - A `---` sits between the gather list and the first cooking section.
 - Cooking sections are `##` headings in cook order.
-- A part may open with one or two short sentences under the heading. One names the kind of ingredient, when the line alone still fits more than one product. Prep that must finish before heat says so. The combining section says `These amounts were measured above.`
+- A part may open with one or two short sentences under the heading. The product-kind sentence is the one in section 5, under the part that first measures it. Prep that must finish before heat says so. The combining section says `These amounts were measured above.`
 - Ingredient bullets sit under the heading or the bold label. The numbered steps follow them.
 - Keep each numbered list on consecutive lines, so the numbers stay one series.
-- The page teaches the cook the dish. Filename, heading, and parenthesis rules stay in this document.
+- Filename, heading, and parenthesis rules stay in this document.
 
 ## 7. Write the steps
 
@@ -203,6 +209,7 @@ Done when each part has steps a cook can follow while the pan is hot.
 - Bold the thing the step adds. The bold words match the line's name: the **peanut oil for the beef**, the **drained tofu**.
 - A step is one addition, one wait, or one coil move, and it ends on a cue: a look, a smell, or a time.
 - A coil move that has its own cue is its own step. Write it with the coil moves in this document.
+- A rescue stays in the step that can hit it. Leave out a following sentence that only repeats that rescue.
 - Finish knife work, rinsing, and measuring in an earlier part when a later step resolves in under a minute. The hot step then names the cups.
 - When several cups go in at once, say they go in together.
 - A timer that overlaps the next part tells the cook to go on, and tells them what to do when it rings. The later part that receives that food says what to do if it is still waiting.

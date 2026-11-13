@@ -87,7 +87,7 @@ Do this while the fish marinates.
 - 1/2 cup peanut oil, for the pour
 - 8 oz soybean sprouts (黄豆芽)
 
-1. Put the **ginger**, the whites of the **scallions**, the **unsalted chicken stock**, the **kosher salt for the broth**, the **ground white pepper for the broth**, and the **Shaoxing wine for the broth** in a heavy saucepan together. Set the saucepan on high. Stay with it. When it boils, pull the saucepan fully off the coil. Turn the coil to low and wait until it stops glowing. Set the saucepan fully back on. The surface should shiver.
+1. Put the **ginger**, the whites of the **scallions**, the **unsalted chicken stock**, the **kosher salt for the broth**, the **ground white pepper for the broth**, and the **Shaoxing wine for the broth** in a heavy saucepan together. Set the saucepan on high. Stay with it. When it boils, pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should shiver.
 2. Add the **soybean sprouts** to the simmering broth. Cook until they soften but still snap, about 1 minute. Lift them into the heatproof bowl.
 3. Keep the broth at a shiver. If it rolls again, pull the saucepan fully off and turn the coil off. When the surface settles, turn the coil back to low and set the saucepan fully back on. If it rolls again, do the same again. Go on to the pour.
 

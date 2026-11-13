@@ -100,9 +100,9 @@ Do this while the fish marinates. Use the coarse Pixian paste.
 - 1/2 cup peanut oil, for the pour
 - 8 oz soybean sprouts (黄豆芽)
 
-1. Put the **peanut oil for the paste** in a heavy saucepan on a coil set to medium. When it shimmers, about 2 minutes, add the **Pixian doubanjiang**. Fry, stirring, until the oil is deep red and smells toasty, about 1 minute. If it smells sharp, pull the saucepan fully off and stir until the smell sweetens. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
+1. Put the **peanut oil for the paste** in a heavy saucepan on a coil turned to medium. When it shimmers, about 2 minutes, add the **Pixian doubanjiang**. Fry, stirring, until the oil is deep red and smells toasty, about 1 minute. If it smells sharp, pull the saucepan fully off and stir until the smell sweetens. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
 2. Add the **garlic for the paste**, the **ginger**, and the whites of the **scallions** together. Stir until fragrant, about 20 seconds.
-3. Add the **unsalted chicken stock**, the **Shaoxing wine for the broth**, the **ground white pepper for the broth**, the **kosher salt for the broth**, and the **sugar** together. Turn the coil to high. Stay with it. When it boils, pull the saucepan fully off the coil. Turn the coil to low and wait until it stops glowing. Set the saucepan fully back on. The surface should shiver.
+3. Add the **unsalted chicken stock**, the **Shaoxing wine for the broth**, the **ground white pepper for the broth**, the **kosher salt for the broth**, and the **sugar** together. Turn the coil to high. Stay with it. When it boils, pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should shiver.
 4. Simmer the broth until the raw paste smell is gone, about 3 minutes.
 5. Add the **soybean sprouts**. Cook until they soften but still snap, about 1 minute. Lift them into the heatproof bowl.
 6. Keep the broth at a shiver. If it rolls again, pull the saucepan fully off and turn the coil off. When the surface settles, turn the coil back to low and set the saucepan fully back on. If it rolls again, do the same again. Go on to the pour.

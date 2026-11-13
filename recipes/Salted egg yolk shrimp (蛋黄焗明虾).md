@@ -39,8 +39,9 @@ Use the yolks from salted duck eggs.
 - 3 salted duck egg yolks (咸蛋黄)
 
 1. Put the **water for steaming** in a heavy saucepan. Set it on a coil turned to high. Stay with it.
-2. When the water boils, pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should shiver. Set a rack in the saucepan so it stands above the water. If you have no rack, set a small heatproof cup upside down in the water. Set a small heatproof plate on the rack or the cup so the plate stays dry. Put the **salted duck egg yolks** on the plate. Cover the saucepan. Steam until a yolk breaks into dry sandy crumbs when pressed, about 10 minutes. A yolk that is already firm may be ready in about 2 minutes. If the plate gets wet, the yolks mash instead of crumbling. Go on to the shrimp while it steams.
-3. When a yolk breaks into sandy crumbs, mash the **salted duck egg yolks** with a spoon until they are a fine paste. If you are mid-cut, finish that piece first.
+2. When the water boils, pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should shiver.
+3. Set a rack in the saucepan so it stands above the water. If you have no rack, set a small heatproof cup upside down in the water. Set a small heatproof plate on the rack or the cup so the plate stays dry. Put the **salted duck egg yolks** on the plate. Cover the saucepan. Steam until a yolk breaks into dry sandy crumbs when pressed, about 10 minutes. A yolk that is already firm may be ready in about 2 minutes. If the plate gets wet, the yolks mash instead of crumbling. Go on to the shrimp while it steams.
+4. When a yolk breaks into sandy crumbs, mash the **salted duck egg yolks** with a spoon until they are a fine paste. If you are mid-cut, finish that piece first.
 
 ## Shrimp
 
