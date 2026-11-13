@@ -83,7 +83,7 @@ These amounts were measured above.
 - 1 tsp Shaoxing wine (绍兴酒), for the stir-fry
 - 1/4 tsp sugar
 
-1. If the beef is not tacky yet, wait. Set the wok in the ring on a coil turned to high. Heat it until a drop of water flicked into the center vanishes, about 5 minutes.
+1. If the beef is not tacky yet, wait. Set the wok in the ring on a coil turned to high. Heat it until a drop of water flicked into the center vanishes, about 2 minutes. The coil is glowing red by then. Stop there.
 2. Add 1 tbsp of the **peanut oil for the stir-fry**. Swirl it over the bottom.
 3. Add half of the **marinated flank steak** in one layer. Leave it still until the underside browns, about 30 seconds. Toss until the red is gone, about 30 seconds more. If the oil smokes, turn the coil off and stir until the smoke stops. Wait until the coil stops glowing, then turn the coil back to high. When the oil shimmers, keep going. Scoop it onto a plate.
 4. Add the rest of the **peanut oil for the stir-fry** and the rest of the **marinated flank steak**. Leave it still until the underside browns, about 30 seconds. Toss until the red is gone, about 30 seconds more. If the oil smokes, turn the coil off and stir until the smoke stops. Wait until the coil stops glowing, then turn the coil back to high. When the oil shimmers, keep going. Scoop it onto the plate.

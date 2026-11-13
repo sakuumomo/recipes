@@ -43,11 +43,11 @@ Done when every part uses one vessel from this kitchen.
 This cook has an electric stove with exposed coils, a round-bottom wok that sits in a ring, an Instant Pot, and a frying thermometer. The neutral oil is peanut oil.
 
 - **Rice.** Only on `recipes/Jasmine rice.md`. The Instant Pot. Rinse the rice until the runoff is almost clear and drain it well. Use 1 cup of water for each 1 cup of rice. Lock the lid, set the valve to sealing, and pressure cook on high for 3 minutes. When it beeps, stand clear of the valve and turn it to venting. The valve can throw starchy foam. Leave the lid on until serving, then fluff the rice. Do not copy this part into another dish.
-- **A pot of water.** A heavy saucepan: blanching, boiling, a simmer, and a reduction. A small heavy saucepan is that pot for a brine or a small sauce. A boil is high, and you stay with it. A covered simmer or a shiver is low. An uncovered reduction is medium.
+- **A pot of water.** A heavy saucepan: blanching, boiling, a simmer, and a reduction. A small heavy saucepan is that pot for a brine or a small sauce. A boil is high, and you stay with it. A covered simmer or a shiver is low. An uncovered reduction is medium. A covered braise stays in this pan, so the fond and the liquid stay together.
 - **A spoonful of spices, or a small pour of oil.** A small skillet. The pour has to leave the coil, and this skillet can.
-- **A flat face, a lidded crust, or a sizzle.** A 10 in heavy skillet. The food sits still against the flat bottom, the pan comes off the coil while a crust steams under a lid, or the sizzle has to leave the heat. This pan can leave the coil.
-- **The round bowl.** The wok, for a toss through the hot bottom, food held up the sides while the bottom reduces, or a paste that becomes a sauce. The wok stays in the ring for the whole cook.
-- **Deep frying.** A deep heavy saucepan. A slip through a deep pot of oil uses this same pot. Read the oil on a frying thermometer, in Fahrenheit. The step names the temperature. A slip stays cooler than a crust fry, and the food should not brown.
+- **A flat lidded crust, or a sizzle.** A 10 in heavy skillet. Use it when the food must sit flat under a lid, or the sizzle has to leave the heat. This pan can leave the coil.
+- **The round bowl.** The wok, for a toss through the hot bottom, a shallow fry turned in the bottom, a sear, food held up the sides while the bottom reduces, a paste that becomes a sauce, or the water under a bamboo steamer. Use the wok for those. The wok stays in the ring while it is the pan.
+- **Deep frying.** A deep heavy saucepan. A slip through a deep pot of oil uses this same pot. The wok does not take this oil. The saucepan has to come fully off the coil. Read the oil on a frying thermometer, in Fahrenheit. The step names the temperature. A slip stays cooler than a crust fry, and the food should not brown.
 
 ### Coil moves
 
@@ -73,13 +73,14 @@ For a skillet or a saucepan:
 
 For the wok:
 
-- Heat the empty wok in the ring on high until a drop of water flicked into the center vanishes, about 5 minutes. High is for a sear that has to color in under a minute.
+- Heat the empty wok in the ring on high until a drop of water flicked into the center vanishes, about 2 minutes. The coil glows red quickly. Stop when the drop vanishes. High is for a sear that colors in well under a minute.
 - Brown, blister, or boil a sauce down on medium-high. After a high sear, turn to medium-low for a paste or for dried chilies. Turn to medium for wet vegetables, scallions, ginger, and garlic.
 - Keep the food in the bottom, where the heat is. The walls stay cooler. Food can sit up the sides while the sauce cooks in the bottom, then fold back down.
 - To lower the heat, turn the coil off, wait until it stops glowing, and turn it to the lower setting. The wok stays in the ring.
 - After a sear, add the next oil as soon as the coil is off. Hold a paste, black pepper, or dried chilies until that oil shimmers and has stopped smoking. An empty wok scorches the film left in it.
 - When the center boils hard, turn the coil off until the surface settles and the coil stops glowing, then turn the coil back to the setting the step was using.
 - When a paste smells sharp, turn the coil off and stir until the smell sweetens. Wait until the coil stops glowing, then turn the coil back to the lower setting.
+- When that cook is finished and the coil is off and no longer glowing, the wok can leave the ring.
 
 ## 5. Write the lines
 

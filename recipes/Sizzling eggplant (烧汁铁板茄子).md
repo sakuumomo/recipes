@@ -2,9 +2,9 @@
 
 Serves 2. About 35 minutes.
 
-The eggplant fries in a 10 in heavy skillet on the coil. The sauce cooks in a small heavy saucepan. The same skillet takes the sizzle.
+The eggplant fries in the wok, and the wok stays in its ring. The sauce cooks in a small heavy saucepan. The sizzle is a 10 in heavy skillet.
 
-Salt the eggplant. Make the sauce while it sits. Fry the eggplant, then heat the empty skillet and pour the sauce over.
+Salt the eggplant. Make the sauce while it sits. When the 15 minutes are up, fry the eggplant in the wok, then heat the empty skillet and pour the sauce over.
 
 Measure each ingredient once. A later list is that same amount again.
 
@@ -51,9 +51,9 @@ Use a long Chinese eggplant.
 
 1. Trim the **eggplant** and cut it into sticks about 1/2 in thick and 2 in long. Toss the sticks with the **kosher salt**. Set a timer for 15 minutes. Go on to the sauce.
 2. When the timer rings, squeeze the sticks and pat them dry. Toss them with the **potato starch** until each stick has a thin coat. Shake off the extra starch.
-3. Set a 10 in heavy skillet on a coil turned to medium. Add the **peanut oil for the eggplant**. When it shimmers, about 2 minutes, add half of the **eggplant** in one layer. Cook until the underside is golden, about 2 minutes. Turn the sticks. Cook until both sides are golden and the center of a stick looks creamy, about 2 minutes more. If the oil smokes, pull the skillet fully off and turn the coil off. When the smoke stops, turn the coil back to medium and set the skillet fully back on. If the center is still white and spongy, cook 1 minute more. Lift the sticks out.
+3. Set the wok in the ring on a coil turned to medium-high. Add the **peanut oil for the eggplant**. When it shimmers, about 2 minutes, add half of the **eggplant** in one layer in the bottom. Cook until the underside is golden, about 2 minutes. Turn the sticks. Cook until both sides are golden and the center of a stick looks creamy, about 2 minutes more. If the oil smokes, turn the coil off until the smoke stops and the coil stops glowing, then turn the coil back to medium-high. If the center is still white and spongy, cook 1 minute more. Lift the sticks out.
 4. Add the remaining half of the **eggplant**. Cook it the same way. Lift the sticks out.
-5. Pour off the oil. Wipe the skillet until a dry towel comes away dry. Go on to the sizzle.
+5. Turn the coil off. Spoon the oil into a heatproof bowl. The wok stays in the ring while you spoon. When the coil stops glowing, lift the wok out of the ring. Go on to the sizzle.
 
 ## Sauce
 

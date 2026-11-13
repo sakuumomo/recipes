@@ -2,9 +2,9 @@
 
 Serves 2. About 90 minutes.
 
-The ribs blanch in a heavy saucepan. The same saucepan fries the beans, then stews them.
+The ribs blanch, then stew, in a heavy saucepan. The beans fry in the wok, and the wok stays in its ring.
 
-Blanch the ribs first. Snap the beans while the water heats. When the ribs are rinsed, fry the beans, then stew.
+Blanch the ribs first. Snap the beans while the water heats. When the ribs are rinsed, fry the beans in the wok, then stew.
 
 Measure each ingredient once. A later list is that same amount again.
 
@@ -52,8 +52,8 @@ Flat green beans and common green beans both turn silky in this stew.
 - 1 tbsp peanut oil
 
 1. Snap the ends off the **green beans** and break them into 2 in lengths. Pat them dry.
-2. Put the saucepan on medium. Add the **peanut oil**. When it shimmers, about 2 minutes, add the **green beans**. If the oil smokes, pull the saucepan fully off and turn the coil off. When the smoke stops, turn the coil back to medium and set the saucepan fully back on.
-3. Stir until the beans are wrinkled and olive and smell sweet, about 5 minutes. If they start to scorch, pull the saucepan fully off and turn the coil off. When they stop scorching, turn the coil back to medium and set the saucepan fully back on. Scoop them into a bowl.
+2. Set the wok in the ring on a coil turned to medium-high. Add the **peanut oil**. When it shimmers, about 2 minutes, add the **green beans**. If the oil smokes, turn the coil off until the smoke stops and the coil stops glowing, then turn the coil back to medium-high.
+3. Stir until the beans are wrinkled and olive and smell sweet, about 5 minutes. If they start to scorch, turn the coil off and stir until they cool. Wait until the coil stops glowing, then turn the coil back to medium-high. Scoop them into a bowl. Turn the coil off.
 
 ## Stew
 
