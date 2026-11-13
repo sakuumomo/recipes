@@ -8,6 +8,8 @@ Soak the wood ear. Slice and marinate the fish. While it sits, finish the prep. 
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Wood ear**
@@ -21,22 +23,29 @@ Measure each ingredient once. A later list is that same amount again.
 - 2 tsp Shaoxing wine (绍兴酒), for the fish
 - 1/2 tsp kosher salt, Diamond Crystal, for the fish
 - 1/8 tsp ground white pepper, for the fish
+
 - 1 egg white
+
 - 1 tbsp sweet potato starch (红薯淀粉), for the fish
+
 - 1 tsp peanut oil, for the fish
 
 **Prep**
 
 - 1 tbsp peanut oil, for the glaze
+
 - 1/2 oz ginger, sliced
 - 1 scallion, cut into 1 in lengths
+
 - 3/4 cup unsalted chicken stock
 - 2 oz winter bamboo shoots (冬笋), sliced thin
 - 1 tsp Shaoxing wine (绍兴酒), for the sauce
 - 1/2 tsp kosher salt, Diamond Crystal, for the sauce
 - 1/8 tsp ground white pepper, for the sauce
+
 - 2 tsp sweet potato starch (红薯淀粉), for the sauce
 - 2 tbsp cold water
+
 - 1 tsp toasted sesame oil (香油)
 
 **Slip**
@@ -61,8 +70,11 @@ Use unsalted Shaoxing.
 - 2 tsp Shaoxing wine (绍兴酒), for the fish
 - 1/2 tsp kosher salt, Diamond Crystal, for the fish
 - 1/8 tsp ground white pepper, for the fish
+
 - 1 egg white
+
 - 1 tbsp sweet potato starch (红薯淀粉), for the fish
+
 - 1 tsp peanut oil, for the fish
 
 1. If the **snakehead fillet** still has skin, cut the skin off. Slice the fillet on a bias into pieces about 2 in long and 1/8 in thick.
@@ -77,27 +89,32 @@ Use unsalted Shaoxing.
 Do this while the fish marinates. When the wood ear timer rings, drain and tear the wood ear.
 
 - 1 tbsp peanut oil, for the glaze
+
 - 1/2 oz ginger, sliced
 - 1 scallion, cut into 1 in lengths
+
 - 3/4 cup unsalted chicken stock
 - 2 oz winter bamboo shoots (冬笋), sliced thin
 - 1 tsp Shaoxing wine (绍兴酒), for the sauce
 - 1/2 tsp kosher salt, Diamond Crystal, for the sauce
 - 1/8 tsp ground white pepper, for the sauce
+
 - 2 tsp sweet potato starch (红薯淀粉), for the sauce
 - 2 tbsp cold water
+
 - 1 tsp toasted sesame oil (香油)
 
 1. Put the **peanut oil for the glaze** in a cup.
 2. Slice the **ginger**. Cut the **scallion** into 1 in lengths.
 3. If the **winter bamboo shoots** still have a husk, peel it off. If they are canned or packed in water, rinse them. Slice them thin.
-4. Put the **unsalted chicken stock**, the **Shaoxing wine for the sauce**, the **kosher salt for the sauce**, and the **ground white pepper for the sauce** in cups.
+4. Put the **unsalted chicken stock**, the **winter bamboo shoots**, the **Shaoxing wine for the sauce**, the **kosher salt for the sauce**, and the **ground white pepper for the sauce** in one cup.
 5. Stir the **sweet potato starch for the sauce** and the **cold water** together until smooth. Stir it again just before it goes into the wok.
 6. Put the **toasted sesame oil** in a spoon.
 
 ## Slip
 
 - 2 cups peanut oil, for slipping
+
 - 12 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick, marinated
 
 1. Put the **peanut oil for slipping** in a deep heavy saucepan. Set it on a coil turned to high. Stay with the thermometer. Heat until it reads 275°F, about 8 minutes. Pull the saucepan fully off. Turn the coil to the setting that holds 275°F. If the coil is glowing, wait until it stops. Set the saucepan fully back on. Go on to the glaze.
@@ -114,15 +131,19 @@ These amounts were measured above.
 **Prep**
 
 - 1 tbsp peanut oil, for the glaze
+
 - 1/2 oz ginger, sliced
 - 1 scallion, cut into 1 in lengths
+
 - 3/4 cup unsalted chicken stock
 - 2 oz winter bamboo shoots (冬笋), sliced thin
 - 1 tsp Shaoxing wine (绍兴酒), for the sauce
 - 1/2 tsp kosher salt, Diamond Crystal, for the sauce
 - 1/8 tsp ground white pepper, for the sauce
+
 - 2 tsp sweet potato starch (红薯淀粉), for the sauce
 - 2 tbsp cold water
+
 - 1 tsp toasted sesame oil (香油)
 
 **Wood ear**

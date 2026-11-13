@@ -128,15 +128,17 @@ Each line is one measure the cook makes, written `quantity unit name` or `count 
   - Flat green beans and common green beans both turn silky in this stew.
   - Flat green beans and common green beans both blister in this fry.
 - The gather list contains each line once, under the bold label of the part that first measures it. Labels follow cook order. Inside a part, lines follow use order.
+- A blank line inside a part splits one cup from the next. Lines with no blank line between them share a cup. A cup is what one step adds together, or adds one after another before that step's cue, when those things fit in one container. Oil that heats alone is its own cup. A bulky piece is its own cup. A small seasoning added with that piece can sit in the same cup. The whites and the greens of a scallion stay in different cups when the greens go in later.
+- The gather list, the part list, and the combining list use the same breaks.
 - Every part that measures a line repeats it with the same words.
 - A later part may append only the state the ingredient is in now: `, drained`, `, toasted and crushed`.
-- The combining section repeats the lines it uses. Those repeats are the same measures, grouped under the same bold labels, in the same order.
+- The combining section repeats the lines it uses. Those repeats are the same measures, grouped under the same bold labels, in the same order, with the same blank lines.
 
 When you change a line, change every copy of it.
 
 ## 6. Assemble the page
 
-Done when the page matches this shape. Two sentences in the template are exact: `Measure each ingredient once. A later list is that same amount again.` and `These amounts were measured above.` The yield line follows the pattern below. The numbers, vessels, and part names in the template are examples.
+Done when the page matches this shape. Three sentences in the template are exact: `Measure each ingredient once. A later list is that same amount again.` and `Lines with no blank line between them share a cup.` and `These amounts were measured above.` The yield line follows the pattern below. The numbers, vessels, and part names in the template are examples.
 
 ```markdown
 # English name (原文)
@@ -149,11 +151,16 @@ Serves 2. About 30 minutes.
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **First part**
 
 - 1 cup ingredient
+- 1 tsp ingredient
+
+- 2 tbsp ingredient
 
 **Second part**
 
@@ -164,6 +171,9 @@ Measure each ingredient once. A later list is that same amount again.
 ## First part
 
 - 1 cup ingredient
+- 1 tsp ingredient
+
+- 2 tbsp ingredient
 
 1. Do the thing with the **ingredient** until the cue. Go on to the next part.
 
@@ -182,6 +192,9 @@ These amounts were measured above.
 **First part**
 
 - 1 cup ingredient
+- 1 tsp ingredient
+
+- 2 tbsp ingredient
 
 **Second part**
 
@@ -193,8 +206,8 @@ These amounts were measured above.
 - The yield line is `Serves N. About M minutes.`, `Makes N. About M minutes.`, or `Makes N. About D days.` The time runs until the cook eats or the jar is ready, including waits that overlap other parts.
 - The setup line names the Instant Pot program and the pan for each part that has one.
 - The order line is there when the cook starts a part and leaves it. It names the interrupt: when the timer rings, what they do, then that they keep going.
-- The measure sentence is on every page.
-- The gather list is one `## Ingredients` section. Its groups are bold labels, so the outline stays the cooking sections.
+- The measure sentence and the cup sentence are on every page.
+- The gather list is one `## Ingredients` section. Its bold labels are the parts, so the outline stays the cooking sections. Inside a label, a blank line marks a new cup.
 - A `---` sits between the gather list and the first cooking section.
 - Cooking sections are `##` headings in cook order.
 - A part may open with one or two short sentences under the heading. The product-kind sentence is the one in section 5, under the part that first measures it. Prep that must finish before heat says so. The combining section says `These amounts were measured above.`
@@ -213,6 +226,7 @@ Done when each part has steps a cook can follow while the pan is hot.
 - A rescue stays in the step that can hit it. Leave out a following sentence that only repeats that rescue.
 - Finish knife work, rinsing, and measuring in an earlier part when a later step resolves in under a minute. The hot step then names the cups.
 - When several cups go in at once, say they go in together.
+- A part that sets the cups out tells the cook to put each group into one cup or pile.
 - A timer that overlaps the next part tells the cook to go on, and tells them what to do when it rings. The later part that receives that food says what to do if it is still waiting.
 
 Name an ordinary pan, pot, or spoon in the step that uses it. When a common tool produces the result, use it. When only an uncommon tool produces the result, put one line under that part's heading and above its lines: `Tool: bamboo steamer.`
@@ -224,12 +238,12 @@ Done when every item below holds and the file is saved at `recipes/<title>.md`.
 - The amounts and the method were checked against at least two published recipes. Where those recipes disagree, the page uses the version this kitchen can cook.
 - The path is `recipes/<title>.md`, the `#` title matches, and the English name is unique.
 - An original name sits in parentheses when the English title renders another language.
-- The header has the yield line, the setup line, the order line when something waits, and the measure sentence.
-- The gather list is `## Ingredients` with bold labels. Each line appears there once.
+- The header has the yield line, the setup line, the order line when something waits, the measure sentence, and the cup sentence.
+- The gather list is `## Ingredients` with bold labels. Each line appears there once. Inside a label, a blank line marks a new cup, and the same breaks appear in the part list and the combining list.
 - A combining section is absent from the gather list and present among the cooking sections, with its amounts grouped by the part that measured them. A one-part dish has no combining section.
 - A `---` sits between the gather list and the first cooking section. Cooking sections are `##` headings in cook order.
 - Every line is one measure, with a quantity and a unit or a count. Units are ounces, teaspoons, tablespoons, cups, and inches, written as fractions. Count garlic by cloves, or measure it by the teaspoon, the tablespoon, or the ounce.
-- Labels in the gather list follow cook order. Inside a part, lines follow use order.
+- Labels in the gather list follow cook order. Inside a part, lines follow use order. Lines with no blank line between them share a cup: what one step adds together, or adds one after another before that step's cue, when those things fit in one container. Oil that heats alone is its own cup. A bulky piece is its own cup, and a small seasoning added with it can share that cup.
 - Copies of a line match. A later copy adds only the current state.
 - An ingredient that an English search commonly misidentifies carries its original name. The mapo tofu page is the calibration.
 - When a named product still has kinds a shopper mixes up, the part that first measures it names the kind in a short sentence. A choice already written on another page is copied.

@@ -8,22 +8,28 @@ Salt the eggplant. Make the sauce while it sits. When the 15 minutes are up, fry
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Eggplant**
 
 - 12 oz eggplant
 - 1/2 tsp kosher salt, Diamond Crystal
+
 - 2 tbsp potato starch
+
 - 1/4 cup peanut oil, for the eggplant
 
 **Sauce**
 
 - 1 tsp peanut oil, for the sauce
+
 - 2 oz onion, diced
 - 2 oz red bell pepper, diced
 - 1 tsp ginger, minced
 - 2 cloves garlic, minced
+
 - 1 tbsp oyster sauce (蚝油)
 - 1 tbsp light soy sauce (生抽)
 - 1/2 tsp dark soy sauce (老抽)
@@ -34,7 +40,9 @@ Measure each ingredient once. A later list is that same amount again.
 **Sizzle**
 
 - 1 tsp peanut oil, for the skillet
+
 - 1 tsp Zhenjiang vinegar (镇江香醋)
+
 - 1 scallion, chopped
 - 1 tsp white sesame seeds (白芝麻)
 
@@ -46,7 +54,9 @@ Use a long Chinese eggplant.
 
 - 12 oz eggplant
 - 1/2 tsp kosher salt, Diamond Crystal
+
 - 2 tbsp potato starch
+
 - 1/4 cup peanut oil, for the eggplant
 
 1. Trim the **eggplant** and cut it into sticks about 1/2 in thick and 2 in long. Toss the sticks with the **kosher salt**. Set a timer for 15 minutes. Go on to the sauce.
@@ -60,10 +70,12 @@ Use a long Chinese eggplant.
 Do this while the eggplant sits.
 
 - 1 tsp peanut oil, for the sauce
+
 - 2 oz onion, diced
 - 2 oz red bell pepper, diced
 - 1 tsp ginger, minced
 - 2 cloves garlic, minced
+
 - 1 tbsp oyster sauce (蚝油)
 - 1 tbsp light soy sauce (生抽)
 - 1/2 tsp dark soy sauce (老抽)
@@ -78,18 +90,23 @@ Do this while the eggplant sits.
 ## Sizzle
 
 - 1 tsp peanut oil, for the skillet
+
 - 12 oz eggplant, fried
+
 - 1 tsp Zhenjiang vinegar (镇江香醋)
+
 - 1 scallion, chopped
 - 1 tsp white sesame seeds (白芝麻)
 
 **Sauce**
 
 - 1 tsp peanut oil, for the sauce
+
 - 2 oz onion, diced
 - 2 oz red bell pepper, diced
 - 1 tsp ginger, minced
 - 2 cloves garlic, minced
+
 - 1 tbsp oyster sauce (蚝油)
 - 1 tbsp light soy sauce (生抽)
 - 1/2 tsp dark soy sauce (老抽)

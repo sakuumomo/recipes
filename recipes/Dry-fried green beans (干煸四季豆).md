@@ -8,26 +8,35 @@ Cut the seasoning. Fry the beans, then cook the pork in the same wok and return 
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Seasoning**
 
 - 3 oz ground pork
+
 - 1 tsp Shaoxing wine (绍兴酒)
+
 - 1/2 tsp Sichuan peppercorns (红花椒)
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
+
 - 2 tbsp Yibin suimi yacai (碎米芽菜)
+
 - 1 tsp light soy sauce (生抽)
 - 1/4 tsp kosher salt, Diamond Crystal
 - 1/4 tsp sugar
+
 - 1 scallion, cut into 1/2 in lengths
 - 1 tsp toasted sesame oil (香油)
 
 **Beans**
 
 - 12 oz green beans (四季豆)
+
 - 2 tbsp peanut oil
 
 ---
@@ -37,15 +46,21 @@ Measure each ingredient once. A later list is that same amount again.
 Do this before the wok is hot. Use ground pork that shows some fat, Yibin suimi yacai from the jar marked 碎米芽菜, and unsalted Shaoxing.
 
 - 3 oz ground pork
+
 - 1 tsp Shaoxing wine (绍兴酒)
+
 - 1/2 tsp Sichuan peppercorns (红花椒)
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
+
 - 2 tbsp Yibin suimi yacai (碎米芽菜)
+
 - 1 tsp light soy sauce (生抽)
 - 1/4 tsp kosher salt, Diamond Crystal
 - 1/4 tsp sugar
+
 - 1 scallion, cut into 1/2 in lengths
 - 1 tsp toasted sesame oil (香油)
 
@@ -57,6 +72,7 @@ Do this before the wok is hot. Use ground pork that shows some fat, Yibin suimi 
 Flat green beans and common green beans both blister in this fry.
 
 - 12 oz green beans (四季豆)
+
 - 2 tbsp peanut oil
 
 1. Snap the ends off the **green beans** and pull off any strings. Break them into 2 in lengths. Pat them dry until the towel comes away dry.
@@ -70,15 +86,21 @@ These amounts were measured above.
 **Seasoning**
 
 - 3 oz ground pork
+
 - 1 tsp Shaoxing wine (绍兴酒)
+
 - 1/2 tsp Sichuan peppercorns (红花椒)
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
+
 - 2 tbsp Yibin suimi yacai (碎米芽菜), rinsed and squeezed
+
 - 1 tsp light soy sauce (生抽)
 - 1/4 tsp kosher salt, Diamond Crystal
 - 1/4 tsp sugar
+
 - 1 scallion, cut into 1/2 in lengths
 - 1 tsp toasted sesame oil (香油)
 

@@ -8,6 +8,8 @@ Marinate the chicken. Cut the chilies and the aromatics while it sits. Heat the 
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Chicken**
@@ -22,8 +24,10 @@ Measure each ingredient once. A later list is that same amount again.
 
 - 1 tbsp Sichuan peppercorns (红花椒)
 - 2 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+
 - 1/2 oz garlic, sliced thin
 - 1/2 oz ginger, sliced thin
+
 - 1/2 tsp sugar
 - 1 tsp Shaoxing wine (绍兴酒), for the toss
 - 3 scallions, cut into 1 in lengths
@@ -31,6 +35,7 @@ Measure each ingredient once. A later list is that same amount again.
 **Fry**
 
 - 3 cups peanut oil
+
 - 4 tbsp potato starch
 
 ---
@@ -54,22 +59,26 @@ Do this while the chicken marinates.
 
 - 1 tbsp Sichuan peppercorns (红花椒)
 - 2 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+
 - 1/2 oz garlic, sliced thin
 - 1/2 oz ginger, sliced thin
+
 - 1/2 tsp sugar
 - 1 tsp Shaoxing wine (绍兴酒), for the toss
 - 3 scallions, cut into 1 in lengths
 
 1. Put the **Sichuan peppercorns** in a cup.
-2. Snip the **dried facing-heaven chilies** in half and shake out the loose seeds.
+2. Snip the **dried facing-heaven chilies** in half and shake out the loose seeds. Put them in that cup.
 3. Slice the **garlic** and the **ginger** thin.
-4. Put the **sugar** and the **Shaoxing wine for the toss** in cups.
-5. Cut the **scallions** into 1 in lengths. Set them with the other cups.
+4. Put the **sugar** and the **Shaoxing wine for the toss** in one cup.
+5. Cut the **scallions** into 1 in lengths. Put them in that cup.
 
 ## Fry
 
 - 3 cups peanut oil
+
 - 4 tbsp potato starch
+
 - 16 oz boneless skinless chicken thighs, cut into 3/4 in pieces, marinated
 
 1. Put the **peanut oil** in a deep heavy saucepan. Set it on a coil turned to high. Stay with the thermometer. Heat until it reads 350°F, about 8 minutes. Pull the saucepan fully off. Turn the coil to the setting that holds 350°F. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
@@ -93,8 +102,10 @@ These amounts were measured above.
 
 - 1 tbsp Sichuan peppercorns (红花椒)
 - 2 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+
 - 1/2 oz garlic, sliced thin
 - 1/2 oz ginger, sliced thin
+
 - 1/2 tsp sugar
 - 1 tsp Shaoxing wine (绍兴酒), for the toss
 - 3 scallions, cut into 1 in lengths

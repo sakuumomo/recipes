@@ -8,6 +8,8 @@ Marinate the fish. While it sits, cut the chilies and the aromatics, and mix the
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Fish**
@@ -23,8 +25,10 @@ Measure each ingredient once. A later list is that same amount again.
 
 - 2 tsp Sichuan peppercorns (红花椒)
 - 1 1/2 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+
 - 1/2 oz garlic, sliced thin
 - 1/2 oz ginger, sliced thin
+
 - 1/2 tsp sugar
 - 1 tsp Shaoxing wine (绍兴酒), for the toss
 - 3 scallions, cut into 1 in lengths
@@ -44,6 +48,7 @@ Measure each ingredient once. A later list is that same amount again.
 **Fry**
 
 - 3 cups peanut oil, for frying
+
 - 2 tbsp potato starch, for the dust
 
 ---
@@ -69,8 +74,10 @@ Do this while the fish marinates. Use medium 二荆条 flakes marked 中辣.
 
 - 2 tsp Sichuan peppercorns (红花椒)
 - 1 1/2 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+
 - 1/2 oz garlic, sliced thin
 - 1/2 oz ginger, sliced thin
+
 - 1/2 tsp sugar
 - 1 tsp Shaoxing wine (绍兴酒), for the toss
 - 3 scallions, cut into 1 in lengths
@@ -79,10 +86,10 @@ Do this while the fish marinates. Use medium 二荆条 flakes marked 中辣.
 - 1 tsp white sesame seeds (白芝麻)
 
 1. Put the **Sichuan peppercorns** in a cup.
-2. Snip the **dried facing-heaven chilies** in half and shake out the loose seeds.
+2. Snip the **dried facing-heaven chilies** in half and shake out the loose seeds. Put them in that cup.
 3. Slice the **garlic** and the **ginger** thin.
-4. Put the **sugar**, the **Shaoxing wine for the toss**, the **ground cumin**, the **Sichuan chili flakes**, and the **white sesame seeds** in cups.
-5. Cut the **scallions** into 1 in lengths. Set them with the other cups.
+4. Put the **sugar**, the **Shaoxing wine for the toss**, the **ground cumin**, the **Sichuan chili flakes**, and the **white sesame seeds** in one cup.
+5. Cut the **scallions** into 1 in lengths. Put them in that cup.
 
 ## Batter
 
@@ -101,13 +108,16 @@ Do this while the fish marinates.
 ## Fry
 
 - 3 cups peanut oil, for frying
+
 - 2 tbsp potato starch, for the dust
+
 - 1/2 cup potato starch, for the batter
 - 3 tbsp all-purpose flour
 - 1/2 tsp baking powder
 - 1/4 tsp kosher salt, Diamond Crystal, for the batter
 - 1/3 cup cold water
 - 1 tbsp peanut oil, for the batter
+
 - 12 oz snakehead fillet (黑鱼), skinless and boneless, cut into 3/4 in pieces, marinated
 
 1. Put the **peanut oil for frying** in a deep heavy saucepan. Set it on a coil turned to high. Stay with the thermometer. Heat until it reads 350°F, about 6 minutes. Pull the saucepan fully off. Turn the coil to the setting that holds 350°F. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
@@ -133,8 +143,10 @@ These amounts were measured above.
 
 - 2 tsp Sichuan peppercorns (红花椒)
 - 1 1/2 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+
 - 1/2 oz garlic, sliced thin
 - 1/2 oz ginger, sliced thin
+
 - 1/2 tsp sugar
 - 1 tsp Shaoxing wine (绍兴酒), for the toss
 - 3 scallions, cut into 1 in lengths

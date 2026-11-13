@@ -8,6 +8,8 @@ Marinate the fish. Mix the sauce while it sits. Coat and fry the fish when the o
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Fish**
@@ -21,21 +23,27 @@ Measure each ingredient once. A later list is that same amount again.
 **Sauce**
 
 - 1 tbsp peanut oil, for the sauce
+
 - 1 tsp ginger, minced
 - 1 clove garlic, minced
+
 - 3 tbsp tomato ketchup (番茄酱)
 - 2 tbsp sugar
 - 1 tsp light soy sauce (生抽)
 - 1/4 tsp kosher salt, Diamond Crystal, for the sauce
 - 3 tbsp water, for the sauce
+
 - 1 tsp potato starch, for the sauce
 - 1 tbsp cold water, for the slurry
+
 - 2 tbsp rice vinegar (米醋)
+
 - 1 scallion, chopped
 
 **Fry**
 
 - 3 cups peanut oil, for frying
+
 - 1/3 cup potato starch, for the coating
 
 ---
@@ -59,16 +67,21 @@ Use unsalted Shaoxing.
 Do this while the fish marinates. Use tomato ketchup. Use plain rice vinegar.
 
 - 1 tbsp peanut oil, for the sauce
+
 - 1 tsp ginger, minced
 - 1 clove garlic, minced
+
 - 3 tbsp tomato ketchup (番茄酱)
 - 2 tbsp sugar
 - 1 tsp light soy sauce (生抽)
 - 1/4 tsp kosher salt, Diamond Crystal, for the sauce
 - 3 tbsp water, for the sauce
+
 - 1 tsp potato starch, for the sauce
 - 1 tbsp cold water, for the slurry
+
 - 2 tbsp rice vinegar (米醋)
+
 - 1 scallion, chopped
 
 1. Stir the **tomato ketchup**, the **sugar**, the **light soy sauce**, the **kosher salt for the sauce**, and the **water for the sauce** together until the sugar dissolves. Leave the **rice vinegar** in its cup.
@@ -78,7 +91,9 @@ Do this while the fish marinates. Use tomato ketchup. Use plain rice vinegar.
 ## Fry
 
 - 3 cups peanut oil, for frying
+
 - 1/3 cup potato starch, for the coating
+
 - 12 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/4 in thick, marinated
 
 1. Put the **peanut oil for frying** in a deep heavy saucepan. Set it on a coil turned to high. Stay with the thermometer. Heat until it reads 350°F, about 8 minutes. Pull the saucepan fully off. Turn the coil to the setting that holds 350°F. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
@@ -97,16 +112,21 @@ These amounts were measured above.
 **Sauce**
 
 - 1 tbsp peanut oil, for the sauce
+
 - 1 tsp ginger, minced
 - 1 clove garlic, minced
+
 - 3 tbsp tomato ketchup (番茄酱)
 - 2 tbsp sugar
 - 1 tsp light soy sauce (生抽)
 - 1/4 tsp kosher salt, Diamond Crystal, for the sauce
 - 3 tbsp water, for the sauce
+
 - 1 tsp potato starch, for the sauce
 - 1 tbsp cold water, for the slurry
+
 - 2 tbsp rice vinegar (米醋)
+
 - 1 scallion, chopped
 
 **Fish**

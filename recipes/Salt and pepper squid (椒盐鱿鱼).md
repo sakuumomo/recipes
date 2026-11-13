@@ -8,6 +8,8 @@ Cut the squid and let it sit 10 minutes. Toast the pepper salt and cut the toss 
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Squid**
@@ -21,20 +23,24 @@ Measure each ingredient once. A later list is that same amount again.
 - 1/2 tsp Sichuan peppercorns (红花椒)
 - 1/2 tsp kosher salt, Diamond Crystal
 - 1/2 tsp ground white pepper
+
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
 - 1 red chili (小米辣), sliced
+
 - 1 scallion, chopped
 
 **Fry**
 
 - 2 cups peanut oil, for frying
+
 - 1/4 cup all-purpose flour
 - 1/4 cup potato starch
 - 1/4 tsp baking powder
 - 1/4 tsp kosher salt, Diamond Crystal, for the batter
 - 1/3 cup water
 - 2 tsp peanut oil, for the batter
+
 - 2 tsp peanut oil, for the toss
 
 ---
@@ -56,9 +62,11 @@ Use cleaned squid tubes. Use unsalted Shaoxing.
 - 1/2 tsp Sichuan peppercorns (红花椒)
 - 1/2 tsp kosher salt, Diamond Crystal
 - 1/2 tsp ground white pepper
+
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
 - 1 red chili (小米辣), sliced
+
 - 1 scallion, chopped
 
 1. Toast the **Sichuan peppercorns** in a small skillet over medium-low heat, shaking often, until they smell citrusy, about 1 minute. Slide the skillet off the coil and turn that coil off.
@@ -69,13 +77,16 @@ Use cleaned squid tubes. Use unsalted Shaoxing.
 ## Fry
 
 - 2 cups peanut oil, for frying
+
 - 1/4 cup all-purpose flour
 - 1/4 cup potato starch
 - 1/4 tsp baking powder
 - 1/4 tsp kosher salt, Diamond Crystal, for the batter
 - 1/3 cup water
 - 2 tsp peanut oil, for the batter
+
 - 2 tsp peanut oil, for the toss
+
 - 10 oz squid tubes, drained
 
 1. Put the **peanut oil for frying** in a deep heavy saucepan. Set it on a coil turned to high. Stay with the thermometer. Heat until it reads 350°F, about 8 minutes. Pull the saucepan fully off. Turn the coil to the setting that holds 350°F. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
@@ -99,9 +110,11 @@ These amounts were measured above.
 - 1/2 tsp Sichuan peppercorns (红花椒), toasted and crushed
 - 1/2 tsp kosher salt, Diamond Crystal
 - 1/2 tsp ground white pepper
+
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
 - 1 red chili (小米辣), sliced
+
 - 1 scallion, chopped
 
 **Fry**

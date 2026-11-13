@@ -8,6 +8,8 @@ Mix the dough and leave it to rise. Toast the sesame and mix the filling while i
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Dough**
@@ -25,21 +27,25 @@ Measure each ingredient once. A later list is that same amount again.
 
 - 1 scallion, minced, for the filling
 - 1 tsp ginger, minced
+
 - 4 oz ground pork
 - 1 tsp light soy sauce (生抽)
 - 1/4 tsp toasted sesame oil (香油), for the filling
 - 1/4 tsp kosher salt, Diamond Crystal
 - 1/8 tsp ground white pepper
+
 - 2 tbsp cold water, for the pork
 
 **Buns**
 
 - 1 scallion, minced, for the top
+
 - 1 tbsp all-purpose flour, for the counter
 
 **Fry**
 
 - 1 tbsp peanut oil
+
 - 3/4 cup water, for the skillet
 
 ---
@@ -69,11 +75,13 @@ Use ground pork that shows some fat.
 
 - 1 scallion, minced, for the filling
 - 1 tsp ginger, minced
+
 - 4 oz ground pork
 - 1 tsp light soy sauce (生抽)
 - 1/4 tsp toasted sesame oil (香油), for the filling
 - 1/4 tsp kosher salt, Diamond Crystal
 - 1/8 tsp ground white pepper
+
 - 2 tbsp cold water, for the pork
 
 1. Mince the **scallion for the filling** and the **ginger**.
@@ -86,6 +94,7 @@ Use ground pork that shows some fat.
 Once the dough has doubled, shape 8 small buns and close each top so the juice stays inside.
 
 - 1 scallion, minced, for the top
+
 - 1 tbsp all-purpose flour, for the counter
 
 **Dough**
@@ -99,11 +108,13 @@ Once the dough has doubled, shape 8 small buns and close each top so the juice s
 
 - 1 scallion, minced, for the filling, mixed
 - 1 tsp ginger, minced, mixed
+
 - 4 oz ground pork, mixed
 - 1 tsp light soy sauce (生抽), mixed
 - 1/4 tsp toasted sesame oil (香油), for the filling, mixed
 - 1/4 tsp kosher salt, Diamond Crystal, mixed
 - 1/8 tsp ground white pepper, mixed
+
 - 2 tbsp cold water, for the pork, mixed
 
 1. Mince the **scallion for the top**.
@@ -120,8 +131,11 @@ Once the dough has doubled, shape 8 small buns and close each top so the juice s
 ## Fry
 
 - 1 tbsp peanut oil
+
 - 1 cup all-purpose flour, for the dough, shaped into 8 buns
+
 - 3/4 cup water, for the skillet
+
 - 1 tsp white sesame seeds (白芝麻), toasted
 - 1 scallion, minced, for the top
 

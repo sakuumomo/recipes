@@ -8,6 +8,8 @@ Snip the chilies. Boil the brine and let it cool. Cut the garlic and the ginger 
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Chilies**
@@ -17,8 +19,10 @@ Measure each ingredient once. A later list is that same amount again.
 **Brine**
 
 - 1 1/2 cups water
+
 - 2 1/2 tbsp kosher salt, Diamond Crystal
 - 1 1/2 tsp sugar
+
 - 1 tbsp baijiu (白酒)
 
 **Aromatics**
@@ -42,8 +46,10 @@ Use small dried red chilies marked 朝天椒. Use a clean pint jar.
 Use a clear grain liquor marked 白酒.
 
 - 1 1/2 cups water
+
 - 2 1/2 tbsp kosher salt, Diamond Crystal
 - 1 1/2 tsp sugar
+
 - 1 tbsp baijiu (白酒)
 
 1. Put the **water** in a small heavy saucepan. Set the saucepan on a coil turned to high. Stay with it. Heat until the water boils, about 4 minutes.
@@ -70,8 +76,10 @@ These amounts were measured above.
 **Brine**
 
 - 1 1/2 cups water
+
 - 2 1/2 tbsp kosher salt, Diamond Crystal
 - 1 1/2 tsp sugar
+
 - 1 tbsp baijiu (白酒)
 
 **Aromatics**

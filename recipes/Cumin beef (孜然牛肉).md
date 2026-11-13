@@ -8,6 +8,8 @@ Marinate the beef first. Toast the peppercorns and cut the onion while it rests.
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Beef**
@@ -27,15 +29,21 @@ Measure each ingredient once. A later list is that same amount again.
 **Stir-fry**
 
 - 2 tbsp peanut oil, for the stir-fry
+
 - 1 tsp peanut oil, for the spices
+
 - 2 tsp ginger, minced
 - 3 cloves garlic, sliced
+
 - 1 small red onion, cut into 1/2 in pieces
+
 - 1 tsp cumin seeds (孜然)
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+
 - 1 tbsp ground cumin (孜然)
 - 1 tsp Sichuan chili flakes (四川辣椒面)
 - 1/2 tsp sugar
+
 - 2 tbsp cilantro, chopped
 
 ---
@@ -68,20 +76,27 @@ Use flank steak so the slices soften in this time. Use unsalted Shaoxing.
 Do this before the wok is hot. Use medium 二荆条 flakes marked 中辣.
 
 - 2 tbsp peanut oil, for the stir-fry
+
 - 10 oz flank steak, marinated
+
 - 1 tsp peanut oil, for the spices
+
 - 2 tsp ginger, minced
 - 3 cloves garlic, sliced
+
 - 1 small red onion, cut into 1/2 in pieces
+
 - 1 tsp cumin seeds (孜然)
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+
 - 1 tbsp ground cumin (孜然)
 - 1 tsp Sichuan chili flakes (四川辣椒面)
 - 1/2 tsp sugar
 - 1/2 tsp Sichuan peppercorns (红花椒), toasted and crushed
+
 - 2 tbsp cilantro, chopped
 
-1. Put each ingredient into its own cup or pile, prepared the way the line says. Set the marinated beef and the crushed peppercorns with them.
+1. Put each group into one cup or pile, prepared the way the line says. Set the marinated beef and the crushed peppercorns with them.
 2. If the beef is not tacky yet, wait. Set the wok in the ring on a coil turned to high. Heat it until a drop of water flicked into the center vanishes, about 2 minutes. The coil is glowing red by then. Stop there.
 3. Add 1 tbsp of the **peanut oil for the stir-fry**. Swirl it over the bottom. Add half of the **marinated flank steak** in one layer. Leave it still until the underside browns, about 30 seconds. Toss until the pink is gone, about 30 seconds more. If the oil smokes, turn the coil off and stir until the smoke stops. Wait until the coil stops glowing, then turn the coil back to high. When the oil shimmers, keep going. Scoop it onto a plate.
 4. Add the rest of the **peanut oil for the stir-fry** and the rest of the **marinated flank steak**. Leave it still until the underside browns, about 30 seconds. Toss until the pink is gone, about 30 seconds more. If the oil smokes, turn the coil off and stir until the smoke stops. Wait until the coil stops glowing, then turn the coil back to high. When the oil shimmers, keep going. Scoop it onto the plate.

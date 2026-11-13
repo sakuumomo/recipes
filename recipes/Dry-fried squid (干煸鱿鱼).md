@@ -8,11 +8,14 @@ Cut the squid. Blanch it and dry it. Cut the toss before the oil is hot. Fry the
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Squid**
 
 - 6 cups water, for blanching
+
 - 10 oz squid tubes
 - 1 tbsp Shaoxing wine (绍兴酒), for the blanch
 
@@ -20,15 +23,19 @@ Measure each ingredient once. A later list is that same amount again.
 
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 1/2 tsp Sichuan peppercorns (红花椒)
+
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
+
 - 4 oz Chinese celery (香芹), cut into thin 2 in strips
 - 2 oz onion, sliced thin
 
 **Fry**
 
 - 2 cups peanut oil, for frying
+
 - 3 tbsp potato starch
+
 - 1 tbsp peanut oil, for the toss
 
 **Toss**
@@ -44,6 +51,7 @@ Measure each ingredient once. A later list is that same amount again.
 Use cleaned squid tubes. Use unsalted Shaoxing.
 
 - 6 cups water, for blanching
+
 - 10 oz squid tubes
 - 1 tbsp Shaoxing wine (绍兴酒), for the blanch
 
@@ -58,8 +66,10 @@ Do this before the oil is hot.
 
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 1/2 tsp Sichuan peppercorns (红花椒)
+
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
+
 - 4 oz Chinese celery (香芹), cut into thin 2 in strips
 - 2 oz onion, sliced thin
 
@@ -68,8 +78,11 @@ Do this before the oil is hot.
 ## Fry
 
 - 2 cups peanut oil, for frying
+
 - 3 tbsp potato starch
+
 - 1 tbsp peanut oil, for the toss
+
 - 10 oz squid tubes, blanched
 
 1. Put the **peanut oil for frying** in the dry saucepan. Set it on a coil turned to high. Stay with the thermometer. Heat until it reads 350°F, about 8 minutes. Pull the saucepan fully off. Turn the coil to the setting that holds 350°F. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
@@ -86,13 +99,18 @@ Do this before the oil is hot.
 Do this as soon as the squid comes out.
 
 - 1 tbsp peanut oil, for the toss
+
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 1/2 tsp Sichuan peppercorns (红花椒)
+
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
+
 - 10 oz squid tubes, fried
+
 - 4 oz Chinese celery (香芹), cut into thin 2 in strips
 - 2 oz onion, sliced thin
+
 - 1/2 tsp kosher salt, Diamond Crystal
 - 1/2 tsp sugar
 - 1 tsp light soy sauce (生抽)

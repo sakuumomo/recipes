@@ -8,6 +8,8 @@ Marinate the beef first. Cut the scallions while it rests. Stir-fry when the bee
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Beef**
@@ -22,10 +24,14 @@ Measure each ingredient once. A later list is that same amount again.
 **Scallions**
 
 - 2 tbsp peanut oil, for the stir-fry
+
 - 1 tbsp peanut oil, for the scallions
+
 - 2 tsp ginger, julienned
 - 2 cloves garlic, sliced
+
 - 8 oz Chinese scallions (大葱), cut into 2 in lengths
+
 - 1 tsp light soy sauce (生抽), for the stir-fry
 - 1 tsp Shaoxing wine (绍兴酒), for the stir-fry
 - 1/4 tsp sugar
@@ -52,17 +58,21 @@ Use flank steak so the slices soften in this time. Use unsalted Shaoxing.
 Use thick Chinese scallions so the pieces stay crisp.
 
 - 2 tbsp peanut oil, for the stir-fry
+
 - 1 tbsp peanut oil, for the scallions
+
 - 2 tsp ginger, julienned
 - 2 cloves garlic, sliced
+
 - 8 oz Chinese scallions (大葱), cut into 2 in lengths
+
 - 1 tsp light soy sauce (生抽), for the stir-fry
 - 1 tsp Shaoxing wine (绍兴酒), for the stir-fry
 - 1/4 tsp sugar
 
 1. Julienne the **ginger**. Slice the **garlic**.
 2. Trim the **Chinese scallions** and cut them into 2 in lengths. Put the white pieces and the green pieces in two piles.
-3. Put the **peanut oil for the stir-fry**, the **light soy sauce for the stir-fry**, the **Shaoxing wine for the stir-fry**, and the **sugar** into their own cups.
+3. Put the **peanut oil for the stir-fry** in one cup. Put the **light soy sauce for the stir-fry**, the **Shaoxing wine for the stir-fry**, and the **sugar** in another.
 
 ## Stir-fry
 
@@ -75,10 +85,14 @@ These amounts were measured above.
 **Scallions**
 
 - 2 tbsp peanut oil, for the stir-fry
+
 - 1 tbsp peanut oil, for the scallions
+
 - 2 tsp ginger, julienned
 - 2 cloves garlic, sliced
+
 - 8 oz Chinese scallions (大葱), cut into 2 in lengths
+
 - 1 tsp light soy sauce (生抽), for the stir-fry
 - 1 tsp Shaoxing wine (绍兴酒), for the stir-fry
 - 1/4 tsp sugar

@@ -8,13 +8,17 @@ Pour the hot oil over the garlic, stir in the rest, and leave it 10 minutes.
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Sauce**
 
 - 1 tbsp garlic, minced
 - 1 scallion, minced
+
 - 1 tbsp peanut oil
+
 - 2 tbsp Zhenjiang vinegar (镇江香醋)
 - 1/2 tsp light soy sauce (生抽)
 - 1 tsp chili oil (红油)
@@ -28,7 +32,9 @@ This is the dip for the steamed dumplings and the fried dumplings. Use plain red
 
 - 1 tbsp garlic, minced
 - 1 scallion, minced
+
 - 1 tbsp peanut oil
+
 - 2 tbsp Zhenjiang vinegar (镇江香醋)
 - 1/2 tsp light soy sauce (生抽)
 - 1 tsp chili oil (红油)

@@ -8,23 +8,29 @@ Salt the cabbage first. Mince the scallions and ginger while it weeps, then wrap
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Filling**
 
 - 8 oz napa cabbage
 - 1/2 tsp kosher salt, Diamond Crystal, for the cabbage
+
 - 2 scallions, minced
 - 1 tsp ginger, minced
+
 - 8 oz ground pork
 - 2 tbsp light soy sauce (生抽)
 - 1 1/2 tsp toasted sesame oil (香油)
 - 1/8 tsp ground white pepper
+
 - 2 tbsp cold water, for the pork
 
 **Dumplings**
 
 - 16 dumpling wrappers (饺子皮)
+
 - 1 tbsp water, for the seal
 
 **Steam**
@@ -39,12 +45,15 @@ Use ground pork that shows some fat.
 
 - 8 oz napa cabbage
 - 1/2 tsp kosher salt, Diamond Crystal, for the cabbage
+
 - 2 scallions, minced
 - 1 tsp ginger, minced
+
 - 8 oz ground pork
 - 2 tbsp light soy sauce (生抽)
 - 1 1/2 tsp toasted sesame oil (香油)
 - 1/8 tsp ground white pepper
+
 - 2 tbsp cold water, for the pork
 
 1. Cut the core from the **napa cabbage**. Slice the leaves thin, then chop them fine.
@@ -61,18 +70,22 @@ Use ground pork that shows some fat.
 Use round white Shanghai-style wheat wrappers from the refrigerator or freezer case. If they are frozen, thaw them covered until a wrapper bends without cracking; a thick square egg roll wrapper will not pleat.
 
 - 16 dumpling wrappers (饺子皮)
+
 - 1 tbsp water, for the seal
 
 **Filling**
 
 - 8 oz napa cabbage, mixed
 - 1/2 tsp kosher salt, Diamond Crystal, for the cabbage, mixed
+
 - 2 scallions, minced, mixed
 - 1 tsp ginger, minced, mixed
+
 - 8 oz ground pork, mixed
 - 2 tbsp light soy sauce (生抽), mixed
 - 1 1/2 tsp toasted sesame oil (香油), mixed
 - 1/8 tsp ground white pepper, mixed
+
 - 2 tbsp cold water, for the pork, mixed
 
 1. Put the **water for the seal** in a cup.
@@ -88,6 +101,7 @@ Use round white Shanghai-style wheat wrappers from the refrigerator or freezer c
 Tool: bamboo steamer.
 
 - 6 cups water, for the steamer
+
 - 16 dumpling wrappers (饺子皮), wrapped
 
 1. Set the wok in the ring. Pour the **water for the steamer** into it. Set the coil to high. Stay with it. The water must sit below the steamer.

@@ -8,11 +8,14 @@ Work straight down. When the tofu timer rings, drain the tofu, then keep going.
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Tofu**
 
 - 14 oz soft tofu (嫩豆腐)
+
 - 4 cups water
 - 1 tsp kosher salt, Diamond Crystal
 
@@ -28,15 +31,21 @@ Measure each ingredient once. A later list is that same amount again.
 **Prep**
 
 - 1 tbsp peanut oil, for the beef
+
 - 4 oz ground beef
+
 - 3 tbsp peanut oil, for the doubanjiang
+
 - 2 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
+
 - 2 tsp fermented black beans (豆豉), rinsed and lightly crushed
 - 1 tsp Sichuan chili flakes (四川辣椒面)
 - 2 tsp garlic, minced
 - 2 tsp ginger, minced
+
 - 3/4 cup unsalted chicken stock
 - 1/4 tsp ground white pepper
+
 - 3 scallions, cut into 3/4 in lengths
 
 ---
@@ -46,6 +55,7 @@ Measure each ingredient once. A later list is that same amount again.
 Use water-packed soft tofu.
 
 - 14 oz soft tofu (嫩豆腐)
+
 - 4 cups water
 - 1 tsp kosher salt, Diamond Crystal
 
@@ -72,18 +82,24 @@ Use water-packed soft tofu.
 Do this before the wok is hot. Use the coarse Pixian paste, and medium 二荆条 flakes marked 中辣.
 
 - 1 tbsp peanut oil, for the beef
+
 - 4 oz ground beef
+
 - 3 tbsp peanut oil, for the doubanjiang
+
 - 2 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
+
 - 2 tsp fermented black beans (豆豉), rinsed and lightly crushed
 - 1 tsp Sichuan chili flakes (四川辣椒面)
 - 2 tsp garlic, minced
 - 2 tsp ginger, minced
+
 - 3/4 cup unsalted chicken stock
 - 1/4 tsp ground white pepper
+
 - 3 scallions, cut into 3/4 in lengths
 
-1. Put each ingredient into its own cup or pile, prepared the way the line says.
+1. Put each group into one cup or pile, prepared the way the line says.
 2. Set the ground Sichuan pepper and the starch slurry next to the cups. When the tofu timer rings, drain the tofu and set it with them.
 
 ## Stir-fry
@@ -93,15 +109,21 @@ These amounts were measured above.
 **Prep**
 
 - 1 tbsp peanut oil, for the beef
+
 - 4 oz ground beef
+
 - 3 tbsp peanut oil, for the doubanjiang
+
 - 2 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
+
 - 2 tsp fermented black beans (豆豉), rinsed and lightly crushed
 - 1 tsp Sichuan chili flakes (四川辣椒面)
 - 2 tsp garlic, minced
 - 2 tsp ginger, minced
+
 - 3/4 cup unsalted chicken stock
 - 1/4 tsp ground white pepper
+
 - 3 scallions, cut into 3/4 in lengths
 
 **Tofu**

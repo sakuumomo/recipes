@@ -6,6 +6,8 @@ Instant Pot, 1 cup water to 1 cup rice, high pressure for 3 minutes.
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Rice**

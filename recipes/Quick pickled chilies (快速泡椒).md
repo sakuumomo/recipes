@@ -8,6 +8,8 @@ Snip the chilies. Heat the brine, pour it over them, and leave the jar until the
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Chilies**
@@ -19,6 +21,7 @@ Measure each ingredient once. A later list is that same amount again.
 - 2 cloves garlic, smashed
 - 1/2 oz ginger, sliced
 - 1/2 tsp Sichuan peppercorns (红花椒)
+
 - 3/4 cup rice vinegar (米醋)
 - 3/4 cup water
 - 1 tbsp kosher salt, Diamond Crystal
@@ -42,6 +45,7 @@ Use plain rice vinegar.
 - 1/2 oz ginger, sliced
 - 1/2 tsp Sichuan peppercorns (红花椒)
 - 1 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+
 - 3/4 cup rice vinegar (米醋)
 - 3/4 cup water
 - 1 tbsp kosher salt, Diamond Crystal

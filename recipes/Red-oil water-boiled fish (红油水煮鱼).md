@@ -8,6 +8,8 @@ Marinate the fish. While it sits, chop the doubanjiang and cut the aromatics. Fr
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Fish**
@@ -16,18 +18,25 @@ Measure each ingredient once. A later list is that same amount again.
 - 2 tsp Shaoxing wine (绍兴酒), for the fish
 - 1/2 tsp kosher salt, Diamond Crystal, for the fish
 - 1/4 tsp ground white pepper, for the fish
+
 - 1 egg white
+
 - 1 tbsp sweet potato starch (红薯淀粉)
+
 - 2 tsp peanut oil, for the fish
 
 **Prep**
 
 - 2 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
+
 - 2 tsp garlic, minced, for the paste
 - 1/2 oz ginger, sliced
 - 3 scallions, whites and greens separated, cut into 2 in lengths
+
 - 1/2 tsp sugar
+
 - 8 oz soybean sprouts (黄豆芽)
+
 - 1/2 oz garlic, sliced thin, for the pour
 - 1 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 1 tbsp Sichuan peppercorns (红花椒)
@@ -35,10 +44,12 @@ Measure each ingredient once. A later list is that same amount again.
 **Broth**
 
 - 3 tbsp peanut oil, for the paste
+
 - 3 cups unsalted chicken stock
 - 2 tsp Shaoxing wine (绍兴酒), for the broth
 - 1/8 tsp ground white pepper, for the broth
 - 1/2 tsp kosher salt, Diamond Crystal, for the broth
+
 - 1/2 cup peanut oil, for the pour
 
 ---
@@ -51,8 +62,11 @@ Use unsalted Shaoxing.
 - 2 tsp Shaoxing wine (绍兴酒), for the fish
 - 1/2 tsp kosher salt, Diamond Crystal, for the fish
 - 1/4 tsp ground white pepper, for the fish
+
 - 1 egg white
+
 - 1 tbsp sweet potato starch (红薯淀粉)
+
 - 2 tsp peanut oil, for the fish
 
 1. If the **snakehead fillet** still has skin, cut the skin off. Slice the fillet on a bias, 1/8 in thick.
@@ -67,11 +81,15 @@ Use unsalted Shaoxing.
 Do this while the fish marinates. Use the coarse Pixian paste.
 
 - 2 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
+
 - 2 tsp garlic, minced, for the paste
 - 1/2 oz ginger, sliced
 - 3 scallions, whites and greens separated, cut into 2 in lengths
+
 - 1/2 tsp sugar
+
 - 8 oz soybean sprouts (黄豆芽)
+
 - 1/2 oz garlic, sliced thin, for the pour
 - 1 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 1 tbsp Sichuan peppercorns (红花椒)
@@ -83,21 +101,26 @@ Do this while the fish marinates. Use the coarse Pixian paste.
 5. Rinse the **soybean sprouts**.
 6. Slice the **garlic for the pour** thin.
 7. Snip the **dried facing-heaven chilies** in half and shake out the loose seeds.
-8. Put the **Sichuan peppercorns** in a cup. Set the cups next to a large heatproof bowl.
+8. Put the **garlic for the pour**, the **dried facing-heaven chilies**, and the **Sichuan peppercorns** in one cup. Set the cups next to a large heatproof bowl.
 
 ## Broth
 
 - 3 tbsp peanut oil, for the paste
+
 - 2 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
+
 - 2 tsp garlic, minced, for the paste
 - 1/2 oz ginger, sliced
 - 3 scallions, whites and greens separated, cut into 2 in lengths
+
 - 3 cups unsalted chicken stock
 - 2 tsp Shaoxing wine (绍兴酒), for the broth
 - 1/8 tsp ground white pepper, for the broth
 - 1/2 tsp kosher salt, Diamond Crystal, for the broth
 - 1/2 tsp sugar
+
 - 1/2 cup peanut oil, for the pour
+
 - 8 oz soybean sprouts (黄豆芽)
 
 1. Put the **peanut oil for the paste** in a heavy saucepan on a coil turned to medium. When it shimmers, about 2 minutes, add the **Pixian doubanjiang**. Fry, stirring, until the oil is deep red and smells toasty, about 1 minute. If it smells sharp, pull the saucepan fully off and stir until the smell sweetens. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
@@ -118,6 +141,7 @@ These amounts were measured above.
 **Prep**
 
 - 3 scallions, whites and greens separated, cut into 2 in lengths
+
 - 1/2 oz garlic, sliced thin, for the pour
 - 1 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 1 tbsp Sichuan peppercorns (红花椒)

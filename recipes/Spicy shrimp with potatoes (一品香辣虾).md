@@ -8,6 +8,8 @@ Soak the potatoes. Season the shrimp and cut the aromatics while they soak. Fry 
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Potatoes**
@@ -25,16 +27,20 @@ Measure each ingredient once. A later list is that same amount again.
 **Prep**
 
 - 1 tbsp peanut oil, for the toss
+
 - 3 cloves garlic, sliced
 - 1 tsp ginger, sliced
 - 12 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+
 - 2 oz Chinese celery (香芹), cut into 1 1/2 in lengths
 - 2 oz roasted salted peanuts
 - 1 scallion, cut into 1 in lengths
+
 - 1 tbsp light soy sauce (生抽)
 - 1 tsp sugar
 - 2 tbsp chili oil (红油)
 - 1 tsp toasted sesame oil (香油)
+
 - 1 tsp white sesame seeds (白芝麻)
 
 **Fry**
@@ -71,26 +77,32 @@ Use large peeled shrimp with the tails off. Use unsalted Shaoxing.
 Do this while the potatoes soak. Use plain red chili oil.
 
 - 1 tbsp peanut oil, for the toss
+
 - 3 cloves garlic, sliced
 - 1 tsp ginger, sliced
 - 12 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+
 - 2 oz Chinese celery (香芹), cut into 1 1/2 in lengths
 - 2 oz roasted salted peanuts
 - 1 scallion, cut into 1 in lengths
+
 - 1 tbsp light soy sauce (生抽)
 - 1 tsp sugar
 - 2 tbsp chili oil (红油)
 - 1 tsp toasted sesame oil (香油)
+
 - 1 tsp white sesame seeds (白芝麻)
 
 1. Slice the **garlic**. Slice the **ginger**. Snip the **dried facing-heaven chilies** in half and shake out the loose seeds.
 2. Cut the **Chinese celery** into 1 1/2 in lengths. Cut the **scallion** into 1 in lengths.
-3. Set the **peanut oil for the toss**, the **roasted salted peanuts**, the **light soy sauce**, the **sugar**, the **chili oil**, the **toasted sesame oil**, and the **white sesame seeds** in cups.
+3. Put the **peanut oil for the toss** in one cup. Put the **light soy sauce**, the **sugar**, the **chili oil**, and the **toasted sesame oil** in another. Put the **white sesame seeds** in another.
 
 ## Fry
 
 - 3 cups peanut oil, for frying
+
 - 10 oz large shrimp, peeled and deveined, seasoned
+
 - 8 oz potatoes, drained
 
 1. Put the **peanut oil for frying** in a deep heavy saucepan. Set it on a coil turned to high. Stay with the thermometer. Heat until it reads 350°F, about 8 minutes. Pull the saucepan fully off. Turn the coil to the setting that holds 350°F. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
@@ -107,16 +119,20 @@ These amounts were measured above.
 **Prep**
 
 - 1 tbsp peanut oil, for the toss
+
 - 3 cloves garlic, sliced
 - 1 tsp ginger, sliced
 - 12 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+
 - 2 oz Chinese celery (香芹), cut into 1 1/2 in lengths
 - 2 oz roasted salted peanuts
 - 1 scallion, cut into 1 in lengths
+
 - 1 tbsp light soy sauce (生抽)
 - 1 tsp sugar
 - 2 tbsp chili oil (红油)
 - 1 tsp toasted sesame oil (香油)
+
 - 1 tsp white sesame seeds (白芝麻)
 
 **Potatoes**

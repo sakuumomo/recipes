@@ -8,6 +8,8 @@ Blanch the ribs first. Snap the beans while the water heats. When the ribs are r
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Ribs**
@@ -18,6 +20,7 @@ Measure each ingredient once. A later list is that same amount again.
 **Beans**
 
 - 8 oz green beans (豆角)
+
 - 1 tbsp peanut oil
 
 **Stew**
@@ -26,11 +29,14 @@ Measure each ingredient once. A later list is that same amount again.
 - 2 scallions, cut into 2 in lengths
 - 3 cloves garlic, smashed
 - 1 star anise (八角)
+
 - 1 tbsp Shaoxing wine (绍兴酒)
 - 1 tbsp light soy sauce (生抽)
 - 1 tsp dark soy sauce (老抽)
 - 1/2 tsp sugar
+
 - 4 cups water, for the stew
+
 - 1/2 tsp kosher salt, Diamond Crystal
 
 ---
@@ -49,6 +55,7 @@ Measure each ingredient once. A later list is that same amount again.
 Flat green beans and common green beans both turn silky in this stew.
 
 - 8 oz green beans (豆角)
+
 - 1 tbsp peanut oil
 
 1. Snap the ends off the **green beans** and break them into 2 in lengths. Pat them dry.
@@ -60,15 +67,19 @@ Flat green beans and common green beans both turn silky in this stew.
 Use unsalted Shaoxing.
 
 - 16 oz pork spare ribs, blanched
+
 - 1 tbsp ginger, sliced
 - 2 scallions, cut into 2 in lengths
 - 3 cloves garlic, smashed
 - 1 star anise (八角)
+
 - 1 tbsp Shaoxing wine (绍兴酒)
 - 1 tbsp light soy sauce (生抽)
 - 1 tsp dark soy sauce (老抽)
 - 1/2 tsp sugar
+
 - 4 cups water, for the stew
+
 - 8 oz green beans (豆角), fried
 - 1/2 tsp kosher salt, Diamond Crystal
 

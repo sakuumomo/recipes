@@ -8,6 +8,8 @@ Marinate the fish. Snip the chilies while it sits. Blanch the vegetables when th
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Fish**
@@ -17,30 +19,38 @@ Measure each ingredient once. A later list is that same amount again.
 - 1 tsp Shaoxing wine (绍兴酒)
 - 1/8 tsp ground white pepper
 - 1 tsp ground cumin (孜然), for the fish
+
 - 1 egg white
+
 - 1 tbsp potato starch
+
 - 1 tsp peanut oil, for the fish
 
 **Vegetables**
 
 - 6 cups water, for blanching
 - 1/4 tsp kosher salt, Diamond Crystal, for the blanch
+
 - 4 oz celtuce stem (莴笋)
-- 3 oz enoki mushrooms (金针菇)
 - 2 oz shiitake mushrooms (香菇)
 - 2 oz onion, sliced thin
+
+- 3 oz enoki mushrooms (金针菇)
 
 **Storm oil**
 
 - 6 tbsp peanut oil, for the pour
+
 - 1/2 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 2 tsp Sichuan peppercorns (红花椒)
 - 1 tsp green Sichuan peppercorns (青花椒)
 - 1 tsp cumin seeds (孜然), for the oil
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
-- 1 scallion, chopped
+
 - 1 tsp toasted sesame oil (香油)
+
+- 1 scallion, chopped
 - 1 tsp white sesame seeds (白芝麻)
 
 ---
@@ -54,8 +64,11 @@ Use unsalted Shaoxing.
 - 1 tsp Shaoxing wine (绍兴酒)
 - 1/8 tsp ground white pepper
 - 1 tsp ground cumin (孜然), for the fish
+
 - 1 egg white
+
 - 1 tbsp potato starch
+
 - 1 tsp peanut oil, for the fish
 
 1. If the **snakehead fillet** still has skin, cut the skin off. Slice the fillet on a bias into pieces about 2 in long and 1/8 in thick.
@@ -71,10 +84,12 @@ Use the thick stem of celtuce, and fresh shiitake.
 
 - 6 cups water, for blanching
 - 1/4 tsp kosher salt, Diamond Crystal, for the blanch
+
 - 4 oz celtuce stem (莴笋)
-- 3 oz enoki mushrooms (金针菇)
 - 2 oz shiitake mushrooms (香菇)
 - 2 oz onion, sliced thin
+
+- 3 oz enoki mushrooms (金针菇)
 
 1. Put the **water for blanching** and the **kosher salt for the blanch** in a heavy saucepan. Set it on a coil turned to high. Stay with it. If it boils before the vegetables are cut, pull the saucepan fully off and turn the coil off.
 2. Peel the **celtuce stem** until the pale flesh shows. Slice it 1/4 in thick, in pieces about 2 in long.
@@ -90,19 +105,22 @@ Use the thick stem of celtuce, and fresh shiitake.
 Do this while the fish marinates.
 
 - 6 tbsp peanut oil, for the pour
+
 - 1/2 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 2 tsp Sichuan peppercorns (红花椒)
 - 1 tsp green Sichuan peppercorns (青花椒)
 - 1 tsp cumin seeds (孜然), for the oil
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
-- 1 scallion, chopped
+
 - 1 tsp toasted sesame oil (香油)
+
+- 1 scallion, chopped
 - 1 tsp white sesame seeds (白芝麻)
 
 1. Snip the **dried facing-heaven chilies** in half and shake out the loose seeds.
 2. Slice the **garlic**. Slice the **ginger**. Chop the **scallion**.
-3. Set the **peanut oil for the pour**, the **Sichuan peppercorns**, the **green Sichuan peppercorns**, the **cumin seeds for the oil**, the **toasted sesame oil**, and the **white sesame seeds** in cups.
+3. Put the **peanut oil for the pour** in one cup. Put the **dried facing-heaven chilies**, the **Sichuan peppercorns**, the **green Sichuan peppercorns**, the **cumin seeds for the oil**, the **garlic**, and the **ginger** in another. Put the **toasted sesame oil** in another. Put the **scallion** and the **white sesame seeds** in another.
 
 ## Pour
 
@@ -115,22 +133,26 @@ These amounts were measured above.
 **Vegetables**
 
 - 6 cups water, for blanching
+
 - 4 oz celtuce stem (莴笋), blanched
-- 3 oz enoki mushrooms (金针菇), blanched
 - 2 oz shiitake mushrooms (香菇), blanched
 - 2 oz onion, sliced thin, blanched
+- 3 oz enoki mushrooms (金针菇), blanched
 
 **Storm oil**
 
 - 6 tbsp peanut oil, for the pour
+
 - 1/2 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 2 tsp Sichuan peppercorns (红花椒)
 - 1 tsp green Sichuan peppercorns (青花椒)
 - 1 tsp cumin seeds (孜然), for the oil
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
-- 1 scallion, chopped
+
 - 1 tsp toasted sesame oil (香油)
+
+- 1 scallion, chopped
 - 1 tsp white sesame seeds (白芝麻)
 
 1. Pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The **water for blanching** should shiver. If the surface is still, turn the coil one setting higher and leave the saucepan fully on. Slide in half of the **marinated snakehead fillet**, a few slices at a time. When the slices are white and firm, about 30 seconds, lift them out with a slotted spoon. If a slice is still translucent, leave it 15 seconds more. Cook the remaining half the same way.

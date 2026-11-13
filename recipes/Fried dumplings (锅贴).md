@@ -8,30 +8,39 @@ Salt the cabbage first. Mince the scallions and ginger while it weeps, then wrap
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Filling**
 
 - 8 oz napa cabbage
 - 1/2 tsp kosher salt, Diamond Crystal, for the cabbage
+
 - 2 scallions, minced
 - 1 tsp ginger, minced
+
 - 8 oz ground pork
 - 2 tbsp light soy sauce (生抽)
 - 1 1/2 tsp toasted sesame oil (香油)
 - 1/8 tsp ground white pepper
+
 - 2 tbsp cold water, for the pork
 
 **Dumplings**
 
 - 16 dumpling wrappers (饺子皮)
+
 - 1 tbsp water, for the seal
 
 **Fry**
 
 - 1 tbsp peanut oil, for the first batch
+
 - 1/2 cup water, for the first batch
+
 - 1 tbsp peanut oil, for the second batch
+
 - 1/2 cup water, for the second batch
 
 ---
@@ -42,12 +51,15 @@ Use ground pork that shows some fat.
 
 - 8 oz napa cabbage
 - 1/2 tsp kosher salt, Diamond Crystal, for the cabbage
+
 - 2 scallions, minced
 - 1 tsp ginger, minced
+
 - 8 oz ground pork
 - 2 tbsp light soy sauce (生抽)
 - 1 1/2 tsp toasted sesame oil (香油)
 - 1/8 tsp ground white pepper
+
 - 2 tbsp cold water, for the pork
 
 1. Cut the core from the **napa cabbage**. Slice the leaves thin, then chop them fine.
@@ -64,18 +76,22 @@ Use ground pork that shows some fat.
 Use round white Shanghai-style wheat wrappers from the refrigerator or freezer case. If they are frozen, thaw them covered until a wrapper bends without cracking; a thick square egg roll wrapper will not pleat.
 
 - 16 dumpling wrappers (饺子皮)
+
 - 1 tbsp water, for the seal
 
 **Filling**
 
 - 8 oz napa cabbage, mixed
 - 1/2 tsp kosher salt, Diamond Crystal, for the cabbage, mixed
+
 - 2 scallions, minced, mixed
 - 1 tsp ginger, minced, mixed
+
 - 8 oz ground pork, mixed
 - 2 tbsp light soy sauce (生抽), mixed
 - 1 1/2 tsp toasted sesame oil (香油), mixed
 - 1/8 tsp ground white pepper, mixed
+
 - 2 tbsp cold water, for the pork, mixed
 
 1. Put the **water for the seal** in a cup.
@@ -89,9 +105,13 @@ Use round white Shanghai-style wheat wrappers from the refrigerator or freezer c
 ## Fry
 
 - 1 tbsp peanut oil, for the first batch
+
 - 1/2 cup water, for the first batch
+
 - 1 tbsp peanut oil, for the second batch
+
 - 1/2 cup water, for the second batch
+
 - 16 dumpling wrappers (饺子皮), wrapped
 
 1. Put the **peanut oil for the first batch** in a 10 in heavy skillet. Set the skillet on medium. Heat until the oil shimmers, about 2 minutes. If it smokes, pull the skillet fully off and turn the coil off. When the smoke stops, turn the coil back to medium and set the skillet fully back on.

@@ -8,28 +8,36 @@ Salt the eggplant. Mix the sauce cups while it sits. When the 15 minutes are up,
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Eggplant**
 
 - 12 oz eggplant
 - 1/2 tsp kosher salt, Diamond Crystal
+
 - 2 tbsp potato starch
+
 - 1/4 cup peanut oil, for the eggplant
 
 **Sauce**
 
 - 1 tsp ginger, minced
 - 4 cloves garlic, minced
+
 - 1 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
 - 1 tbsp sweet wheat sauce (甜面酱)
+
 - 1 tsp sugar
 - 1 tsp light soy sauce (生抽)
 - 1/2 tsp dark soy sauce (老抽)
 - 1 tsp Shaoxing wine (绍兴酒)
 - 2 tbsp water, for the sauce
+
 - 1 tsp potato starch, for the sauce
 - 1 tbsp cold water, for the sauce
+
 - 1 tsp Zhenjiang vinegar (镇江香醋)
 - 1 scallion, chopped
 
@@ -41,7 +49,9 @@ Use a long Chinese eggplant.
 
 - 12 oz eggplant
 - 1/2 tsp kosher salt, Diamond Crystal
+
 - 2 tbsp potato starch
+
 - 1/4 cup peanut oil, for the eggplant
 
 1. Trim the **eggplant** and cut it into pieces about 2 in long and 3/4 in thick. Toss the pieces with the **kosher salt**. Set a timer for 15 minutes. Go on to the sauce.
@@ -56,17 +66,22 @@ Do this while the eggplant sits. Use the coarse Pixian paste, sweet wheat sauce 
 
 - 1 tsp ginger, minced
 - 4 cloves garlic, minced
+
 - 1 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
 - 1 tbsp sweet wheat sauce (甜面酱)
+
 - 1 tsp sugar
 - 1 tsp light soy sauce (生抽)
 - 1/2 tsp dark soy sauce (老抽)
 - 1 tsp Shaoxing wine (绍兴酒)
 - 2 tbsp water, for the sauce
+
 - 1 tsp potato starch, for the sauce
 - 1 tbsp cold water, for the sauce
+
 - 1 tsp Zhenjiang vinegar (镇江香醋)
 - 1 scallion, chopped
+
 - 12 oz eggplant, fried
 
 1. Mince the **ginger** and the **garlic**. Chop the **scallion**. Chop the **Pixian doubanjiang**. Stir the **potato starch for the sauce** and the **cold water for the sauce** together until the liquid is smooth. Go back and finish the eggplant. Come back to the next step when the oil has been poured off.

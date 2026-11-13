@@ -8,6 +8,8 @@ Soak the noodles first. Mince while they soften. Stir-fry when a strand bends wi
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Noodles**
@@ -18,15 +20,20 @@ Measure each ingredient once. A later list is that same amount again.
 **Stir-fry**
 
 - 1 1/2 tbsp peanut oil
+
 - 1 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
 - 1/2 tsp Sichuan chili flakes (四川辣椒面)
+
 - 5 oz ground pork
 - 1 tsp ginger, minced
+
 - 1 tsp Shaoxing wine (绍兴酒)
 - 1 tsp light soy sauce (生抽)
+
 - 1/2 tsp sugar
 - 1/4 tsp ground white pepper
 - 1 1/2 cups unsalted chicken stock
+
 - 2 tsp garlic, minced
 - 2 scallions, minced
 
@@ -47,20 +54,26 @@ Use thin threads with mung bean starch first. A little pea starch is fine, and t
 Use ground pork that shows some fat. Use the coarse Pixian paste, medium 二荆条 flakes marked 中辣, and unsalted Shaoxing.
 
 - 1 1/2 tbsp peanut oil
+
 - 1 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
 - 1/2 tsp Sichuan chili flakes (四川辣椒面)
+
 - 5 oz ground pork
 - 1 tsp ginger, minced
+
 - 1 tsp Shaoxing wine (绍兴酒)
 - 1 tsp light soy sauce (生抽)
+
 - 1/2 tsp sugar
 - 1/4 tsp ground white pepper
 - 1 1/2 cups unsalted chicken stock
+
 - 4 oz mung bean vermicelli (绿豆粉丝), drained
+
 - 2 tsp garlic, minced
 - 2 scallions, minced
 
-1. Put each ingredient into its own cup or pile, prepared the way the line says. When a noodle strand bends without breaking, drain the noodles and set them with the cups. If a strand is still stiff, wait.
+1. Put each group into one cup or pile, prepared the way the line says. When a noodle strand bends without breaking, drain the noodles and set them with the cups. If a strand is still stiff, wait.
 2. Set the wok in the ring on a coil turned to medium-high. Add the **peanut oil**. When it shimmers, about 2 minutes, add the **Pixian doubanjiang** and the **Sichuan chili flakes** together. If the oil smokes, turn the coil off and stir until the smoke stops. Wait until the coil stops glowing, then turn the coil back to medium-high.
 3. Fry, stirring, until the oil is red and smells toasty, about 30 seconds. If it smells sharp, turn the coil off and stir until the smell sweetens. Wait until the coil stops glowing, then turn the coil back to medium-high.
 4. Add the **ground pork** and the **ginger**. Break the pork into small bits and stir until the bits are browned, about 3 minutes. If the bits are still pink, cook until the pink is gone, about 1 minute more.

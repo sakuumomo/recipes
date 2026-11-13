@@ -8,6 +8,8 @@ Cut the filling, then blanch it and stay with the pot. Wrap the rolls, then heat
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Filling**
@@ -15,10 +17,15 @@ Measure each ingredient once. A later list is that same amount again.
 - 8 oz green cabbage, shredded
 - 1 oz carrot, shredded
 - 2 oz celery, sliced thin
+
 - 1 scallion, chopped
+
 - 4 oz char siu (叉烧), cut into 1/4 in dice
+
 - 6 cups water, for blanching
+
 - 6 cups cold water, for cooling
+
 - 1 1/4 tsp kosher salt, Diamond Crystal
 - 1/2 tsp sugar
 - 3/4 tsp toasted sesame oil (香油)
@@ -28,6 +35,7 @@ Measure each ingredient once. A later list is that same amount again.
 **Rolls**
 
 - 6 egg roll wrappers
+
 - 1 tbsp water, for the seal
 
 **Fry**
@@ -41,10 +49,15 @@ Measure each ingredient once. A later list is that same amount again.
 - 8 oz green cabbage, shredded
 - 1 oz carrot, shredded
 - 2 oz celery, sliced thin
+
 - 1 scallion, chopped
+
 - 4 oz char siu (叉烧), cut into 1/4 in dice
+
 - 6 cups water, for blanching
+
 - 6 cups cold water, for cooling
+
 - 1 1/4 tsp kosher salt, Diamond Crystal
 - 1/2 tsp sugar
 - 3/4 tsp toasted sesame oil (香油)
@@ -67,6 +80,7 @@ Measure each ingredient once. A later list is that same amount again.
 Use thick square wrappers from the refrigerator case. Thin frozen sheets and rice paper will not blister.
 
 - 6 egg roll wrappers
+
 - 1 tbsp water, for the seal
 
 **Filling**
@@ -74,8 +88,11 @@ Use thick square wrappers from the refrigerator case. Thin frozen sheets and ric
 - 8 oz green cabbage, shredded, mixed
 - 1 oz carrot, shredded, mixed
 - 2 oz celery, sliced thin, mixed
+
 - 1 scallion, chopped, mixed
+
 - 4 oz char siu (叉烧), cut into 1/4 in dice, mixed
+
 - 1 1/4 tsp kosher salt, Diamond Crystal, mixed
 - 1/2 tsp sugar, mixed
 - 3/4 tsp toasted sesame oil (香油), mixed
@@ -93,6 +110,7 @@ Use thick square wrappers from the refrigerator case. Thin frozen sheets and ric
 ## Fry
 
 - 4 cups peanut oil, for frying
+
 - 6 egg roll wrappers, rolled
 
 1. Put the **peanut oil for frying** in the dry saucepan. Set it on a coil turned to high. Stay with the thermometer. Heat until it reads 350°F, about 8 minutes. Pull the saucepan fully off. Turn the coil to the setting that holds 350°F. If the coil is glowing, wait until it stops. Set the saucepan fully back on.

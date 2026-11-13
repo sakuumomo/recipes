@@ -8,6 +8,8 @@ Season the shrimp and set out the coating. Fry when the oil is ready.
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Shrimp**
@@ -20,7 +22,9 @@ Measure each ingredient once. A later list is that same amount again.
 **Coat**
 
 - 1/4 cup potato starch
+
 - 1 egg
+
 - 1 cup unsweetened shredded coconut (椰丝)
 
 **Fry**
@@ -46,7 +50,9 @@ Use large peeled shrimp with the tails off. Use unsalted Shaoxing.
 Use unsweetened shredded coconut.
 
 - 1/4 cup potato starch
+
 - 1 egg
+
 - 1 cup unsweetened shredded coconut (椰丝)
 
 1. Put the **potato starch** in a wide bowl.
@@ -56,9 +62,13 @@ Use unsweetened shredded coconut.
 ## Fry
 
 - 3 cups peanut oil, for frying
+
 - 1/4 cup potato starch
+
 - 1 egg
+
 - 1 cup unsweetened shredded coconut (椰丝)
+
 - 10 oz large shrimp, peeled and deveined, seasoned
 
 1. Put the **peanut oil for frying** in a deep heavy saucepan. Set it on a coil turned to high. Stay with the thermometer. Heat until it reads 325°F, about 8 minutes. Pull the saucepan fully off. Turn the coil to the setting that holds 325°F. If the coil is glowing, wait until it stops. Set the saucepan fully back on.

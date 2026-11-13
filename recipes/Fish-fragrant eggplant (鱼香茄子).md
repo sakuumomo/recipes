@@ -8,29 +8,39 @@ Salt the eggplant. Cut the sauce while it sits. When the 15 minutes are up, fry 
 
 Measure each ingredient once. A later list is that same amount again.
 
+Lines with no blank line between them share a cup.
+
 ## Ingredients
 
 **Eggplant**
 
 - 12 oz eggplant
 - 1/2 tsp kosher salt, Diamond Crystal
+
 - 2 tbsp potato starch
+
 - 1/4 cup peanut oil, for the eggplant
 
 **Sauce**
 
 - 2 oz ground pork
+
 - 1 tbsp pickled red chilies (泡椒), chopped
 - 1 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
+
 - 2 tsp ginger, minced
 - 4 cloves garlic, minced
+
 - 3 scallions, whites and greens separated, chopped
+
 - 4 tsp sugar
 - 2 tsp light soy sauce (生抽)
 - 2 tsp Shaoxing wine (绍兴酒)
 - 1/4 cup water, for the sauce
+
 - 1 tsp potato starch, for the sauce
 - 1 tbsp cold water, for the sauce
+
 - 2 tsp Zhenjiang vinegar (镇江香醋)
 
 ---
@@ -41,7 +51,9 @@ Use a long Chinese eggplant.
 
 - 12 oz eggplant
 - 1/2 tsp kosher salt, Diamond Crystal
+
 - 2 tbsp potato starch
+
 - 1/4 cup peanut oil, for the eggplant
 
 1. Trim the **eggplant** and cut it into pieces about 2 in long and 3/4 in thick. Toss the pieces with the **kosher salt**. Set a timer for 15 minutes. Go on to the sauce.
@@ -55,18 +67,25 @@ Use a long Chinese eggplant.
 Do this while the eggplant sits. Use ground pork that shows some fat, Sichuan pickled red chilies from the jar marked 泡椒, the coarse Pixian paste, and unsalted Shaoxing.
 
 - 2 oz ground pork
+
 - 1 tbsp pickled red chilies (泡椒), chopped
 - 1 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
+
 - 2 tsp ginger, minced
 - 4 cloves garlic, minced
+
 - 3 scallions, whites and greens separated, chopped
+
 - 4 tsp sugar
 - 2 tsp light soy sauce (生抽)
 - 2 tsp Shaoxing wine (绍兴酒)
 - 1/4 cup water, for the sauce
+
 - 12 oz eggplant, fried
+
 - 1 tsp potato starch, for the sauce
 - 1 tbsp cold water, for the sauce
+
 - 2 tsp Zhenjiang vinegar (镇江香醋)
 
 1. Mince the **ginger** and the **garlic**. Separate the whites and the greens of the **scallions**, and chop both. Chop the **pickled red chilies** and the **Pixian doubanjiang**. Stir the **potato starch for the sauce** and the **cold water for the sauce** together until the liquid is smooth. Go back and finish the eggplant. Come back to the next step when the oil has been poured off.
