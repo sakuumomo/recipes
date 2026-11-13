@@ -8,13 +8,15 @@ Steam the yolks. Season the shrimp while they steam. Sear when the yolks are mas
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
 **Yolks**
 
 - 2 cups water, for steaming
+
+<!-- cup -->
 
 - 3 salted duck egg yolks (咸蛋黄)
 
@@ -24,14 +26,20 @@ Lines with no blank line between them share a cup.
 - 1 tsp Shaoxing wine (绍兴酒)
 - 1/8 tsp ground white pepper
 
+<!-- cup -->
+
 - 2 tbsp potato starch
 
 **Toss**
 
 - 2 tbsp peanut oil
 
+<!-- cup -->
+
 - 1 clove garlic, minced
 - 1/4 tsp sugar
+
+<!-- cup -->
 
 - 1 scallion, chopped
 
@@ -42,6 +50,8 @@ Lines with no blank line between them share a cup.
 Use the yolks from salted duck eggs.
 
 - 2 cups water, for steaming
+
+<!-- cup -->
 
 - 3 salted duck egg yolks (咸蛋黄)
 
@@ -58,6 +68,8 @@ Use large peeled shrimp with the tails off. Use unsalted Shaoxing.
 - 1 tsp Shaoxing wine (绍兴酒)
 - 1/8 tsp ground white pepper
 
+<!-- cup -->
+
 - 2 tbsp potato starch
 
 1. If a dark vein remains along the back of a shrimp, pull it out. Pat the **large shrimp** dry.
@@ -70,11 +82,17 @@ Do this before the wok is hot.
 
 - 2 tbsp peanut oil
 
+<!-- cup -->
+
 - 10 oz large shrimp, peeled and deveined, coated
+
+<!-- cup -->
 
 - 1 clove garlic, minced
 - 3 salted duck egg yolks (咸蛋黄), steamed and mashed
 - 1/4 tsp sugar
+
+<!-- cup -->
 
 - 1 scallion, chopped
 

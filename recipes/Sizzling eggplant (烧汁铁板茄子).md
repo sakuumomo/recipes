@@ -8,7 +8,7 @@ Salt the eggplant. Make the sauce while it sits. When the 15 minutes are up, fry
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -17,7 +17,11 @@ Lines with no blank line between them share a cup.
 - 12 oz eggplant
 - 1/2 tsp kosher salt, Diamond Crystal
 
+<!-- cup -->
+
 - 2 tbsp potato starch
+
+<!-- cup -->
 
 - 1/4 cup peanut oil, for the eggplant
 
@@ -25,10 +29,14 @@ Lines with no blank line between them share a cup.
 
 - 1 tsp peanut oil, for the sauce
 
+<!-- cup -->
+
 - 2 oz onion, diced
 - 2 oz red bell pepper, diced
 - 1 tsp ginger, minced
 - 2 cloves garlic, minced
+
+<!-- cup -->
 
 - 1 tbsp oyster sauce (蚝油)
 - 1 tbsp light soy sauce (生抽)
@@ -41,7 +49,11 @@ Lines with no blank line between them share a cup.
 
 - 1 tsp peanut oil, for the skillet
 
+<!-- cup -->
+
 - 1 tsp Zhenjiang vinegar (镇江香醋)
+
+<!-- cup -->
 
 - 1 scallion, chopped
 - 1 tsp white sesame seeds (白芝麻)
@@ -55,7 +67,11 @@ Use a long Chinese eggplant.
 - 12 oz eggplant
 - 1/2 tsp kosher salt, Diamond Crystal
 
+<!-- cup -->
+
 - 2 tbsp potato starch
+
+<!-- cup -->
 
 - 1/4 cup peanut oil, for the eggplant
 
@@ -71,10 +87,14 @@ Do this while the eggplant sits.
 
 - 1 tsp peanut oil, for the sauce
 
+<!-- cup -->
+
 - 2 oz onion, diced
 - 2 oz red bell pepper, diced
 - 1 tsp ginger, minced
 - 2 cloves garlic, minced
+
+<!-- cup -->
 
 - 1 tbsp oyster sauce (蚝油)
 - 1 tbsp light soy sauce (生抽)
@@ -91,9 +111,15 @@ Do this while the eggplant sits.
 
 - 1 tsp peanut oil, for the skillet
 
+<!-- cup -->
+
 - 12 oz eggplant, fried
 
+<!-- cup -->
+
 - 1 tsp Zhenjiang vinegar (镇江香醋)
+
+<!-- cup -->
 
 - 1 scallion, chopped
 - 1 tsp white sesame seeds (白芝麻)
@@ -102,10 +128,14 @@ Do this while the eggplant sits.
 
 - 1 tsp peanut oil, for the sauce
 
+<!-- cup -->
+
 - 2 oz onion, diced
 - 2 oz red bell pepper, diced
 - 1 tsp ginger, minced
 - 2 cloves garlic, minced
+
+<!-- cup -->
 
 - 1 tbsp oyster sauce (蚝油)
 - 1 tbsp light soy sauce (生抽)

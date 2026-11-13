@@ -8,13 +8,15 @@ Cut the squid. Blanch it and dry it. Cut the toss before the oil is hot. Fry the
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
 **Squid**
 
 - 6 cups water, for blanching
+
+<!-- cup -->
 
 - 10 oz squid tubes
 - 1 tbsp Shaoxing wine (绍兴酒), for the blanch
@@ -24,8 +26,12 @@ Lines with no blank line between them share a cup.
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 1/2 tsp Sichuan peppercorns (红花椒)
 
+<!-- cup -->
+
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
+
+<!-- cup -->
 
 - 4 oz Chinese celery (香芹), cut into thin 2 in strips
 - 2 oz onion, sliced thin
@@ -34,7 +40,11 @@ Lines with no blank line between them share a cup.
 
 - 2 cups peanut oil, for frying
 
+<!-- cup -->
+
 - 3 tbsp potato starch
+
+<!-- cup -->
 
 - 1 tbsp peanut oil, for the toss
 
@@ -52,6 +62,8 @@ Use cleaned squid tubes. Use unsalted Shaoxing.
 
 - 6 cups water, for blanching
 
+<!-- cup -->
+
 - 10 oz squid tubes
 - 1 tbsp Shaoxing wine (绍兴酒), for the blanch
 
@@ -67,8 +79,12 @@ Do this before the oil is hot.
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 1/2 tsp Sichuan peppercorns (红花椒)
 
+<!-- cup -->
+
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
+
+<!-- cup -->
 
 - 4 oz Chinese celery (香芹), cut into thin 2 in strips
 - 2 oz onion, sliced thin
@@ -79,9 +95,15 @@ Do this before the oil is hot.
 
 - 2 cups peanut oil, for frying
 
+<!-- cup -->
+
 - 3 tbsp potato starch
 
+<!-- cup -->
+
 - 1 tbsp peanut oil, for the toss
+
+<!-- cup -->
 
 - 10 oz squid tubes, blanched
 
@@ -100,16 +122,26 @@ Do this as soon as the squid comes out.
 
 - 1 tbsp peanut oil, for the toss
 
+<!-- cup -->
+
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 1/2 tsp Sichuan peppercorns (红花椒)
+
+<!-- cup -->
 
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
 
+<!-- cup -->
+
 - 10 oz squid tubes, fried
+
+<!-- cup -->
 
 - 4 oz Chinese celery (香芹), cut into thin 2 in strips
 - 2 oz onion, sliced thin
+
+<!-- cup -->
 
 - 1/2 tsp kosher salt, Diamond Crystal
 - 1/2 tsp sugar

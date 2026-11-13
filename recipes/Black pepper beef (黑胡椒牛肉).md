@@ -8,7 +8,7 @@ Marinate the beef first. Mix the sauce and cut the vegetables while it rests. St
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -20,6 +20,8 @@ Lines with no blank line between them share a cup.
 - 1 tsp potato starch, for the beef
 - 1 tsp water, for the beef
 - 1 tsp peanut oil, for the beef
+
+<!-- cup -->
 
 - 2 tbsp peanut oil, for the stir-fry
 
@@ -36,8 +38,12 @@ Lines with no blank line between them share a cup.
 
 - 1 tbsp peanut oil, for the vegetables
 
+<!-- cup -->
+
 - 3 cloves garlic, sliced
 - 1 1/2 tsp black pepper, coarsely ground
+
+<!-- cup -->
 
 - 1 small onion, sliced
 - 4 oz red bell pepper, cut into 1/2 in strips
@@ -54,6 +60,8 @@ Use flank steak so the slices soften in this time. Use unsalted Shaoxing.
 - 1 tsp potato starch, for the beef
 - 1 tsp water, for the beef
 - 1 tsp peanut oil, for the beef
+
+<!-- cup -->
 
 - 2 tbsp peanut oil, for the stir-fry
 
@@ -78,8 +86,12 @@ Grind the pepper coarsely so it stays fragrant.
 
 - 1 tbsp peanut oil, for the vegetables
 
+<!-- cup -->
+
 - 3 cloves garlic, sliced
 - 1 1/2 tsp black pepper, coarsely ground
+
+<!-- cup -->
 
 - 1 small onion, sliced
 - 4 oz red bell pepper, cut into 1/2 in strips
@@ -95,14 +107,20 @@ These amounts were measured above.
 
 - 2 tbsp peanut oil, for the stir-fry
 
+<!-- cup -->
+
 - 10 oz flank steak, marinated
 
 **Vegetables**
 
 - 1 tbsp peanut oil, for the vegetables
 
+<!-- cup -->
+
 - 3 cloves garlic, sliced
 - 1 1/2 tsp black pepper, coarsely ground
+
+<!-- cup -->
 
 - 1 small onion, sliced
 - 4 oz red bell pepper, cut into 1/2 in strips

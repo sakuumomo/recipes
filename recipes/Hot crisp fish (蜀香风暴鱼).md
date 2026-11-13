@@ -8,7 +8,7 @@ Marinate the fish. While it sits, cut the chilies and the aromatics, and mix the
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -26,8 +26,12 @@ Lines with no blank line between them share a cup.
 - 2 tsp Sichuan peppercorns (红花椒)
 - 1 1/2 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 
+<!-- cup -->
+
 - 1/2 oz garlic, sliced thin
 - 1/2 oz ginger, sliced thin
+
+<!-- cup -->
 
 - 1/2 tsp sugar
 - 1 tsp Shaoxing wine (绍兴酒), for the toss
@@ -48,6 +52,8 @@ Lines with no blank line between them share a cup.
 **Fry**
 
 - 3 cups peanut oil, for frying
+
+<!-- cup -->
 
 - 2 tbsp potato starch, for the dust
 
@@ -75,8 +81,12 @@ Do this while the fish marinates. Use medium 二荆条 flakes marked 中辣.
 - 2 tsp Sichuan peppercorns (红花椒)
 - 1 1/2 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 
+<!-- cup -->
+
 - 1/2 oz garlic, sliced thin
 - 1/2 oz ginger, sliced thin
+
+<!-- cup -->
 
 - 1/2 tsp sugar
 - 1 tsp Shaoxing wine (绍兴酒), for the toss
@@ -109,7 +119,11 @@ Do this while the fish marinates.
 
 - 3 cups peanut oil, for frying
 
+<!-- cup -->
+
 - 2 tbsp potato starch, for the dust
+
+<!-- cup -->
 
 - 1/2 cup potato starch, for the batter
 - 3 tbsp all-purpose flour
@@ -117,6 +131,8 @@ Do this while the fish marinates.
 - 1/4 tsp kosher salt, Diamond Crystal, for the batter
 - 1/3 cup cold water
 - 1 tbsp peanut oil, for the batter
+
+<!-- cup -->
 
 - 12 oz snakehead fillet (黑鱼), skinless and boneless, cut into 3/4 in pieces, marinated
 
@@ -144,8 +160,12 @@ These amounts were measured above.
 - 2 tsp Sichuan peppercorns (红花椒)
 - 1 1/2 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 
+<!-- cup -->
+
 - 1/2 oz garlic, sliced thin
 - 1/2 oz ginger, sliced thin
+
+<!-- cup -->
 
 - 1/2 tsp sugar
 - 1 tsp Shaoxing wine (绍兴酒), for the toss

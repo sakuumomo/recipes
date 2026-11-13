@@ -8,7 +8,7 @@ Cut the squid and let it sit 10 minutes. Toast the pepper salt and cut the toss 
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -24,9 +24,13 @@ Lines with no blank line between them share a cup.
 - 1/2 tsp kosher salt, Diamond Crystal
 - 1/2 tsp ground white pepper
 
+<!-- cup -->
+
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
 - 1 red chili (小米辣), sliced
+
+<!-- cup -->
 
 - 1 scallion, chopped
 
@@ -34,12 +38,16 @@ Lines with no blank line between them share a cup.
 
 - 2 cups peanut oil, for frying
 
+<!-- cup -->
+
 - 1/4 cup all-purpose flour
 - 1/4 cup potato starch
 - 1/4 tsp baking powder
 - 1/4 tsp kosher salt, Diamond Crystal, for the batter
 - 1/3 cup water
 - 2 tsp peanut oil, for the batter
+
+<!-- cup -->
 
 - 2 tsp peanut oil, for the toss
 
@@ -63,9 +71,13 @@ Use cleaned squid tubes. Use unsalted Shaoxing.
 - 1/2 tsp kosher salt, Diamond Crystal
 - 1/2 tsp ground white pepper
 
+<!-- cup -->
+
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
 - 1 red chili (小米辣), sliced
+
+<!-- cup -->
 
 - 1 scallion, chopped
 
@@ -78,6 +90,8 @@ Use cleaned squid tubes. Use unsalted Shaoxing.
 
 - 2 cups peanut oil, for frying
 
+<!-- cup -->
+
 - 1/4 cup all-purpose flour
 - 1/4 cup potato starch
 - 1/4 tsp baking powder
@@ -85,7 +99,11 @@ Use cleaned squid tubes. Use unsalted Shaoxing.
 - 1/3 cup water
 - 2 tsp peanut oil, for the batter
 
+<!-- cup -->
+
 - 2 tsp peanut oil, for the toss
+
+<!-- cup -->
 
 - 10 oz squid tubes, drained
 
@@ -111,9 +129,13 @@ These amounts were measured above.
 - 1/2 tsp kosher salt, Diamond Crystal
 - 1/2 tsp ground white pepper
 
+<!-- cup -->
+
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
 - 1 red chili (小米辣), sliced
+
+<!-- cup -->
 
 - 1 scallion, chopped
 

@@ -8,7 +8,7 @@ Season the shrimp and set out the coating. Fry when the oil is ready.
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -23,7 +23,11 @@ Lines with no blank line between them share a cup.
 
 - 1/4 cup potato starch
 
+<!-- cup -->
+
 - 1 egg
+
+<!-- cup -->
 
 - 1 cup unsweetened shredded coconut (椰丝)
 
@@ -51,7 +55,11 @@ Use unsweetened shredded coconut.
 
 - 1/4 cup potato starch
 
+<!-- cup -->
+
 - 1 egg
+
+<!-- cup -->
 
 - 1 cup unsweetened shredded coconut (椰丝)
 
@@ -63,11 +71,19 @@ Use unsweetened shredded coconut.
 
 - 3 cups peanut oil, for frying
 
+<!-- cup -->
+
 - 1/4 cup potato starch
+
+<!-- cup -->
 
 - 1 egg
 
+<!-- cup -->
+
 - 1 cup unsweetened shredded coconut (椰丝)
+
+<!-- cup -->
 
 - 10 oz large shrimp, peeled and deveined, seasoned
 

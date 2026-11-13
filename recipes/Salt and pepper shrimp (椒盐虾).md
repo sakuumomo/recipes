@@ -8,7 +8,7 @@ Season the shrimp. Toast the peppercorns and cut the toss while they sit. Heat t
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -24,8 +24,12 @@ Lines with no blank line between them share a cup.
 - 1/2 tsp kosher salt, Diamond Crystal
 - 1/2 tsp ground white pepper
 
+<!-- cup -->
+
 - 3 cloves garlic, sliced
 - 1 red chili (小米辣), sliced
+
+<!-- cup -->
 
 - 1 scallion, chopped
 
@@ -33,7 +37,11 @@ Lines with no blank line between them share a cup.
 
 - 2 cups peanut oil, for frying
 
+<!-- cup -->
+
 - 1/4 cup potato starch
+
+<!-- cup -->
 
 - 2 tsp peanut oil, for the toss
 
@@ -56,8 +64,12 @@ Use large peeled shrimp with the tails off. Use unsalted Shaoxing.
 - 1/2 tsp kosher salt, Diamond Crystal
 - 1/2 tsp ground white pepper
 
+<!-- cup -->
+
 - 3 cloves garlic, sliced
 - 1 red chili (小米辣), sliced
+
+<!-- cup -->
 
 - 1 scallion, chopped
 
@@ -70,9 +82,15 @@ Use large peeled shrimp with the tails off. Use unsalted Shaoxing.
 
 - 2 cups peanut oil, for frying
 
+<!-- cup -->
+
 - 1/4 cup potato starch
 
+<!-- cup -->
+
 - 2 tsp peanut oil, for the toss
+
+<!-- cup -->
 
 - 10 oz large shrimp, peeled and deveined, seasoned
 
@@ -98,8 +116,12 @@ These amounts were measured above.
 - 1/2 tsp kosher salt, Diamond Crystal
 - 1/2 tsp ground white pepper
 
+<!-- cup -->
+
 - 3 cloves garlic, sliced
 - 1 red chili (小米辣), sliced
+
+<!-- cup -->
 
 - 1 scallion, chopped
 

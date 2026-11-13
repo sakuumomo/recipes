@@ -8,7 +8,7 @@ Soak the noodles. Make the broth and the bowl sauce while they soak. Cook the po
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -16,26 +16,40 @@ Lines with no blank line between them share a cup.
 
 - 2 oz sweet potato noodles (红薯粉条)
 
+<!-- cup -->
+
 - 3 cups water, for the noodles
 
 **Broth**
 
 - 2 tbsp peanut oil
 
+<!-- cup -->
+
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 1 tsp Sichuan peppercorns (红花椒)
+
+<!-- cup -->
 
 - 1 tbsp ginger, sliced
 - 3 cloves garlic, sliced
 
+<!-- cup -->
+
 - 1 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
+
+<!-- cup -->
 
 - 1 tsp Sichuan chili flakes (四川辣椒面)
 - 1 tbsp chili oil (红油), for the broth
 
+<!-- cup -->
+
 - 4 cups water, for the broth
 - 2 tsp light soy sauce (生抽)
 - 1 tsp sugar, for the broth
+
+<!-- cup -->
 
 - 3/4 cup whole milk
 
@@ -44,11 +58,15 @@ Lines with no blank line between them share a cup.
 - 2 tbsp sesame paste (芝麻酱)
 - 2 tbsp cold water, for the paste
 
+<!-- cup -->
+
 - 1 clove garlic, minced
 - 2 tsp Zhenjiang vinegar (镇江香醋)
 - 1/4 tsp sugar, for the bowls
 - 1 tsp chili oil (红油), for the bowls
 - 1 tsp toasted sesame oil (香油)
+
+<!-- cup -->
 
 - 1 scallion, chopped
 - 2 tbsp cilantro, chopped
@@ -56,6 +74,8 @@ Lines with no blank line between them share a cup.
 **Pot**
 
 - 8 oz firm tofu (北豆腐)
+
+<!-- cup -->
 
 - 3 oz enoki mushrooms (金针菇)
 - 6 oz hot-pot beef slices (肥牛)
@@ -69,6 +89,8 @@ Use dried sweet potato cords about as thick as a chopstick.
 
 - 2 oz sweet potato noodles (红薯粉条)
 
+<!-- cup -->
+
 - 3 cups water, for the noodles
 
 1. Put the **sweet potato noodles** in a bowl.
@@ -81,20 +103,32 @@ Use the coarse Pixian paste, medium 二荆条 flakes marked 中辣, and plain re
 
 - 2 tbsp peanut oil
 
+<!-- cup -->
+
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 1 tsp Sichuan peppercorns (红花椒)
+
+<!-- cup -->
 
 - 1 tbsp ginger, sliced
 - 3 cloves garlic, sliced
 
+<!-- cup -->
+
 - 1 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
+
+<!-- cup -->
 
 - 1 tsp Sichuan chili flakes (四川辣椒面)
 - 1 tbsp chili oil (红油), for the broth
 
+<!-- cup -->
+
 - 4 cups water, for the broth
 - 2 tsp light soy sauce (生抽)
 - 1 tsp sugar, for the broth
+
+<!-- cup -->
 
 - 3/4 cup whole milk
 
@@ -115,11 +149,15 @@ Use toasted Chinese sesame paste.
 - 2 tbsp sesame paste (芝麻酱)
 - 2 tbsp cold water, for the paste
 
+<!-- cup -->
+
 - 1 clove garlic, minced
 - 2 tsp Zhenjiang vinegar (镇江香醋)
 - 1/4 tsp sugar, for the bowls
 - 1 tsp chili oil (红油), for the bowls
 - 1 tsp toasted sesame oil (香油)
+
+<!-- cup -->
 
 - 1 scallion, chopped
 - 2 tbsp cilantro, chopped
@@ -134,11 +172,17 @@ Cut these before they go into the broth. Use firm tofu, the block marked 北豆�
 
 - 2 oz sweet potato noodles (红薯粉条), drained
 
+<!-- cup -->
+
 - 8 oz firm tofu (北豆腐)
+
+<!-- cup -->
 
 - 3 oz enoki mushrooms (金针菇)
 - 6 oz hot-pot beef slices (肥牛)
 - 4 oz bok choy (小白菜), cut into 2 in pieces
+
+<!-- cup -->
 
 - 1 scallion, chopped
 - 2 tbsp cilantro, chopped

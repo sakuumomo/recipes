@@ -8,7 +8,7 @@ Marinate the fish. Snip the chilies while it sits. Blanch the vegetables when th
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -20,9 +20,15 @@ Lines with no blank line between them share a cup.
 - 1/8 tsp ground white pepper
 - 1 tsp ground cumin (孜然), for the fish
 
+<!-- cup -->
+
 - 1 egg white
 
+<!-- cup -->
+
 - 1 tbsp potato starch
+
+<!-- cup -->
 
 - 1 tsp peanut oil, for the fish
 
@@ -31,15 +37,21 @@ Lines with no blank line between them share a cup.
 - 6 cups water, for blanching
 - 1/4 tsp kosher salt, Diamond Crystal, for the blanch
 
+<!-- cup -->
+
 - 4 oz celtuce stem (莴笋)
 - 2 oz shiitake mushrooms (香菇)
 - 2 oz onion, sliced thin
+
+<!-- cup -->
 
 - 3 oz enoki mushrooms (金针菇)
 
 **Storm oil**
 
 - 6 tbsp peanut oil, for the pour
+
+<!-- cup -->
 
 - 1/2 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 2 tsp Sichuan peppercorns (红花椒)
@@ -48,7 +60,11 @@ Lines with no blank line between them share a cup.
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
 
+<!-- cup -->
+
 - 1 tsp toasted sesame oil (香油)
+
+<!-- cup -->
 
 - 1 scallion, chopped
 - 1 tsp white sesame seeds (白芝麻)
@@ -65,9 +81,15 @@ Use unsalted Shaoxing.
 - 1/8 tsp ground white pepper
 - 1 tsp ground cumin (孜然), for the fish
 
+<!-- cup -->
+
 - 1 egg white
 
+<!-- cup -->
+
 - 1 tbsp potato starch
+
+<!-- cup -->
 
 - 1 tsp peanut oil, for the fish
 
@@ -85,9 +107,13 @@ Use the thick stem of celtuce, and fresh shiitake.
 - 6 cups water, for blanching
 - 1/4 tsp kosher salt, Diamond Crystal, for the blanch
 
+<!-- cup -->
+
 - 4 oz celtuce stem (莴笋)
 - 2 oz shiitake mushrooms (香菇)
 - 2 oz onion, sliced thin
+
+<!-- cup -->
 
 - 3 oz enoki mushrooms (金针菇)
 
@@ -106,6 +132,8 @@ Do this while the fish marinates.
 
 - 6 tbsp peanut oil, for the pour
 
+<!-- cup -->
+
 - 1/2 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 2 tsp Sichuan peppercorns (红花椒)
 - 1 tsp green Sichuan peppercorns (青花椒)
@@ -113,7 +141,11 @@ Do this while the fish marinates.
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
 
+<!-- cup -->
+
 - 1 tsp toasted sesame oil (香油)
+
+<!-- cup -->
 
 - 1 scallion, chopped
 - 1 tsp white sesame seeds (白芝麻)
@@ -134,6 +166,8 @@ These amounts were measured above.
 
 - 6 cups water, for blanching
 
+<!-- cup -->
+
 - 4 oz celtuce stem (莴笋), blanched
 - 2 oz shiitake mushrooms (香菇), blanched
 - 2 oz onion, sliced thin, blanched
@@ -143,6 +177,8 @@ These amounts were measured above.
 
 - 6 tbsp peanut oil, for the pour
 
+<!-- cup -->
+
 - 1/2 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 2 tsp Sichuan peppercorns (红花椒)
 - 1 tsp green Sichuan peppercorns (青花椒)
@@ -150,7 +186,11 @@ These amounts were measured above.
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
 
+<!-- cup -->
+
 - 1 tsp toasted sesame oil (香油)
+
+<!-- cup -->
 
 - 1 scallion, chopped
 - 1 tsp white sesame seeds (白芝麻)

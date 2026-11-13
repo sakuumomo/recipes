@@ -8,7 +8,7 @@ Marinate the fish. Mix the sauce while it sits. Coat and fry the fish when the o
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -24,8 +24,12 @@ Lines with no blank line between them share a cup.
 
 - 1 tbsp peanut oil, for the sauce
 
+<!-- cup -->
+
 - 1 tsp ginger, minced
 - 1 clove garlic, minced
+
+<!-- cup -->
 
 - 3 tbsp tomato ketchup (番茄酱)
 - 2 tbsp sugar
@@ -33,16 +37,24 @@ Lines with no blank line between them share a cup.
 - 1/4 tsp kosher salt, Diamond Crystal, for the sauce
 - 3 tbsp water, for the sauce
 
+<!-- cup -->
+
 - 1 tsp potato starch, for the sauce
 - 1 tbsp cold water, for the slurry
 
+<!-- cup -->
+
 - 2 tbsp rice vinegar (米醋)
+
+<!-- cup -->
 
 - 1 scallion, chopped
 
 **Fry**
 
 - 3 cups peanut oil, for frying
+
+<!-- cup -->
 
 - 1/3 cup potato starch, for the coating
 
@@ -68,8 +80,12 @@ Do this while the fish marinates. Use tomato ketchup. Use plain rice vinegar.
 
 - 1 tbsp peanut oil, for the sauce
 
+<!-- cup -->
+
 - 1 tsp ginger, minced
 - 1 clove garlic, minced
+
+<!-- cup -->
 
 - 3 tbsp tomato ketchup (番茄酱)
 - 2 tbsp sugar
@@ -77,10 +93,16 @@ Do this while the fish marinates. Use tomato ketchup. Use plain rice vinegar.
 - 1/4 tsp kosher salt, Diamond Crystal, for the sauce
 - 3 tbsp water, for the sauce
 
+<!-- cup -->
+
 - 1 tsp potato starch, for the sauce
 - 1 tbsp cold water, for the slurry
 
+<!-- cup -->
+
 - 2 tbsp rice vinegar (米醋)
+
+<!-- cup -->
 
 - 1 scallion, chopped
 
@@ -92,7 +114,11 @@ Do this while the fish marinates. Use tomato ketchup. Use plain rice vinegar.
 
 - 3 cups peanut oil, for frying
 
+<!-- cup -->
+
 - 1/3 cup potato starch, for the coating
+
+<!-- cup -->
 
 - 12 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/4 in thick, marinated
 
@@ -113,8 +139,12 @@ These amounts were measured above.
 
 - 1 tbsp peanut oil, for the sauce
 
+<!-- cup -->
+
 - 1 tsp ginger, minced
 - 1 clove garlic, minced
+
+<!-- cup -->
 
 - 3 tbsp tomato ketchup (番茄酱)
 - 2 tbsp sugar
@@ -122,10 +152,16 @@ These amounts were measured above.
 - 1/4 tsp kosher salt, Diamond Crystal, for the sauce
 - 3 tbsp water, for the sauce
 
+<!-- cup -->
+
 - 1 tsp potato starch, for the sauce
 - 1 tbsp cold water, for the slurry
 
+<!-- cup -->
+
 - 2 tbsp rice vinegar (米醋)
+
+<!-- cup -->
 
 - 1 scallion, chopped
 

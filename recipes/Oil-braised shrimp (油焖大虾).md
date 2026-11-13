@@ -8,7 +8,7 @@ Season the shrimp. Mince the aromatics while they sit, then sear and braise.
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -22,15 +22,23 @@ Lines with no blank line between them share a cup.
 
 - 2 tbsp peanut oil
 
+<!-- cup -->
+
 - 2 tsp ginger, minced
 - 2 cloves garlic, minced
 
+<!-- cup -->
+
 - 3 tbsp tomato ketchup (番茄酱)
+
+<!-- cup -->
 
 - 1 tbsp Shaoxing wine (绍兴酒), for the sauce
 - 1 tbsp light soy sauce (生抽)
 - 1 tbsp sugar
 - 2 tbsp water
+
+<!-- cup -->
 
 - 1 tsp Zhenjiang vinegar (镇江香醋)
 - 1 scallion, chopped
@@ -54,17 +62,27 @@ Do this while the shrimp sit. Use tomato ketchup.
 
 - 2 tbsp peanut oil
 
+<!-- cup -->
+
 - 10 oz large shrimp, peeled and deveined, seasoned
+
+<!-- cup -->
 
 - 2 tsp ginger, minced
 - 2 cloves garlic, minced
 
+<!-- cup -->
+
 - 3 tbsp tomato ketchup (番茄酱)
+
+<!-- cup -->
 
 - 1 tbsp Shaoxing wine (绍兴酒), for the sauce
 - 1 tbsp light soy sauce (生抽)
 - 1 tbsp sugar
 - 2 tbsp water
+
+<!-- cup -->
 
 - 1 tsp Zhenjiang vinegar (镇江香醋)
 - 1 scallion, chopped

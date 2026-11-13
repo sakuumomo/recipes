@@ -8,7 +8,7 @@ Snip the chilies. Boil the brine and let it cool. Cut the garlic and the ginger 
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -20,8 +20,12 @@ Lines with no blank line between them share a cup.
 
 - 1 1/2 cups water
 
+<!-- cup -->
+
 - 2 1/2 tbsp kosher salt, Diamond Crystal
 - 1 1/2 tsp sugar
+
+<!-- cup -->
 
 - 1 tbsp baijiu (白酒)
 
@@ -47,8 +51,12 @@ Use a clear grain liquor marked 白酒.
 
 - 1 1/2 cups water
 
+<!-- cup -->
+
 - 2 1/2 tbsp kosher salt, Diamond Crystal
 - 1 1/2 tsp sugar
+
+<!-- cup -->
 
 - 1 tbsp baijiu (白酒)
 
@@ -77,8 +85,12 @@ These amounts were measured above.
 
 - 1 1/2 cups water
 
+<!-- cup -->
+
 - 2 1/2 tbsp kosher salt, Diamond Crystal
 - 1 1/2 tsp sugar
+
+<!-- cup -->
 
 - 1 tbsp baijiu (白酒)
 

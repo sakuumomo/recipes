@@ -8,7 +8,7 @@ Marinate the chicken. Cut the chilies and the aromatics while it sits. Heat the 
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -25,8 +25,12 @@ Lines with no blank line between them share a cup.
 - 1 tbsp Sichuan peppercorns (红花椒)
 - 2 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 
+<!-- cup -->
+
 - 1/2 oz garlic, sliced thin
 - 1/2 oz ginger, sliced thin
+
+<!-- cup -->
 
 - 1/2 tsp sugar
 - 1 tsp Shaoxing wine (绍兴酒), for the toss
@@ -35,6 +39,8 @@ Lines with no blank line between them share a cup.
 **Fry**
 
 - 3 cups peanut oil
+
+<!-- cup -->
 
 - 4 tbsp potato starch
 
@@ -60,8 +66,12 @@ Do this while the chicken marinates.
 - 1 tbsp Sichuan peppercorns (红花椒)
 - 2 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 
+<!-- cup -->
+
 - 1/2 oz garlic, sliced thin
 - 1/2 oz ginger, sliced thin
+
+<!-- cup -->
 
 - 1/2 tsp sugar
 - 1 tsp Shaoxing wine (绍兴酒), for the toss
@@ -77,7 +87,11 @@ Do this while the chicken marinates.
 
 - 3 cups peanut oil
 
+<!-- cup -->
+
 - 4 tbsp potato starch
+
+<!-- cup -->
 
 - 16 oz boneless skinless chicken thighs, cut into 3/4 in pieces, marinated
 
@@ -103,8 +117,12 @@ These amounts were measured above.
 - 1 tbsp Sichuan peppercorns (红花椒)
 - 2 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 
+<!-- cup -->
+
 - 1/2 oz garlic, sliced thin
 - 1/2 oz ginger, sliced thin
+
+<!-- cup -->
 
 - 1/2 tsp sugar
 - 1 tsp Shaoxing wine (绍兴酒), for the toss

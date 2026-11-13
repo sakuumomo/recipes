@@ -8,7 +8,7 @@ Soak the potatoes. Season the shrimp and cut the aromatics while they soak. Fry 
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -28,18 +28,26 @@ Lines with no blank line between them share a cup.
 
 - 1 tbsp peanut oil, for the toss
 
+<!-- cup -->
+
 - 3 cloves garlic, sliced
 - 1 tsp ginger, sliced
 - 12 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+
+<!-- cup -->
 
 - 2 oz Chinese celery (香芹), cut into 1 1/2 in lengths
 - 2 oz roasted salted peanuts
 - 1 scallion, cut into 1 in lengths
 
+<!-- cup -->
+
 - 1 tbsp light soy sauce (生抽)
 - 1 tsp sugar
 - 2 tbsp chili oil (红油)
 - 1 tsp toasted sesame oil (香油)
+
+<!-- cup -->
 
 - 1 tsp white sesame seeds (白芝麻)
 
@@ -78,18 +86,26 @@ Do this while the potatoes soak. Use plain red chili oil.
 
 - 1 tbsp peanut oil, for the toss
 
+<!-- cup -->
+
 - 3 cloves garlic, sliced
 - 1 tsp ginger, sliced
 - 12 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+
+<!-- cup -->
 
 - 2 oz Chinese celery (香芹), cut into 1 1/2 in lengths
 - 2 oz roasted salted peanuts
 - 1 scallion, cut into 1 in lengths
 
+<!-- cup -->
+
 - 1 tbsp light soy sauce (生抽)
 - 1 tsp sugar
 - 2 tbsp chili oil (红油)
 - 1 tsp toasted sesame oil (香油)
+
+<!-- cup -->
 
 - 1 tsp white sesame seeds (白芝麻)
 
@@ -101,7 +117,11 @@ Do this while the potatoes soak. Use plain red chili oil.
 
 - 3 cups peanut oil, for frying
 
+<!-- cup -->
+
 - 10 oz large shrimp, peeled and deveined, seasoned
+
+<!-- cup -->
 
 - 8 oz potatoes, drained
 
@@ -120,18 +140,26 @@ These amounts were measured above.
 
 - 1 tbsp peanut oil, for the toss
 
+<!-- cup -->
+
 - 3 cloves garlic, sliced
 - 1 tsp ginger, sliced
 - 12 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+
+<!-- cup -->
 
 - 2 oz Chinese celery (香芹), cut into 1 1/2 in lengths
 - 2 oz roasted salted peanuts
 - 1 scallion, cut into 1 in lengths
 
+<!-- cup -->
+
 - 1 tbsp light soy sauce (生抽)
 - 1 tsp sugar
 - 2 tbsp chili oil (红油)
 - 1 tsp toasted sesame oil (香油)
+
+<!-- cup -->
 
 - 1 tsp white sesame seeds (白芝麻)
 

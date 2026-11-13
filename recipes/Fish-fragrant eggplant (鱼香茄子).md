@@ -8,7 +8,7 @@ Salt the eggplant. Cut the sauce while it sits. When the 15 minutes are up, fry 
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -17,7 +17,11 @@ Lines with no blank line between them share a cup.
 - 12 oz eggplant
 - 1/2 tsp kosher salt, Diamond Crystal
 
+<!-- cup -->
+
 - 2 tbsp potato starch
+
+<!-- cup -->
 
 - 1/4 cup peanut oil, for the eggplant
 
@@ -25,21 +29,33 @@ Lines with no blank line between them share a cup.
 
 - 2 oz ground pork
 
+<!-- cup -->
+
 - 1 tbsp pickled red chilies (泡椒), chopped
 - 1 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
+
+<!-- cup -->
 
 - 2 tsp ginger, minced
 - 4 cloves garlic, minced
 
+<!-- cup -->
+
 - 3 scallions, whites and greens separated, chopped
+
+<!-- cup -->
 
 - 4 tsp sugar
 - 2 tsp light soy sauce (生抽)
 - 2 tsp Shaoxing wine (绍兴酒)
 - 1/4 cup water, for the sauce
 
+<!-- cup -->
+
 - 1 tsp potato starch, for the sauce
 - 1 tbsp cold water, for the sauce
+
+<!-- cup -->
 
 - 2 tsp Zhenjiang vinegar (镇江香醋)
 
@@ -52,7 +68,11 @@ Use a long Chinese eggplant.
 - 12 oz eggplant
 - 1/2 tsp kosher salt, Diamond Crystal
 
+<!-- cup -->
+
 - 2 tbsp potato starch
+
+<!-- cup -->
 
 - 1/4 cup peanut oil, for the eggplant
 
@@ -68,23 +88,37 @@ Do this while the eggplant sits. Use ground pork that shows some fat, Sichuan pi
 
 - 2 oz ground pork
 
+<!-- cup -->
+
 - 1 tbsp pickled red chilies (泡椒), chopped
 - 1 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
+
+<!-- cup -->
 
 - 2 tsp ginger, minced
 - 4 cloves garlic, minced
 
+<!-- cup -->
+
 - 3 scallions, whites and greens separated, chopped
+
+<!-- cup -->
 
 - 4 tsp sugar
 - 2 tsp light soy sauce (生抽)
 - 2 tsp Shaoxing wine (绍兴酒)
 - 1/4 cup water, for the sauce
 
+<!-- cup -->
+
 - 12 oz eggplant, fried
+
+<!-- cup -->
 
 - 1 tsp potato starch, for the sauce
 - 1 tbsp cold water, for the sauce
+
+<!-- cup -->
 
 - 2 tsp Zhenjiang vinegar (镇江香醋)
 

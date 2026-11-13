@@ -8,7 +8,7 @@ Cut the filling, then blanch it and stay with the pot. Wrap the rolls, then heat
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -18,13 +18,23 @@ Lines with no blank line between them share a cup.
 - 1 oz carrot, shredded
 - 2 oz celery, sliced thin
 
+<!-- cup -->
+
 - 1 scallion, chopped
+
+<!-- cup -->
 
 - 4 oz char siu (叉烧), cut into 1/4 in dice
 
+<!-- cup -->
+
 - 6 cups water, for blanching
 
+<!-- cup -->
+
 - 6 cups cold water, for cooling
+
+<!-- cup -->
 
 - 1 1/4 tsp kosher salt, Diamond Crystal
 - 1/2 tsp sugar
@@ -35,6 +45,8 @@ Lines with no blank line between them share a cup.
 **Rolls**
 
 - 6 egg roll wrappers
+
+<!-- cup -->
 
 - 1 tbsp water, for the seal
 
@@ -50,13 +62,23 @@ Lines with no blank line between them share a cup.
 - 1 oz carrot, shredded
 - 2 oz celery, sliced thin
 
+<!-- cup -->
+
 - 1 scallion, chopped
+
+<!-- cup -->
 
 - 4 oz char siu (叉烧), cut into 1/4 in dice
 
+<!-- cup -->
+
 - 6 cups water, for blanching
 
+<!-- cup -->
+
 - 6 cups cold water, for cooling
+
+<!-- cup -->
 
 - 1 1/4 tsp kosher salt, Diamond Crystal
 - 1/2 tsp sugar
@@ -81,6 +103,8 @@ Use thick square wrappers from the refrigerator case. Thin frozen sheets and ric
 
 - 6 egg roll wrappers
 
+<!-- cup -->
+
 - 1 tbsp water, for the seal
 
 **Filling**
@@ -89,9 +113,15 @@ Use thick square wrappers from the refrigerator case. Thin frozen sheets and ric
 - 1 oz carrot, shredded, mixed
 - 2 oz celery, sliced thin, mixed
 
+<!-- cup -->
+
 - 1 scallion, chopped, mixed
 
+<!-- cup -->
+
 - 4 oz char siu (叉烧), cut into 1/4 in dice, mixed
+
+<!-- cup -->
 
 - 1 1/4 tsp kosher salt, Diamond Crystal, mixed
 - 1/2 tsp sugar, mixed
@@ -110,6 +140,8 @@ Use thick square wrappers from the refrigerator case. Thin frozen sheets and ric
 ## Fry
 
 - 4 cups peanut oil, for frying
+
+<!-- cup -->
 
 - 6 egg roll wrappers, rolled
 

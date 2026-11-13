@@ -8,7 +8,7 @@ Separate the beef while it is still cold. Dry the mushrooms, then cook the beef 
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -16,19 +16,27 @@ Lines with no blank line between them share a cup.
 
 - 8 oz hot-pot beef slices (肥牛)
 
+<!-- cup -->
+
 - 6 oz enoki mushrooms (金针菇)
 
 **Stir-fry**
 
 - 1 tbsp peanut oil
 
+<!-- cup -->
+
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
+
+<!-- cup -->
 
 - 1 tbsp oyster sauce (蚝油)
 - 2 tsp light soy sauce (生抽)
 - 1/4 tsp sugar
 - 1/4 tsp ground white pepper
+
+<!-- cup -->
 
 - 1 scallion, minced
 - 1 tsp toasted sesame oil (香油)
@@ -41,6 +49,8 @@ Use the thin marbled slices sold for hot pot.
 
 - 8 oz hot-pot beef slices (肥牛)
 
+<!-- cup -->
+
 - 6 oz enoki mushrooms (金针菇)
 
 1. If the **hot-pot beef slices** are frozen together, separate them while they are still cold and lay them in one layer. Trim the base off the **enoki mushrooms**. Tear them into small bunches. Rinse them and shake them dry.
@@ -50,16 +60,24 @@ Use the thin marbled slices sold for hot pot.
 
 - 1 tbsp peanut oil
 
+<!-- cup -->
+
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
 
+<!-- cup -->
+
 - 8 oz hot-pot beef slices (肥牛)
+
+<!-- cup -->
 
 - 6 oz enoki mushrooms (金针菇), wilted
 - 1 tbsp oyster sauce (蚝油)
 - 2 tsp light soy sauce (生抽)
 - 1/4 tsp sugar
 - 1/4 tsp ground white pepper
+
+<!-- cup -->
 
 - 1 scallion, minced
 - 1 tsp toasted sesame oil (香油)

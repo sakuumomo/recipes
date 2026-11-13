@@ -8,13 +8,15 @@ Soak the noodles first. Blanch the pork while they soften. Stew until a chunk yi
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
 **Noodles**
 
 - 3 oz sweet potato noodles (红薯粉条)
+
+<!-- cup -->
 
 - 4 cups water, for the noodles
 
@@ -27,18 +29,26 @@ Lines with no blank line between them share a cup.
 
 - 1 tsp peanut oil
 
+<!-- cup -->
+
 - 1 tbsp ginger, sliced
 - 2 scallions, cut into 2 in lengths
 - 2 cloves garlic, smashed
 - 1 star anise (八角)
 - 1 piece cassia bark (桂皮), 2 in
 
+<!-- cup -->
+
 - 1 tbsp Shaoxing wine (绍兴酒)
 - 1 tbsp light soy sauce (生抽)
 - 1 tsp dark soy sauce (老抽)
 - 1 tsp sugar
 
+<!-- cup -->
+
 - 3 1/2 cups water, for the stew
+
+<!-- cup -->
 
 - 1/2 tsp kosher salt, Diamond Crystal
 
@@ -49,6 +59,8 @@ Lines with no blank line between them share a cup.
 Use dried sweet potato cords about as thick as a chopstick. Thin mung bean threads fall apart in this stew.
 
 - 3 oz sweet potato noodles (红薯粉条)
+
+<!-- cup -->
 
 - 4 cups water, for the noodles
 
@@ -73,7 +85,11 @@ Use unsalted Shaoxing.
 
 - 1 tsp peanut oil
 
+<!-- cup -->
+
 - 12 oz pork belly, blanched
+
+<!-- cup -->
 
 - 1 tbsp ginger, sliced
 - 2 scallions, cut into 2 in lengths
@@ -81,12 +97,18 @@ Use unsalted Shaoxing.
 - 1 star anise (八角)
 - 1 piece cassia bark (桂皮), 2 in
 
+<!-- cup -->
+
 - 1 tbsp Shaoxing wine (绍兴酒)
 - 1 tbsp light soy sauce (生抽)
 - 1 tsp dark soy sauce (老抽)
 - 1 tsp sugar
 
+<!-- cup -->
+
 - 3 1/2 cups water, for the stew
+
+<!-- cup -->
 
 - 1/2 tsp kosher salt, Diamond Crystal
 - 3 oz sweet potato noodles (红薯粉条), drained

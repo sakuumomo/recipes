@@ -8,7 +8,7 @@ Soak the wood ear. Slice and marinate the fish. While it sits, finish the prep. 
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -24,9 +24,15 @@ Lines with no blank line between them share a cup.
 - 1/2 tsp kosher salt, Diamond Crystal, for the fish
 - 1/8 tsp ground white pepper, for the fish
 
+<!-- cup -->
+
 - 1 egg white
 
+<!-- cup -->
+
 - 1 tbsp sweet potato starch (红薯淀粉), for the fish
+
+<!-- cup -->
 
 - 1 tsp peanut oil, for the fish
 
@@ -34,8 +40,12 @@ Lines with no blank line between them share a cup.
 
 - 1 tbsp peanut oil, for the glaze
 
+<!-- cup -->
+
 - 1/2 oz ginger, sliced
 - 1 scallion, cut into 1 in lengths
+
+<!-- cup -->
 
 - 3/4 cup unsalted chicken stock
 - 2 oz winter bamboo shoots (冬笋), sliced thin
@@ -43,8 +53,12 @@ Lines with no blank line between them share a cup.
 - 1/2 tsp kosher salt, Diamond Crystal, for the sauce
 - 1/8 tsp ground white pepper, for the sauce
 
+<!-- cup -->
+
 - 2 tsp sweet potato starch (红薯淀粉), for the sauce
 - 2 tbsp cold water
+
+<!-- cup -->
 
 - 1 tsp toasted sesame oil (香油)
 
@@ -71,9 +85,15 @@ Use unsalted Shaoxing.
 - 1/2 tsp kosher salt, Diamond Crystal, for the fish
 - 1/8 tsp ground white pepper, for the fish
 
+<!-- cup -->
+
 - 1 egg white
 
+<!-- cup -->
+
 - 1 tbsp sweet potato starch (红薯淀粉), for the fish
+
+<!-- cup -->
 
 - 1 tsp peanut oil, for the fish
 
@@ -90,8 +110,12 @@ Do this while the fish marinates. When the wood ear timer rings, drain and tear 
 
 - 1 tbsp peanut oil, for the glaze
 
+<!-- cup -->
+
 - 1/2 oz ginger, sliced
 - 1 scallion, cut into 1 in lengths
+
+<!-- cup -->
 
 - 3/4 cup unsalted chicken stock
 - 2 oz winter bamboo shoots (冬笋), sliced thin
@@ -99,8 +123,12 @@ Do this while the fish marinates. When the wood ear timer rings, drain and tear 
 - 1/2 tsp kosher salt, Diamond Crystal, for the sauce
 - 1/8 tsp ground white pepper, for the sauce
 
+<!-- cup -->
+
 - 2 tsp sweet potato starch (红薯淀粉), for the sauce
 - 2 tbsp cold water
+
+<!-- cup -->
 
 - 1 tsp toasted sesame oil (香油)
 
@@ -114,6 +142,8 @@ Do this while the fish marinates. When the wood ear timer rings, drain and tear 
 ## Slip
 
 - 2 cups peanut oil, for slipping
+
+<!-- cup -->
 
 - 12 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick, marinated
 
@@ -132,8 +162,12 @@ These amounts were measured above.
 
 - 1 tbsp peanut oil, for the glaze
 
+<!-- cup -->
+
 - 1/2 oz ginger, sliced
 - 1 scallion, cut into 1 in lengths
+
+<!-- cup -->
 
 - 3/4 cup unsalted chicken stock
 - 2 oz winter bamboo shoots (冬笋), sliced thin
@@ -141,8 +175,12 @@ These amounts were measured above.
 - 1/2 tsp kosher salt, Diamond Crystal, for the sauce
 - 1/8 tsp ground white pepper, for the sauce
 
+<!-- cup -->
+
 - 2 tsp sweet potato starch (红薯淀粉), for the sauce
 - 2 tbsp cold water
+
+<!-- cup -->
 
 - 1 tsp toasted sesame oil (香油)
 

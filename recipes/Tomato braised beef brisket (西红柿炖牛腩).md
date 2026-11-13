@@ -8,7 +8,7 @@ Blanch the beef and stay with the pot. Cut the tomatoes after the beef is rinsed
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -21,23 +21,33 @@ Lines with no blank line between them share a cup.
 
 - 8 oz tomatoes, for the base
 
+<!-- cup -->
+
 - 8 oz tomatoes, for the finish
 
 **Stew**
 
 - 1 tbsp peanut oil
 
+<!-- cup -->
+
 - 1 tbsp ginger, sliced
 - 2 scallions, cut into 2 in lengths
 - 3 cloves garlic, smashed
 - 1 star anise (八角)
+
+<!-- cup -->
 
 - 1 tbsp Shaoxing wine (绍兴酒)
 - 1 tbsp light soy sauce (生抽)
 - 1 tsp dark soy sauce (老抽)
 - 1 tsp sugar
 
+<!-- cup -->
+
 - 2 cups water, for the stew
+
+<!-- cup -->
 
 - 1/2 tsp kosher salt, Diamond Crystal
 
@@ -60,6 +70,8 @@ Use ripe tomatoes that smell sweet.
 
 - 8 oz tomatoes, for the base
 
+<!-- cup -->
+
 - 8 oz tomatoes, for the finish
 
 1. Core the **tomatoes for the base** and cut them into 1 in wedges.
@@ -71,23 +83,37 @@ Use unsalted Shaoxing.
 
 - 1 tbsp peanut oil
 
+<!-- cup -->
+
 - 16 oz beef brisket (牛腩), blanched
+
+<!-- cup -->
 
 - 1 tbsp ginger, sliced
 - 2 scallions, cut into 2 in lengths
 - 3 cloves garlic, smashed
 - 1 star anise (八角)
 
+<!-- cup -->
+
 - 8 oz tomatoes, for the base, cut
+
+<!-- cup -->
 
 - 1 tbsp Shaoxing wine (绍兴酒)
 - 1 tbsp light soy sauce (生抽)
 - 1 tsp dark soy sauce (老抽)
 - 1 tsp sugar
 
+<!-- cup -->
+
 - 2 cups water, for the stew
 
+<!-- cup -->
+
 - 8 oz tomatoes, for the finish, cut
+
+<!-- cup -->
 
 - 1/2 tsp kosher salt, Diamond Crystal
 

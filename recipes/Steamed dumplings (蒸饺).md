@@ -8,7 +8,7 @@ Salt the cabbage first. Mince the scallions and ginger while it weeps, then wrap
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -17,19 +17,27 @@ Lines with no blank line between them share a cup.
 - 8 oz napa cabbage
 - 1/2 tsp kosher salt, Diamond Crystal, for the cabbage
 
+<!-- cup -->
+
 - 2 scallions, minced
 - 1 tsp ginger, minced
+
+<!-- cup -->
 
 - 8 oz ground pork
 - 2 tbsp light soy sauce (生抽)
 - 1 1/2 tsp toasted sesame oil (香油)
 - 1/8 tsp ground white pepper
 
+<!-- cup -->
+
 - 2 tbsp cold water, for the pork
 
 **Dumplings**
 
 - 16 dumpling wrappers (饺子皮)
+
+<!-- cup -->
 
 - 1 tbsp water, for the seal
 
@@ -46,13 +54,19 @@ Use ground pork that shows some fat.
 - 8 oz napa cabbage
 - 1/2 tsp kosher salt, Diamond Crystal, for the cabbage
 
+<!-- cup -->
+
 - 2 scallions, minced
 - 1 tsp ginger, minced
+
+<!-- cup -->
 
 - 8 oz ground pork
 - 2 tbsp light soy sauce (生抽)
 - 1 1/2 tsp toasted sesame oil (香油)
 - 1/8 tsp ground white pepper
+
+<!-- cup -->
 
 - 2 tbsp cold water, for the pork
 
@@ -71,6 +85,8 @@ Use round white Shanghai-style wheat wrappers from the refrigerator or freezer c
 
 - 16 dumpling wrappers (饺子皮)
 
+<!-- cup -->
+
 - 1 tbsp water, for the seal
 
 **Filling**
@@ -78,13 +94,19 @@ Use round white Shanghai-style wheat wrappers from the refrigerator or freezer c
 - 8 oz napa cabbage, mixed
 - 1/2 tsp kosher salt, Diamond Crystal, for the cabbage, mixed
 
+<!-- cup -->
+
 - 2 scallions, minced, mixed
 - 1 tsp ginger, minced, mixed
+
+<!-- cup -->
 
 - 8 oz ground pork, mixed
 - 2 tbsp light soy sauce (生抽), mixed
 - 1 1/2 tsp toasted sesame oil (香油), mixed
 - 1/8 tsp ground white pepper, mixed
+
+<!-- cup -->
 
 - 2 tbsp cold water, for the pork, mixed
 
@@ -101,6 +123,8 @@ Use round white Shanghai-style wheat wrappers from the refrigerator or freezer c
 Tool: bamboo steamer.
 
 - 6 cups water, for the steamer
+
+<!-- cup -->
 
 - 16 dumpling wrappers (饺子皮), wrapped
 

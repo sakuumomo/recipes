@@ -8,7 +8,7 @@ Marinate the fish. While it sits, cut the chilies and the aromatics. Start the p
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -19,9 +19,15 @@ Lines with no blank line between them share a cup.
 - 1/2 tsp kosher salt, Diamond Crystal, for the fish
 - 1/4 tsp ground white pepper, for the fish
 
+<!-- cup -->
+
 - 1 egg white
 
+<!-- cup -->
+
 - 1 tbsp sweet potato starch (红薯淀粉)
+
+<!-- cup -->
 
 - 2 tsp peanut oil, for the fish
 
@@ -29,8 +35,12 @@ Lines with no blank line between them share a cup.
 
 - 8 oz soybean sprouts (黄豆芽)
 
+<!-- cup -->
+
 - 1/2 oz ginger, sliced
 - 3 scallions, whites and greens separated, cut into 2 in lengths
+
+<!-- cup -->
 
 - 1/2 oz garlic, sliced thin
 - 1 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
@@ -42,6 +52,8 @@ Lines with no blank line between them share a cup.
 - 1 tsp kosher salt, Diamond Crystal, for the broth
 - 1/8 tsp ground white pepper, for the broth
 - 2 tsp Shaoxing wine (绍兴酒), for the broth
+
+<!-- cup -->
 
 - 1/2 cup peanut oil, for the pour
 
@@ -56,9 +68,15 @@ Use unsalted Shaoxing.
 - 1/2 tsp kosher salt, Diamond Crystal, for the fish
 - 1/4 tsp ground white pepper, for the fish
 
+<!-- cup -->
+
 - 1 egg white
 
+<!-- cup -->
+
 - 1 tbsp sweet potato starch (红薯淀粉)
+
+<!-- cup -->
 
 - 2 tsp peanut oil, for the fish
 
@@ -75,8 +93,12 @@ Do this while the fish marinates.
 
 - 8 oz soybean sprouts (黄豆芽)
 
+<!-- cup -->
+
 - 1/2 oz ginger, sliced
 - 3 scallions, whites and greens separated, cut into 2 in lengths
+
+<!-- cup -->
 
 - 1/2 oz garlic, sliced thin
 - 1 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
@@ -94,12 +116,18 @@ Do this while the fish marinates.
 - 1/2 oz ginger, sliced
 - 3 scallions, whites and greens separated, cut into 2 in lengths
 
+<!-- cup -->
+
 - 3 cups unsalted chicken stock
 - 1 tsp kosher salt, Diamond Crystal, for the broth
 - 1/8 tsp ground white pepper, for the broth
 - 2 tsp Shaoxing wine (绍兴酒), for the broth
 
+<!-- cup -->
+
 - 1/2 cup peanut oil, for the pour
+
+<!-- cup -->
 
 - 8 oz soybean sprouts (黄豆芽)
 
@@ -118,6 +146,8 @@ These amounts were measured above.
 **Prep**
 
 - 3 scallions, whites and greens separated, cut into 2 in lengths
+
+<!-- cup -->
 
 - 1/2 oz garlic, sliced thin
 - 1 oz dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out

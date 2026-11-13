@@ -8,7 +8,7 @@ Soak the noodles first. Mince while they soften. Stir-fry when a strand bends wi
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -21,18 +21,28 @@ Lines with no blank line between them share a cup.
 
 - 1 1/2 tbsp peanut oil
 
+<!-- cup -->
+
 - 1 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
 - 1/2 tsp Sichuan chili flakes (四川辣椒面)
+
+<!-- cup -->
 
 - 5 oz ground pork
 - 1 tsp ginger, minced
 
+<!-- cup -->
+
 - 1 tsp Shaoxing wine (绍兴酒)
 - 1 tsp light soy sauce (生抽)
+
+<!-- cup -->
 
 - 1/2 tsp sugar
 - 1/4 tsp ground white pepper
 - 1 1/2 cups unsalted chicken stock
+
+<!-- cup -->
 
 - 2 tsp garlic, minced
 - 2 scallions, minced
@@ -55,20 +65,32 @@ Use ground pork that shows some fat. Use the coarse Pixian paste, medium 二荆�
 
 - 1 1/2 tbsp peanut oil
 
+<!-- cup -->
+
 - 1 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
 - 1/2 tsp Sichuan chili flakes (四川辣椒面)
+
+<!-- cup -->
 
 - 5 oz ground pork
 - 1 tsp ginger, minced
 
+<!-- cup -->
+
 - 1 tsp Shaoxing wine (绍兴酒)
 - 1 tsp light soy sauce (生抽)
+
+<!-- cup -->
 
 - 1/2 tsp sugar
 - 1/4 tsp ground white pepper
 - 1 1/2 cups unsalted chicken stock
 
+<!-- cup -->
+
 - 4 oz mung bean vermicelli (绿豆粉丝), drained
+
+<!-- cup -->
 
 - 2 tsp garlic, minced
 - 2 scallions, minced

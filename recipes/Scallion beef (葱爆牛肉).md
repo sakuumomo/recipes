@@ -8,7 +8,7 @@ Marinate the beef first. Cut the scallions while it rests. Stir-fry when the bee
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -25,12 +25,20 @@ Lines with no blank line between them share a cup.
 
 - 2 tbsp peanut oil, for the stir-fry
 
+<!-- cup -->
+
 - 1 tbsp peanut oil, for the scallions
+
+<!-- cup -->
 
 - 2 tsp ginger, julienned
 - 2 cloves garlic, sliced
 
+<!-- cup -->
+
 - 8 oz Chinese scallions (大葱), cut into 2 in lengths
+
+<!-- cup -->
 
 - 1 tsp light soy sauce (生抽), for the stir-fry
 - 1 tsp Shaoxing wine (绍兴酒), for the stir-fry
@@ -59,12 +67,20 @@ Use thick Chinese scallions so the pieces stay crisp.
 
 - 2 tbsp peanut oil, for the stir-fry
 
+<!-- cup -->
+
 - 1 tbsp peanut oil, for the scallions
+
+<!-- cup -->
 
 - 2 tsp ginger, julienned
 - 2 cloves garlic, sliced
 
+<!-- cup -->
+
 - 8 oz Chinese scallions (大葱), cut into 2 in lengths
+
+<!-- cup -->
 
 - 1 tsp light soy sauce (生抽), for the stir-fry
 - 1 tsp Shaoxing wine (绍兴酒), for the stir-fry
@@ -86,12 +102,20 @@ These amounts were measured above.
 
 - 2 tbsp peanut oil, for the stir-fry
 
+<!-- cup -->
+
 - 1 tbsp peanut oil, for the scallions
+
+<!-- cup -->
 
 - 2 tsp ginger, julienned
 - 2 cloves garlic, sliced
 
+<!-- cup -->
+
 - 8 oz Chinese scallions (大葱), cut into 2 in lengths
+
+<!-- cup -->
 
 - 1 tsp light soy sauce (生抽), for the stir-fry
 - 1 tsp Shaoxing wine (绍兴酒), for the stir-fry

@@ -8,7 +8,7 @@ Soak the wood ear. Cut the vegetables and the toss ingredients while it soaks, a
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -27,9 +27,15 @@ Lines with no blank line between them share a cup.
 - 6 cups water, for the blanch
 - 1/4 tsp kosher salt, Diamond Crystal
 
+<!-- cup -->
+
 - 4 oz cauliflower, cut into 1 in florets
 
+<!-- cup -->
+
 - 4 oz napa cabbage, cut into 2 in pieces
+
+<!-- cup -->
 
 - 3 oz enoki mushrooms (金针菇)
 
@@ -37,7 +43,11 @@ Lines with no blank line between them share a cup.
 
 - 1 tbsp peanut oil, for the sear
 
+<!-- cup -->
+
 - 3 oz luncheon meat (午餐肉), sliced 1/4 in thick
+
+<!-- cup -->
 
 - 2 tbsp peanut oil, for the toss
 
@@ -46,10 +56,16 @@ Lines with no blank line between them share a cup.
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 1 tsp Sichuan peppercorns (红花椒)
 
+<!-- cup -->
+
 - 1 tbsp ginger, sliced
 - 3 cloves garlic, sliced
 
+<!-- cup -->
+
 - 1 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
+
+<!-- cup -->
 
 - 1 tsp Sichuan chili flakes (四川辣椒面)
 - 1 tsp ground cumin (孜然)
@@ -57,7 +73,11 @@ Lines with no blank line between them share a cup.
 - 1 tsp light soy sauce (生抽)
 - 1 tsp Shaoxing wine (绍兴酒)
 
+<!-- cup -->
+
 - 4 oz hot-pot beef slices (肥牛)
+
+<!-- cup -->
 
 - 1 tbsp chili oil (红油)
 - 1 tsp toasted sesame oil (香油)
@@ -90,9 +110,15 @@ Use a waxy potato so the pieces stay whole.
 - 6 cups water, for the blanch
 - 1/4 tsp kosher salt, Diamond Crystal
 
+<!-- cup -->
+
 - 4 oz cauliflower, cut into 1 in florets
 
+<!-- cup -->
+
 - 4 oz napa cabbage, cut into 2 in pieces
+
+<!-- cup -->
 
 - 3 oz enoki mushrooms (金针菇)
 
@@ -108,9 +134,15 @@ Use canned pork luncheon meat.
 
 - 1 tbsp peanut oil, for the sear
 
+<!-- cup -->
+
 - 4 oz potatoes, drained
 
+<!-- cup -->
+
 - 3 oz luncheon meat (午餐肉), sliced 1/4 in thick
+
+<!-- cup -->
 
 - 2 tbsp peanut oil, for the toss
 
@@ -126,19 +158,29 @@ Cut these while the coil cools. Use the thin marbled slices sold for hot pot, th
 
 - 2 tbsp peanut oil, for the toss
 
+<!-- cup -->
+
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 - 1 tsp Sichuan peppercorns (红花椒)
+
+<!-- cup -->
 
 - 1 tbsp ginger, sliced
 - 3 cloves garlic, sliced
 
+<!-- cup -->
+
 - 1 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
+
+<!-- cup -->
 
 - 1 tsp Sichuan chili flakes (四川辣椒面)
 - 1 tsp ground cumin (孜然)
 - 1/2 tsp sugar
 - 1 tsp light soy sauce (生抽)
 - 1 tsp Shaoxing wine (绍兴酒)
+
+<!-- cup -->
 
 - 4 oz cauliflower, cut into 1 in florets, blanched
 - 4 oz napa cabbage, cut into 2 in pieces, blanched
@@ -147,7 +189,11 @@ Cut these while the coil cools. Use the thin marbled slices sold for hot pot, th
 - 4 oz potatoes, seared
 - 3 oz luncheon meat (午餐肉), sliced 1/4 in thick, seared
 
+<!-- cup -->
+
 - 4 oz hot-pot beef slices (肥牛)
+
+<!-- cup -->
 
 - 1 tbsp chili oil (红油)
 - 1 tsp toasted sesame oil (香油)

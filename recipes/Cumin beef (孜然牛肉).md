@@ -8,7 +8,7 @@ Marinate the beef first. Toast the peppercorns and cut the onion while it rests.
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -30,19 +30,31 @@ Lines with no blank line between them share a cup.
 
 - 2 tbsp peanut oil, for the stir-fry
 
+<!-- cup -->
+
 - 1 tsp peanut oil, for the spices
+
+<!-- cup -->
 
 - 2 tsp ginger, minced
 - 3 cloves garlic, sliced
 
+<!-- cup -->
+
 - 1 small red onion, cut into 1/2 in pieces
+
+<!-- cup -->
 
 - 1 tsp cumin seeds (孜然)
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 
+<!-- cup -->
+
 - 1 tbsp ground cumin (孜然)
 - 1 tsp Sichuan chili flakes (四川辣椒面)
 - 1/2 tsp sugar
+
+<!-- cup -->
 
 - 2 tbsp cilantro, chopped
 
@@ -77,22 +89,36 @@ Do this before the wok is hot. Use medium 二荆条 flakes marked 中辣.
 
 - 2 tbsp peanut oil, for the stir-fry
 
+<!-- cup -->
+
 - 10 oz flank steak, marinated
 
+<!-- cup -->
+
 - 1 tsp peanut oil, for the spices
+
+<!-- cup -->
 
 - 2 tsp ginger, minced
 - 3 cloves garlic, sliced
 
+<!-- cup -->
+
 - 1 small red onion, cut into 1/2 in pieces
+
+<!-- cup -->
 
 - 1 tsp cumin seeds (孜然)
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+
+<!-- cup -->
 
 - 1 tbsp ground cumin (孜然)
 - 1 tsp Sichuan chili flakes (四川辣椒面)
 - 1/2 tsp sugar
 - 1/2 tsp Sichuan peppercorns (红花椒), toasted and crushed
+
+<!-- cup -->
 
 - 2 tbsp cilantro, chopped
 

@@ -8,7 +8,7 @@ Cut the seasoning. Fry the beans, then cook the pork in the same wok and return 
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -16,19 +16,31 @@ Lines with no blank line between them share a cup.
 
 - 3 oz ground pork
 
+<!-- cup -->
+
 - 1 tsp Shaoxing wine (绍兴酒)
+
+<!-- cup -->
 
 - 1/2 tsp Sichuan peppercorns (红花椒)
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 
+<!-- cup -->
+
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
 
+<!-- cup -->
+
 - 2 tbsp Yibin suimi yacai (碎米芽菜)
+
+<!-- cup -->
 
 - 1 tsp light soy sauce (生抽)
 - 1/4 tsp kosher salt, Diamond Crystal
 - 1/4 tsp sugar
+
+<!-- cup -->
 
 - 1 scallion, cut into 1/2 in lengths
 - 1 tsp toasted sesame oil (香油)
@@ -36,6 +48,8 @@ Lines with no blank line between them share a cup.
 **Beans**
 
 - 12 oz green beans (四季豆)
+
+<!-- cup -->
 
 - 2 tbsp peanut oil
 
@@ -47,19 +61,31 @@ Do this before the wok is hot. Use ground pork that shows some fat, Yibin suimi 
 
 - 3 oz ground pork
 
+<!-- cup -->
+
 - 1 tsp Shaoxing wine (绍兴酒)
+
+<!-- cup -->
 
 - 1/2 tsp Sichuan peppercorns (红花椒)
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 
+<!-- cup -->
+
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
 
+<!-- cup -->
+
 - 2 tbsp Yibin suimi yacai (碎米芽菜)
+
+<!-- cup -->
 
 - 1 tsp light soy sauce (生抽)
 - 1/4 tsp kosher salt, Diamond Crystal
 - 1/4 tsp sugar
+
+<!-- cup -->
 
 - 1 scallion, cut into 1/2 in lengths
 - 1 tsp toasted sesame oil (香油)
@@ -72,6 +98,8 @@ Do this before the wok is hot. Use ground pork that shows some fat, Yibin suimi 
 Flat green beans and common green beans both blister in this fry.
 
 - 12 oz green beans (四季豆)
+
+<!-- cup -->
 
 - 2 tbsp peanut oil
 
@@ -87,19 +115,31 @@ These amounts were measured above.
 
 - 3 oz ground pork
 
+<!-- cup -->
+
 - 1 tsp Shaoxing wine (绍兴酒)
+
+<!-- cup -->
 
 - 1/2 tsp Sichuan peppercorns (红花椒)
 - 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
 
+<!-- cup -->
+
 - 2 cloves garlic, sliced
 - 1 tsp ginger, sliced
 
+<!-- cup -->
+
 - 2 tbsp Yibin suimi yacai (碎米芽菜), rinsed and squeezed
+
+<!-- cup -->
 
 - 1 tsp light soy sauce (生抽)
 - 1/4 tsp kosher salt, Diamond Crystal
 - 1/4 tsp sugar
+
+<!-- cup -->
 
 - 1 scallion, cut into 1/2 in lengths
 - 1 tsp toasted sesame oil (香油)

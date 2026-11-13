@@ -8,7 +8,7 @@ Blanch the beef first. Peel the potatoes when the beef has cooked about 70 minut
 
 Measure each ingredient once. A later list is that same amount again.
 
-Lines with no blank line between them share a cup.
+Lines set close together share a cup.
 
 ## Ingredients
 
@@ -21,19 +21,29 @@ Lines with no blank line between them share a cup.
 
 - 1 tbsp peanut oil
 
+<!-- cup -->
+
 - 1 small onion, sliced
+
+<!-- cup -->
 
 - 1 tbsp ginger, sliced
 - 2 cloves garlic, smashed
 - 1 star anise (八角)
 - 1 piece cassia bark (桂皮), 2 in
 
+<!-- cup -->
+
 - 1 tbsp Shaoxing wine (绍兴酒)
 - 1 tbsp light soy sauce (生抽)
 - 1 tsp dark soy sauce (老抽)
 - 1 tsp sugar
 
+<!-- cup -->
+
 - 3 1/2 cups water, for the stew
+
+<!-- cup -->
 
 - 12 oz potatoes
 - 1/2 tsp kosher salt, Diamond Crystal
@@ -57,21 +67,33 @@ Use a waxy potato so the pieces stay whole. Use unsalted Shaoxing.
 
 - 1 tbsp peanut oil
 
+<!-- cup -->
+
 - 1 small onion, sliced
+
+<!-- cup -->
 
 - 1 tbsp ginger, sliced
 - 2 cloves garlic, smashed
 - 1 star anise (八角)
 - 1 piece cassia bark (桂皮), 2 in
 
+<!-- cup -->
+
 - 16 oz beef brisket (牛腩), blanched
+
+<!-- cup -->
 
 - 1 tbsp Shaoxing wine (绍兴酒)
 - 1 tbsp light soy sauce (生抽)
 - 1 tsp dark soy sauce (老抽)
 - 1 tsp sugar
 
+<!-- cup -->
+
 - 3 1/2 cups water, for the stew
+
+<!-- cup -->
 
 - 12 oz potatoes
 - 1/2 tsp kosher salt, Diamond Crystal
