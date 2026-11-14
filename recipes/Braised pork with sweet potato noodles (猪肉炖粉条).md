@@ -122,3 +122,9 @@ Use unsalted Shaoxing.
 7. Uncover. Turn the coil to medium and leave the saucepan fully on. Cook until the sauce coats a spoon and the pork still sits in a loose gravy, about 8 minutes. If it still runs like water, keep cooking until it coats a spoon. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to medium and set the saucepan fully back on. If the bottom starts to catch, pull the saucepan fully off and turn the coil off. Stir until it releases. Turn the coil back to medium and set the saucepan fully back on.
 8. Add the **kosher salt** and the **drained sweet potato noodles** together. Press the noodles under the surface. Cook until a strand is chewy and the center is translucent, about 6 minutes. If the center is still white, cook until it turns translucent, about 3 minutes more. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to medium and set the saucepan fully back on. If the bottom starts to catch before the center is translucent, pull the saucepan fully off and turn the coil off. Stir until it releases. Turn the coil back to medium and set the saucepan fully back on.
 9. Turn the coil off. Eat it hot. The noodles keep drinking the gravy as it sits.
+
+---
+
+Add 2 tsp Pixian doubanjiang (郫县豆瓣酱), chopped, after the ginger and the scallions smell sweet. Stir until the oil turns red, about 30 seconds, then go on to the wine.
+
+Use sour napa cabbage from the bag marked 酸菜. Rinse and squeeze 4 oz, cut it into 1 in pieces, and add it with the water for the stew. Skip the kosher salt. The cabbage is already salty.

@@ -108,3 +108,7 @@ Use a waxy potato so the pieces stay whole. Use unsalted Shaoxing.
 8. Add the **potatoes** and the **kosher salt**. Press the potatoes under the surface. Cover and cook until a potato breaks under a spoon, about 15 minutes. If a potato is still firm, cover and cook 5 minutes more. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to low and set the saucepan fully back on.
 9. Lift the potatoes out with a slotted spoon. Uncover. Turn the coil to medium and leave the saucepan fully on. Cook until the sauce coats a spoon, about 8 minutes. If it still runs like water, keep cooking until it coats a spoon. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to medium and set the saucepan fully back on. If the bottom starts to catch, pull the saucepan fully off and turn the coil off. Stir until it releases. Turn the coil back to medium and set the saucepan fully back on.
 10. Fold the potatoes back in. Turn the coil off. Pick out the star anise and the cassia bark. Eat it hot.
+
+---
+
+Add 2 tsp Pixian doubanjiang (郫县豆瓣酱), chopped, after the ginger and the garlic smell sweet. Stir until the oil turns red, about 30 seconds, then add the beef.

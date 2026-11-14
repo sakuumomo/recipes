@@ -103,3 +103,9 @@ Do this before the wok is hot.
 5. Return the **coated large shrimp**. Toss until every shrimp wears an even gold coat, about 30 seconds.
 6. Turn the coil off. Add the **scallion**. Toss until it smells sweet, about 15 seconds.
 7. Eat it hot.
+
+---
+
+Add 1 tbsp unsalted butter with the garlic, the steamed and mashed salted duck egg yolks, and the sugar.
+
+For a looser coat, add 1 tbsp unsweetened evaporated milk in that spot instead of the butter.

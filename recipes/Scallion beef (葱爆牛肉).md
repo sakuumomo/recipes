@@ -129,3 +129,7 @@ These amounts were measured above.
 6. Add the green pieces of the **Chinese scallions**. Stir until they turn bright green and still have bite, about 30 seconds.
 7. Add the **marinated flank steak**, the **light soy sauce for the stir-fry**, the **Shaoxing wine for the stir-fry**, and the **sugar** together. Toss until the beef is glossy and the scallions still have bite, about 30 seconds.
 8. Eat it hot.
+
+---
+
+Replace the 1 tsp light soy sauce for the stir-fry with 1 tsp oyster sauce (蚝油). Add it with the Shaoxing wine for the stir-fry and the sugar.

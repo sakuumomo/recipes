@@ -146,3 +146,7 @@ These amounts were measured above.
 1. Set the wok in the ring on a coil turned to medium. Add the **peanut oil for the toss**. When it shimmers, about 1 minute, add the **garlic**, the **ginger**, and the **red chili** together. Stir until the garlic is pale gold, about 40 seconds. If it darkens, turn the coil off and stir until it cools. Wait until the coil stops glowing, then turn the coil back to medium.
 2. Add the **fried squid tubes**, the **scallion**, the **toasted and crushed Sichuan peppercorns**, the **kosher salt**, and the **ground white pepper** together. Toss until every ring is seasoned and the coating is still crisp, about 20 seconds.
 3. Eat it hot, while the coating is still crisp.
+
+---
+
+Stir 1/8 tsp five-spice powder (五香粉) in with the kosher salt and the ground white pepper.

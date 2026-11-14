@@ -123,3 +123,7 @@ Use unsalted Shaoxing.
 7. Add the **cut tomatoes for the finish** and the **kosher salt**. Cover and simmer until the tomato pieces are just soft and a fork pushed into a chunk meets little resistance, about 15 minutes. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to low and set the saucepan fully back on.
 8. Lift the finish tomatoes out with a slotted spoon. Uncover. Turn the coil to medium and leave the saucepan fully on. Cook until the sauce coats a spoon and the broth is red, about 6 minutes. If it still runs like water, keep cooking until it coats a spoon. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to medium and set the saucepan fully back on. If the bottom starts to catch, pull the saucepan fully off and turn the coil off. Stir until it releases. Turn the coil back to medium and set the saucepan fully back on.
 9. Fold the tomatoes back in. Turn the coil off. Pick out the star anise. Eat it hot.
+
+---
+
+Add 1 tsp Pixian doubanjiang (郫县豆瓣酱), chopped, with the Shaoxing wine, the light soy sauce, the dark soy sauce, and the sugar.

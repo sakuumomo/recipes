@@ -150,3 +150,9 @@ These amounts were measured above.
 8. Add the **light soy sauce** and the **sugar** together. Fold the pork on the sides down into the sauce, and add the pork from the plate. Stir until the slices look glossy, about 30 seconds.
 9. Add the **garlic sprouts**. Stir until they turn bright green and wilt but still have a bite, about 1 minute. If they are still raw and sharp, cook until they wilt, about 1 minute more. If they brown, turn the coil off and stir until they cool. Wait until the coil stops glowing, then turn the coil back to medium-high.
 10. Turn the coil off. Eat it hot. The sprouts soften as it sits.
+
+---
+
+Add 1/2 tsp dark soy sauce (老抽) with the light soy sauce and the sugar.
+
+After the coil is off, add 1/2 tsp toasted sesame oil (香油) and stir once.

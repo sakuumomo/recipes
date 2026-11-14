@@ -137,3 +137,7 @@ These amounts were measured above.
 3. Add the **garlic** and the **ginger** together. Stir until fragrant, about 15 seconds.
 4. Add the **fried chicken thighs**, the **sugar**, the **Shaoxing wine for the toss**, and the **scallions** together. Toss until the chicken is coated and the wine has cooked off, about 1 minute.
 5. Eat the chicken and the scallions. The chilies and the peppercorns stay on the plate for their aroma.
+
+---
+
+Use the knobby tan strips from the jar marked 榨菜. Chop 4 tbsp and add them with the garlic and the ginger. Add 1 jalapeño, seeds scraped out and cut into 1/4 in pieces, in that same step.

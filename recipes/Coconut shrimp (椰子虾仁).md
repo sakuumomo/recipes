@@ -92,3 +92,7 @@ Use unsweetened shredded coconut.
 3. Slide those **seasoned large shrimp** in, with room between them. Fry until the coconut is gold and the shrimp curl in a loose C, about 2 1/2 minutes, turning once. If they curl into a tight ring, lift them out. If the coconut darkens fast, pull the saucepan fully off and turn the coil off. When the oil returns to 325°F, turn the coil back to the setting that holds it and set the saucepan fully back on. Lift them out with a slotted spoon.
 4. Let the oil return to 325°F on the setting that holds it. Coat and fry the remaining **seasoned large shrimp** the same way, 4 at a time.
 5. Turn the coil off. Eat them while the coconut is still crisp.
+
+---
+
+For a dip, stir 2 tbsp tomato ketchup (番茄酱), 1 tbsp rice vinegar (米醋), and 1 tsp sugar together until the sugar dissolves.

@@ -138,3 +138,7 @@ Tool: bamboo steamer.
 8. Set the parchment back in the steamer. Add the remaining **dumpling wrappers**, pleat side up, with space between them. Cover the steamer.
 9. Steam until the wrappers look glossy and a dumpling feels firm, about 10 minutes.
 10. Eat them hot with Dumpling dipping sauce (饺子蘸料).
+
+---
+
+Add 1 tsp Shaoxing wine (绍兴酒) with the light soy sauce, the toasted sesame oil, and the ground white pepper.

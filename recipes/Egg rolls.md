@@ -149,3 +149,7 @@ Use thick square wrappers from the refrigerator case. Thin frozen sheets and ric
 2. Slide 3 of the **egg roll wrappers** in, seam side down, away from you. Leave room between them. Fry until the bottoms are deep golden, about 2 minutes, then turn them. Fry until they are deep golden all over and the bubbles around them get louder, about 3 minutes more. If a side stays pale, turn it. If the oil smokes or climbs past 350°F, pull the saucepan fully off and turn the coil off. When the oil returns to 350°F, turn the coil back to the setting that holds it and set the saucepan fully back on. Lift them out with a slotted spoon and stand them on a plate.
 3. Let the oil return to 350°F on the setting that holds it. Fry the remaining **egg roll wrappers** the same way. Stand them on the plate.
 4. Turn the coil off. Eat them while the wrappers are still crisp.
+
+---
+
+Add 1 tsp ginger, minced, with the scallion and the char siu.

@@ -161,3 +161,7 @@ Use round white Shanghai-style wheat wrappers from the refrigerator or freezer c
 9. Cook until the water is gone and the tops look glossy, about 6 minutes. If the bottoms smell sharp, pull the skillet fully off and turn the coil off. When the smell sweetens, turn the coil back to medium and set the skillet fully back on.
 10. Take the lid off. Cook until the bottoms are deep golden and the skillet sounds dry, about 1 minute. Lift them out crisp side up.
 11. Eat them hot with Dumpling dipping sauce (饺子蘸料).
+
+---
+
+Add 1 tsp Shaoxing wine (绍兴酒) with the light soy sauce, the toasted sesame oil, and the ground white pepper.

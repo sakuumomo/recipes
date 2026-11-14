@@ -171,3 +171,7 @@ Once the dough has doubled, shape 8 small buns and close each top so the juice s
 6. Take the lid off. Scatter the **white sesame seeds** and the **scallion for the top** over the buns. Cover until the scallion smells sweet, about 1 minute.
 7. Take the lid off. Cook until the bottoms are deep golden and the skillet sounds dry, about 1 minute. If a bun sticks, leave it 30 seconds and lift again.
 8. Lift the buns out, crisp side up. The center is hot and juicy. Eat them hot.
+
+---
+
+For a soup center, chop 1 oz pork aspic (皮冻) fine and stir it in after the meat turns sticky, in place of the cold water for the pork. It melts when the buns fry.

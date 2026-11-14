@@ -110,3 +110,7 @@ Use unsalted Shaoxing.
 7. Pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should bubble gently.
 8. Add the **fried green beans** and the **kosher salt** together. Stir. Cover and simmer until the beans are silky all the way through and a rib twists at the bone, about 15 minutes. If a bean is still bright and firm, cover and cook 5 minutes more. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to low and set the saucepan fully back on.
 9. Turn the coil off. Pick out the star anise. Eat it hot.
+
+---
+
+Add 2 tsp Pixian doubanjiang (郫县豆瓣酱), chopped, after the ginger and the scallions smell sweet. Stir until the oil turns red, about 30 seconds, then go on to the wine.

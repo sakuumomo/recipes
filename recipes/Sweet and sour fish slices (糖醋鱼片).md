@@ -175,3 +175,7 @@ These amounts were measured above.
 4. Turn the coil off. Add the **rice vinegar**. Stir until the sauce smells sharp, about 5 seconds.
 5. Add the **fried snakehead fillet** and the **scallion**. Fold until every slice is coated and the sauce clings, about 20 seconds.
 6. Eat it hot, while the coating is still crisp.
+
+---
+
+Add 2 oz pineapple canned in juice, drained and cut into 1/2 in pieces, with the rice vinegar.

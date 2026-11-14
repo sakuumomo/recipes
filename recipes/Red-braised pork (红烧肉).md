@@ -96,3 +96,9 @@ Use unsalted Shaoxing.
 8. Uncover the saucepan. Lift out the ginger, the scallions, the star anise, and the cassia bark.
 9. Turn the coil to medium and leave the saucepan fully on. Cook, uncovered, until the sauce coats the chunks and a spoon dragged through the bottom leaves a clear trail, about 10 minutes. If the sauce still pools, keep cooking until it coats the chunks, about 5 minutes more. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to medium and set the saucepan fully back on. If the bottom starts to catch, pull the saucepan fully off and turn the coil off. Stir until it releases. Turn the coil back to medium and set the saucepan fully back on.
 10. Turn the coil off. Eat it hot. The sauce thickens as it cools.
+
+---
+
+Add 2 dried facing-heaven chilies (干朝天椒), snipped in half, with the ginger, the scallions, the star anise, and the cassia bark. Lift them out with the ginger and the spices.
+
+After the coil is off, add 1/2 tsp Zhenjiang vinegar (镇江香醋) and stir once.
