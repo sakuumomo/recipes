@@ -105,10 +105,12 @@ Each line is one measure the cook makes, written `quantity unit name` or `count 
   - Use plain red chili oil.
   - Use flank steak so the slices soften in this time.
   - Use thick Chinese scallions so the pieces stay crisp.
+  - Use garlic sprouts, the straight green stalks marked 蒜苗.
   - Use the thin marbled slices sold for hot pot.
   - Use a waxy potato so the pieces stay whole.
   - Use ripe tomatoes that smell sweet.
   - Use ground pork that shows some fat.
+  - Leave the skin on.
   - Use large peeled shrimp with the tails off.
   - Use cleaned squid tubes.
   - Use the yolks from salted duck eggs.
