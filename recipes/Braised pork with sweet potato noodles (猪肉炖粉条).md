@@ -4,7 +4,7 @@ Serves 2. About 90 minutes.
 
 The noodles soak in a bowl. The pork blanches, then stews, in a heavy saucepan.
 
-Soak the noodles first. Blanch the pork while they soften. Stew until a chunk yields to a fork, then add the noodles.
+Soak the noodles first. Blanch the pork while they soften. Stew until a chunk yields to a fork, boil the gravy down, then add the noodles.
 
 Measure each ingredient once. A later list is that same amount again.
 
@@ -46,7 +46,7 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 3 1/2 cups water, for the stew
+- 2 cups water, for the stew
 
 <!-- cup -->
 
@@ -106,7 +106,7 @@ Use unsalted Shaoxing.
 
 <!-- cup -->
 
-- 3 1/2 cups water, for the stew
+- 2 cups water, for the stew
 
 <!-- cup -->
 
@@ -119,5 +119,6 @@ Use unsalted Shaoxing.
 4. Pour in the **water for the stew**. Turn the coil to high. When it boils, skim any foam. Pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should bubble gently. Cover it.
 5. Simmer until a fork pushed into a chunk meets little resistance, about 45 minutes. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to low and set the saucepan fully back on. If it boils hard again, do the same again. If the surface goes still, turn the coil one setting higher and leave the saucepan fully on.
 6. Lift out the star anise and the cassia bark.
-7. Turn the coil to medium and leave the saucepan fully on. Add the **kosher salt** and the **drained sweet potato noodles** together. Press the noodles under the surface. Cook, uncovered, until they are chewy and the gravy still pools in a spoon, about 10 minutes. Break one strand. The center is translucent. If the center is still white, cook until it turns translucent, about 5 minutes more. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to medium and set the saucepan fully back on. If the bottom starts to catch, pull the saucepan fully off and turn the coil off. Stir until it releases. Turn the coil back to medium and set the saucepan fully back on.
-8. Eat it hot. The noodles keep drinking the gravy as it sits.
+7. Uncover. Turn the coil to medium and leave the saucepan fully on. Cook until the sauce coats a spoon and the pork still sits in a loose gravy, about 8 minutes. If it still runs like water, keep cooking until it coats a spoon. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to medium and set the saucepan fully back on. If the bottom starts to catch, pull the saucepan fully off and turn the coil off. Stir until it releases. Turn the coil back to medium and set the saucepan fully back on.
+8. Add the **kosher salt** and the **drained sweet potato noodles** together. Press the noodles under the surface. Cook until a strand is chewy and the center is translucent, about 6 minutes. If the center is still white, cook until it turns translucent, about 3 minutes more. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to medium and set the saucepan fully back on. If the bottom starts to catch before the center is translucent, pull the saucepan fully off and turn the coil off. Stir until it releases. Turn the coil back to medium and set the saucepan fully back on.
+9. Turn the coil off. Eat it hot. The noodles keep drinking the gravy as it sits.

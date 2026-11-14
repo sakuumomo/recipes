@@ -4,7 +4,7 @@ Serves 2. About 90 minutes.
 
 The ribs blanch, then stew, in a heavy saucepan. The beans fry in the wok, and the wok stays in its ring.
 
-Blanch the ribs first. Snap the beans while the water heats. When the ribs are rinsed, fry the beans in the wok, then stew.
+Blanch the ribs first. Snap the beans while the water heats. When the ribs are rinsed, fry the beans in the wok, then stew. Boil the sauce down before the beans go in.
 
 Measure each ingredient once. A later list is that same amount again.
 
@@ -41,7 +41,7 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 4 cups water, for the stew
+- 3 cups water, for the stew
 
 <!-- cup -->
 
@@ -94,7 +94,7 @@ Use unsalted Shaoxing.
 
 <!-- cup -->
 
-- 4 cups water, for the stew
+- 3 cups water, for the stew
 
 <!-- cup -->
 
@@ -106,6 +106,7 @@ Use unsalted Shaoxing.
 3. Add the **Shaoxing wine**, **light soy sauce**, **dark soy sauce**, and **sugar** together. Stir until the ribs look reddish-brown, about 30 seconds.
 4. Pour in the **water for the stew**. Press the ribs under the surface. Turn the coil to high. When it boils, skim any foam. Pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should bubble gently. Cover it.
 5. Simmer until a fork pushed into a rib meets little resistance, about 40 minutes. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to low and set the saucepan fully back on. If it boils hard again, do the same again. If the surface goes still, turn the coil one setting higher and leave the saucepan fully on.
-6. Add the **fried green beans** and the **kosher salt** together. Stir. Cover and simmer until the beans are silky all the way through and a rib twists at the bone, about 15 minutes. If a bean is still bright and firm, cover and cook 5 minutes more. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to low and set the saucepan fully back on.
-7. Uncover. If the sauce is still thin, turn the coil to medium and leave the saucepan fully on. Cook, stirring, until the sauce coats a spoon, about 5 minutes. If it starts to stick, pull the saucepan fully off and turn the coil off. Stir until it releases. Turn the coil back to medium and set the saucepan fully back on.
-8. Pick out the star anise. Eat it hot.
+6. Uncover. Turn the coil to medium and leave the saucepan fully on. Cook until the sauce coats a spoon and the ribs still sit in a loose gravy, about 8 minutes. If it still runs like water, keep cooking until it coats a spoon. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to medium and set the saucepan fully back on. If the bottom starts to catch, pull the saucepan fully off and turn the coil off. Stir until it releases. Turn the coil back to medium and set the saucepan fully back on.
+7. Pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should bubble gently.
+8. Add the **fried green beans** and the **kosher salt** together. Stir. Cover and simmer until the beans are silky all the way through and a rib twists at the bone, about 15 minutes. If a bean is still bright and firm, cover and cook 5 minutes more. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to low and set the saucepan fully back on.
+9. Turn the coil off. Pick out the star anise. Eat it hot.

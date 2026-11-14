@@ -4,7 +4,7 @@ Serves 2. About 130 minutes.
 
 The beef blanches in a heavy saucepan. The same saucepan stews it.
 
-Blanch the beef first. Peel the potatoes when the beef has cooked about 70 minutes.
+Blanch the beef first. Peel the potatoes when the beef has cooked about 70 minutes. Boil the sauce down after the potatoes come out.
 
 Measure each ingredient once. A later list is that same amount again.
 
@@ -41,7 +41,7 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 3 1/2 cups water, for the stew
+- 2 1/2 cups water, for the stew
 
 <!-- cup -->
 
@@ -91,7 +91,7 @@ Use a waxy potato so the pieces stay whole. Use unsalted Shaoxing.
 
 <!-- cup -->
 
-- 3 1/2 cups water, for the stew
+- 2 1/2 cups water, for the stew
 
 <!-- cup -->
 
@@ -106,5 +106,5 @@ Use a waxy potato so the pieces stay whole. Use unsalted Shaoxing.
 6. Pour in the **water for the stew**. Press the beef under the surface. Turn the coil to high. When it boils, skim any foam. Pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should bubble gently. Cover it.
 7. Simmer until a fork pushed into a chunk meets little resistance, about 80 minutes. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to low and set the saucepan fully back on. If it boils hard again, do the same again. If the surface goes still, turn the coil one setting higher and leave the saucepan fully on. When the beef has cooked about 70 minutes, peel the **potatoes** and cut them into 1 1/2 in chunks, then keep the simmer going. If the beef is still firm, cover and cook 15 minutes more before you add the potatoes.
 8. Add the **potatoes** and the **kosher salt**. Press the potatoes under the surface. Cover and cook until a potato breaks under a spoon, about 15 minutes. If a potato is still firm, cover and cook 5 minutes more. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to low and set the saucepan fully back on.
-9. Uncover. Turn the coil to medium and leave the saucepan fully on. Cook, stirring, until the sauce coats a spoon, about 10 minutes. If it starts to stick, pull the saucepan fully off and turn the coil off. Stir until it releases. Turn the coil back to medium and set the saucepan fully back on.
-10. Pick out the star anise and the cassia bark. Eat it hot.
+9. Lift the potatoes out with a slotted spoon. Uncover. Turn the coil to medium and leave the saucepan fully on. Cook until the sauce coats a spoon, about 8 minutes. If it still runs like water, keep cooking until it coats a spoon. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to medium and set the saucepan fully back on. If the bottom starts to catch, pull the saucepan fully off and turn the coil off. Stir until it releases. Turn the coil back to medium and set the saucepan fully back on.
+10. Fold the potatoes back in. Turn the coil off. Pick out the star anise and the cassia bark. Eat it hot.
