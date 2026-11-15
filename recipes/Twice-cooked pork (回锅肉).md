@@ -156,3 +156,5 @@ These amounts were measured above.
 Add 1/2 tsp dark soy sauce (老抽) with the light soy sauce and the sugar.
 
 After the coil is off, add 1/2 tsp toasted sesame oil (香油) and stir once.
+
+If there are no garlic sprouts, use thick Chinese scallions so the pieces stay crisp. Cut 6 oz thick Chinese scallions (大葱) into 1 1/2 in lengths and use them in that step. Add another 2 cloves garlic, sliced, with the white pieces. Stir until the whites smell sweet, about 30 seconds, then add the green pieces and stir until they are bright and still have bite, about 30 seconds.
