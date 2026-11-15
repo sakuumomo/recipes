@@ -22,7 +22,7 @@ Done when two published recipes have been read and the shared method is chosen.
 
 Search the original name and the English headword. Read at least two published recipes from cooks who know that cuisine. A specialist cookbook, a tested kitchen, or a regional writer outranks an unsourced page.
 
-Keep the cut, the coating, the fat, the defining aromatics, the cook order, and the amounts those sources share. Scale them to this yield. Where the sources disagree, choose the version this kitchen can cook, and put that choice in the steps. The vessels and the coil moves in this document are what this kitchen can cook.
+Keep the cut, the coating, the fat, the defining aromatics, the cook order, and the amounts those sources share. Scale them to this yield. Where the sources disagree, choose the version this kitchen can cook, and put that choice in the steps. A version the cook can skip is a footnote at the end of the page, not a line in the steps. The vessels and the coil moves in this document are what this kitchen can cook.
 
 ## 3. Split the dish into parts
 
@@ -56,7 +56,7 @@ Write these into the step that changes the heat. The water drop is for an empty 
 For a skillet or a saucepan:
 
 - The pan sits fully on the coil or fully off it.
-- Heat the empty pan on high until a drop of water skitters and vanishes, about 3 minutes for the 10 in skillet. An empty pan on high is for a sear or a sizzle that gets food as soon as the pan is hot. A saucepan of liquid does not get an empty high preheat.
+- Heat the empty 10 in skillet on high until a drop of water skitters and vanishes, about 3 minutes. An empty pan on high is for a sear or a sizzle that gets food as soon as the pan is hot. A small skillet is not heated empty on high. A saucepan of liquid does not get an empty high preheat.
 - To lower the heat, pull the pan fully off the coil and turn the coil to the lower setting. If the coil is glowing, wait until it stops. Set the pan fully back on.
 - To raise the heat, turn the coil up and leave the pan fully on.
 - A coil with no pan on it is off. The glow wait is the exception: a turned-down coil stays on, with the pan off, until the glow is gone. Then the pan goes back, or the coil goes off if the pan is staying off.
@@ -65,9 +65,11 @@ For a skillet or a saucepan:
 - If the pot is on the coil and the surface goes still, turn the coil one setting higher and leave the pan fully on.
 - A pot left alone sits fully on a coil that is already at the setting that holds its cue, or it sits fully off and that coil is off. High is a boil you stay and catch. High under a pot of oil is a temperature you stay and read.
 - When a paste smells sharp, pull the pan fully off and stir until the smell sweetens. Turn the coil to the lower setting. If the coil is glowing, wait until it stops. Set the pan fully back on.
+- If the bottom starts to catch, pull the pan fully off and turn the coil off. Stir until it releases. Turn the coil back to the same setting and set the pan fully back on.
 - A small skillet slides off the coil the moment it is ready, and that coil goes off.
 - A pour onto dried chilies is ready when a dry wooden spoon handle makes small bubbles and the oil has not yet smoked. Smoking oil blackens those chilies. A pour that blooms spices in the pan is ready when the oil just starts to smoke. The pan is off the coil, and that coil is off, before the spices go in.
-- When a 10 in skillet stays off the coil, turn that coil off.
+- When a 10 in skillet stays off the coil, turn that coil off. If it comes off between batches, turn that coil off while it is off. Turn the coil back to the setting that holds the fry and set the skillet fully back on when the next batch starts.
+- When the cook in that pan is finished, turn its coil off before you plate or eat. An empty pan does not sit on a live coil. A pot of water you are done with does not sit on a live coil.
 - Bring deep-fry oil, and oil for a slip, up on high. Stay with the thermometer the whole time that coil is on. Once the oil is at the named temperature, use the lower-heat move to the setting that holds it.
 - Between batches, bring the oil back to that temperature on the setting that holds it. When the oil smokes or climbs past that temperature, pull the saucepan fully off and turn the coil off. When the oil returns to that temperature, turn the coil back to the setting that holds it and set the saucepan fully back on.
 
@@ -79,8 +81,8 @@ For the wok:
 - To lower the heat, turn the coil off, wait until it stops glowing, and turn it to the lower setting. The wok stays in the ring.
 - After a sear, add the next oil as soon as the coil is off. Hold a paste, black pepper, or dried chilies until that oil shimmers and has stopped smoking. An empty wok scorches the film left in it.
 - When the center boils hard, turn the coil off until the surface settles and the coil stops glowing, then turn the coil back to the setting the step was using.
-- When a paste smells sharp, turn the coil off and stir until the smell sweetens. Wait until the coil stops glowing, then turn the coil back to the lower setting.
-- When that cook is finished and the coil is off and no longer glowing, the wok can leave the ring.
+- When a paste smells sharp, turn the coil off and stir until the smell sweetens. Wait until the coil stops glowing, then turn the coil back to the setting the step was using.
+- When that cook is finished, turn the coil off before you plate or eat. Once the coil is off and no longer glowing, the wok can leave the ring.
 
 ## 5. Write the lines
 
@@ -92,13 +94,14 @@ Each line is one measure the cook makes, written `quantity unit name` or `count 
 - A spoon measure of kosher salt names the brand after a comma: `1/2 tsp kosher salt, Diamond Crystal`.
 - Parentheses hold the original-language name and nothing else, placed after the English name and before any comma: `2 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped`.
 - Add that original name when an English search commonly returns a different product. The mapo tofu page is the calibration: soft tofu (嫩豆腐), Sichuan peppercorns (红花椒), Pixian doubanjiang (郫县豆瓣酱), fermented black beans (豆豉), Sichuan chili flakes (四川辣椒面). Garlic, ginger, scallions, peanut oil, stock, rice, potato starch, and white pepper stay in English. When a recipe needs a neutral oil, write peanut oil. Do not substitute canola, vegetable oil, or rapeseed oil. A flavored oil stays when the dish needs that flavor, and it keeps its original name: toasted sesame oil (香油).
-- When that named product still has kinds a shopper mixes up, the part that first measures it opens with a short sentence naming the kind this page uses. Say it once. Copy one of these sentences, rather than writing a new one for the same product:
+- When that named product still has kinds a shopper mixes up, the part that first measures it opens with a short sentence naming the kind this page uses. Say it once. Copy one of these sentences, rather than writing a new one for the same product. When a part uses more than one, join them with commas, the way the mapo tofu page does: `Use the coarse Pixian paste, and medium 二荆条 flakes marked 中辣.`
   - Use water-packed soft tofu.
   - Use the coarse Pixian paste.
   - Use medium 二荆条 flakes marked 中辣.
   - Use unsalted Shaoxing.
   - Use thin threads with mung bean starch first. A little pea starch is fine, and thick sweet potato noodles go soft and gluey.
   - Use dried sweet potato cords about as thick as a chopstick. Thin mung bean threads fall apart in this stew.
+  - Use dried sweet potato cords about as thick as a chopstick. Thin mung bean threads fall apart in this soup.
   - Use round white Shanghai-style wheat wrappers from the refrigerator or freezer case.
   - Use thick square wrappers from the refrigerator case. Thin frozen sheets and rice paper will not blister.
   - Use the fatty plate sold as 牛腩, and leave the fat on.
@@ -132,10 +135,11 @@ Each line is one measure the cook makes, written `quantity unit name` or `count 
 - The gather list contains each line once, under the bold label of the part that first measures it. Labels follow cook order. Inside a part, lines follow use order.
 - Each cup is its own list. Between two cups, put a blank line, then `<!-- cup -->`, then a blank line. The comment ends the list, and the rendered page shows a gap. A blank line with no comment stays inside the list, so that gap does not render. Do not put the comment before the first line of a part, after the last line, or inside a numbered list. One cup under a label has no comment inside it.
 - Lines in one list share a cup. A cup is what one step adds together, or adds one after another before that step's cue, when those things fit in one container. Oil that heats alone is its own cup. A bulky piece is its own cup. A small seasoning added with that piece can sit in the same cup. The whites and the greens of a scallion stay in different cups when the greens go in later.
-- The gather list, the part list, and the combining list use the same breaks.
+- The gather list and the part that first measures a line use the same breaks.
+- A later list keeps those breaks. It may set a small seasoning into the cup of the food that step adds it with. Oil that heats alone stays its own cup in every list.
 - Every part that measures a line repeats it with the same words.
 - A later part may append only the state the ingredient is in now: `, drained`, `, toasted and crushed`.
-- The combining section repeats the lines it uses. Those repeats are the same measures, grouped under the same bold labels, in the same order, with the same `<!-- cup -->` breaks.
+- The combining section repeats the lines it uses. Those repeats are the same measures, grouped under the bold label of the part that measured them. Those labels follow the order the steps reach for the parts. The mapo tofu stir-fry is the example: Prep, then Tofu, then Starch slurry, then Sichuan pepper.
 
 When you change a line, change every copy of it.
 
@@ -212,14 +216,14 @@ These amounts were measured above.
 1. Add the **ingredient** and cook until the cue.
 ```
 
-- The yield line is `Serves N. About M minutes.`, `Makes N. About M minutes.`, or `Makes N. About D days.` The time runs until the cook eats or the jar is ready, including waits that overlap other parts.
+- The yield line is `Serves N. About M minutes.`, `Makes N. About M minutes.`, `Makes N. About 1 day.`, or `Makes N. About D days.` The time runs until the cook eats or the jar is ready, including waits that overlap other parts.
 - The setup line names the Instant Pot program and the pan for each part that has one.
 - The order line is there when the cook starts a part and leaves it. It names the interrupt: when the timer rings, what they do, then that they keep going.
 - The measure sentence and the cup sentence are on every page.
 - The gather list is one `## Ingredients` section. Its bold labels are the parts, so the outline stays the cooking sections. Inside a label, `<!-- cup -->` marks a new cup.
-- A `---` sits between the gather list and the first cooking section.
+- A `---` sits between the gather list and the first cooking section. A page may end with a second `---`. Under that second rule, each footnote is one paragraph a cook can skip. It says what changes and where that change joins the cook. It is not an ingredient line, not a heading, and it does not say optional. A cook who skips the footnotes cooks the page as written.
 - Cooking sections are `##` headings in cook order.
-- A part may open with one or two short sentences under the heading. The product-kind sentence is the one in section 5, under the part that first measures it. Prep that must finish before heat says so. The combining section says `These amounts were measured above.`
+- A part may open with one or two short sentences under the heading. The product-kind sentence is the one in section 5, under the part that first measures it. Joined product-kind sentences count as one sentence. Prep that must finish before heat says so. The combining section says `These amounts were measured above.`
 - Ingredient bullets sit under the heading or the bold label. The numbered steps follow them.
 - Keep each numbered list on consecutive lines, so the numbers stay one series.
 - Filename, heading, and parenthesis rules stay in this document.
@@ -230,8 +234,8 @@ Done when each part has steps a cook can follow while the pan is hot.
 
 - Number the steps. Write them as imperatives.
 - Bold the thing the step adds. The bold words match the line's name: the **peanut oil for the beef**, the **drained tofu**.
-- A step is one addition, one wait, or one coil move, and it ends on a cue: a look, a smell, or a time.
-- A coil move that has its own cue is its own step. Write it with the coil moves in this document.
+- A step is one addition or one wait, and it ends on a cue: a look, a smell, or a time. The coil move that brings the pan to that cue stays in the step. The drop from a hard boil to a shiver or a gentle bubble stays in the step that brought the liquid to a boil, the way the mapo tofu blanch does.
+- Write coil moves with the sentences in this document.
 - A rescue stays in the step that can hit it. Leave out a following sentence that only repeats that rescue.
 - Finish knife work, rinsing, and measuring in an earlier part when a later step resolves in under a minute. The hot step then names the cups.
 - When several cups go in at once, say they go in together.
@@ -248,9 +252,9 @@ Done when every item below holds and the file is saved at `recipes/<title>.md`.
 - The path is `recipes/<title>.md`, the `#` title matches, and the English name is unique.
 - An original name sits in parentheses when the English title renders another language.
 - The header has the yield line, the setup line, the order line when something waits, the measure sentence, and the cup sentence.
-- The gather list is `## Ingredients` with bold labels. Each line appears there once. Inside a label, `<!-- cup -->` marks a new cup, and the same breaks appear in the part list and the combining list.
-- A combining section is absent from the gather list and present among the cooking sections, with its amounts grouped by the part that measured them. A one-part dish has no combining section.
-- A `---` sits between the gather list and the first cooking section. Cooking sections are `##` headings in cook order.
+- The gather list is `## Ingredients` with bold labels. Each line appears there once. Inside a label, `<!-- cup -->` marks a new cup. The part that first measures a line uses those same breaks. A later list may set a small seasoning into the cup of the food that step adds it with.
+- A combining section is absent from the gather list and present among the cooking sections, with its amounts grouped by the part that measured them, in the order the steps reach for those parts. A one-part dish has no combining section.
+- A `---` sits between the gather list and the first cooking section. Cooking sections are `##` headings in cook order. A second `---` at the end holds footnotes only: one paragraph each, what changes, and where it joins the cook. A footnote is not an ingredient line and does not say optional.
 - Every line is one measure, with a quantity and a unit or a count. Units are ounces, teaspoons, tablespoons, cups, and inches, written as fractions. Count garlic by cloves, or measure it by the teaspoon, the tablespoon, or the ounce.
 - Labels in the gather list follow cook order. Inside a part, lines follow use order. Lines set close together share a cup: what one step adds together, or adds one after another before that step's cue, when those things fit in one container. Oil that heats alone is its own cup. A bulky piece is its own cup, and a small seasoning added with it can share that cup.
 - Copies of a line match. A later copy adds only the current state.
@@ -259,7 +263,7 @@ Done when every item below holds and the file is saved at `recipes/<title>.md`.
 - A spoon measure of kosher salt names Diamond Crystal. Parentheses hold only an original-language name.
 - The neutral oil is peanut oil. A flavored oil is named only when the dish needs that flavor.
 - Rice stays on `recipes/Jasmine rice.md`. Another dish has no Rice part. Every part uses the vessel this kitchen assigns it.
-- Heat changes use the coil moves. A saucepan sits fully on the coil or fully off it. A coil with no pan on it is off. A wok stays in the ring.
+- Heat changes use the coil moves. A saucepan sits fully on the coil or fully off it. A coil with no pan on it is off. A wok stays in the ring. When that cook is finished, its coil is off before the cook plates or eats.
 - Deep-fry oil, and oil for a slip, is a Fahrenheit temperature on a thermometer. The step names the temperature, the cook stays with the thermometer while that coil is on, and the oil returns to the temperature between batches. A shallow pan of oil does not.
 - Steps are a tight numbered list. The added thing is bold. Each step ends on a cue.
 - Work that a short step depends on is finished in an earlier part.

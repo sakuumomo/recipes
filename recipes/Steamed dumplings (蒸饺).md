@@ -137,7 +137,7 @@ Tool: bamboo steamer.
 7. If the water is not boiling, turn the coil up until it boils hard. Turn the coil off. When it stops glowing, turn it to medium-high. The lid should drip. If it stops dripping, turn the coil one setting higher.
 8. Set the parchment back in the steamer. Add the remaining **dumpling wrappers**, pleat side up, with space between them. Cover the steamer.
 9. Steam until the wrappers look glossy and a dumpling feels firm, about 10 minutes.
-10. Eat them hot with Dumpling dipping sauce (饺子蘸料).
+10. Turn the coil off. Eat them hot with Dumpling dipping sauce (饺子蘸料).
 
 ---
 

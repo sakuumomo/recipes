@@ -182,4 +182,4 @@ These amounts were measured above.
 2. When the oil shimmers, add the **Sichuan peppercorns** and the **dried facing-heaven chilies** together. Stir until the chilies smell toasty and turn one shade darker, still red, about 30 seconds. If they blacken, turn the coil off and stir until they cool. Wait until the coil stops glowing, then turn the coil back to medium-low.
 3. Add the **garlic** and the **ginger** together. Stir until fragrant, about 15 seconds.
 4. Add the **fried snakehead fillet**, the **sugar**, the **Shaoxing wine for the toss**, the **scallions**, the **ground cumin**, the **Sichuan chili flakes**, and the **white sesame seeds** together. Toss until the wine cooks off and the crust is still crisp, about 20 seconds.
-5. Eat the fish and the scallions. The chilies and the peppercorns stay on the plate for their aroma.
+5. Turn the coil off. Eat the fish and the scallions. The chilies and the peppercorns stay on the plate for their aroma.

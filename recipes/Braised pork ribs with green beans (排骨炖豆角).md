@@ -27,6 +27,10 @@ Lines set close together share a cup.
 
 **Stew**
 
+- 1 tbsp peanut oil, for the stew
+
+<!-- cup -->
+
 - 1 tbsp ginger, sliced
 - 2 scallions, cut into 2 in lengths
 - 3 cloves garlic, smashed
@@ -76,6 +80,10 @@ Flat green beans and common green beans both turn silky in this stew.
 
 Use unsalted Shaoxing.
 
+- 1 tbsp peanut oil, for the stew
+
+<!-- cup -->
+
 - 16 oz pork spare ribs, blanched
 
 <!-- cup -->
@@ -101,7 +109,7 @@ Use unsalted Shaoxing.
 - 8 oz green beans (豆角), fried
 - 1/2 tsp kosher salt, Diamond Crystal
 
-1. Set the saucepan fully on the coil at medium. Add the **blanched pork spare ribs**. Stir until the meat turns pale and the cut edges brown, about 4 minutes.
+1. Set the saucepan fully on the coil at medium. Add the **peanut oil for the stew**. When it shimmers, about 1 minute, add the **blanched pork spare ribs**. Stir until the cut edges brown, about 4 minutes. If the oil smokes, pull the saucepan fully off and turn the coil off. When the smoke stops, turn the coil back to medium and set the saucepan fully back on.
 2. Add the **ginger**, **scallions**, **garlic**, and **star anise** together. Stir until they smell sweet, about 1 minute.
 3. Add the **Shaoxing wine**, **light soy sauce**, **dark soy sauce**, and **sugar** together. Stir until the ribs look reddish-brown, about 30 seconds.
 4. Pour in the **water for the stew**. Press the ribs under the surface. Turn the coil to high. When it boils, skim any foam. Pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should bubble gently. Cover it.

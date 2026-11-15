@@ -157,7 +157,7 @@ These amounts were measured above.
 
 - 1/2 cup peanut oil, for the pour
 
-1. Slide in half of the **snakehead fillet**, a few slices at a time. Don't stir. Skim off any foam. When the slices are white and the edges have curled, about 30 seconds, lift them onto the sprouts. If a slice is still translucent, leave it 15 seconds more. Cook the remaining half the same way. Pour the broth over the sprouts.
+1. Slide in half of the **snakehead fillet**, a few slices at a time. Don't stir. Skim off any foam. When the slices are white and the edges have curled, about 30 seconds, lift them onto the sprouts. If a slice is still translucent, leave it 15 seconds more. Cook the remaining half the same way. Turn the saucepan's coil off. Pour the broth over the sprouts.
 2. Put the **peanut oil for the pour** in a small skillet. Set it on a coil turned to medium. Stay with it. The oil is ready when a dry wooden spoon handle makes small bubbles and the oil has not smoked, about 3 minutes. Slide the skillet off the coil and turn that coil off. If the oil is smoking, wait until the smoke stops. Leave the skillet off the coil.
 3. Scatter the greens of the **scallions**, the **garlic**, the **dried facing-heaven chilies**, and the **green Sichuan peppercorns** over the fish.
 4. Pour the **peanut oil for the pour** over those aromatics. It should crackle as it lands. Eat the fish, the sprouts, and the scallion greens. The chilies and the peppercorns stay in the bowl for their aroma.

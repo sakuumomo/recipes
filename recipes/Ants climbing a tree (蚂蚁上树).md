@@ -103,4 +103,4 @@ Use ground pork that shows some fat. Use the coarse Pixian paste, medium 二荆�
 6. Add the **sugar**, **ground white pepper**, and **unsalted chicken stock** together. Bring it to a simmer.
 7. Add the **drained mung bean vermicelli**. Stir until the noodles are translucent and only a thin sauce is left, about 6 minutes. If the sauce is still pooling, push the noodles up the sides and let the bottom reduce, then fold them back down. If the center boils hard or starts to stick, turn the coil off until the center settles and the coil stops glowing, then turn the coil back to medium-high.
 8. Add the **garlic** and the **scallions** together. Stir until the scallions smell sweet, about 30 seconds.
-9. Eat it hot.
+9. Turn the coil off. Eat it hot.

@@ -67,10 +67,9 @@ Use cleaned squid tubes. Use unsalted Shaoxing.
 - 10 oz squid tubes
 - 1 tbsp Shaoxing wine (绍兴酒), for the blanch
 
-1. Put the **water for blanching** in a deep heavy saucepan. Set it on a coil turned to high.
-2. Pull the thin skin off the **squid tubes**. Slit each tube open and cut it into strips about 1/2 in wide and 2 in long. Rinse the strips.
-3. When the water boils, add the **Shaoxing wine for the blanch** and the **squid tubes**. Stir until the strips curl and turn opaque, about 15 seconds. Drain them. Spread them out and pat them dry.
-4. Empty the saucepan. Wipe it until a dry towel comes away dry.
+1. Pull the thin skin off the **squid tubes**. Slit each tube open and cut it into strips about 1/2 in wide and 2 in long. Rinse the strips.
+2. Put the **water for blanching** in a deep heavy saucepan. Set it on a coil turned to high. Stay with it. When the water boils, add the **Shaoxing wine for the blanch** and the **squid tubes**. Stir until the strips curl and turn opaque, about 15 seconds. Drain them. Spread them out and pat them dry.
+3. Empty the saucepan. Turn the coil off. Wipe it until a dry towel comes away dry.
 
 ## Prep
 
@@ -151,4 +150,4 @@ Do this as soon as the squid comes out.
 2. Add the **garlic** and the **ginger** together. Stir until they smell sweet, about 15 seconds.
 3. Add the **Chinese celery** and the **onion**. Toss until the celery is bright and still has bite, about 1 minute.
 4. Add the **fried squid tubes**, the **kosher salt**, the **sugar**, and the **light soy sauce** together. Toss until the squid looks dry and the coating is still crisp, about 20 seconds.
-5. Eat the squid, the celery, and the onion hot. The chilies and the peppercorns stay on the plate for their aroma.
+5. Turn the coil off. Eat the squid, the celery, and the onion hot. The chilies and the peppercorns stay on the plate for their aroma.

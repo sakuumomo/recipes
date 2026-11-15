@@ -154,13 +154,13 @@ Use round white Shanghai-style wheat wrappers from the refrigerator or freezer c
 2. Set 8 of the **dumpling wrappers** in, flat bottom down, with space between them. Fry without moving them until the bottoms are pale gold, about 2 minutes.
 3. Hold the lid in front of the skillet. Pour in the **water for the first batch** and cover at once. The oil will spit.
 4. Cook until the water is gone and the tops look glossy, about 6 minutes. If the bottoms smell sharp before the water is gone, pull the skillet fully off and turn the coil off. When the smell sweetens, turn the coil back to medium and set the skillet fully back on.
-5. Take the lid off. Cook until the bottoms are deep golden and the skillet sounds dry, about 1 minute. If a dumpling sticks, leave it 30 seconds and lift again. Lift them out crisp side up and cover the plate.
-6. Wipe out any stuck bits. Put the **peanut oil for the second batch** in the skillet. Set it back on medium. Heat until the oil shimmers, about 1 minute. If it smokes, pull the skillet fully off and turn the coil off. When the smoke stops, turn the coil back to medium and set the skillet fully back on.
+5. Take the lid off. Cook until the bottoms are deep golden and the skillet sounds dry, about 1 minute. If a dumpling sticks, leave it 30 seconds and lift again. Lift them out crisp side up and cover the plate. Pull the skillet fully off and turn that coil off.
+6. Wipe out any stuck bits. Put the **peanut oil for the second batch** in the skillet. Turn the coil to medium and set the skillet fully back on. Heat until the oil shimmers, about 1 minute. If it smokes, pull the skillet fully off and turn the coil off. When the smoke stops, turn the coil back to medium and set the skillet fully back on.
 7. Set the remaining **dumpling wrappers** in, flat bottom down, with space between them. Fry without moving them until the bottoms are pale gold, about 2 minutes.
 8. Hold the lid in front of the skillet. Pour in the **water for the second batch** and cover at once.
 9. Cook until the water is gone and the tops look glossy, about 6 minutes. If the bottoms smell sharp, pull the skillet fully off and turn the coil off. When the smell sweetens, turn the coil back to medium and set the skillet fully back on.
 10. Take the lid off. Cook until the bottoms are deep golden and the skillet sounds dry, about 1 minute. Lift them out crisp side up.
-11. Eat them hot with Dumpling dipping sauce (饺子蘸料).
+11. Turn the coil off. Eat them hot with Dumpling dipping sauce (饺子蘸料).
 
 ---
 

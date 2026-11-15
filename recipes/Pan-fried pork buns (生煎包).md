@@ -170,7 +170,7 @@ Once the dough has doubled, shape 8 small buns and close each top so the juice s
 5. Cook until the water is gone and the tops look set and puffed, about 8 minutes. If the bottoms smell sharp, pull the skillet fully off and turn the coil off. When the smell sweetens, turn the coil back to medium and set the skillet fully back on.
 6. Take the lid off. Scatter the **white sesame seeds** and the **scallion for the top** over the buns. Cover until the scallion smells sweet, about 1 minute.
 7. Take the lid off. Cook until the bottoms are deep golden and the skillet sounds dry, about 1 minute. If a bun sticks, leave it 30 seconds and lift again.
-8. Lift the buns out, crisp side up. The center is hot and juicy. Eat them hot.
+8. Lift the buns out, crisp side up. The center is hot and juicy. Turn the coil off. Eat them hot.
 
 ---
 

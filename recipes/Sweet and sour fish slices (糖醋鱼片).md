@@ -76,7 +76,7 @@ Use unsalted Shaoxing.
 
 ## Sauce
 
-Do this while the fish marinates. Use tomato ketchup. Use plain rice vinegar.
+Do this while the fish marinates. Use tomato ketchup, and plain rice vinegar.
 
 - 1 tbsp peanut oil, for the sauce
 

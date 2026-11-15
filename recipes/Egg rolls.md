@@ -91,10 +91,10 @@ Lines set close together share a cup.
 3. Slice the **celery** thin.
 4. Chop the **scallion** fine.
 5. Cut the **char siu** into 1/4 in dice.
-6. Put the **water for blanching** in a deep heavy saucepan. Set it on a coil turned to high. Stay with it. When the water boils, add the **green cabbage**, the **carrot**, and the **celery** together. Cook until the cabbage is limp and still bright, about 2 minutes.
-7. Lift the vegetables into the **cold water for cooling**. Stir until they are cool to the touch, about 1 minute.
-8. Drain them. Squeeze them in a clean kitchen towel until they stop dripping and the ball feels dry. If the towel still drips, squeeze once more.
-9. Empty the saucepan. Turn the coil off. Wipe it until a dry towel comes away dry.
+6. Put the **water for blanching** in a deep heavy saucepan. Set it on a coil turned to high. Stay with it. When the water boils, add the **green cabbage**, the **carrot**, and the **celery** together. Cook until the cabbage is limp and still bright, about 2 minutes. Lift the vegetables into the **cold water for cooling**.
+7. Empty the saucepan. Turn the coil off. Wipe it until a dry towel comes away dry.
+8. Stir the vegetables until they are cool to the touch, about 1 minute.
+9. Drain them. Squeeze them in a clean kitchen towel until they stop dripping and the ball feels dry. If the towel still drips, squeeze once more.
 10. Put the **green cabbage**, the **carrot**, and the **celery** in a bowl. Add the **scallion**, the **char siu**, the **kosher salt**, the **sugar**, the **toasted sesame oil**, the **peanut oil for the filling**, and the **ground white pepper** together. Toss until the mixture looks evenly coated, about 30 seconds.
 
 ## Rolls

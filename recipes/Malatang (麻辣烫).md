@@ -85,7 +85,7 @@ Lines set close together share a cup.
 
 ## Noodles
 
-Use dried sweet potato cords about as thick as a chopstick.
+Use dried sweet potato cords about as thick as a chopstick. Thin mung bean threads fall apart in this soup.
 
 - 2 oz sweet potato noodles (红薯粉条)
 
@@ -94,7 +94,7 @@ Use dried sweet potato cords about as thick as a chopstick.
 - 3 cups water, for the noodles
 
 1. Put the **sweet potato noodles** in a bowl.
-2. Put the **water for the noodles** in a heavy saucepan. Set it on a coil turned to high. Stay with it. When the water steams, about 5 minutes, pull the saucepan fully off and turn the coil off. Wait until a finger can stay in the water.
+2. Put the **water for the noodles** in a heavy saucepan. Set it on a coil turned to high. Stay with it. When the water steams, about 5 minutes, pull the saucepan fully off and turn the coil off. Leave it until you can keep a hand on the side of the saucepan.
 3. Pour the **water for the noodles** over them. Leave them until a strand bends without snapping, about 30 minutes. Go on to the broth. If a strand still snaps when the broth is ready, wait.
 
 ## Broth

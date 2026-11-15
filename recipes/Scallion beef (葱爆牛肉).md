@@ -128,7 +128,7 @@ These amounts were measured above.
 5. Turn the coil off. Add the **peanut oil for the scallions**. When the coil stops glowing, turn it to medium. When the oil shimmers and any smoke has stopped, add the **ginger**, the **garlic**, and the white pieces of the **Chinese scallions** together. Stir until they smell sweet, about 30 seconds.
 6. Add the green pieces of the **Chinese scallions**. Stir until they turn bright green and still have bite, about 30 seconds.
 7. Add the **marinated flank steak**, the **light soy sauce for the stir-fry**, the **Shaoxing wine for the stir-fry**, and the **sugar** together. Toss until the beef is glossy and the scallions still have bite, about 30 seconds.
-8. Eat it hot.
+8. Turn the coil off. Eat it hot.
 
 ---
 

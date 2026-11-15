@@ -65,7 +65,7 @@ Use dried sweet potato cords about as thick as a chopstick. Thin mung bean threa
 - 4 cups water, for the noodles
 
 1. Put the **sweet potato noodles** in a bowl.
-2. Put the **water for the noodles** in a heavy saucepan. Set it on a coil turned to high. Stay with it. When the water steams, about 5 minutes, pull the saucepan fully off and turn the coil off. Wait until a finger can stay in the water.
+2. Put the **water for the noodles** in a heavy saucepan. Set it on a coil turned to high. Stay with it. When the water steams, about 5 minutes, pull the saucepan fully off and turn the coil off. Leave it until you can keep a hand on the side of the saucepan.
 3. Pour the **water for the noodles** over them. Leave them until a strand bends without snapping, about 30 minutes. Go on to the pork. If a strand still snaps when the pork is ready, wait.
 
 ## Pork

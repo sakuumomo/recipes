@@ -140,4 +140,4 @@ These amounts were measured above.
 4. Turn the coil off. Add the **peanut oil for the vegetables**. Wait until the oil stops smoking. When the coil stops glowing, turn it to medium. Add the **garlic** and the **black pepper** together. Stir until the pepper smells fragrant, about 20 seconds. If it smells sharp, turn the coil off and stir until the smell sweetens. Wait until the coil stops glowing, then turn the coil back to medium.
 5. Add the **onion** and the **red bell pepper** together. Stir until the onion is translucent and the pepper is still crisp, about 1 minute.
 6. Add the **marinated flank steak**. Stir the sauce again and pour in the **oyster sauce**, the **light soy sauce for the sauce**, the **sugar**, the **potato starch for the sauce**, the **water for the sauce**, and the **toasted sesame oil** together. Toss until the sauce clings and the beef is glossy, about 30 seconds. If the center boils hard, turn the coil off and keep tossing until the sauce clings.
-7. Eat it hot.
+7. Turn the coil off. Eat it hot.

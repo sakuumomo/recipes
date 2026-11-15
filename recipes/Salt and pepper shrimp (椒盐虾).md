@@ -131,7 +131,7 @@ These amounts were measured above.
 
 1. Set the wok in the ring on a coil turned to medium. Add the **peanut oil for the toss**. When it shimmers, about 1 minute, add the **garlic** and the **red chili** together. Stir until the garlic is pale gold, about 40 seconds. If it darkens, turn the coil off and stir until it cools. Wait until the coil stops glowing, then turn the coil back to medium.
 2. Add the **fried large shrimp**, the **scallion**, the **toasted and crushed Sichuan peppercorns**, the **kosher salt**, and the **ground white pepper** together. Toss until every shrimp is seasoned and the coating is still crisp, about 20 seconds.
-3. Eat them hot, while the coating is still crisp.
+3. Turn the coil off. Eat them hot, while the coating is still crisp.
 
 ---
 
