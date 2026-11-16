@@ -14,7 +14,7 @@ Lines set close together share a cup.
 
 **Fish**
 
-- 12 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick
+- 8.8 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick
 - 2 tsp Shaoxing wine (绍兴酒), for the fish
 - 1/2 tsp kosher salt, Diamond Crystal, for the fish
 - 1/4 tsp ground white pepper, for the fish
@@ -61,6 +61,11 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
+- 1 star anise (八角)
+- 1 piece cassia bark (桂皮), 2 in
+
+<!-- cup -->
+
 - 3 cups unsalted chicken stock
 - 2 tsp Shaoxing wine (绍兴酒), for the broth
 - 1/8 tsp ground white pepper, for the broth
@@ -68,7 +73,7 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 1/2 cup peanut oil, for the pour
+- 3/4 cup peanut oil, for the pour
 
 ---
 
@@ -76,7 +81,7 @@ Lines set close together share a cup.
 
 Use unsalted Shaoxing.
 
-- 12 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick
+- 8.8 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick
 - 2 tsp Shaoxing wine (绍兴酒), for the fish
 - 1/2 tsp kosher salt, Diamond Crystal, for the fish
 - 1/4 tsp ground white pepper, for the fish
@@ -141,6 +146,11 @@ Do this while the fish marinates. Use the coarse Pixian paste.
 
 <!-- cup -->
 
+- 1 star anise (八角)
+- 1 piece cassia bark (桂皮), 2 in
+
+<!-- cup -->
+
 - 2 tbsp Pixian doubanjiang (郫县豆瓣酱), chopped
 
 <!-- cup -->
@@ -159,18 +169,20 @@ Do this while the fish marinates. Use the coarse Pixian paste.
 
 <!-- cup -->
 
-- 1/2 cup peanut oil, for the pour
+- 3/4 cup peanut oil, for the pour
 
 <!-- cup -->
 
 - 8 oz soybean sprouts (黄豆芽)
 
-1. Put the **peanut oil for the paste** in a heavy saucepan on a coil turned to medium. When it shimmers, about 2 minutes, add the **Pixian doubanjiang**. Fry, stirring, until the oil is deep red and smells toasty, about 1 minute. If it smells sharp, pull the saucepan fully off and stir until the smell sweetens. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
-2. Add the **garlic for the paste**, the **ginger**, and the whites of the **scallions** together. Stir until fragrant, about 20 seconds.
-3. Add the **unsalted chicken stock**, the **Shaoxing wine for the broth**, the **ground white pepper for the broth**, the **kosher salt for the broth**, and the **sugar** together. Turn the coil to high. Stay with it. When it boils, pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should shiver.
-4. Simmer the broth until the raw paste smell is gone, about 3 minutes.
-5. Add the **soybean sprouts**. Cook until they soften but still snap, about 1 minute. Lift them into the heatproof bowl.
-6. Keep the broth at a shiver. If it rolls again, pull the saucepan fully off and turn the coil off. When the surface settles, turn the coil back to low and set the saucepan fully back on. If it rolls again, do the same again. Go on to the pour.
+1. Put the **peanut oil for the paste** in a heavy saucepan on a coil turned to medium. When it shimmers, about 2 minutes, add the **star anise** and the **cassia bark**. Stir until they smell sweet, about 30 seconds.
+2. Add the **Pixian doubanjiang**. Fry, stirring, until the oil is deep red and smells toasty, about 1 minute. If it smells sharp, pull the saucepan fully off and stir until the smell sweetens. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on.
+3. Add the **garlic for the paste**, the **ginger**, and the whites of the **scallions** together. Stir until fragrant, about 20 seconds.
+4. Add the **unsalted chicken stock**, the **Shaoxing wine for the broth**, the **ground white pepper for the broth**, the **kosher salt for the broth**, and the **sugar** together. Turn the coil to high. Stay with it. When it boils, pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should shiver.
+5. Put the **peanut oil for the pour** in a small skillet. Set it on a coil turned to medium.
+6. Simmer the broth until the raw paste smell is gone, about 3 minutes. Lift out the star anise and the cassia bark. If the pour oil smokes, slide the skillet off and turn that coil off.
+7. Add the **soybean sprouts**. Cook until they soften but still snap, about 1 minute. Lift them into the heatproof bowl.
+8. Keep the broth at a shiver until a dry wooden spoon handle in the pour oil makes small bubbles and the oil has not smoked, about 4 minutes from when the skillet went on. Slide the skillet off the coil and turn that coil off. If the oil is smoking, wait until the smoke stops. Leave the skillet off the coil. If the broth rolls, pull the saucepan fully off and turn the coil off. When the surface settles, turn the coil back to low and set the saucepan fully back on.
 
 ## Pour
 
@@ -178,7 +190,7 @@ These amounts were measured above.
 
 **Fish**
 
-- 12 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick, marinated
+- 8.8 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick, marinated
 
 **Prep**
 
@@ -192,9 +204,14 @@ These amounts were measured above.
 
 **Broth**
 
-- 1/2 cup peanut oil, for the pour
+- 3/4 cup peanut oil, for the pour
 
 1. Slide in half of the **snakehead fillet**, a few slices at a time. Don't stir. Skim off any foam. When the slices are white and the edges have curled, about 30 seconds, lift them onto the sprouts. If a slice is still translucent, leave it 15 seconds more. Cook the remaining half the same way. Turn the saucepan's coil off. Pour the broth over the sprouts.
-2. Put the **peanut oil for the pour** in a small skillet. Set it on a coil turned to medium. Stay with it. The oil is ready when a dry wooden spoon handle makes small bubbles and the oil has not smoked, about 3 minutes. Slide the skillet off the coil and turn that coil off. If the oil is smoking, wait until the smoke stops. Leave the skillet off the coil.
-3. Scatter the greens of the **scallions**, the **garlic for the pour**, the **dried facing-heaven chilies**, and the **Sichuan peppercorns** over the fish.
-4. Pour the **peanut oil for the pour** over those aromatics. It should crackle as it lands. Eat the fish, the sprouts, and the scallion greens. The chilies and the peppercorns stay in the bowl for their aroma.
+2. Scatter the greens of the **scallions**, the **garlic for the pour**, the **dried facing-heaven chilies**, and the **Sichuan peppercorns** over the fish.
+3. Pour the **peanut oil for the pour** over those aromatics. It should crackle as it lands. Eat the fish, the sprouts, and the scallion greens. The chilies and the peppercorns stay in the bowl for their aroma.
+
+---
+
+Cover 1/2 oz dried wood ear (干黑木耳) with hot water before you start the fish. At 20 minutes, drain it, rinse it, pinch off any hard knobs, and tear it into bites. If you are mid-step, finish it first. Add it with the soybean sprouts and cook until it is soft, about 1 minute.
+
+Rinse 2 oz winter bamboo shoots (冬笋). If they still have a husk, peel it off. If they are canned or packed in water, rinse them. Slice them thin and add them with the soybean sprouts. If a piece is still hard and bright, leave it 1 minute more.
