@@ -17,6 +17,9 @@ Lines set close together share a cup.
 - 1 cup all-purpose flour, for the dough
 - 1/2 tsp sugar
 - 1/2 tsp instant yeast
+
+<!-- cup -->
+
 - 5 tbsp lukewarm water
 
 **Sesame**
@@ -63,19 +66,22 @@ Lines set close together share a cup.
 - 1 cup all-purpose flour, for the dough
 - 1/2 tsp sugar
 - 1/2 tsp instant yeast
+
+<!-- cup -->
+
 - 5 tbsp lukewarm water
 
 1. Stir the **all-purpose flour for the dough**, the **sugar**, and the **instant yeast** together in a bowl.
 2. Add the **lukewarm water**. It should feel barely warm on your wrist. Stir until no dry flour remains.
 3. Knead until the dough is smooth and springs back when you press it, about 5 minutes.
-4. Cover the bowl with a damp towel. Leave it until the dough has doubled and a finger pressed in leaves a dent, about 60 minutes. Go on to the sesame and the filling. If the dough has not doubled when those are done, wait.
+4. Cover the bowl with a damp towel. Go on to the sesame and the filling. The dough is ready when it has doubled and a finger pressed in leaves a dent, about 60 minutes. If it has not doubled when the sesame and the filling are done, wait.
 
 ## Sesame
 
 - 1 tsp white sesame seeds (白芝麻)
 
-1. Toast the **white sesame seeds** in a small skillet over medium-low heat, shaking often, until they are golden and smell nutty, about 2 minutes. Slide the skillet off the coil and turn that coil off. If they start to smoke, slide the skillet off and turn that coil off.
-2. Pour them onto a plate so they stop cooking.
+1. Put the **white sesame seeds** in a small skillet. Set the skillet fully on a coil turned to medium-low. Shake often until they are golden and smell nutty, about 2 minutes. Slide the skillet off the coil and turn that coil off.
+2. Pour them onto a plate. Cool them 1 minute.
 
 ## Filling
 
@@ -103,7 +109,7 @@ Use ground pork that shows some fat.
 
 ## Buns
 
-Once the dough has doubled, shape 8 small buns and close each top so the juice stays inside.
+Once the dough has doubled, shape 8 small buns and close each top so the juice stays inside. If it has not doubled, wait.
 
 - 1 scallion, minced, for the top
 
@@ -116,6 +122,9 @@ Once the dough has doubled, shape 8 small buns and close each top so the juice s
 - 1 cup all-purpose flour, for the dough, risen
 - 1/2 tsp sugar, risen
 - 1/2 tsp instant yeast, risen
+
+<!-- cup -->
+
 - 5 tbsp lukewarm water, risen
 
 **Filling**
@@ -163,14 +172,14 @@ Once the dough has doubled, shape 8 small buns and close each top so the juice s
 - 1 tsp white sesame seeds (白芝麻), toasted
 - 1 scallion, minced, for the top
 
-1. Put the **peanut oil** in a cold 10 in heavy skillet.
+1. Put the **peanut oil** in a cold 10 in heavy skillet. The oil should look like a thin film.
 2. Set the **all-purpose flour for the dough** in, shaped into 8 buns, pleat side up, with space between them.
-3. Set the skillet on medium. Fry without moving the buns until the bottoms are pale gold, about 8 minutes. If a bottom smells sharp, pull the skillet fully off and turn the coil off. When the smell sweetens, turn the coil back to medium and set the skillet fully back on.
+3. Set the skillet fully on a coil turned to medium. Fry without moving the buns until the bottom edges are pale gold, about 8 minutes. If a bottom smells sharp, pull the skillet fully off and turn the coil off, and when the smell sweetens, turn the coil back to medium and set the skillet fully back on.
 4. Hold the lid in front of the skillet. Pour in the **water for the skillet** and cover at once. The oil will spit.
-5. Cook until the water is gone and the tops look set and puffed, about 8 minutes. If the bottoms smell sharp, pull the skillet fully off and turn the coil off. When the smell sweetens, turn the coil back to medium and set the skillet fully back on.
-6. Take the lid off. Scatter the **white sesame seeds** and the **scallion for the top** over the buns. Cover until the scallion smells sweet, about 1 minute.
-7. Take the lid off. Cook until the bottoms are deep golden and the skillet sounds dry, about 1 minute. If a bun sticks, leave it 30 seconds and lift again.
-8. Lift the buns out, crisp side up. The center is hot and juicy. Turn the coil off. Eat them hot.
+5. Pull the skillet fully off. Turn the coil to medium-low. If the coil is glowing, wait until it stops. Set the skillet fully back on. Cook until a little water is still around the buns and the tops look set and puffed, about 8 minutes. If a bottom smells sharp, pull the skillet fully off and turn the coil off, and when the smell sweetens, turn the coil back to medium-low and set the skillet fully back on.
+6. Take the lid off. Scatter the **white sesame seeds** and the **scallion for the top** over the buns together. Cover until the scallion smells sweet, about 1 minute.
+7. Take the lid off. Cook until the bottoms are deep golden and the skillet sounds dry, about 2 minutes. If a bun sticks, leave it 30 seconds and lift again.
+8. Turn the coil off. Lift the buns out, crisp side up. The center is hot and juicy. Eat them hot.
 
 ---
 

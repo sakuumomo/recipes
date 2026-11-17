@@ -2,9 +2,7 @@
 
 Serves 2. About 35 minutes.
 
-The beans and the pork cook in the wok, and the wok stays in its ring.
-
-Cut the seasoning. Fry the beans, then cook the pork in the same wok and return the beans.
+Cut the seasoning. Blister the beans in the wok on the Mosaic at 375°F, then toss in that wok. The Mosaic is at 1500 watts.
 
 Measure each ingredient once. A later list is that same amount again.
 
@@ -23,7 +21,7 @@ Lines set close together share a cup.
 <!-- cup -->
 
 - 1/2 tsp Sichuan peppercorns (红花椒)
-- 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+- 3 dried erjingtiao (干二荆条), snipped in half, loose seeds shaken out
 
 <!-- cup -->
 
@@ -47,7 +45,7 @@ Lines set close together share a cup.
 
 **Beans**
 
-- 12 oz green beans (四季豆)
+- 3 handfuls green beans (四季豆)
 
 <!-- cup -->
 
@@ -57,7 +55,7 @@ Lines set close together share a cup.
 
 ## Seasoning
 
-Do this before the wok is hot. Use ground pork that shows some fat, Yibin suimi yacai from the jar marked 碎米芽菜, and unsalted Shaoxing.
+Do this before the wok is hot. Use ground pork that shows some fat, Yibin suimi yacai from the jar marked 碎米芽菜, unsalted Shaoxing, and whole dried erjingtiao marked 二荆条.
 
 - 3 oz ground pork
 
@@ -68,7 +66,7 @@ Do this before the wok is hot. Use ground pork that shows some fat, Yibin suimi 
 <!-- cup -->
 
 - 1/2 tsp Sichuan peppercorns (红花椒)
-- 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+- 3 dried erjingtiao (干二荆条), snipped in half, loose seeds shaken out
 
 <!-- cup -->
 
@@ -90,26 +88,27 @@ Do this before the wok is hot. Use ground pork that shows some fat, Yibin suimi 
 - 1 scallion, cut into 1/2 in lengths
 - 1 tsp toasted sesame oil (香油)
 
-1. Snip the **dried facing-heaven chilies** in half and shake out the loose seeds. Slice the **garlic** and the **ginger**. Cut the **scallion** into 1/2 in lengths.
-2. Rinse the **Yibin suimi yacai** and squeeze it dry. Chop it. Go on to the beans.
+1. Snip the **dried erjingtiao** in half and shake out the loose seeds. With the 8 in cleaver, slice the **garlic** and the **ginger**. Cut the **scallion** into 1/2 in lengths.
+2. Rinse the **Yibin suimi yacai** and squeeze it dry. Chop it.
+3. Put each group into one cup or pile, prepared the way the line says. Go on to the beans.
 
 ## Beans
 
 Flat green beans and common green beans both blister in this fry.
 
-- 12 oz green beans (四季豆)
+- 3 handfuls green beans (四季豆)
 
 <!-- cup -->
 
 - 2 tbsp peanut oil
 
-1. Snap the ends off the **green beans** and pull off any strings. Break them into 2 in lengths. Pat them dry until the towel comes away dry.
-2. Set the wok in the ring on a coil turned to medium-high. Add the **peanut oil**. When it shimmers, about 2 minutes, add half of the **green beans** and keep them in the bottom. Stir until the skins wrinkle and blister and a few spots are brown, and a broken bean is tender, about 8 minutes. If they are still smooth and bright, cook until they wrinkle, about 3 minutes more. If they scorch, turn the coil off and stir until they cool. Wait until the coil stops glowing, then turn the coil back to medium-high. Lift them out with a slotted spoon so the oil stays in the wok.
-3. Add the remaining half of the **green beans**. Cook them the same way. Lift them out with a slotted spoon.
+1. Snap the ends off the **green beans** and pull off any strings. Break them into 2 in lengths. Pat them dry until the towel comes away dry. Put the beans in a pile and the **peanut oil** in a cup.
+2. Seat the wok. Press start. Turn the left dial to 375°F. Turn the right dial to 40 minutes. Add the **peanut oil**. When it shimmers, add half of the **green beans** and keep them in the bottom. Stir until the skins wrinkle and blister, a few spots are brown, and a broken bean is tender, about 8 minutes. If they are still smooth and bright, keep cooking until the skins wrinkle. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start. If the bottom starts to catch, press pause/clear once and stir until it releases. Press start. If the display reads E7, press pause/clear twice and wait until the fan stops. Set the same temperature, and press start. Lift the beans out with a slotted spoon so the oil stays in the wok.
+3. Add the remaining half of the **green beans** and keep them in the bottom. Stir until the skins wrinkle and blister, a few spots are brown, and a broken bean is tender, about 8 minutes. If they are still smooth and bright, keep cooking until the skins wrinkle. Lift them out with the slotted spoon and leave the oil in the wok.
 
 ## Toss
 
-These amounts were measured above.
+These amounts were measured above. The wok is still seated.
 
 **Seasoning**
 
@@ -122,7 +121,7 @@ These amounts were measured above.
 <!-- cup -->
 
 - 1/2 tsp Sichuan peppercorns (红花椒)
-- 6 dried facing-heaven chilies (干朝天椒), snipped in half, loose seeds shaken out
+- 3 dried erjingtiao (干二荆条), snipped in half, loose seeds shaken out
 
 <!-- cup -->
 
@@ -131,7 +130,7 @@ These amounts were measured above.
 
 <!-- cup -->
 
-- 2 tbsp Yibin suimi yacai (碎米芽菜), rinsed and squeezed
+- 2 tbsp Yibin suimi yacai (碎米芽菜), rinsed, squeezed, and chopped
 
 <!-- cup -->
 
@@ -146,13 +145,12 @@ These amounts were measured above.
 
 **Beans**
 
-- 12 oz green beans (四季豆), fried
+- 3 handfuls green beans (四季豆), fried
 
-1. Turn the coil to medium-high. If the oil smokes, turn the coil off until the smoke stops and the coil stops glowing, then turn the coil back to medium-high. Add the **ground pork**. Stir, breaking it into small bits, until the pink is gone and the bits look dry and crumbly, about 3 minutes. If the bits are still pink, cook until the pink is gone, about 1 minute more. If they brown hard, turn the coil off and stir until they cool. Wait until the coil stops glowing, then turn the coil back to medium-high.
+1. Add the **ground pork** and keep it in the bottom. Stir, breaking it into small bits, until the pink is gone and the bits look dry and crumbly, about 3 minutes. If the bits are still pink, cook until the pink is gone. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start. If the bottom starts to catch, press pause/clear once and stir until it releases. Press start.
 2. Add the **Shaoxing wine**. Stir until it cooks off, about 15 seconds.
-3. Turn the coil off. When it stops glowing, turn it to medium-low. Add the **Sichuan peppercorns** and the **dried facing-heaven chilies** together. Stir until the peppercorns smell citrusy and the chilies turn one shade darker, still red, about 20 seconds. If they blacken, turn the coil off and stir until they cool. Wait until the coil stops glowing, then turn the coil back to medium-low.
+3. Turn the left dial to 300°F. Add the **Sichuan peppercorns** and the **dried erjingtiao** together. Stir until the peppercorns smell citrusy and the chilies turn one shade darker, still red, about 20 seconds. If the chilies blacken, press pause/clear once and stir until they stop darkening. Press start.
 4. Add the **garlic** and the **ginger** together. Stir until they smell sweet, about 20 seconds.
-5. Add the **rinsed and squeezed Yibin suimi yacai**. Stir until it smells savory, about 30 seconds.
+5. Add the **rinsed, squeezed, and chopped Yibin suimi yacai**. Stir until it smells savory, about 30 seconds.
 6. Add the **fried green beans**, the **light soy sauce**, the **kosher salt**, and the **sugar** together. Toss until the beans are coated and the wok looks dry, about 1 minute. If liquid pools, keep tossing until it is gone.
-7. Turn the coil off. Add the **scallion** and the **toasted sesame oil**. Toss until the scallion smells sweet, about 15 seconds.
-8. Eat the beans hot. The chilies and the peppercorns stay on the plate for their aroma.
+7. Add the **scallion** and the **toasted sesame oil**. Toss until the scallion smells sweet, about 15 seconds. Press on/off. Eat the beans hot. The chilies and the peppercorns stay on the plate for their aroma. Set the wok on its stand.

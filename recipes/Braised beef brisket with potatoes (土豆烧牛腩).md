@@ -1,10 +1,10 @@
 # Braised beef brisket with potatoes (土豆烧牛腩)
 
-Serves 2. About 130 minutes.
+Serves 2. About 140 minutes.
 
-The beef blanches in a heavy saucepan. The same saucepan stews it.
+The beef blanches in the heavy saucepan. The stew browns in the wok on the Mosaic at 1500 watts, starting at 375°F.
 
-Blanch the beef first. Peel the potatoes when the beef has cooked about 70 minutes. Boil the sauce down after the potatoes come out.
+Blanch the beef first. When the timer rings, peel the potatoes and cut them, then keep the simmer going. Boil the sauce down after the potatoes come out, then put them back.
 
 Measure each ingredient once. A later list is that same amount again.
 
@@ -15,6 +15,9 @@ Lines set close together share a cup.
 **Beef**
 
 - 16 oz beef brisket (牛腩)
+
+<!-- cup -->
+
 - 8 cups water, for the blanch
 
 **Stew**
@@ -27,7 +30,7 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 1 tbsp ginger, sliced
+- 1 in ginger, sliced
 - 2 cloves garlic, smashed
 - 1 star anise (八角)
 - 1 piece cassia bark (桂皮), 2 in
@@ -45,7 +48,7 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 12 oz potatoes
+- 3 medium potatoes
 - 1/2 tsp kosher salt, Diamond Crystal
 
 ---
@@ -55,15 +58,18 @@ Lines set close together share a cup.
 Use the fatty plate sold as 牛腩, and leave the fat on.
 
 - 16 oz beef brisket (牛腩)
+
+<!-- cup -->
+
 - 8 cups water, for the blanch
 
-1. Cut the **beef brisket** into 1 1/2 in chunks.
-2. Put the **beef brisket** and the **water for the blanch** in a heavy saucepan. Set it on high. Skim the gray foam as it rises. When the water boils, cook 2 minutes. Turn the coil off.
+1. Cut the **beef brisket** into 1 1/2 in chunks with the cleaver.
+2. Put the **beef brisket** and the **water for the blanch** together in a heavy saucepan. Set the saucepan fully on a coil turned to high. Stay with it. Skim the gray foam as it rises. When the water boils, cook 2 minutes. Pull the saucepan fully off and turn the coil off.
 3. Lift the beef out. Rinse it under hot water until the scum is gone, and drain it. Pour off the blanch water and wipe the saucepan dry.
 
 ## Stew
 
-Use a waxy potato so the pieces stay whole. Use unsalted Shaoxing.
+Use a waxy potato so the pieces stay whole, and unsalted Shaoxing.
 
 - 1 tbsp peanut oil
 
@@ -73,7 +79,7 @@ Use a waxy potato so the pieces stay whole. Use unsalted Shaoxing.
 
 <!-- cup -->
 
-- 1 tbsp ginger, sliced
+- 1 in ginger, sliced
 - 2 cloves garlic, smashed
 - 1 star anise (八角)
 - 1 piece cassia bark (桂皮), 2 in
@@ -95,20 +101,23 @@ Use a waxy potato so the pieces stay whole. Use unsalted Shaoxing.
 
 <!-- cup -->
 
-- 12 oz potatoes
+- 3 medium potatoes
 - 1/2 tsp kosher salt, Diamond Crystal
 
-1. Slice the **onion**. Slice the **ginger**. Smash the **garlic**.
-2. Set the saucepan on medium. Add the **peanut oil**. When it shimmers, about 1 minute, add the **onion**. Stir until it is soft and the edges brown, about 4 minutes. If it starts to scorch, pull the saucepan fully off and turn the coil off. When it stops scorching, turn the coil back to medium and set the saucepan fully back on.
+1. Slice the **onion** and the **ginger** with the cleaver. Smash the **garlic** with the side of the cleaver until the cloves split. Put each group into one cup or pile, prepared the way the line says.
+2. Seat the wok. Press start. Turn the left dial to 375°F. Turn the right dial to 3 hours. Add the **peanut oil**. When it shimmers, add the **onion**. Stir until it is soft and the edges brown, about 4 minutes. If the bottom starts to catch, press pause/clear once and stir until it releases. Press start.
 3. Add the **ginger**, **garlic**, **star anise**, and **cassia bark** together. Stir until they smell sweet, about 1 minute.
-4. Add the **blanched beef brisket**. Stir until the cut edges brown, about 4 minutes. If the oil smokes, pull the saucepan fully off and turn the coil off. When the smoke stops, turn the coil back to medium and set the saucepan fully back on.
+4. Add the **blanched beef brisket**. Stir until the cut edges brown, about 4 minutes. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start.
 5. Add the **Shaoxing wine**, **light soy sauce**, **dark soy sauce**, and **sugar** together. Stir until the beef looks reddish-brown, about 30 seconds.
-6. Pour in the **water for the stew**. Press the beef under the surface. Turn the coil to high. When it boils, skim any foam. Pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should bubble gently. Cover it.
-7. Simmer until a fork pushed into a chunk meets little resistance, about 80 minutes. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to low and set the saucepan fully back on. If it boils hard again, do the same again. If the surface goes still, turn the coil one setting higher and leave the saucepan fully on. When the beef has cooked about 70 minutes, peel the **potatoes** and cut them into 1 1/2 in chunks, then keep the simmer going. If the beef is still firm, cover and cook 15 minutes more before you add the potatoes.
-8. Add the **potatoes** and the **kosher salt**. Press the potatoes under the surface. Cover and cook until a potato breaks under a spoon, about 15 minutes. If a potato is still firm, cover and cook 5 minutes more. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to low and set the saucepan fully back on.
-9. Lift the potatoes out with a slotted spoon. Uncover. Turn the coil to medium and leave the saucepan fully on. Cook until the sauce coats a spoon, about 8 minutes. If it still runs like water, keep cooking until it coats a spoon. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to medium and set the saucepan fully back on. If the bottom starts to catch, pull the saucepan fully off and turn the coil off. Stir until it releases. Turn the coil back to medium and set the saucepan fully back on.
-10. Fold the potatoes back in. Turn the coil off. Pick out the star anise and the cassia bark. Eat it hot.
+6. Pour in the **water for the stew**. Pile the beef in the bottom and press it into the liquid. Stay with it. When it boils, skim any foam.
+7. Turn the left dial to 250°F. Cover the wok with the glass lid. The surface should bubble gently, or only shiver.
+8. Set a timer for 70 minutes. When the timer rings, peel the potatoes, and cut them into 1 1/2 in chunks with the cleaver, then keep the simmer going until a fork pushed into the beef meets little resistance, about 10 minutes more. If the beef is still firm, cover and cook until a fork pushed into the beef meets little resistance, about 15 minutes more, before you add the potatoes. If it boils hard, press pause/clear once until the surface settles, turn the left dial down 10°F, and press start. If the surface goes still, turn the left dial up 10°F. If the bottom starts to catch, press pause/clear once and stir until it releases. Press start. If the display reads E7, press pause/clear twice, wait until the fan stops, and start again at the same temperature.
+9. Add the **potatoes** and the **kosher salt**. Press the potatoes into the liquid. Cover the wok with the glass lid and cook until a potato breaks under a spoon, about 15 minutes. If a potato is still firm, cover and cook until it breaks under a spoon, about 5 minutes more.
+10. Uncover. Lift the potatoes out with a slotted spoon and set them aside.
+11. Turn the left dial to 375°F. Cook until the sauce coats a spoon, about 8 minutes. If it still runs like water, keep cooking until it coats a spoon. If the center boils hard, press pause/clear once until the surface settles. Press start. If the bottom starts to catch, press pause/clear once and stir until it releases. Press start.
+12. Fold the **potatoes** back in. Press pause/clear once and leave it paused. Pick out the star anise and the cassia bark. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精). Spoon it into a bowl and eat it hot.
+13. Brush the wok with hot water. Seat the wok. Press start. Turn the left dial to 300°F and dry it until the water is gone. Wipe on a little peanut oil, then wipe it back until the metal looks almost dry. Turn the left dial to 450°F. Stop when that film just smokes and the surface looks dry. If it has not smoked, turn the left dial up 10°F. If the smoke thickens, press pause/clear once. Press on/off. The fan may run about a minute. Set the wok on its stand.
 
 ---
 
-Add 2 tsp Pixian doubanjiang (郫县豆瓣酱), chopped, after the ginger and the garlic smell sweet. Stir until the oil turns red, about 30 seconds, then add the beef.
+Use the coarse Pixian paste. Add 2 tsp Pixian doubanjiang (郫县豆瓣酱), chopped, after the ginger, the garlic, the star anise, and the cassia bark smell sweet. Stir until the oil turns red, about 30 seconds. If it smells sharp, press pause/clear once and stir until the smell sweetens. Press start. Then add the beef.

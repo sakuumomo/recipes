@@ -2,9 +2,9 @@
 
 Serves 2. About 30 minutes.
 
-The noodles soak in a bowl. The stir-fry is in the wok, and the wok stays in its ring.
+Noodles soak in a bowl. Stir-fry on the Mosaic at 375°F. The Mosaic is at 1500 watts.
 
-Soak the noodles first. Mince while they soften. Stir-fry when a strand bends without breaking.
+Soak the noodles first. Mince while they soften. When a strand bends without breaking, drain them, then keep going.
 
 Measure each ingredient once. A later list is that same amount again.
 
@@ -29,7 +29,7 @@ Lines set close together share a cup.
 <!-- cup -->
 
 - 5 oz ground pork
-- 1 tsp ginger, minced
+- 1 tbsp ginger, minced
 
 <!-- cup -->
 
@@ -39,6 +39,7 @@ Lines set close together share a cup.
 <!-- cup -->
 
 - 1/2 tsp sugar
+- 1/4 tsp kosher salt, Diamond Crystal
 - 1/4 tsp ground white pepper
 - 1 1/2 cups unsalted chicken stock
 
@@ -57,11 +58,11 @@ Use thin threads with mung bean starch first. A little pea starch is fine, and t
 - 4 cups water, for the noodles
 
 1. Put the **mung bean vermicelli** in a bowl. If the bundle is tied, cut off the tie and loosen the strands.
-2. Pour the **water for the noodles** over them. Leave them until a strand bends without breaking, about 10 minutes. Go on to the stir-fry.
+2. Pour the **water for the noodles** over them. Go on to the stir-fry. They are ready when a strand bends without breaking, about 10 minutes.
 
 ## Stir-fry
 
-Use ground pork that shows some fat. Use the coarse Pixian paste, medium 二荆条 flakes marked 中辣, and unsalted Shaoxing.
+Use ground pork that shows some fat, the coarse Pixian paste, medium 二荆条 flakes marked 中辣, and unsalted Shaoxing.
 
 - 1 1/2 tbsp peanut oil
 
@@ -73,7 +74,7 @@ Use ground pork that shows some fat. Use the coarse Pixian paste, medium 二荆�
 <!-- cup -->
 
 - 5 oz ground pork
-- 1 tsp ginger, minced
+- 1 tbsp ginger, minced
 
 <!-- cup -->
 
@@ -83,6 +84,7 @@ Use ground pork that shows some fat. Use the coarse Pixian paste, medium 二荆�
 <!-- cup -->
 
 - 1/2 tsp sugar
+- 1/4 tsp kosher salt, Diamond Crystal
 - 1/4 tsp ground white pepper
 - 1 1/2 cups unsalted chicken stock
 
@@ -96,11 +98,11 @@ Use ground pork that shows some fat. Use the coarse Pixian paste, medium 二荆�
 - 2 scallions, minced
 
 1. Put each group into one cup or pile, prepared the way the line says. When a noodle strand bends without breaking, drain the noodles and set them with the cups. If a strand is still stiff, wait.
-2. Set the wok in the ring on a coil turned to medium-high. Add the **peanut oil**. When it shimmers, about 2 minutes, add the **Pixian doubanjiang** and the **Sichuan chili flakes** together. If the oil smokes, turn the coil off and stir until the smoke stops. Wait until the coil stops glowing, then turn the coil back to medium-high.
-3. Fry, stirring, until the oil is red and smells toasty, about 30 seconds. If it smells sharp, turn the coil off and stir until the smell sweetens. Wait until the coil stops glowing, then turn the coil back to medium-high.
+2. Seat the wok. Press start. Turn the left dial to 375°F. Add the **peanut oil**. When it shimmers, add the **Pixian doubanjiang** and the **Sichuan chili flakes** together. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start.
+3. Fry, stirring, until the oil is red and smells toasty, about 30 seconds. If it smells sharp, press pause/clear once and stir until the smell sweetens. Press start.
 4. Add the **ground pork** and the **ginger**. Break the pork into small bits and stir until the bits are browned, about 3 minutes. If the bits are still pink, cook until the pink is gone, about 1 minute more.
 5. Add the **Shaoxing wine** and the **light soy sauce** together. Stir until the liquid is gone, about 30 seconds.
-6. Add the **sugar**, **ground white pepper**, and **unsalted chicken stock** together. Bring it to a simmer.
-7. Add the **drained mung bean vermicelli**. Stir until the noodles are translucent and only a thin sauce is left, about 6 minutes. If the sauce is still pooling, push the noodles up the sides and let the bottom reduce, then fold them back down. If the center boils hard or starts to stick, turn the coil off until the center settles and the coil stops glowing, then turn the coil back to medium-high.
-8. Add the **garlic** and the **scallions** together. Stir until the scallions smell sweet, about 30 seconds.
-9. Turn the coil off. Eat it hot.
+6. Add the **sugar**, the **kosher salt**, the **ground white pepper**, and the **unsalted chicken stock** together. Bring it to a simmer.
+7. Add the **drained mung bean vermicelli**. Stir until the noodles are translucent and only a thin sauce is left, about 6 minutes. If the sauce is still pooling, push the noodles up the sides and let the bottom reduce, then fold them back down. If the center boils hard, press pause/clear once until the surface settles. Press start. If the bottom starts to catch, press pause/clear once and stir until it releases. Press start.
+8. Add the **garlic** and the **scallions** together. Stir until the scallions smell sweet, about 30 seconds. Press on/off. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精).
+9. Eat it hot.

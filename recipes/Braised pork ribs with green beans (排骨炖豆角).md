@@ -2,9 +2,9 @@
 
 Serves 2. About 90 minutes.
 
-The ribs blanch, then stew, in a heavy saucepan. The beans fry in the wok, and the wok stays in its ring.
+The ribs blanch, then stew, in a heavy saucepan. The beans fry on the Mosaic at 375°F. The Mosaic is at 1500 watts.
 
-Blanch the ribs first. Snap the beans while the water heats. When the ribs are rinsed, fry the beans in the wok, then stew. Boil the sauce down before the beans go in.
+Snap the beans while the blanch water heats. When the ribs are rinsed, fry the beans, then start the stew. Add the beans when the sauce coats a spoon.
 
 Measure each ingredient once. A later list is that same amount again.
 
@@ -15,11 +15,14 @@ Lines set close together share a cup.
 **Ribs**
 
 - 16 oz pork spare ribs
+
+<!-- cup -->
+
 - 8 cups water, for the blanch
 
 **Beans**
 
-- 8 oz green beans (豆角)
+- 2 handfuls green beans (豆角)
 
 <!-- cup -->
 
@@ -31,7 +34,7 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 1 tbsp ginger, sliced
+- 1 in ginger, sliced
 - 2 scallions, cut into 2 in lengths
 - 3 cloves garlic, smashed
 - 1 star anise (八角)
@@ -56,29 +59,32 @@ Lines set close together share a cup.
 ## Ribs
 
 - 16 oz pork spare ribs
+
+<!-- cup -->
+
 - 8 cups water, for the blanch
 
-1. Cut the **pork spare ribs** between the bones into pieces about 1 1/2 in long.
-2. Put the **pork spare ribs** and the **water for the blanch** in a heavy saucepan. Set it on high. Skim the gray foam as it rises. When the water boils, cook 2 minutes. Turn the coil off.
-3. Lift the ribs out. Rinse them under hot water until the scum is gone, and drain them. Pour off the blanch water and wipe the saucepan dry.
+1. Cut the **pork spare ribs** between the bones with the cleaver into pieces about 1 1/2 in long.
+2. Put the **pork spare ribs** and the **water for the blanch** in a heavy saucepan. Set the saucepan fully on a coil turned to high. Snap the beans while the water heats, and come back before it boils. Then stay with it. Skim the gray foam as it rises. When the water boils, cook 2 minutes. Turn the coil off.
+3. Lift the ribs out. Rinse them under hot water until the scum is gone, and drain them. Pour off the blanch water and wipe the saucepan dry. Go on to the beans.
 
 ## Beans
 
 Flat green beans and common green beans both turn silky in this stew.
 
-- 8 oz green beans (豆角)
+- 2 handfuls green beans (豆角)
 
 <!-- cup -->
 
 - 1 tbsp peanut oil
 
 1. Snap the ends off the **green beans** and break them into 2 in lengths. Pat them dry.
-2. Set the wok in the ring on a coil turned to medium-high. Add the **peanut oil**. When it shimmers, about 2 minutes, add the **green beans**. If the oil smokes, turn the coil off until the smoke stops and the coil stops glowing, then turn the coil back to medium-high.
-3. Stir until the beans are wrinkled and olive and smell sweet, about 5 minutes. If they start to scorch, turn the coil off and stir until they cool. Wait until the coil stops glowing, then turn the coil back to medium-high. Scoop them into a bowl. Turn the coil off.
+2. When the ribs are rinsed, seat the wok. Press start. Turn the left dial to 375°F. Add the **peanut oil**. When it shimmers, add the **green beans**. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start.
+3. Stir, keeping the beans in the bottom, until they are wrinkled and olive and smell sweet, about 5 minutes. If the bottom starts to catch, press pause/clear once and stir until it releases. Press start. If the beans stay pale after another minute at this temperature, turn the left dial to 425°F and keep going. Scoop the beans into a bowl. Press on/off.
 
 ## Stew
 
-Use unsalted Shaoxing.
+Do this before the saucepan is hot. Use unsalted Shaoxing.
 
 - 1 tbsp peanut oil, for the stew
 
@@ -88,7 +94,7 @@ Use unsalted Shaoxing.
 
 <!-- cup -->
 
-- 1 tbsp ginger, sliced
+- 1 in ginger, sliced
 - 2 scallions, cut into 2 in lengths
 - 3 cloves garlic, smashed
 - 1 star anise (八角)
@@ -106,19 +112,20 @@ Use unsalted Shaoxing.
 
 <!-- cup -->
 
-- 8 oz green beans (豆角), fried
+- 2 handfuls green beans (豆角), fried
 - 1/2 tsp kosher salt, Diamond Crystal
 
-1. Set the saucepan fully on the coil at medium. Add the **peanut oil for the stew**. When it shimmers, about 1 minute, add the **blanched pork spare ribs**. Stir until the cut edges brown, about 4 minutes. If the oil smokes, pull the saucepan fully off and turn the coil off. When the smoke stops, turn the coil back to medium and set the saucepan fully back on.
-2. Add the **ginger**, **scallions**, **garlic**, and **star anise** together. Stir until they smell sweet, about 1 minute.
-3. Add the **Shaoxing wine**, **light soy sauce**, **dark soy sauce**, and **sugar** together. Stir until the ribs look reddish-brown, about 30 seconds.
-4. Pour in the **water for the stew**. Press the ribs under the surface. Turn the coil to high. When it boils, skim any foam. Pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should bubble gently. Cover it.
-5. Simmer until a fork pushed into a rib meets little resistance, about 40 minutes. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to low and set the saucepan fully back on. If it boils hard again, do the same again. If the surface goes still, turn the coil one setting higher and leave the saucepan fully on.
-6. Uncover. Turn the coil to medium and leave the saucepan fully on. Cook until the sauce coats a spoon and the ribs still sit in a loose gravy, about 8 minutes. If it still runs like water, keep cooking until it coats a spoon. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to medium and set the saucepan fully back on. If the bottom starts to catch, pull the saucepan fully off and turn the coil off. Stir until it releases. Turn the coil back to medium and set the saucepan fully back on.
-7. Pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should bubble gently.
-8. Add the **fried green beans** and the **kosher salt** together. Stir. Cover and simmer until the beans are silky all the way through and a rib twists at the bone, about 15 minutes. If a bean is still bright and firm, cover and cook 5 minutes more. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to low and set the saucepan fully back on.
-9. Turn the coil off. Pick out the star anise. Eat it hot.
+1. Slice the **ginger** and cut the **scallions** into 2 in lengths with the cleaver. Smash the **garlic** with the side of the cleaver until the cloves split. Put each group into one cup or pile, prepared the way the line says.
+2. Set the saucepan fully on a coil turned to medium. Add the **peanut oil for the stew**. When it shimmers, about 1 minute, add the **blanched pork spare ribs**. Stir until the cut edges brown, about 4 minutes. If the oil smokes, pull the saucepan fully off and turn the coil off. When the smoke stops, turn the coil back to medium and set the saucepan fully back on.
+3. Add the **ginger**, **scallions**, **garlic**, and **star anise** together. Stir until they smell sweet, about 1 minute.
+4. Add the **Shaoxing wine**, **light soy sauce**, **dark soy sauce**, and **sugar** together. Stir until the ribs look reddish-brown, about 30 seconds.
+5. Pour in the **water for the stew**. Press the ribs under the surface. Turn the coil to high and leave the saucepan fully on. When it boils, skim any foam. Pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should bubble gently. Cover it.
+6. Simmer, covered, until a fork pushed into a rib meets little resistance, about 40 minutes. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to low and set the saucepan fully back on. If it boils hard again, do the same again. If the surface goes still, turn the coil one setting higher and leave the saucepan fully on.
+7. Uncover. Turn the coil to medium and leave the saucepan fully on. Cook until the sauce coats a spoon and the ribs still sit in a loose gravy, about 8 minutes. If it still runs like water, keep cooking until it coats a spoon. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to medium and set the saucepan fully back on. If the bottom starts to catch, pull the saucepan fully off and turn the coil off. Stir until it releases. Turn the coil back to medium and set the saucepan fully back on.
+8. Pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should bubble gently.
+9. Add the **fried green beans** and the **kosher salt** together. Stir. Cover and simmer until the beans are silky all the way through and a rib twists at the bone, about 15 minutes. If a bean is still bright and firm, cover and cook 5 minutes more. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to low and set the saucepan fully back on. If the surface goes still, turn the coil one setting higher and leave the saucepan fully on.
+10. Turn the coil off. Pick out the star anise. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精). Eat it hot.
 
 ---
 
-Add 2 tsp Pixian doubanjiang (郫县豆瓣酱), chopped, after the ginger and the scallions smell sweet. Stir until the oil turns red, about 30 seconds, then go on to the wine.
+Use the coarse Pixian paste. Add 2 tsp Pixian doubanjiang (郫县豆瓣酱), chopped, after the ginger, scallions, garlic, and star anise smell sweet. Stir until the oil turns red, about 30 seconds, then go on to the wine.
