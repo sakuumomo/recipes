@@ -2,7 +2,7 @@
 
 Serves 2. About 40 minutes.
 
-Tofu in a heavy saucepan. Peppercorns in a small skillet. Stir-fry in the wok, and the wok stays in its ring.
+Tofu in a heavy saucepan. Peppercorns in a small skillet. Stir-fry on the Mosaic at 375°F. The Mosaic is at 1500 watts.
 
 Work straight down. When the tofu timer rings, drain the tofu, then keep going.
 
@@ -77,7 +77,7 @@ Use water-packed soft tofu.
 
 1. Cut the **soft tofu** into 3/4 in cubes.
 2. Put the **water** and the **kosher salt** in a heavy saucepan. Set the saucepan on a coil turned to high. Stay with it. When the water boils, pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should only shiver.
-3. Slide in the tofu and set a timer for 8 minutes. Go on to the Sichuan pepper. When the timer rings, lift the tofu out with a slotted spoon and let it drain.
+3. Slide in the tofu and set a timer for 8 minutes. Go on to the Sichuan pepper. When the timer rings, lift the tofu out with a slotted spoon and let it drain. Pull the saucepan fully off and turn the coil off.
 
 ## Sichuan pepper
 
@@ -179,12 +179,12 @@ These amounts were measured above.
 
 - 1/2 tsp Sichuan peppercorns (红花椒), toasted and crushed
 
-1. Set the wok in the ring on a coil turned to medium-high. Add the **peanut oil for the beef**. When it shimmers, about 2 minutes, add the **ground beef** and keep it in the bottom. Stir-fry, breaking it into small bits, until it is browned, about 2 minutes. If the smoke thickens, turn the coil off and stir until it thins. Wait until the coil stops glowing, then turn the coil back to medium-high. Scoop it back into its bowl.
-2. Add the **peanut oil for the doubanjiang**. When it shimmers, add the **Pixian doubanjiang** and fry, stirring, until the oil is deep red and smells toasty, about 30 seconds. If it smells sharp, turn the coil off and stir until the smell sweetens. Wait until the coil stops glowing, then turn the coil back to medium-high.
+1. Seat the wok. Press start. Turn the left dial to 375°F. Add the **peanut oil for the beef**. When it shimmers, add the **ground beef** and keep it in the bottom. Stir-fry, breaking it into small bits, until it is browned, about 2 minutes. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start. Scoop it back into its bowl.
+2. Add the **peanut oil for the doubanjiang**. When it shimmers, add the **Pixian doubanjiang** and fry, stirring, until the oil is deep red and smells toasty, about 30 seconds. If it smells sharp, press pause/clear once and stir until the smell sweetens. Press start.
 3. Add the **fermented black beans**, **Sichuan chili flakes**, **garlic**, and **ginger** together. Stir-fry until fragrant, about 20 seconds.
-4. Pour in the **chicken stock** and the **ground white pepper**. Bring it to a simmer.
-5. Add the **drained tofu**. Simmer 3 minutes, until the tofu is red. Push the tofu up the sides, scrape the bottom, and fold the tofu back down. If the center boils hard, turn the coil off until the surface settles and the coil stops glowing, then turn the coil back to medium-high.
+4. Turn the left dial to 300°F. Pour in the **chicken stock** and the **ground white pepper**. When the surface simmers, go on. If the center boils hard, press pause/clear once until the surface settles. Press start.
+5. Add the **drained tofu**. Simmer 3 minutes, until the tofu is red. Push the tofu up the sides, scrape the bottom, and fold the tofu back down. If the center boils hard, press pause/clear once until the surface settles. Press start. If the surface goes still, turn the left dial up 10°F.
 6. Return the **ground beef** and simmer 1 minute, folding the tofu through the sauce.
-7. Stir the **starch slurry**. Pour in about a third and fold the tofu through the sauce. Add the rest in one or two more pours, and stop when the sauce is glossy and coats the back of a spoon. If the center starts to stick, turn the coil off and keep folding.
-8. Turn the coil off. Add the **scallions**. Stir until they turn bright and smell sweet, about 15 seconds.
+7. Stir the **starch slurry**. Pour in about a third and fold the tofu through the sauce. Add the rest in one or two more pours, and stop when the sauce is glossy and coats the back of a spoon. If the center starts to stick, press pause/clear once and keep folding until it releases. Press start.
+8. Add the **scallions**. Stir until they turn bright and smell sweet, about 15 seconds. Press on/off. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精).
 9. Spoon it into a bowl, sprinkle with the **ground Sichuan pepper**, and serve.
