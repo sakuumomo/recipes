@@ -31,14 +31,14 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 2 tbsp Shaoxing wine (绍兴酒)
+- 2 tbsp Shaoxing wine (绍兴料酒)
 
 <!-- cup -->
 
 - 1 tbsp light soy sauce (生抽)
 - 2 tsp dark soy sauce (老抽)
 - 1 tbsp sugar
-- 1/2 tsp kosher salt, Diamond Crystal
+- 1/4 tsp kosher salt, Diamond Crystal
 
 <!-- cup -->
 
@@ -62,7 +62,7 @@ Leave the skin on.
 
 ## Braise
 
-Do this before the wok is hot. Use unsalted Shaoxing.
+Do this before the wok is hot. Use salted Shaoxing.
 
 - 1 tbsp peanut oil
 
@@ -79,14 +79,14 @@ Do this before the wok is hot. Use unsalted Shaoxing.
 
 <!-- cup -->
 
-- 2 tbsp Shaoxing wine (绍兴酒)
+- 2 tbsp Shaoxing wine (绍兴料酒)
 
 <!-- cup -->
 
 - 1 tbsp light soy sauce (生抽)
 - 2 tsp dark soy sauce (老抽)
 - 1 tbsp sugar
-- 1/2 tsp kosher salt, Diamond Crystal
+- 1/4 tsp kosher salt, Diamond Crystal
 
 <!-- cup -->
 

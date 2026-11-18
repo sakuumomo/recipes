@@ -46,7 +46,7 @@ Lines set close together share a cup.
 - 1 tsp ground cumin (孜然)
 - 1/2 tsp sugar
 - 1 tsp light soy sauce (生抽)
-- 1 tsp Shaoxing wine (绍兴酒)
+- 1 tsp Shaoxing wine (绍兴料酒)
 
 <!-- cup -->
 
@@ -107,7 +107,7 @@ Use a waxy potato so the pieces stay whole.
 
 ## Seasoning
 
-Do this before the wok is hot. Use whole dried erjingtiao marked 二荆条, the coarse Pixian paste, medium 二荆条 flakes marked 中辣, unsalted Shaoxing, the thin marbled slices sold for hot pot, and plain red chili oil.
+Do this before the wok is hot. Use whole dried erjingtiao marked 二荆条, the coarse Pixian paste, medium 二荆条 flakes marked 中辣, the thin marbled slices sold for hot pot, plain red chili oil, and salted Shaoxing.
 
 - 2 tbsp peanut oil, for the toss
 
@@ -131,7 +131,7 @@ Do this before the wok is hot. Use whole dried erjingtiao marked 二荆条, the 
 - 1 tsp ground cumin (孜然)
 - 1/2 tsp sugar
 - 1 tsp light soy sauce (生抽)
-- 1 tsp Shaoxing wine (绍兴酒)
+- 1 tsp Shaoxing wine (绍兴料酒)
 
 <!-- cup -->
 
@@ -218,7 +218,7 @@ These amounts were measured above.
 - 1 tsp ground cumin (孜然)
 - 1/2 tsp sugar
 - 1 tsp light soy sauce (生抽)
-- 1 tsp Shaoxing wine (绍兴酒)
+- 1 tsp Shaoxing wine (绍兴料酒)
 
 <!-- cup -->
 

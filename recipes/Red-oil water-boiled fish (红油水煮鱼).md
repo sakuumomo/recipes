@@ -15,7 +15,7 @@ Lines set close together share a cup.
 **Fish**
 
 - 8.8 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick
-- 2 tsp Shaoxing wine (绍兴酒), for the fish
+- 2 tsp Shaoxing wine (绍兴料酒), for the fish
 - 1/2 tsp kosher salt, Diamond Crystal, for the fish
 - 1/4 tsp ground white pepper, for the fish
 
@@ -68,7 +68,7 @@ Lines set close together share a cup.
 <!-- cup -->
 
 - 3 cups unsalted chicken stock
-- 2 tsp Shaoxing wine (绍兴酒), for the broth
+- 2 tsp Shaoxing wine (绍兴料酒), for the broth
 - 1/8 tsp ground white pepper, for the broth
 - 1/2 tsp kosher salt, Diamond Crystal, for the broth
 
@@ -80,10 +80,10 @@ Lines set close together share a cup.
 
 ## Fish
 
-Use unsalted Shaoxing.
+Use salted Shaoxing.
 
 - 8.8 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick
-- 2 tsp Shaoxing wine (绍兴酒), for the fish
+- 2 tsp Shaoxing wine (绍兴料酒), for the fish
 - 1/2 tsp kosher salt, Diamond Crystal, for the fish
 - 1/4 tsp ground white pepper, for the fish
 
@@ -163,7 +163,7 @@ Do this while the fish marinates. Use the coarse Pixian paste, and whole dried e
 <!-- cup -->
 
 - 3 cups unsalted chicken stock
-- 2 tsp Shaoxing wine (绍兴酒), for the broth
+- 2 tsp Shaoxing wine (绍兴料酒), for the broth
 - 1/8 tsp ground white pepper, for the broth
 - 1/2 tsp kosher salt, Diamond Crystal, for the broth
 - 1/2 tsp sugar

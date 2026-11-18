@@ -15,7 +15,7 @@ Lines set close together share a cup.
 **Squid**
 
 - 10 oz squid tubes
-- 1 tsp Shaoxing wine (绍兴酒)
+- 1 tsp Shaoxing wine (绍兴料酒)
 - 1/4 tsp kosher salt, Diamond Crystal, for the squid
 
 **Pepper salt**
@@ -61,10 +61,10 @@ Lines set close together share a cup.
 
 ## Squid
 
-Use cleaned squid tubes, and unsalted Shaoxing.
+Use cleaned squid tubes, and salted Shaoxing.
 
 - 10 oz squid tubes
-- 1 tsp Shaoxing wine (绍兴酒)
+- 1 tsp Shaoxing wine (绍兴料酒)
 - 1/4 tsp kosher salt, Diamond Crystal, for the squid
 
 1. Pull the thin skin off the **squid tubes**. Cut the tubes into 1/2 in rings. Rinse the rings and pat them dry.

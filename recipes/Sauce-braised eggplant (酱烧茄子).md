@@ -40,7 +40,7 @@ Lines set close together share a cup.
 - 1 tsp sugar
 - 1 tsp light soy sauce (生抽)
 - 1/2 tsp dark soy sauce (老抽)
-- 1 tsp Shaoxing wine (绍兴酒)
+- 1 tsp Shaoxing wine (绍兴料酒)
 - 2 tbsp water, for the sauce
 
 <!-- cup -->
@@ -75,7 +75,7 @@ Use a long Chinese eggplant.
 
 ## Sauce
 
-Do this while the eggplant sits. Use the coarse Pixian paste, sweet wheat sauce from the jar marked 甜面酱, and unsalted Shaoxing.
+Do this while the eggplant sits. Use the coarse Pixian paste, sweet wheat sauce from the jar marked 甜面酱, and salted Shaoxing.
 
 - 1 tsp ginger, minced
 - 4 cloves garlic, minced
@@ -90,7 +90,7 @@ Do this while the eggplant sits. Use the coarse Pixian paste, sweet wheat sauce 
 - 1 tsp sugar
 - 1 tsp light soy sauce (生抽)
 - 1/2 tsp dark soy sauce (老抽)
-- 1 tsp Shaoxing wine (绍兴酒)
+- 1 tsp Shaoxing wine (绍兴料酒)
 - 2 tbsp water, for the sauce
 
 <!-- cup -->
@@ -133,7 +133,7 @@ These amounts were measured above. Start when the eggplant is starched.
 - 1 tsp sugar
 - 1 tsp light soy sauce (生抽)
 - 1/2 tsp dark soy sauce (老抽)
-- 1 tsp Shaoxing wine (绍兴酒)
+- 1 tsp Shaoxing wine (绍兴料酒)
 - 2 tbsp water, for the sauce
 
 <!-- cup -->

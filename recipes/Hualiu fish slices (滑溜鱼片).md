@@ -20,7 +20,7 @@ Lines set close together share a cup.
 **Fish**
 
 - 8.8 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick
-- 1 tsp Shaoxing wine (绍兴酒), for the fish
+- 1 tsp Shaoxing wine (绍兴料酒), for the fish
 - 1/4 tsp kosher salt, Diamond Crystal, for the fish
 - 1/8 tsp ground white pepper, for the fish
 
@@ -45,7 +45,7 @@ Lines set close together share a cup.
 
 - 1/2 cup unsalted chicken stock
 - 1/4 cup winter bamboo shoots (冬笋), sliced thin
-- 1 tsp Shaoxing wine (绍兴酒), for the sauce
+- 1 tsp Shaoxing wine (绍兴料酒), for the sauce
 - 1/4 tsp kosher salt, Diamond Crystal, for the sauce
 - 1/8 tsp ground white pepper, for the sauce
 
@@ -74,10 +74,10 @@ Lines set close together share a cup.
 
 ## Fish
 
-Use unsalted Shaoxing.
+Use salted Shaoxing.
 
 - 8.8 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick
-- 1 tsp Shaoxing wine (绍兴酒), for the fish
+- 1 tsp Shaoxing wine (绍兴料酒), for the fish
 - 1/4 tsp kosher salt, Diamond Crystal, for the fish
 - 1/8 tsp ground white pepper, for the fish
 
@@ -111,7 +111,7 @@ Do this while the fish marinates. When the wood ear timer rings, drain and tear 
 
 - 1/2 cup unsalted chicken stock
 - 1/4 cup winter bamboo shoots (冬笋), sliced thin
-- 1 tsp Shaoxing wine (绍兴酒), for the sauce
+- 1 tsp Shaoxing wine (绍兴料酒), for the sauce
 - 1/4 tsp kosher salt, Diamond Crystal, for the sauce
 - 1/8 tsp ground white pepper, for the sauce
 
@@ -159,7 +159,7 @@ These amounts were measured above.
 
 - 1/2 cup unsalted chicken stock
 - 1/4 cup winter bamboo shoots (冬笋), sliced thin
-- 1 tsp Shaoxing wine (绍兴酒), for the sauce
+- 1 tsp Shaoxing wine (绍兴料酒), for the sauce
 - 1/4 tsp kosher salt, Diamond Crystal, for the sauce
 - 1/8 tsp ground white pepper, for the sauce
 

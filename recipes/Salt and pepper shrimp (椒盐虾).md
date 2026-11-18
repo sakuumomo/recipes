@@ -15,7 +15,7 @@ Lines set close together share a cup.
 **Shrimp**
 
 - 10 oz large shrimp, peeled and deveined
-- 1 tsp Shaoxing wine (绍兴酒)
+- 1 tsp Shaoxing wine (绍兴料酒)
 - 1/4 tsp kosher salt, Diamond Crystal, for the shrimp
 
 **Pepper salt**
@@ -52,10 +52,10 @@ Lines set close together share a cup.
 
 ## Shrimp
 
-Use large peeled shrimp with the tails off, and unsalted Shaoxing.
+Use large peeled shrimp with the tails off, and salted Shaoxing.
 
 - 10 oz large shrimp, peeled and deveined
-- 1 tsp Shaoxing wine (绍兴酒)
+- 1 tsp Shaoxing wine (绍兴料酒)
 - 1/4 tsp kosher salt, Diamond Crystal, for the shrimp
 
 1. If a dark vein remains along the back of a shrimp, pull it out. Pat the **large shrimp** dry.

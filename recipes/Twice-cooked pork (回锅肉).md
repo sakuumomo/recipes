@@ -24,7 +24,7 @@ Lines set close together share a cup.
 
 - 1 in ginger, sliced
 - 2 scallions, cut into 2 in lengths
-- 1 tbsp Shaoxing wine (绍兴酒)
+- 1 tbsp Shaoxing wine (绍兴料酒)
 
 **Prep**
 
@@ -57,7 +57,7 @@ Lines set close together share a cup.
 
 ## Pork
 
-Leave the skin on, and use unsalted Shaoxing.
+Leave the skin on, and use salted Shaoxing.
 
 - 12 oz pork belly
 
@@ -69,7 +69,7 @@ Leave the skin on, and use unsalted Shaoxing.
 
 - 1 in ginger, sliced
 - 2 scallions, cut into 2 in lengths
-- 1 tbsp Shaoxing wine (绍兴酒)
+- 1 tbsp Shaoxing wine (绍兴料酒)
 
 1. With the 8 in cleaver, slice the **ginger**. Cut the **scallions** into 2 in lengths. Put them in one cup with the **Shaoxing wine**. Leave the **pork belly** in one piece.
 2. Put the **pork belly** and the **water** in a heavy saucepan, and add the **ginger**, the **scallions**, and the **Shaoxing wine** with them. Set the saucepan fully on a coil turned to high. Stay with it. Skim the gray foam as it rises. When the water boils, pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should bubble gently. Cover it. Set a timer for 30 minutes. Go on to Prep. If the center boils hard while you are away, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to low and set the saucepan fully back on. If it boils hard again, do the same again.

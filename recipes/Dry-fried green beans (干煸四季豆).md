@@ -16,7 +16,7 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 1 tsp Shaoxing wine (绍兴酒)
+- 1 tsp Shaoxing wine (绍兴料酒)
 
 <!-- cup -->
 
@@ -55,13 +55,13 @@ Lines set close together share a cup.
 
 ## Seasoning
 
-Do this before the wok is hot. Use ground pork that shows some fat, Yibin suimi yacai from the jar marked 碎米芽菜, unsalted Shaoxing, and whole dried erjingtiao marked 二荆条.
+Do this before the wok is hot. Use ground pork that shows some fat, Yibin suimi yacai from the jar marked 碎米芽菜, whole dried erjingtiao marked 二荆条, and salted Shaoxing.
 
 - 3 oz ground pork
 
 <!-- cup -->
 
-- 1 tsp Shaoxing wine (绍兴酒)
+- 1 tsp Shaoxing wine (绍兴料酒)
 
 <!-- cup -->
 
@@ -116,7 +116,7 @@ These amounts were measured above. The wok is still seated.
 
 <!-- cup -->
 
-- 1 tsp Shaoxing wine (绍兴酒)
+- 1 tsp Shaoxing wine (绍兴料酒)
 
 <!-- cup -->
 

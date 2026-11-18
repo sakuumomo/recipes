@@ -36,7 +36,7 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 1 tsp Shaoxing wine (绍兴酒)
+- 1 tsp Shaoxing wine (绍兴料酒)
 - 1 tsp light soy sauce (生抽)
 
 <!-- cup -->
@@ -65,7 +65,7 @@ Use thin threads with mung bean starch first. A little pea starch is fine, and t
 
 ## Stir-fry
 
-Use ground pork that shows some fat, the coarse Pixian paste, medium 二荆条 flakes marked 中辣, and unsalted Shaoxing.
+Use ground pork that shows some fat, the coarse Pixian paste, medium 二荆条 flakes marked 中辣, and salted Shaoxing.
 
 - 1 1/2 tbsp peanut oil
 
@@ -84,7 +84,7 @@ Use ground pork that shows some fat, the coarse Pixian paste, medium 二荆条 f
 
 <!-- cup -->
 
-- 1 tsp Shaoxing wine (绍兴酒)
+- 1 tsp Shaoxing wine (绍兴料酒)
 - 1 tsp light soy sauce (生抽)
 
 <!-- cup -->

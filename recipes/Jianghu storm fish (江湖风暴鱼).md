@@ -16,7 +16,7 @@ Lines set close together share a cup.
 
 - 8.8 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick
 - 1/2 tsp kosher salt, Diamond Crystal
-- 1 tsp Shaoxing wine (绍兴酒)
+- 1 tsp Shaoxing wine (绍兴料酒)
 - 1/8 tsp ground white pepper
 - 1/2 tsp ground cumin (孜然), for the fish
 
@@ -73,11 +73,11 @@ Lines set close together share a cup.
 
 ## Fish
 
-Use unsalted Shaoxing.
+Use salted Shaoxing.
 
 - 8.8 oz snakehead fillet (黑鱼), skinless and boneless, sliced 1/8 in thick
 - 1/2 tsp kosher salt, Diamond Crystal
-- 1 tsp Shaoxing wine (绍兴酒)
+- 1 tsp Shaoxing wine (绍兴料酒)
 - 1/8 tsp ground white pepper
 - 1/2 tsp ground cumin (孜然), for the fish
 

@@ -16,7 +16,7 @@ Lines set close together share a cup.
 
 - 10 oz flank steak
 - 1/4 tsp kosher salt, Diamond Crystal
-- 1 tsp Shaoxing wine (绍兴酒)
+- 1 tsp Shaoxing wine (绍兴料酒)
 - 1 tsp light soy sauce (生抽)
 - 1 tsp water, for the beef
 - 1 tsp potato starch
@@ -62,11 +62,11 @@ Lines set close together share a cup.
 
 ## Beef
 
-Use flank steak so the slices soften in this time, and unsalted Shaoxing.
+Use flank steak so the slices soften in this time, and salted Shaoxing.
 
 - 10 oz flank steak
 - 1/4 tsp kosher salt, Diamond Crystal
-- 1 tsp Shaoxing wine (绍兴酒)
+- 1 tsp Shaoxing wine (绍兴料酒)
 - 1 tsp light soy sauce (生抽)
 - 1 tsp water, for the beef
 - 1 tsp potato starch

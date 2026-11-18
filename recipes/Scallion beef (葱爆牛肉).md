@@ -16,7 +16,7 @@ Lines set close together share a cup.
 
 - 10 oz flank steak
 - 2 tsp light soy sauce (生抽), for the beef
-- 1 tsp Shaoxing wine (绍兴酒), for the beef
+- 1 tsp Shaoxing wine (绍兴料酒), for the beef
 - 1/4 tsp ground white pepper
 - 1 tsp potato starch
 - 1 tsp peanut oil, for the beef
@@ -45,18 +45,18 @@ Lines set close together share a cup.
 <!-- cup -->
 
 - 1 tsp light soy sauce (生抽), for the stir-fry
-- 1 tsp Shaoxing wine (绍兴酒), for the stir-fry
+- 1 tsp Shaoxing wine (绍兴料酒), for the stir-fry
 - 1/4 tsp sugar
 
 ---
 
 ## Beef
 
-Use flank steak so the slices soften in this time, and unsalted Shaoxing.
+Use flank steak so the slices soften in this time, and salted Shaoxing.
 
 - 10 oz flank steak
 - 2 tsp light soy sauce (生抽), for the beef
-- 1 tsp Shaoxing wine (绍兴酒), for the beef
+- 1 tsp Shaoxing wine (绍兴料酒), for the beef
 - 1/4 tsp ground white pepper
 - 1 tsp potato starch
 - 1 tsp peanut oil, for the beef
@@ -91,7 +91,7 @@ Do this before the wok is hot. Use thick Chinese scallions so the pieces stay cr
 <!-- cup -->
 
 - 1 tsp light soy sauce (生抽), for the stir-fry
-- 1 tsp Shaoxing wine (绍兴酒), for the stir-fry
+- 1 tsp Shaoxing wine (绍兴料酒), for the stir-fry
 - 1/4 tsp sugar
 
 1. With the 8 in cleaver, julienne the **ginger** and slice the **garlic**. Cut the **Chinese scallion whites** and the **Chinese scallion greens** from the same stalks into 2 in lengths. Keep them in two piles.
@@ -125,7 +125,7 @@ These amounts were measured above.
 <!-- cup -->
 
 - 1 tsp light soy sauce (生抽), for the stir-fry
-- 1 tsp Shaoxing wine (绍兴酒), for the stir-fry
+- 1 tsp Shaoxing wine (绍兴料酒), for the stir-fry
 - 1/4 tsp sugar
 
 **Beef**

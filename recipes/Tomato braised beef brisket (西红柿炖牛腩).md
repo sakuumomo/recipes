@@ -41,7 +41,7 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 1 tbsp Shaoxing wine (绍兴酒)
+- 1 tbsp Shaoxing wine (绍兴料酒)
 - 1 tbsp light soy sauce (生抽)
 - 1 tsp dark soy sauce (老抽)
 - 1 tsp sugar
@@ -85,7 +85,7 @@ Use ripe tomatoes that smell sweet.
 
 ## Stew
 
-Do this before the saucepan is hot. Use unsalted Shaoxing.
+Do this before the saucepan is hot. Use salted Shaoxing.
 
 - 1 tbsp peanut oil
 
@@ -106,7 +106,7 @@ Do this before the saucepan is hot. Use unsalted Shaoxing.
 
 <!-- cup -->
 
-- 1 tbsp Shaoxing wine (绍兴酒)
+- 1 tbsp Shaoxing wine (绍兴料酒)
 - 1 tbsp light soy sauce (生抽)
 - 1 tsp dark soy sauce (老抽)
 - 1 tsp sugar

@@ -15,7 +15,7 @@ Lines set close together share a cup.
 **Chicken**
 
 - 16 oz boneless skinless chicken thighs, cut into 3/4 in pieces
-- 1 tbsp Shaoxing wine (绍兴酒)
+- 1 tbsp Shaoxing wine (绍兴料酒)
 - 2 tsp light soy sauce (生抽)
 - 1/2 tsp kosher salt, Diamond Crystal
 - 1 egg white
@@ -33,7 +33,7 @@ Lines set close together share a cup.
 <!-- cup -->
 
 - 1/2 tsp sugar
-- 1 tsp Shaoxing wine (绍兴酒), for the toss
+- 1 tsp Shaoxing wine (绍兴料酒), for the toss
 - 3 scallions, cut into 1 in lengths
 
 **Fry**
@@ -48,10 +48,10 @@ Lines set close together share a cup.
 
 ## Chicken
 
-Use unsalted Shaoxing.
+Use salted Shaoxing.
 
 - 16 oz boneless skinless chicken thighs, cut into 3/4 in pieces
-- 1 tbsp Shaoxing wine (绍兴酒)
+- 1 tbsp Shaoxing wine (绍兴料酒)
 - 2 tsp light soy sauce (生抽)
 - 1/2 tsp kosher salt, Diamond Crystal
 - 1 egg white
@@ -74,7 +74,7 @@ Do this while the chicken marinates. Use whole dried erjingtiao marked 二荆条
 <!-- cup -->
 
 - 1/2 tsp sugar
-- 1 tsp Shaoxing wine (绍兴酒), for the toss
+- 1 tsp Shaoxing wine (绍兴料酒), for the toss
 - 3 scallions, cut into 1 in lengths
 
 1. With the 8 in cleaver, slice the **garlic** and the **ginger** thin. Put them in one cup.
@@ -125,7 +125,7 @@ These amounts were measured above. The wok is still seated.
 <!-- cup -->
 
 - 1/2 tsp sugar
-- 1 tsp Shaoxing wine (绍兴酒), for the toss
+- 1 tsp Shaoxing wine (绍兴料酒), for the toss
 - 3 scallions, cut into 1 in lengths
 
 **Chicken**

@@ -15,7 +15,7 @@ Lines set close together share a cup.
 **Fish**
 
 - 8.8 oz snakehead fillet (黑鱼), skinless and boneless, cut into 3/4 in pieces
-- 2 tsp Shaoxing wine (绍兴酒), for the fish
+- 2 tsp Shaoxing wine (绍兴料酒), for the fish
 - 1 tsp light soy sauce (生抽)
 - 1/2 tsp kosher salt, Diamond Crystal, for the fish
 - 1/8 tsp ground white pepper
@@ -34,7 +34,7 @@ Lines set close together share a cup.
 <!-- cup -->
 
 - 1/2 tsp sugar
-- 1 tsp Shaoxing wine (绍兴酒), for the toss
+- 1 tsp Shaoxing wine (绍兴料酒), for the toss
 - 2 scallions, cut into 1 in lengths
 - 1 tsp ground cumin (孜然)
 - 1 tsp Sichuan chili flakes (四川辣椒面)
@@ -64,10 +64,10 @@ Lines set close together share a cup.
 
 ## Fish
 
-Use unsalted Shaoxing.
+Use salted Shaoxing.
 
 - 8.8 oz snakehead fillet (黑鱼), skinless and boneless, cut into 3/4 in pieces
-- 2 tsp Shaoxing wine (绍兴酒), for the fish
+- 2 tsp Shaoxing wine (绍兴料酒), for the fish
 - 1 tsp light soy sauce (生抽)
 - 1/2 tsp kosher salt, Diamond Crystal, for the fish
 - 1/8 tsp ground white pepper
@@ -92,7 +92,7 @@ Do this while the fish marinates. Use whole dried erjingtiao marked 二荆条, a
 <!-- cup -->
 
 - 1/2 tsp sugar
-- 1 tsp Shaoxing wine (绍兴酒), for the toss
+- 1 tsp Shaoxing wine (绍兴料酒), for the toss
 - 2 scallions, cut into 1 in lengths
 - 1 tsp ground cumin (孜然)
 - 1 tsp Sichuan chili flakes (四川辣椒面)
@@ -167,7 +167,7 @@ These amounts were measured above. The wok is still seated.
 <!-- cup -->
 
 - 1/2 tsp sugar
-- 1 tsp Shaoxing wine (绍兴酒), for the toss
+- 1 tsp Shaoxing wine (绍兴料酒), for the toss
 - 2 scallions, cut into 1 in lengths
 - 1 tsp ground cumin (孜然)
 - 1 tsp Sichuan chili flakes (四川辣椒面)

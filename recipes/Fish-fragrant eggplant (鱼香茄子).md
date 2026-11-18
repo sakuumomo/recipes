@@ -44,7 +44,7 @@ Lines set close together share a cup.
 
 - 4 tsp sugar
 - 2 tsp light soy sauce (生抽)
-- 2 tsp Shaoxing wine (绍兴酒)
+- 2 tsp Shaoxing wine (绍兴料酒)
 - 1/4 cup water, for the sauce
 
 <!-- cup -->
@@ -79,7 +79,7 @@ Use a long Chinese eggplant.
 
 ## Sauce
 
-Do this while the eggplant sits. Use ground pork that shows some fat, Sichuan pickled red chilies from the jar marked 泡椒, the coarse Pixian paste, and unsalted Shaoxing.
+Do this while the eggplant sits. Use ground pork that shows some fat, Sichuan pickled red chilies from the jar marked 泡椒, the coarse Pixian paste, and salted Shaoxing.
 
 - 2 oz ground pork
 
@@ -98,7 +98,7 @@ Do this while the eggplant sits. Use ground pork that shows some fat, Sichuan pi
 
 - 4 tsp sugar
 - 2 tsp light soy sauce (生抽)
-- 2 tsp Shaoxing wine (绍兴酒)
+- 2 tsp Shaoxing wine (绍兴料酒)
 - 1/4 cup water, for the sauce
 
 <!-- cup -->
@@ -144,7 +144,7 @@ These amounts were measured above.
 
 - 4 tsp sugar
 - 2 tsp light soy sauce (生抽)
-- 2 tsp Shaoxing wine (绍兴酒)
+- 2 tsp Shaoxing wine (绍兴料酒)
 - 1/4 cup water, for the sauce
 
 <!-- cup -->

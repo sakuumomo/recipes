@@ -16,7 +16,7 @@ Lines set close together share a cup.
 
 - 10 oz large shrimp, peeled and deveined
 - 1/4 tsp kosher salt, Diamond Crystal
-- 1 tsp Shaoxing wine (绍兴酒), for the shrimp
+- 1 tsp Shaoxing wine (绍兴料酒), for the shrimp
 
 **Braise**
 
@@ -33,7 +33,7 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 1 tbsp Shaoxing wine (绍兴酒), for the sauce
+- 1 tbsp Shaoxing wine (绍兴料酒), for the sauce
 - 1 tbsp light soy sauce (生抽)
 - 1 tbsp sugar
 - 2 tbsp water
@@ -47,11 +47,11 @@ Lines set close together share a cup.
 
 ## Shrimp
 
-Use large peeled shrimp with the tails off, and unsalted Shaoxing.
+Use large peeled shrimp with the tails off, and salted Shaoxing.
 
 - 10 oz large shrimp, peeled and deveined
 - 1/4 tsp kosher salt, Diamond Crystal
-- 1 tsp Shaoxing wine (绍兴酒), for the shrimp
+- 1 tsp Shaoxing wine (绍兴料酒), for the shrimp
 
 1. If a dark vein remains along the back of a shrimp, pull it out. Pat the **large shrimp** dry.
 2. Add the **kosher salt** and the **Shaoxing wine for the shrimp**. Stir until the shrimp look moist. Set a timer for 10 minutes. Go on to the braise.
@@ -77,7 +77,7 @@ Do this while the shrimp sit. Use tomato ketchup.
 
 <!-- cup -->
 
-- 1 tbsp Shaoxing wine (绍兴酒), for the sauce
+- 1 tbsp Shaoxing wine (绍兴料酒), for the sauce
 - 1 tbsp light soy sauce (生抽)
 - 1 tbsp sugar
 - 2 tbsp water

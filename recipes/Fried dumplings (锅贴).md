@@ -165,4 +165,4 @@ Use round white Shanghai-style wheat wrappers from the refrigerator or freezer c
 
 ---
 
-Use unsalted Shaoxing. Add 1 tsp Shaoxing wine (绍兴酒) with the light soy sauce, the toasted sesame oil, and the ground white pepper.
+Use salted Shaoxing. Add 1 tsp Shaoxing wine (绍兴料酒) with the light soy sauce, the toasted sesame oil, and the ground white pepper.

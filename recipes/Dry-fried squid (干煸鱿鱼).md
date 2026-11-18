@@ -15,7 +15,7 @@ Lines set close together share a cup.
 **Squid**
 
 - 10 oz squid tubes
-- 1 tbsp Shaoxing wine (绍兴酒), for the blanch
+- 1 tbsp Shaoxing wine (绍兴料酒), for the blanch
 
 <!-- cup -->
 
@@ -58,10 +58,10 @@ Lines set close together share a cup.
 
 ## Squid
 
-Use cleaned squid tubes, and unsalted Shaoxing.
+Use cleaned squid tubes, and salted Shaoxing.
 
 - 10 oz squid tubes
-- 1 tbsp Shaoxing wine (绍兴酒), for the blanch
+- 1 tbsp Shaoxing wine (绍兴料酒), for the blanch
 
 <!-- cup -->
 

@@ -145,4 +145,4 @@ Cut the parchment before the wok is hot.
 
 ---
 
-Use unsalted Shaoxing. Add 1 tsp Shaoxing wine (绍兴酒) with the light soy sauce and the ground white pepper.
+Use salted Shaoxing. Add 1 tsp Shaoxing wine (绍兴料酒) with the light soy sauce and the ground white pepper.

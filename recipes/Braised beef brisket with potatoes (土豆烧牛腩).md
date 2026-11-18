@@ -37,7 +37,7 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 1 tbsp Shaoxing wine (绍兴酒)
+- 1 tbsp Shaoxing wine (绍兴料酒)
 - 1 tbsp light soy sauce (生抽)
 - 1 tsp dark soy sauce (老抽)
 - 1 tsp sugar
@@ -69,7 +69,7 @@ Use the fatty plate sold as 牛腩, and leave the fat on.
 
 ## Stew
 
-Use a waxy potato so the pieces stay whole, and unsalted Shaoxing.
+Use a waxy potato so the pieces stay whole, and salted Shaoxing.
 
 - 1 tbsp peanut oil
 
@@ -90,7 +90,7 @@ Use a waxy potato so the pieces stay whole, and unsalted Shaoxing.
 
 <!-- cup -->
 
-- 1 tbsp Shaoxing wine (绍兴酒)
+- 1 tbsp Shaoxing wine (绍兴料酒)
 - 1 tbsp light soy sauce (生抽)
 - 1 tsp dark soy sauce (老抽)
 - 1 tsp sugar
