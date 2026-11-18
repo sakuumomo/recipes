@@ -117,7 +117,7 @@ Do this before the saucepan is hot. Use unsalted Shaoxing.
 
 1. Slice the **ginger** and cut the **scallions** into 2 in lengths with the cleaver. Smash the **garlic** with the side of the cleaver until the cloves split. Put each group into one cup or pile, prepared the way the line says.
 2. Set the saucepan fully on a coil turned to medium. Add the **peanut oil for the stew**. When it shimmers, about 1 minute, add the **blanched pork spare ribs**. Stir until the cut edges brown, about 4 minutes. If the oil smokes, pull the saucepan fully off and turn the coil off. When the smoke stops, turn the coil back to medium and set the saucepan fully back on.
-3. Add the **ginger**, **scallions**, **garlic**, and **star anise** together. Stir until they smell sweet, about 1 minute. If they smell sharp, pull the saucepan fully off and stir until the smell sweetens. Set the saucepan fully back on.
+3. Add the **ginger**, **scallions**, **garlic**, and **star anise** together. Stir until they smell sweet, about 1 minute. If they smell sharp, pull the saucepan fully off and turn the coil off. Stir until the smell sweetens. Turn the coil back to medium and set the saucepan fully back on.
 4. Add the **Shaoxing wine**, **light soy sauce**, **dark soy sauce**, and **sugar** together. Stir until the ribs look reddish-brown, about 30 seconds.
 5. Pour in the **water for the stew**. Press the ribs under the surface. Turn the coil to high and leave the saucepan fully on. When it boils, skim any foam. Pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should bubble gently. Cover it.
 6. Simmer, covered, until a fork pushed into a rib meets little resistance, about 40 minutes. If the center boils hard, pull the saucepan fully off and turn the coil off. When the bubble stops, turn the coil back to low and set the saucepan fully back on. If it boils hard again, do the same again. If the surface goes still, turn the coil one setting higher and leave the saucepan fully on.
@@ -128,4 +128,4 @@ Do this before the saucepan is hot. Use unsalted Shaoxing.
 
 ---
 
-Use the coarse Pixian paste. Add 2 tsp Pixian doubanjiang (郫县豆瓣酱), chopped, after the ginger, scallions, garlic, and star anise smell sweet. Stir until the oil turns red, about 30 seconds. If it smells sharp, pull the saucepan fully off and stir until the smell sweetens. Set the saucepan fully back on. Then go on to the wine.
+Use the coarse Pixian paste. Add 2 tsp Pixian doubanjiang (郫县豆瓣酱), chopped, after the ginger, scallions, garlic, and star anise smell sweet. Stir until the oil turns red, about 30 seconds. If it smells sharp, pull the saucepan fully off and turn the coil off. Stir until the smell sweetens. Turn the coil back to medium and set the saucepan fully back on. Then go on to the wine.

@@ -1,8 +1,8 @@
 # Wok seasoning
 
-Makes 1 wok. About 15 minutes on the Mosaic, or about a day for the oven reset.
+Makes 1 wok. About 15 minutes.
 
-The oven is the first season and the reset, bare at 550°F, then 450°F for each coat. The Mosaic is at 1500 watts, and that season starts at 300°F.
+The oven is the first season and the reset, about a day, bare at 550°F, then 450°F for each coat. The Mosaic is at 1500 watts, and that season starts at 300°F.
 
 For a new wok or a reset, burn it off, wash it, and bake three coats. After a pot of water, a broth, a braise, or the steamer, do the Mosaic season and stop. An oil stir-fry does not get a season.
 
@@ -11,6 +11,10 @@ Measure each ingredient once. A later list is that same amount again.
 Lines set close together share a cup.
 
 ## Ingredients
+
+**Burn-off**
+
+**Wash**
 
 **Oven coats**
 
