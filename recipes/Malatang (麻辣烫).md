@@ -187,14 +187,14 @@ Use whole dried erjingtiao marked 二荆条, the coarse Pixian paste, and medium
 
 1. Snip the **dried erjingtiao** in half and shake out the loose seeds. Slice the **ginger** and the **garlic** with the 8 in cleaver. Chop the **Pixian doubanjiang**. Put each group into one cup.
 2. Seat the wok. Press start. Turn the left dial to 300°F. Turn the right dial to 40 minutes. Add the **peanut oil**. When it shimmers, add the **dried erjingtiao** and the **Sichuan peppercorns** together. Keep them in the bottom. Stir until the peppercorns smell citrusy and the chilies turn one shade darker, still red, about 20 seconds. If they blacken, press pause/clear once and stir until they stop darkening. Press start.
-3. Add the **ginger** and the **garlic** together. Stir until they smell sweet, about 20 seconds.
-4. Turn the left dial to 375°F. Add the **Pixian doubanjiang**. Keep it in the bottom. Stir until the oil turns red and the paste smells sweet, about 45 seconds. If it smells sharp, press pause/clear once and stir until the smell sweetens. Press start.
+3. Add the **ginger** and the **garlic** together. Stir until they smell sweet, about 20 seconds. If they color, press pause/clear once and stir until they cool. Press start.
+4. Add the **Pixian doubanjiang**. Keep it in the bottom. Stir until the oil turns red and the paste smells sweet, about 45 seconds. If it smells sharp, press pause/clear once and stir until the smell sweetens. Press start. If the oil has not turned red, turn the left dial up 10°F and keep frying until it is red.
 5. Add the **Sichuan chili flakes** and the **chili oil for the broth**. Stir until the oil is red, about 15 seconds. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start.
-6. Add the **water for the broth**, the **light soy sauce**, the **sugar for the broth**, and the **kosher salt** together. Stay with it. When the broth boils, turn the left dial to 300°F. The surface should bubble gently. If the center boils hard, press pause/clear once until the surface settles. Press start. If the surface goes still, turn the left dial up 10°F.
+6. Turn the left dial to 375°F. Add the **water for the broth**, the **light soy sauce**, the **sugar for the broth**, and the **kosher salt** together. Stay with it. When the broth boils, turn the left dial to 250°F. The surface should bubble gently. If the center boils hard, press pause/clear once until the surface settles, turn the left dial down 10°F, and press start. If the surface goes still, turn the left dial up 10°F.
 7. Simmer until the broth smells numbing, about 8 minutes.
 8. Lift out the **dried erjingtiao**, the **Sichuan peppercorns**, the **ginger**, and the **garlic** with the wok ladle until the broth is clear of them.
-9. Add the **whole milk**. Stir until the broth turns opaque and the surface shivers, about 1 minute. If the center boils hard, press pause/clear once until the surface settles. Press start. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精).
-10. If a strand of the sweet potato noodles still snaps, press on/off and wait until a strand bends. Seat the wok. Press start. Turn the left dial to 300°F. The surface should shiver.
+9. Add the **whole milk**. Stir until the broth turns opaque and the surface shivers, about 1 minute. If the center boils hard, press pause/clear once until the surface settles, turn the left dial down 10°F, and press start. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精).
+10. If a strand of the sweet potato noodles still snaps, press on/off and wait until a strand bends. Seat the wok. Press start. Turn the left dial to 250°F. The surface should shiver. If the center boils hard, press pause/clear once until the surface settles, turn the left dial down 10°F, and press start. If the surface goes still, turn the left dial up 10°F.
 
 ## Soup
 
@@ -225,7 +225,7 @@ These amounts were measured above.
 - 1 scallion, chopped
 - 2 tbsp cilantro, chopped
 
-1. Drain the sweet potato noodles. Add the **drained sweet potato noodles** and press them under the surface. Cook until they turn translucent at the edges, about 6 minutes. If the center boils hard, press pause/clear once until the surface settles. Press start. If the surface goes still, turn the left dial up 10°F.
+1. Drain the sweet potato noodles. Add the **drained sweet potato noodles** and press them under the surface. Cook until they turn translucent at the edges, about 6 minutes. If the center boils hard, press pause/clear once until the surface settles, turn the left dial down 10°F, and press start. If the surface goes still, turn the left dial up 10°F.
 2. Lay the **firm tofu** on the noodles. Cook until the noodles are chewy and the tofu is hot, about 2 minutes. Break one strand. The center is translucent. If the center is still white, cook until it turns translucent, about 5 minutes more.
 3. Add the **enoki mushrooms**, the **hot-pot beef slices**, and the **bok choy** together. Stir once. Cook until the pink is gone and the slices are still tender, the mushrooms have wilted, and the bok choy leaves have wilted with the stems still crisp, about 45 seconds. If the beef stiffens, stop there. Press pause/clear once.
 4. Ladle the soup into the two bowls with the wok ladle. Scatter the **scallion** and the **cilantro** over the top. The herbs should sit on the soup.

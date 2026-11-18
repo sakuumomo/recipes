@@ -122,7 +122,7 @@ Do this before the saucepan is hot. Use unsalted Shaoxing.
 
 1. Slice the **ginger** and cut the **scallions** into 2 in lengths with the cleaver. Smash the **garlic** with the side of the cleaver until the cloves split. Put each group into one cup or pile, prepared the way the line says.
 2. Set the saucepan fully on a coil turned to medium. Add the **peanut oil**. When it shimmers, about 1 minute, add the **blanched beef brisket**. Stir until the cut edges brown, about 4 minutes. If the oil smokes, pull the saucepan fully off and turn the coil off. When the smoke stops, turn the coil back to medium and set the saucepan fully back on.
-3. Add the **ginger**, **scallions**, **garlic**, and **star anise** together. Stir until they smell sweet, about 1 minute.
+3. Add the **ginger**, **scallions**, **garlic**, and **star anise** together. Stir until they smell sweet, about 1 minute. If they smell sharp, pull the saucepan fully off and stir until the smell sweetens. Set the saucepan fully back on.
 4. Add the **cut tomatoes for the base**. Stir until they collapse and the oil turns red, about 5 minutes.
 5. Add the **Shaoxing wine**, **light soy sauce**, **dark soy sauce**, and **sugar** together. Stir until the beef looks reddish-brown, about 30 seconds.
 6. Pour in the **water for the stew**. Press the beef under the surface. Turn the coil to high and leave the saucepan fully on. When it boils, skim any foam. Pull the saucepan fully off. Turn the coil to low. If the coil is glowing, wait until it stops. Set the saucepan fully back on. The surface should bubble gently. Cover it.

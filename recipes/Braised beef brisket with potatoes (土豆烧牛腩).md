@@ -106,9 +106,9 @@ Use a waxy potato so the pieces stay whole, and unsalted Shaoxing.
 
 1. Slice the **onion** and the **ginger** with the cleaver. Smash the **garlic** with the side of the cleaver until the cloves split. Put each group into one cup or pile, prepared the way the line says.
 2. Seat the wok. Press start. Turn the left dial to 375°F. Turn the right dial to 3 hours. Add the **peanut oil**. When it shimmers, add the **onion**. Stir until it is soft and the edges brown, about 4 minutes. If the bottom starts to catch, press pause/clear once and stir until it releases. Press start.
-3. Add the **ginger**, **garlic**, **star anise**, and **cassia bark** together. Stir until they smell sweet, about 1 minute.
-4. Add the **blanched beef brisket**. Stir until the cut edges brown, about 4 minutes. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start.
-5. Add the **Shaoxing wine**, **light soy sauce**, **dark soy sauce**, and **sugar** together. Stir until the beef looks reddish-brown, about 30 seconds.
+3. Add the **blanched beef brisket**. Stir until the cut edges brown, about 4 minutes. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start.
+4. Turn the left dial to 300°F. Add the **ginger**, **garlic**, **star anise**, and **cassia bark** together. Stir until they smell sweet, about 1 minute. If they smell sharp, press pause/clear once and stir until the smell sweetens. Press start.
+5. Turn the left dial to 375°F. Add the **Shaoxing wine**, **light soy sauce**, **dark soy sauce**, and **sugar** together. Stir until the beef looks reddish-brown, about 30 seconds.
 6. Pour in the **water for the stew**. Pile the beef in the bottom and press it into the liquid. Stay with it. When it boils, skim any foam.
 7. Turn the left dial to 250°F. Cover the wok with the glass lid. The surface should bubble gently, or only shiver.
 8. Set a timer for 70 minutes. When the timer rings, peel the potatoes, and cut them into 1 1/2 in chunks with the cleaver, then keep the simmer going until a fork pushed into the beef meets little resistance, about 10 minutes more. If the beef is still firm, cover and cook until a fork pushed into the beef meets little resistance, about 15 minutes more, before you add the potatoes. If it boils hard, press pause/clear once until the surface settles, turn the left dial down 10°F, and press start. If the surface goes still, turn the left dial up 10°F. If the bottom starts to catch, press pause/clear once and stir until it releases. Press start. If the display reads E7, press pause/clear twice, wait until the fan stops, and start again at the same temperature.
@@ -120,4 +120,4 @@ Use a waxy potato so the pieces stay whole, and unsalted Shaoxing.
 
 ---
 
-Use the coarse Pixian paste. Add 2 tsp Pixian doubanjiang (郫县豆瓣酱), chopped, after the ginger, the garlic, the star anise, and the cassia bark smell sweet. Stir until the oil turns red, about 30 seconds. If it smells sharp, press pause/clear once and stir until the smell sweetens. Press start. Then add the beef.
+Use the coarse Pixian paste. Add 2 tsp Pixian doubanjiang (郫县豆瓣酱), chopped, after the ginger, the garlic, the star anise, and the cassia bark smell sweet. Stir until the oil turns red, about 30 seconds. If it smells sharp, press pause/clear once and stir until the smell sweetens. Press start. If the oil has not turned red, turn the left dial up 10°F and keep frying until it is red. Then go on to the Shaoxing wine.

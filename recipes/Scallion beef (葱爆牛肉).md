@@ -134,9 +134,9 @@ These amounts were measured above.
 
 1. If the beef is not tacky yet, wait. Seat the wok. Press start. Turn the left dial to 500°F. Heat the empty wok until a drop of water flicked into the center vanishes, about 30 seconds.
 2. Add 1 tbsp of the **peanut oil for the stir-fry** and swirl it over the bottom. Add half of the **marinated flank steak** in one layer. Leave it still until the underside browns, about 30 seconds. Toss until the red is gone, about 30 seconds more. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start. Scoop it onto a plate.
-3. Add the rest of the **peanut oil for the stir-fry** and swirl it over the bottom. Add the rest of the **marinated flank steak** in one layer. Leave it still until the underside browns, about 30 seconds. Toss until the red is gone, about 30 seconds more. Scoop it onto the plate.
+3. Add the rest of the **peanut oil for the stir-fry** and swirl it over the bottom. Add the rest of the **marinated flank steak** in one layer. Leave it still until the underside browns, about 30 seconds. Toss until the red is gone, about 30 seconds more. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start. Scoop it onto the plate.
 4. Turn the left dial to 300°F. Add the **peanut oil for the scallions**. When it shimmers and has stopped smoking, about 30 seconds, go on.
-5. Add the **ginger**, the **garlic**, and the **Chinese scallion whites** together. Stir until they smell sweet, about 30 seconds.
+5. Add the **ginger**, the **garlic**, and the **Chinese scallion whites** together. Stir until they smell sweet, about 30 seconds. If they color, press pause/clear once and stir until they cool. Press start.
 6. Add the **Chinese scallion greens**. Stir until they turn bright green and still have bite, about 30 seconds.
 7. Add the **marinated flank steak**, the **light soy sauce for the stir-fry**, the **Shaoxing wine for the stir-fry**, and the **sugar** together. Toss until the beef is glossy and the scallions still have bite, about 30 seconds. Press on/off. Taste. If it is flat, add a few drops of the light soy sauce for the stir-fry. If you want it, stir in one pinch of MSG (味精). Eat it hot.
 

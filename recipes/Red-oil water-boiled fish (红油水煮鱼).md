@@ -2,7 +2,7 @@
 
 Serves 2. About 45 minutes.
 
-The broth on the Mosaic at 375°F. The pour oil in a small skillet. The Mosaic is at 1500 watts.
+The broth on the Mosaic at 300°F. The pour oil in a small skillet. The Mosaic is at 1500 watts.
 
 Marinate the fish. While it sits, chop the doubanjiang and cut the aromatics. Fry the paste, then start the pour oil while the broth simmers. When the timer rings, keep going. Poach the fish when that oil is ready.
 
@@ -176,13 +176,13 @@ Do this while the fish marinates. Use the coarse Pixian paste, and whole dried e
 
 - 2 handfuls soybean sprouts (黄豆芽)
 
-1. Seat the wok. Press start. Turn the left dial to 375°F. Add the **peanut oil for the paste**. When it shimmers, add the **star anise** and the **cassia bark**. Stir until they smell sweet, about 30 seconds. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start.
-2. Add the **Pixian doubanjiang**. Fry, stirring, until the oil is deep red and smells toasty, about 1 minute. If it smells sharp, press pause/clear once and stir until the smell sweetens. Press start.
-3. Add the **garlic for the paste**, the **ginger**, and the **scallion whites** together. Stir until fragrant, about 20 seconds.
-4. Add the **unsalted chicken stock**, the **Shaoxing wine for the broth**, the **ground white pepper for the broth**, the **kosher salt for the broth**, and the **sugar** together. Stay with it. When it boils, turn the left dial to 250°F. The surface should shiver. If the center boils hard, press pause/clear once until the surface settles. Press start. If the surface goes still, turn the left dial up 10°F.
+1. Seat the wok. Press start. Turn the left dial to 300°F. Turn the right dial to 40 minutes. Add the **peanut oil for the paste**. When it shimmers, add the **star anise** and the **cassia bark**. Stir until they smell sweet, about 30 seconds. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start.
+2. Add the **Pixian doubanjiang**. Fry, stirring, until the oil is deep red and smells toasty, about 1 minute. If it smells sharp, press pause/clear once and stir until the smell sweetens. Press start. If the oil has not turned red, turn the left dial up 10°F and keep frying until it is red.
+3. Add the **garlic for the paste**, the **ginger**, and the **scallion whites** together. Stir until fragrant, about 20 seconds. If they color, press pause/clear once and stir until they cool. Press start.
+4. Turn the left dial to 375°F. Add the **unsalted chicken stock**, the **Shaoxing wine for the broth**, the **ground white pepper for the broth**, the **kosher salt for the broth**, and the **sugar** together. Stay with it. When it boils, turn the left dial to 250°F. The surface should shiver. If the center boils hard, press pause/clear once until the surface settles, turn the left dial down 10°F, and press start. If the surface goes still, turn the left dial up 10°F.
 5. Put the **peanut oil for the pour** in a small skillet. Set the skillet fully on a coil turned to medium. Simmer the broth until the raw paste smell is gone, about 3 minutes. Lift out the star anise and the cassia bark with the wok ladle. If the pour oil smokes, slide the skillet fully off and turn that coil off. Wait until the smoke stops. Leave the skillet off the coil.
 6. Add the **soybean sprouts**. Cook until they soften but still snap, about 1 minute. Lift them with the wok ladle into the heatproof bowl.
-7. Keep the broth at a shiver. If the center boils hard, press pause/clear once until the surface settles. Press start. If the surface goes still, turn the left dial up 10°F. If the skillet is already off the coil, leave it off. When it is still on and a dry cooking chopstick in the pour oil makes small bubbles and the oil has not smoked, about 4 minutes from when the skillet went on, slide the skillet fully off the coil and turn that coil off. If the oil is smoking, slide the skillet fully off and turn that coil off. Wait until the smoke stops. Leave the skillet off the coil. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精).
+7. Keep the broth at a shiver. If the center boils hard, press pause/clear once until the surface settles, turn the left dial down 10°F, and press start. If the surface goes still, turn the left dial up 10°F. If the skillet is already off the coil, leave it off. When it is still on and a dry cooking chopstick in the pour oil makes small bubbles and the oil has not smoked, about 4 minutes from when the skillet went on, slide the skillet fully off the coil and turn that coil off. If the oil is smoking, slide the skillet fully off and turn that coil off. Wait until the smoke stops. Leave the skillet off the coil. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精).
 
 ## Pour
 

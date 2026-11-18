@@ -133,7 +133,7 @@ These amounts were measured above. The wok is still seated.
 - 16 oz boneless skinless chicken thighs, cut into 3/4 in pieces, fried
 
 1. Turn the left dial to 300°F. When the remaining **peanut oil** shimmers and has stopped smoking, go on.
-2. Add the **garlic** and the **ginger** together. Stir until fragrant, about 15 seconds.
+2. Add the **garlic** and the **ginger** together. Stir until fragrant, about 15 seconds. If they color, press pause/clear once and stir until they cool. Press start.
 3. Add the **Sichuan peppercorns** and the **dried erjingtiao** together. Stir until the chilies smell toasty and turn one shade darker, still red, about 30 seconds. If they blacken, press pause/clear once and stir until they cool. Press start.
 4. Add the **fried chicken thighs**, the **sugar**, the **Shaoxing wine for the toss**, and the **scallions** together. Toss until the chicken is coated and the wine has cooked off, about 1 minute. Press on/off.
 5. Scoop the chicken, the scallions, the chilies, and the peppercorns onto a plate. Set the wok on its stand. Eat the chicken and the scallions. The chilies and the peppercorns stay on the plate for their aroma.

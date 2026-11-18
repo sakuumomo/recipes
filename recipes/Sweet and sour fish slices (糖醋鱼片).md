@@ -164,7 +164,7 @@ These amounts were measured above.
 
 1. With the wok ladle, take the spare **peanut oil for frying** out into a heatproof bowl until about 1 tbsp remains. Leave the wok seated. If the wok is dry, pour back about 1 tbsp of that oil.
 2. Turn the left dial to 300°F. When the film shimmers and has stopped smoking, about 30 seconds, add the **ginger** and the **garlic** together. Stir until they smell sweet, about 15 seconds. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start.
-3. Add the **tomato ketchup**, the **sugar**, the **light soy sauce**, the **kosher salt for the sauce**, and the **water for the sauce** together. Stir until the sauce bubbles and smells sweet, about 30 seconds. If it smells sharp, press pause/clear once and stir until the smell sweetens. Press start.
+3. Add the **tomato ketchup**, the **sugar**, the **light soy sauce**, the **kosher salt for the sauce**, and the **water for the sauce** together. Stir until the sauce bubbles and smells sweet, about 30 seconds. If it has not bubbled, turn the left dial up 10°F. If it smells sharp, press pause/clear once and stir until the smell sweetens. Press start.
 4. Stir the **potato starch for the sauce** and the **cold water for the slurry** again. Pour them in. Stir until the sauce is glossy and a spoon dragged through it leaves a clear trail, about 30 seconds. If the center boils hard, press pause/clear once until the surface settles. Press start.
 5. Add the **fried snakehead fillet** and the **scallion** together. Fold until every slice is coated and the sauce clings, about 20 seconds.
 6. Press on/off. Add the **rice vinegar**. Stir until the sauce smells sharp, about 5 seconds. Taste. If it is flat, stir in one more pinch of the kosher salt.

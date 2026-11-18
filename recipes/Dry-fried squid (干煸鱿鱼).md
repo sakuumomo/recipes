@@ -159,7 +159,7 @@ These amounts were measured above.
 
 1. Turn the left dial to 300°F. Add the **peanut oil for the toss**. When it shimmers and has stopped smoking, about 30 seconds, go on. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start.
 2. Add the **dried erjingtiao** and the **Sichuan peppercorns** together. Stir until the peppercorns smell citrusy and the chilies are one shade darker, still red, about 20 seconds. If they blacken, press pause/clear once and stir until they cool. Press start.
-3. Add the **garlic** and the **ginger** together. Stir until they smell sweet, about 15 seconds. If they smell sharp, press pause/clear once and stir until the smell sweetens. Press start.
+3. Add the **garlic** and the **ginger** together. Stir until they smell sweet, about 15 seconds. If they color, press pause/clear once and stir until they cool. Press start.
 4. Add the **Chinese celery** and the **onion**. Keep them in the bottom. Toss until the celery is bright and still has bite, about 1 minute. If the bottom starts to catch, press pause/clear once and stir until it releases. Press start.
 5. Add the **fried squid tubes**, the **kosher salt**, the **sugar**, and the **light soy sauce** together. Toss until the squid looks dry and the coating is still crisp, about 20 seconds. Press on/off.
 6. Eat the squid, the celery, and the onion hot. The chilies and the peppercorns stay on the plate for their aroma.

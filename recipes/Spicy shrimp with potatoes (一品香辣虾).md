@@ -174,7 +174,7 @@ These amounts were measured above.
 
 - 10 oz large shrimp, peeled and deveined, fried
 
-1. Turn the left dial to 300°F. Add the **peanut oil for the toss**. When it shimmers, about 30 seconds, add the **garlic**, the **ginger**, and the **dried erjingtiao** together. Stir until the garlic smells sweet and the chilies turn one shade darker, still red, about 30 seconds. If they blacken, press pause/clear once and stir until they cool. Press start.
+1. Turn the left dial to 300°F. Add the **peanut oil for the toss**. When it shimmers and has stopped smoking, about 30 seconds, add the **garlic**, the **ginger**, and the **dried erjingtiao** together. Stir until the garlic smells sweet and the chilies turn one shade darker, still red, about 30 seconds. If they blacken, press pause/clear once and stir until they cool. Press start.
 2. Add the **Chinese celery**, the **roasted salted peanuts**, and the **scallion**. Stir until the celery is bright green, about 30 seconds.
 3. Add the **light soy sauce**, the **sugar**, the **chili oil**, and the **toasted sesame oil** together. Stir until the soy bubbles, about 10 seconds.
 4. Add the **fried potato** and the **fried large shrimp** together. Toss until every piece looks glossy and the shrimp are still tender, about 30 seconds. If the shrimp have cooled, toss until they are hot again, about 30 seconds more. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精).
