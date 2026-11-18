@@ -82,7 +82,7 @@ Leave the skin on.
 - 6 cups water, for the blanch
 
 1. Cut the **pork belly** into 1 in chunks with the cleaver.
-2. Put the **pork belly** and the **water for the blanch** in the heavy saucepan together. Set the saucepan fully on a coil turned to high. Stay with it. Skim the gray foam as it rises. When the water boils, cook 2 minutes. Turn the coil off.
+2. Put the **pork belly** and the **water for the blanch** in the heavy saucepan together. Set the saucepan fully on a coil turned to high. Stay with it. Skim the gray foam as it rises. When the water boils, cook 2 minutes. Pull the saucepan fully off and turn the coil off.
 3. Lift the pork out. Rinse it under hot water until the scum is gone, and drain it. Pour off the blanch water.
 
 ## Stew

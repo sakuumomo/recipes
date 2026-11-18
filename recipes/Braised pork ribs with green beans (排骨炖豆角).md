@@ -65,7 +65,7 @@ Lines set close together share a cup.
 - 8 cups water, for the blanch
 
 1. Cut the **pork spare ribs** between the bones with the cleaver into pieces about 1 1/2 in long.
-2. Put the **pork spare ribs** and the **water for the blanch** in a heavy saucepan. Set the saucepan fully on a coil turned to high. Snap the beans while the water heats, and come back before it boils. Then stay with it. Skim the gray foam as it rises. When the water boils, cook 2 minutes. Turn the coil off.
+2. Put the **pork spare ribs** and the **water for the blanch** in a heavy saucepan. Set the saucepan fully on a coil turned to high. Snap the beans while the water heats, and come back before it boils. Then stay with it. Skim the gray foam as it rises. When the water boils, cook 2 minutes. Pull the saucepan fully off and turn the coil off.
 3. Lift the ribs out. Rinse them under hot water until the scum is gone, and drain them. Pour off the blanch water and wipe the saucepan dry. Go on to the beans.
 
 ## Beans
