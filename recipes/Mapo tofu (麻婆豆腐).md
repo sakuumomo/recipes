@@ -49,7 +49,7 @@ Lines set close together share a cup.
 <!-- cup -->
 
 - 2 tsp fermented black beans (豆豉), rinsed and lightly crushed
-- 1 tsp Sichuan chili flakes (四川辣椒面)
+- 2 tsp Sichuan chili flakes (四川辣椒面)
 - 2 tsp garlic, minced
 - 2 tsp ginger, minced
 
@@ -60,7 +60,8 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 3 scallions, cut into 3/4 in lengths
+- whites of 3 scallions, halved lengthwise and cut into 1/4 in pieces
+- greens of 3 scallions, cut into 3/4 in lengths
 
 ---
 
@@ -114,7 +115,7 @@ Do this before the wok is hot. Use the coarse Pixian paste, and medium 二荆条
 <!-- cup -->
 
 - 2 tsp fermented black beans (豆豉), rinsed and lightly crushed
-- 1 tsp Sichuan chili flakes (四川辣椒面)
+- 2 tsp Sichuan chili flakes (四川辣椒面)
 - 2 tsp garlic, minced
 - 2 tsp ginger, minced
 
@@ -125,9 +126,10 @@ Do this before the wok is hot. Use the coarse Pixian paste, and medium 二荆条
 
 <!-- cup -->
 
-- 3 scallions, cut into 3/4 in lengths
+- whites of 3 scallions, halved lengthwise and cut into 1/4 in pieces
+- greens of 3 scallions, cut into 3/4 in lengths
 
-1. Put each group into one cup or pile, prepared the way the line says.
+1. Put each group into one cup or pile, prepared the way the line says. The whites and the greens come from the same 3 scallions.
 2. Set the toasted and crushed Sichuan peppercorns and the starch slurry next to the cups. When the tofu timer rings, drain the tofu and set it with them.
 
 ## Stir-fry
@@ -153,7 +155,7 @@ These amounts were measured above.
 <!-- cup -->
 
 - 2 tsp fermented black beans (豆豉), rinsed and lightly crushed
-- 1 tsp Sichuan chili flakes (四川辣椒面)
+- 2 tsp Sichuan chili flakes (四川辣椒面)
 - 2 tsp garlic, minced
 - 2 tsp ginger, minced
 
@@ -164,7 +166,8 @@ These amounts were measured above.
 
 <!-- cup -->
 
-- 3 scallions, cut into 3/4 in lengths
+- whites of 3 scallions, halved lengthwise and cut into 1/4 in pieces
+- greens of 3 scallions, cut into 3/4 in lengths
 
 **Tofu**
 
@@ -186,5 +189,10 @@ These amounts were measured above.
 5. Add the **drained tofu**. Simmer until the tofu is red, about 3 minutes. Push the tofu up the sides, scrape the bottom, and fold the tofu back down. If the center boils hard, press pause/clear once until the surface settles, turn the left dial down 10°F, and press start. If the surface goes still, turn the left dial up 10°F.
 6. Return the **ground beef** and simmer about 1 minute, folding the tofu through the sauce.
 7. Stir the **potato starch** and the **cold water** again. Pour in about a third and fold the tofu through the sauce. Add the rest in one or two more pours, and stop when the sauce is glossy and coats the back of a spoon. If the bottom starts to catch, press pause/clear once and stir until it releases. Press start.
-8. Add the **scallions**. Stir until they turn bright and smell sweet, about 15 seconds. Press on/off. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精).
-9. Spoon it into a bowl, sprinkle with the **toasted and crushed Sichuan peppercorns**, and serve.
+8. Add the **whites of 3 scallions** and the **greens of 3 scallions**. Stir until the greens turn bright and the whites smell sweet, about 15 seconds. Press on/off.
+9. Add the **toasted and crushed Sichuan peppercorns**. Stir until the powder is mixed through the sauce. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精).
+10. Spoon it into a bowl and serve.
+
+---
+
+Use 14 oz silken tofu (内酯豆腐) in place of the soft tofu. Cut it into 1 in cubes. Set the blanch timer for 2 minutes, and lift the cubes out with a slotted spoon when it rings. When the tofu goes into the wok, push the sauce under the cubes and leave them in the bottom. When the beef goes back, lay it over the tofu and simmer. Pour the slurry down the side of the wok in the same pours. When the scallions go in, push them through the sauce the same way. After the heat is off, stir the pepper through the sauce along the side of the wok.
