@@ -41,7 +41,8 @@ Lines set close together share a cup.
 <!-- cup -->
 
 - 1 tsp Zhenjiang vinegar (镇江香醋)
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 
 ---
 
@@ -85,9 +86,10 @@ Do this while the shrimp sit. Use tomato ketchup.
 <!-- cup -->
 
 - 1 tsp Zhenjiang vinegar (镇江香醋)
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 
-1. Mince the **ginger** and the **garlic** with the cleaver. Chop the **scallion**. Put each group into one cup or pile.
+1. Mince the **ginger** and the **garlic** with the cleaver. Halve the **white of 1 scallion** lengthwise and chop it. Chop the **green of 1 scallion**. They come from the same scallion. Put each group into one cup or pile.
 2. If the shrimp have not finished their 10 minutes, wait.
 3. Seat the wok. Press start. Turn the left dial to 375°F. Add the **peanut oil**. When it shimmers, add half of the **seasoned large shrimp** in one layer in the bottom. Cook until the undersides are pink, about 30 seconds. Turn them. Cook until the outside is pink and the center is still slightly translucent, about 20 seconds more. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start. Scoop that half onto a plate before they curl into a tight ring.
 4. When the oil shimmers, cook the remaining **seasoned large shrimp** the same way and scoop them onto the plate.
@@ -96,4 +98,4 @@ Do this while the shrimp sit. Use tomato ketchup.
 7. Add the **Shaoxing wine for the sauce**, the **light soy sauce**, the **sugar**, and the **water** together. Stir until the sauce bubbles, about 20 seconds.
 8. Return the **seasoned large shrimp**. Turn the left dial to 250°F. Cover with the glass lid. Cook until the shrimp curl in a loose C and the center is just opaque, about 2 minutes. The surface bubbles gently, or only shivers. If it boils hard, press pause/clear once until the surface settles, turn the left dial down 10°F, and press start. If the surface goes still, turn the left dial up 10°F. If the shrimp curl into a tight ring, take the lid off.
 9. Take the lid off. If the sauce does not cling to every shrimp, turn the left dial to 375°F and stir until it does, about 1 minute. If the bottom starts to catch, press pause/clear once and stir until it releases. Press start.
-10. Press on/off. Add the **Zhenjiang vinegar** and the **scallion**. Toss until the scallion smells sweet, about 15 seconds. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精). Eat it hot.
+10. Press on/off. Add the **Zhenjiang vinegar**, the **white of 1 scallion**, and the **green of 1 scallion**. Toss until the green turns bright and the white smells sweet, about 15 seconds. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精). Eat it hot.

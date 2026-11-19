@@ -51,7 +51,8 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 - 2 tbsp cilantro, chopped
 
 **Broth**
@@ -141,10 +142,11 @@ Use toasted Chinese sesame paste, and plain red chili oil.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 - 2 tbsp cilantro, chopped
 
-1. Mince the **garlic** with the 8 in cleaver. Chop the **scallion** and the **cilantro**, and set them aside.
+1. Mince the **garlic** with the 8 in cleaver. Halve the **white of 1 scallion** lengthwise and chop it. Chop the **green of 1 scallion**. They come from the same scallion. Chop the **cilantro**. Set them aside.
 2. Stir the **sesame paste** and the **hot water for the paste** together until the paste is smooth and falls slowly from the spoon.
 3. Add the **garlic**, the **Zhenjiang vinegar**, the **sugar for the bowls**, the **chili oil for the bowls**, and the **toasted sesame oil** together. Stir until the sauce looks even. Spoon it into two bowls, half in each.
 4. If a hand cannot stay on the side of the saucepan, wait until it can. Go back and finish the noodles.
@@ -222,11 +224,12 @@ These amounts were measured above.
 
 **Bowls**
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 - 2 tbsp cilantro, chopped
 
 1. Drain the sweet potato noodles. Add the **drained sweet potato noodles** and press them under the surface. Cook until they turn translucent at the edges, about 6 minutes. If the center boils hard, press pause/clear once until the surface settles, turn the left dial down 10°F, and press start. If the surface goes still, turn the left dial up 10°F.
 2. Lay the **firm tofu** on the noodles. Cook until the noodles are chewy and the tofu is hot, about 2 minutes. Break one strand. The center is translucent. If the center is still white, cook until it turns translucent, about 5 minutes more.
 3. Add the **enoki mushrooms**, the **hot-pot beef slices**, and the **bok choy** together. Stir once. Cook until the pink is gone and the slices are still tender, the mushrooms have wilted, and the bok choy leaves have wilted with the stems still crisp, about 45 seconds. If the beef stiffens, stop there. Press pause/clear once.
-4. Ladle the soup into the two bowls with the wok ladle. Scatter the **scallion** and the **cilantro** over the top. The herbs should sit on the soup.
-5. Brush the wok with hot water. Seat the wok. Press start. Turn the left dial to 300°F and dry it until the water is gone. Wipe on a little peanut oil, then wipe it back until the metal looks almost dry. Turn the left dial to 450°F. Stop when that film just smokes and the surface looks dry. If it has not smoked, turn the left dial up 10°F. If the smoke thickens, press pause/clear once. Press on/off. The fan may run about a minute. Set the wok on its stand.
+4. Ladle the soup into the two bowls with the wok ladle. Scatter the **white of 1 scallion**, the **green of 1 scallion**, and the **cilantro** over the top. The herbs should sit on the soup.
+5. Press on/off. Set the wok on its stand.

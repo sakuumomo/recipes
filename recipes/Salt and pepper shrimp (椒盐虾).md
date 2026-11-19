@@ -2,7 +2,7 @@
 
 Serves 2. About 30 minutes.
 
-Peppercorns in a small skillet. Fry on the Mosaic at 350°F, then toss in that wok. The Mosaic is at 1500 watts.
+Peppercorns in a small skillet. Fry on the Mosaic at 350°F, then toss in that wok at 300°F. The Mosaic is at 1500 watts.
 
 Season the shrimp. Toast the peppercorns and cut the toss while they sit. When the timer rings, leave the shrimp and keep going. Heat the oil and stay with the thermometer. When the oil is ready and the shrimp have finished their 10 minutes, pat them dry, coat them, and fry them. Toss them as soon as they come out.
 
@@ -34,7 +34,8 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 
 **Fry**
 
@@ -77,12 +78,13 @@ Use large peeled shrimp with the tails off, and salted Shaoxing.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 
 1. Put the **Sichuan peppercorns** in a small skillet. Set the skillet fully on a coil turned to medium-low. Shake it often until the peppercorns smell citrusy, about 1 minute. Slide the skillet off the coil and turn that coil off.
 2. Cool them 1 minute. Put them in a small bowl and crush them to a powder with the back of a spoon.
 3. Stir in the **kosher salt** and the **ground white pepper** until the powder looks even.
-4. Slice the **garlic**. Slice the **red chili**. Chop the **scallion**. Leave the pepper salt in its bowl. Put the garlic and the red chili in one cup. Put the scallion in a cup.
+4. Slice the **garlic**. Slice the **red chili**. Halve the **white of 1 scallion** lengthwise and chop it. Chop the **green of 1 scallion**. They come from the same scallion. Leave the pepper salt in its bowl. Put the garlic and the red chili in one cup. Put the **white of 1 scallion** and the **green of 1 scallion** in a cup.
 
 ## Fry
 
@@ -132,14 +134,15 @@ These amounts were measured above.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 
 **Shrimp**
 
 - 10 oz large shrimp, peeled and deveined, fried
 
 1. Turn the left dial to 300°F. Add the **peanut oil for the toss**. When it shimmers and has stopped smoking, about 30 seconds, add the **garlic** and the **red chili** together. Stir until the garlic is pale gold, about 40 seconds. If the garlic darkens, press pause/clear once and stir until it stops darkening. Press start.
-2. Add the **fried large shrimp**, the **scallion**, the **toasted and crushed Sichuan peppercorns**, the **kosher salt**, and the **ground white pepper** together. Toss until every shrimp is seasoned and the coating is still crisp, about 20 seconds.
+2. Add the **fried large shrimp**, the **white of 1 scallion**, the **green of 1 scallion**, the **toasted and crushed Sichuan peppercorns**, the **kosher salt**, and the **ground white pepper** together. Toss until every shrimp is seasoned and the coating is still crisp, about 20 seconds.
 3. Press on/off. Scrape the shrimp onto a plate. Set the wok on its stand. Eat them hot, while the coating is still crisp.
 
 ---

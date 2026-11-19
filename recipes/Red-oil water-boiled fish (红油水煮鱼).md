@@ -207,7 +207,7 @@ These amounts were measured above.
 2. Ladle the broth over the sprouts with the wok ladle. The fish should sit in the broth. Press pause/clear once.
 3. Scatter the **scallion greens**, the **garlic for the pour**, the **dried erjingtiao**, and the **Sichuan peppercorns** over the fish until they cover the top.
 4. Pour the **peanut oil for the pour** over those aromatics. It should crackle as it lands.
-5. Brush the wok with hot water. Seat it. Press start. Turn the left dial to 300°F and dry it until the water is gone. Wipe on a little peanut oil, then wipe it back until the metal looks almost dry. Turn the left dial to 450°F. Stop when that film just smokes and the surface looks dry. If it has not smoked, turn the left dial up 10°F. If the smoke thickens, press pause/clear once. Press on/off. The fan may run about a minute. Set the wok on its stand. Eat the fish, the sprouts, and the scallion greens. The chilies and the peppercorns stay in the bowl for their aroma.
+5. Press on/off. Set the wok on its stand. Eat the fish, the sprouts, and the scallion greens. The chilies and the peppercorns stay in the bowl for their aroma.
 
 ---
 

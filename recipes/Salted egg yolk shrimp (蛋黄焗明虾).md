@@ -41,7 +41,8 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 
 ---
 
@@ -93,14 +94,15 @@ Do this before the wok is hot.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 
-1. Mince the **garlic** with the cleaver. Chop the **scallion**. If a yolk has not broken into sandy crumbs, wait until it does, then pull the saucepan fully off and turn the coil off. If the yolks are still whole, mash them until they are a fine paste. Put each group into one cup or pile.
+1. Mince the **garlic** with the cleaver. Halve the **white of 1 scallion** lengthwise and chop it. Chop the **green of 1 scallion**. They come from the same scallion. If a yolk has not broken into sandy crumbs, wait until it does, then pull the saucepan fully off and turn the coil off. If the yolks are still whole, mash them until they are a fine paste. Put each group into one cup or pile.
 2. Seat the wok. Press start. Turn the left dial to 375°F. Add the **peanut oil**. When it shimmers, add half of the **coated large shrimp** in one layer in the bottom. Cook until the undersides are pink, about 30 seconds. Turn them. Cook until they curl in a loose C and the center is just opaque, about 30 seconds more. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start. Scoop them onto a plate before they curl into a tight ring or brown hard.
 3. When the oil shimmers, cook the remaining **coated large shrimp** the same way and scoop them onto the plate.
 4. Turn the left dial to 300°F. When the oil shimmers and has stopped smoking, add the **garlic**, the **steamed and mashed salted duck egg yolks**, and the **sugar** together. Stir and press until the yolks foam and look sandy, about 1 minute. If they smell sharp, press pause/clear once and stir until the smell sweetens. Press start.
 5. Return the **coated large shrimp**. Toss until every shrimp wears an even gold coat, about 30 seconds.
-6. Add the **scallion**. Toss until it smells sweet, about 15 seconds. Press on/off. Eat it hot.
+6. Add the **white of 1 scallion** and the **green of 1 scallion**. Toss until the green turns bright and the white smells sweet, about 15 seconds. Press on/off. Eat it hot.
 
 ---
 

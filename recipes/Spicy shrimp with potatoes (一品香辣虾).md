@@ -2,7 +2,7 @@
 
 Serves 2. About 45 minutes.
 
-The potatoes soak in a bowl. The shrimp and the potatoes fry on the Mosaic at 350°F, then the toss stays in that wok. The Mosaic is at 1500 watts.
+The potatoes soak in a bowl. The shrimp and the potatoes fry on the Mosaic at 350°F, then the toss stays in that wok at 300°F. The Mosaic is at 1500 watts.
 
 Soak the potatoes. Season the shrimp and cut the aromatics while they soak. When the timer rings, drain the potatoes and pat them dry, then keep going. Fry the shrimp, then the potatoes. Ladle the spare oil out and toss as soon as the potatoes come out.
 
@@ -38,7 +38,8 @@ Lines set close together share a cup.
 
 - 1 handful Chinese celery (香芹), cut into 1 1/2 in lengths
 - 1/2 cup roasted salted peanuts
-- 1 scallion, cut into 1 in lengths
+- white of 1 scallion, halved lengthwise and cut into 1/4 in pieces
+- green of 1 scallion, cut into 1 in lengths
 
 <!-- cup -->
 
@@ -96,7 +97,8 @@ Do this while the potatoes soak. Use plain red chili oil, and whole dried erjing
 
 - 1 handful Chinese celery (香芹), cut into 1 1/2 in lengths
 - 1/2 cup roasted salted peanuts
-- 1 scallion, cut into 1 in lengths
+- white of 1 scallion, halved lengthwise and cut into 1/4 in pieces
+- green of 1 scallion, cut into 1 in lengths
 
 <!-- cup -->
 
@@ -110,8 +112,8 @@ Do this while the potatoes soak. Use plain red chili oil, and whole dried erjing
 - 1 tsp white sesame seeds (白芝麻)
 
 1. With the 8 in cleaver, slice the **garlic** and the **ginger**. Snip the **dried erjingtiao** in half and shake out the loose seeds.
-2. With the 8 in cleaver, cut the **Chinese celery** into 1 1/2 in lengths and the **scallion** into 1 in lengths.
-3. Put the **peanut oil for the toss** in one cup. Put the **garlic**, the **ginger**, and the **dried erjingtiao** in another. Put the **Chinese celery**, the **roasted salted peanuts**, and the **scallion** in another. Put the **light soy sauce**, the **sugar**, the **chili oil**, and the **toasted sesame oil** in another. Put the **white sesame seeds** in another.
+2. With the 8 in cleaver, cut the **Chinese celery** into 1 1/2 in lengths. Halve the **white of 1 scallion** lengthwise and cut it into 1/4 in pieces. Cut the **green of 1 scallion** into 1 in lengths. They come from the same scallion.
+3. Put the **peanut oil for the toss** in one cup. Put the **garlic**, the **ginger**, and the **dried erjingtiao** in another. Put the **Chinese celery**, the **roasted salted peanuts**, the **white of 1 scallion**, and the **green of 1 scallion** in another. Put the **light soy sauce**, the **sugar**, the **chili oil**, and the **toasted sesame oil** in another. Put the **white sesame seeds** in another.
 
 ## Fry
 
@@ -153,7 +155,8 @@ These amounts were measured above.
 
 - 1 handful Chinese celery (香芹), cut into 1 1/2 in lengths
 - 1/2 cup roasted salted peanuts
-- 1 scallion, cut into 1 in lengths
+- white of 1 scallion, halved lengthwise and cut into 1/4 in pieces
+- green of 1 scallion, cut into 1 in lengths
 
 <!-- cup -->
 
@@ -175,7 +178,7 @@ These amounts were measured above.
 - 10 oz large shrimp, peeled and deveined, fried
 
 1. Turn the left dial to 300°F. Add the **peanut oil for the toss**. When it shimmers and has stopped smoking, about 30 seconds, add the **garlic**, the **ginger**, and the **dried erjingtiao** together. Stir until the garlic smells sweet and the chilies turn one shade darker, still red, about 30 seconds. If they blacken, press pause/clear once and stir until they cool. Press start.
-2. Add the **Chinese celery**, the **roasted salted peanuts**, and the **scallion**. Stir until the celery is bright green, about 30 seconds.
+2. Add the **Chinese celery**, the **roasted salted peanuts**, the **white of 1 scallion**, and the **green of 1 scallion**. Stir until the celery is bright green and the white smells sweet, about 30 seconds.
 3. Add the **light soy sauce**, the **sugar**, the **chili oil**, and the **toasted sesame oil** together. Stir until the soy bubbles, about 10 seconds.
 4. Add the **fried potato** and the **fried large shrimp** together. Toss until every piece looks glossy and the shrimp are still tender, about 30 seconds. If the shrimp have cooled, toss until they are hot again, about 30 seconds more. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精).
 5. Press on/off. Add the **white sesame seeds**. Toss until they stick, about 10 seconds.

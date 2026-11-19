@@ -51,7 +51,8 @@ Lines set close together share a cup.
 <!-- cup -->
 
 - 1 tsp Zhenjiang vinegar (镇江香醋)
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 
 ---
 
@@ -101,7 +102,8 @@ Do this while the eggplant sits. Use the coarse Pixian paste, sweet wheat sauce 
 <!-- cup -->
 
 - 1 tsp Zhenjiang vinegar (镇江香醋)
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 
 1. With the 8 in cleaver, put each group into one cup, prepared the way the line says.
 2. Stir the **potato starch for the sauce** and the **cold water for the sauce** together until the liquid is smooth. When the timer rings, finish the cup in your hand, go back and starch the eggplant, then start the stir-fry.
@@ -144,7 +146,8 @@ These amounts were measured above. Start when the eggplant is starched.
 <!-- cup -->
 
 - 1 tsp Zhenjiang vinegar (镇江香醋)
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 
 1. Seat the wok. Press start. Turn the left dial to 375°F. Turn the right dial to 40 minutes. Add the **peanut oil for the eggplant**. When it shimmers, add a single layer of the **long Chinese eggplants** in the bottom. Cook until the underside is golden, about 2 minutes. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start.
 2. Turn the pieces. Cook until both sides are golden and the center of a piece looks creamy, about 2 minutes more. If a center is still white and spongy, cook 1 minute more. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start. If the food stays pale after another minute at this temperature, turn the left dial to 425°F and keep going until a center looks creamy. Lift this layer out onto a plate.
@@ -155,4 +158,4 @@ These amounts were measured above. Start when the eggplant is starched.
 7. Turn the left dial to 375°F. Add the **sugar**, the **light soy sauce**, the **dark soy sauce**, the **Shaoxing wine**, and the **water for the sauce** together. Stir until the sauce bubbles, about 20 seconds. If the center boils hard, press pause/clear once until the surface settles. Press start.
 8. Turn the left dial to 300°F. Add the **long Chinese eggplants** back. Stir until the pieces are coated and soft, about 1 minute. If a center is still firm, cook 1 minute more. If the bottom starts to catch, press pause/clear once and stir until it releases. Press start.
 9. Stir the **potato starch for the sauce** and the **cold water for the sauce** again. Pour them in. Stir until the sauce looks glossy and clings to the pieces, about 20 seconds.
-10. Press on/off. Add the **Zhenjiang vinegar** and the **scallion** together. Stir until the vinegar smells sharp, about 10 seconds. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精).
+10. Press on/off. Add the **Zhenjiang vinegar**, the **white of 1 scallion**, and the **green of 1 scallion** together. Stir until the vinegar smells sharp and the green turns bright, about 10 seconds. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精).

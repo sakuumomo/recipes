@@ -40,7 +40,8 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 1 scallion, cut into 1/2 in lengths
+- white of 1 scallion, halved lengthwise and cut into 1/4 in pieces
+- green of 1 scallion, cut into 1/2 in lengths
 - 1 tsp toasted sesame oil (香油)
 
 **Beans**
@@ -85,10 +86,11 @@ Do this before the wok is hot. Use ground pork that shows some fat, Yibin suimi 
 
 <!-- cup -->
 
-- 1 scallion, cut into 1/2 in lengths
+- white of 1 scallion, halved lengthwise and cut into 1/4 in pieces
+- green of 1 scallion, cut into 1/2 in lengths
 - 1 tsp toasted sesame oil (香油)
 
-1. Snip the **dried erjingtiao** in half and shake out the loose seeds. With the 8 in cleaver, slice the **garlic** and the **ginger**. Cut the **scallion** into 1/2 in lengths.
+1. Snip the **dried erjingtiao** in half and shake out the loose seeds. With the 8 in cleaver, slice the **garlic** and the **ginger**. Halve the **white of 1 scallion** lengthwise and cut it into 1/4 in pieces. Cut the **green of 1 scallion** into 1/2 in lengths. They come from the same scallion.
 2. Rinse the **Yibin suimi yacai** and squeeze it dry. Chop it.
 3. Put each group into one cup or pile, prepared the way the line says. Go on to the beans.
 
@@ -140,7 +142,8 @@ These amounts were measured above. The wok is still seated.
 
 <!-- cup -->
 
-- 1 scallion, cut into 1/2 in lengths
+- white of 1 scallion, halved lengthwise and cut into 1/4 in pieces
+- green of 1 scallion, cut into 1/2 in lengths
 - 1 tsp toasted sesame oil (香油)
 
 **Beans**
@@ -153,4 +156,4 @@ These amounts were measured above. The wok is still seated.
 4. Add the **garlic** and the **ginger** together. Stir until they smell sweet, about 20 seconds. If they color, press pause/clear once and stir until they cool. Press start.
 5. Add the **rinsed, squeezed, and chopped Yibin suimi yacai**. Stir until it smells savory, about 30 seconds.
 6. Add the **fried green beans**, the **light soy sauce**, the **kosher salt**, and the **sugar** together. Toss until the beans are coated and the wok looks dry, about 1 minute. If liquid pools, keep tossing until it is gone.
-7. Add the **scallion** and the **toasted sesame oil**. Toss until the scallion smells sweet, about 15 seconds. Press on/off. Eat the beans hot. The chilies and the peppercorns stay on the plate for their aroma. Set the wok on its stand.
+7. Add the **white of 1 scallion**, the **green of 1 scallion**, and the **toasted sesame oil**. Toss until the green turns bright and the white smells sweet, about 15 seconds. Press on/off. Eat the beans hot. The chilies and the peppercorns stay on the plate for their aroma. Set the wok on its stand.

@@ -18,7 +18,8 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped fine
+- green of 1 scallion, chopped fine
 
 <!-- cup -->
 
@@ -62,7 +63,8 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped fine
+- green of 1 scallion, chopped fine
 
 <!-- cup -->
 
@@ -87,14 +89,14 @@ Lines set close together share a cup.
 1. With the 8 in cleaver, shred the **green cabbage** into 1/4 in strips.
 2. With the 8 in cleaver, shred the **carrot** into thin strips.
 3. With the 8 in cleaver, slice the **celery** thin.
-4. With the 8 in cleaver, chop the **scallion** fine.
+4. With the 8 in cleaver, halve the **white of 1 scallion** lengthwise and chop it fine. Chop the **green of 1 scallion** fine. They come from the same scallion.
 5. With the 8 in cleaver, cut the **char siu** into 1/4 in dice.
 6. Put the **cold water for cooling** in a bowl.
 7. Put the **water for blanching** in a deep heavy saucepan. Set the saucepan fully on a coil turned to high. Stay with it. When the water boils, add the **green cabbage**, the **carrot**, and the **celery** together. Cook until the cabbage is limp and still bright, about 2 minutes. Lift the vegetables into the **cold water for cooling**.
 8. Pull the saucepan fully off. Turn the coil off. Empty it. Wipe the saucepan until a dry towel comes away dry.
 9. Stir the vegetables until they are cool to the touch, about 1 minute.
 10. Drain them. Squeeze them in a clean kitchen towel until they stop dripping and the ball feels dry. If the towel still drips, squeeze once more.
-11. Put the **green cabbage**, the **carrot**, and the **celery** in a bowl. Add the **scallion**, the **char siu**, the **kosher salt**, the **sugar**, the **toasted sesame oil**, the **peanut oil for the filling**, and the **ground white pepper** together. Toss until the mixture looks evenly coated, about 30 seconds.
+11. Put the **green cabbage**, the **carrot**, and the **celery** in a bowl. Add the **white of 1 scallion**, the **green of 1 scallion**, the **char siu**, the **kosher salt**, the **sugar**, the **toasted sesame oil**, the **peanut oil for the filling**, and the **ground white pepper** together. Toss until the mixture looks evenly coated, about 30 seconds.
 
 ## Rolls
 
@@ -114,7 +116,8 @@ Use thick square wrappers from the refrigerator case. Thin frozen sheets and ric
 
 <!-- cup -->
 
-- 1 scallion, chopped, mixed
+- white of 1 scallion, halved lengthwise and chopped fine, mixed
+- green of 1 scallion, chopped fine, mixed
 
 <!-- cup -->
 
@@ -151,4 +154,4 @@ Use thick square wrappers from the refrigerator case. Thin frozen sheets and ric
 
 ---
 
-Add 1 tsp ginger, minced, with the scallion and the char siu.
+Add 1 tsp ginger, minced, with the scallion white, the scallion green, and the char siu.

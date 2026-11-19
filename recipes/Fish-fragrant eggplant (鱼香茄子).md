@@ -38,7 +38,7 @@ Lines set close together share a cup.
 
 - 2 tsp ginger, minced
 - 4 cloves garlic, minced
-- whites of 3 scallions, chopped
+- whites of 3 scallions, halved lengthwise and chopped
 
 <!-- cup -->
 
@@ -92,7 +92,7 @@ Do this while the eggplant sits. Use ground pork that shows some fat, Sichuan pi
 
 - 2 tsp ginger, minced
 - 4 cloves garlic, minced
-- whites of 3 scallions, chopped
+- whites of 3 scallions, halved lengthwise and chopped
 
 <!-- cup -->
 
@@ -138,7 +138,7 @@ These amounts were measured above.
 
 - 2 tsp ginger, minced
 - 4 cloves garlic, minced
-- whites of 3 scallions, chopped
+- whites of 3 scallions, halved lengthwise and chopped
 
 <!-- cup -->
 

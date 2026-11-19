@@ -2,7 +2,7 @@
 
 Serves 2. About 40 minutes.
 
-The wood ear soaks in a bowl. The vegetables blanch in a heavy saucepan. The sear starts in the wok at 375°F on the Mosaic at 1500 watts, and the toss stays in that wok.
+The wood ear soaks in a bowl. The vegetables blanch in a heavy saucepan. The sear starts in the wok at 375°F on the Mosaic at 1500 watts, and the toss stays in that wok at 300°F.
 
 Soak the wood ear. Slice the potato and cut the seasoning while it soaks, then blanch. When the wood ear timer rings, finish the lift or the batch you are on, then drain the wood ear. Sear, then toss.
 
@@ -57,7 +57,8 @@ Lines set close together share a cup.
 - 1 tbsp chili oil (红油)
 - 1 tsp toasted sesame oil (香油)
 - 1 tsp white sesame seeds (白芝麻)
-- 1 scallion, cut into 1/2 in lengths
+- white of 1 scallion, halved lengthwise and cut into 1/4 in pieces
+- green of 1 scallion, cut into 1/2 in lengths
 - 2 tbsp cilantro, chopped
 
 **Blanch**
@@ -142,10 +143,11 @@ Do this before the wok is hot. Use whole dried erjingtiao marked 二荆条, the 
 - 1 tbsp chili oil (红油)
 - 1 tsp toasted sesame oil (香油)
 - 1 tsp white sesame seeds (白芝麻)
-- 1 scallion, cut into 1/2 in lengths
+- white of 1 scallion, halved lengthwise and cut into 1/4 in pieces
+- green of 1 scallion, cut into 1/2 in lengths
 - 2 tbsp cilantro, chopped
 
-1. Snip the **dried erjingtiao** in half and shake out the loose seeds. Slice the **ginger** and the **garlic**. Chop the **Pixian doubanjiang**. Cut the **scallion** into 1/2 in lengths. Chop the **cilantro**. If the **hot-pot beef slices** are frozen together, separate them while they are still cold. Pat them dry.
+1. Snip the **dried erjingtiao** in half and shake out the loose seeds. Slice the **ginger** and the **garlic**. Chop the **Pixian doubanjiang**. Halve the **white of 1 scallion** lengthwise and cut it into 1/4 in pieces. Cut the **green of 1 scallion** into 1/2 in lengths. They come from the same scallion. Chop the **cilantro**. If the **hot-pot beef slices** are frozen together, separate them while they are still cold. Pat them dry.
 2. Put each group into one cup or pile. Go on to the blanch.
 
 ## Blanch
@@ -229,7 +231,8 @@ These amounts were measured above.
 - 1 tbsp chili oil (红油)
 - 1 tsp toasted sesame oil (香油)
 - 1 tsp white sesame seeds (白芝麻)
-- 1 scallion, cut into 1/2 in lengths
+- white of 1 scallion, halved lengthwise and cut into 1/4 in pieces
+- green of 1 scallion, cut into 1/2 in lengths
 - 2 tbsp cilantro, chopped
 
 **Blanch**
@@ -263,4 +266,4 @@ These amounts were measured above.
 5. Add the **Sichuan chili flakes**, the **ground cumin**, the **sugar**, the **light soy sauce**, and the **Shaoxing wine** together. Stir until the wine cooks off, about 15 seconds.
 6. Add the **blanched cauliflower**, the **blanched napa cabbage**, the **blanched enoki mushrooms**, the **soaked dried wood ear**, the **seared potato**, and the **seared luncheon meat** together. Toss until every piece is coated and no liquid pools, about 45 seconds. If liquid pools, keep the food up the sides and let the bottom cook until it looks dry. If the bottom starts to catch, press pause/clear once and stir until it releases. Press start.
 7. Push the pot up the sides. Add the **hot-pot beef slices** in the bottom. Toss until the pink is gone and the slices are still tender, about 30 seconds. Fold the pot back down. If they stiffen, press pause/clear once and stir until they cool. Press start.
-8. Press on/off. Add the **chili oil**, the **toasted sesame oil**, the **white sesame seeds**, the **scallion**, and the **cilantro** together. Toss until the scallion smells sweet and the cilantro wilts, about 15 seconds. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精). Eat the pot hot. The chilies and the peppercorns stay in it for their aroma.
+8. Press on/off. Add the **chili oil**, the **toasted sesame oil**, the **white sesame seeds**, the **white of 1 scallion**, the **green of 1 scallion**, and the **cilantro** together. Toss until the green turns bright, the white smells sweet, and the cilantro wilts, about 15 seconds. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精). Eat the pot hot. The chilies and the peppercorns stay in it for their aroma.

@@ -35,7 +35,8 @@ Lines set close together share a cup.
 
 - 1/2 tsp sugar
 - 1 tsp Shaoxing wine (绍兴料酒), for the toss
-- 2 scallions, cut into 1 in lengths
+- whites of 2 scallions, halved lengthwise and cut into 1/4 in pieces
+- greens of 2 scallions, cut into 1 in lengths
 - 1 tsp ground cumin (孜然)
 - 1 tsp Sichuan chili flakes (四川辣椒面)
 - 1 tsp white sesame seeds (白芝麻)
@@ -93,7 +94,8 @@ Do this while the fish marinates. Use whole dried erjingtiao marked 二荆条, a
 
 - 1/2 tsp sugar
 - 1 tsp Shaoxing wine (绍兴料酒), for the toss
-- 2 scallions, cut into 1 in lengths
+- whites of 2 scallions, halved lengthwise and cut into 1/4 in pieces
+- greens of 2 scallions, cut into 1 in lengths
 - 1 tsp ground cumin (孜然)
 - 1 tsp Sichuan chili flakes (四川辣椒面)
 - 1 tsp white sesame seeds (白芝麻)
@@ -102,7 +104,7 @@ Do this while the fish marinates. Use whole dried erjingtiao marked 二荆条, a
 2. Snip the **dried erjingtiao** in half and shake out the loose seeds. Put them in that bowl.
 3. With the 8 in cleaver, slice the **garlic** and the **ginger** thin. Put them in one cup.
 4. Put the **sugar**, the **Shaoxing wine for the toss**, the **ground cumin**, the **Sichuan chili flakes**, and the **white sesame seeds** in one cup.
-5. With the 8 in cleaver, cut the **scallions** into 1 in lengths. Put them in that cup.
+5. With the 8 in cleaver, halve the **whites of 2 scallions** lengthwise and cut them into 1/4 in pieces. Cut the **greens of 2 scallions** into 1 in lengths. They come from the same 2 scallions. Put them in that cup.
 
 ## Batter
 
@@ -168,7 +170,8 @@ These amounts were measured above. The wok is still seated.
 
 - 1/2 tsp sugar
 - 1 tsp Shaoxing wine (绍兴料酒), for the toss
-- 2 scallions, cut into 1 in lengths
+- whites of 2 scallions, halved lengthwise and cut into 1/4 in pieces
+- greens of 2 scallions, cut into 1 in lengths
 - 1 tsp ground cumin (孜然)
 - 1 tsp Sichuan chili flakes (四川辣椒面)
 - 1 tsp white sesame seeds (白芝麻)
@@ -180,5 +183,5 @@ These amounts were measured above. The wok is still seated.
 1. Turn the left dial to 300°F. When the **peanut oil for frying** shimmers and has stopped smoking, go on.
 2. Add the **Sichuan peppercorns** and the **dried erjingtiao** together. Stir until the chilies smell toasty and turn one shade darker, still red, about 30 seconds. If they blacken, press pause/clear once and stir until they cool. Press start.
 3. Add the **garlic** and the **ginger** together. Stir until fragrant, about 15 seconds. If they color, press pause/clear once and stir until they cool. Press start.
-4. Add the **fried snakehead fillet**, the **sugar**, the **Shaoxing wine for the toss**, the **scallions**, the **ground cumin**, the **Sichuan chili flakes**, and the **white sesame seeds** together. Toss until the wine cooks off and the crust is still crisp, about 20 seconds. Press on/off.
-5. Scoop the fish, the scallions, the chilies, and the peppercorns onto a plate. Set the wok on its stand. Eat the fish and the scallions. The chilies and the peppercorns stay on the plate for their aroma.
+4. Add the **fried snakehead fillet**, the **sugar**, the **Shaoxing wine for the toss**, the **whites of 2 scallions**, the **greens of 2 scallions**, the **ground cumin**, the **Sichuan chili flakes**, and the **white sesame seeds** together. Toss until the wine cooks off and the crust is still crisp, about 20 seconds. Press on/off.
+5. Scoop the fish, the scallion whites, the scallion greens, the chilies, and the peppercorns onto a plate. Set the wok on its stand. Eat the fish, the scallion whites, and the scallion greens. The chilies and the peppercorns stay on the plate for their aroma.

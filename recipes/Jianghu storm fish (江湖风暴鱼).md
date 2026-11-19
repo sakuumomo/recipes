@@ -66,7 +66,8 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 - 1 tsp white sesame seeds (白芝麻)
 
 ---
@@ -144,14 +145,15 @@ Do this while the fish marinates. Use small dried red chilies marked 朝天椒.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 - 1 tsp white sesame seeds (白芝麻)
 
 1. Snip the **dried facing-heaven chilies** in half and shake out the loose seeds.
 2. Slice the **garlic**.
 3. Slice the **ginger**.
-4. Chop the **scallion**.
-5. Put the **peanut oil for the pour** in one cup. Put the **dried facing-heaven chilies**, the **Sichuan peppercorns**, the **green Sichuan peppercorns**, the **cumin seeds for the oil**, the **garlic**, and the **ginger** in another. Put the **toasted sesame oil** in another. Put the **scallion** and the **white sesame seeds** in another. When the fish has finished its 15 minutes, go on to the pour. If it has not, wait.
+4. Halve the **white of 1 scallion** lengthwise and chop it. Chop the **green of 1 scallion**. They come from the same scallion.
+5. Put the **peanut oil for the pour** in one cup. Put the **dried facing-heaven chilies**, the **Sichuan peppercorns**, the **green Sichuan peppercorns**, the **cumin seeds for the oil**, the **garlic**, and the **ginger** in another. Put the **toasted sesame oil** in another. Put the **white of 1 scallion**, the **green of 1 scallion**, and the **white sesame seeds** in another. When the fish has finished its 15 minutes, go on to the pour. If it has not, wait.
 
 ## Pour
 
@@ -195,7 +197,8 @@ These amounts were measured above.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 - 1 tsp white sesame seeds (白芝麻)
 
 1. If the fish has not finished its 15 minutes, wait. Set the saucepan on a coil turned to high. Stay with it. When the water boils, go on.
@@ -209,4 +212,4 @@ These amounts were measured above.
 9. Add the **dried facing-heaven chilies**, the **Sichuan peppercorns**, the **green Sichuan peppercorns**, the **cumin seeds for the oil**, the **garlic**, and the **ginger** together. Stir until the seeds smell toasty and the chilies turn one shade darker, still red, about 15 seconds. If they blacken, keep stirring until they cool.
 10. Pour the **peanut oil for the pour**, spices and all, evenly over the slices.
 11. Drizzle the **toasted sesame oil** over the top.
-12. Scatter the **scallion** and the **white sesame seeds**. Eat it hot.
+12. Scatter the **white of 1 scallion**, the **green of 1 scallion**, and the **white sesame seeds**. Eat it hot.

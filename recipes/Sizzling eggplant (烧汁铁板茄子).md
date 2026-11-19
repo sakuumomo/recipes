@@ -55,7 +55,8 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 - 1 tsp white sesame seeds (白芝麻)
 
 ---
@@ -109,7 +110,7 @@ Do this while the eggplant sits.
 
 ## Sizzle
 
-Chop the scallion before the skillet is hot.
+Cut the scallion before the skillet is hot.
 
 - 1 tsp peanut oil, for the skillet
 
@@ -119,7 +120,8 @@ Chop the scallion before the skillet is hot.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 - 1 tsp white sesame seeds (白芝麻)
 
 **Eggplant**
@@ -146,8 +148,8 @@ Chop the scallion before the skillet is hot.
 - 1/2 tsp dark soy sauce (老抽)
 - 2 tsp sugar
 
-1. With the 8 in cleaver, chop the **scallion**. Put the **peanut oil for the skillet** in one cup, the **Zhenjiang vinegar** in another, and the **scallion** with the **white sesame seeds** in another.
+1. With the 8 in cleaver, halve the **white of 1 scallion** lengthwise and chop it. Chop the **green of 1 scallion**. They come from the same scallion. Put the **peanut oil for the skillet** in one cup, the **Zhenjiang vinegar** in another, and the **white of 1 scallion** and the **green of 1 scallion** with the **white sesame seeds** in another.
 2. Set the empty 10 in skillet fully on a coil turned to high. Set the saucepan fully on another coil turned to medium and stir the sauce. If the bottom starts to catch, pull the saucepan fully off and turn that coil off. Stir until it releases. Turn that coil back to medium and set the saucepan fully back on. When the sauce bubbles, pull the saucepan fully off and turn that coil off. Stay with the skillet until a drop of water skitters and vanishes, about 3 minutes. The oil goes in only when the eggplant and the sauce are ready to follow it.
 3. Add the **peanut oil for the skillet** and swirl it over the bottom. Add the **long Chinese eggplants**. Pour the saucepan over them at once: the **peanut oil for the sauce**, the **onion**, the **red bell pepper**, the **ginger**, the **garlic**, the **water**, the **potato starch**, the **oyster sauce**, the **light soy sauce**, the **dark soy sauce**, and the **sugar** together. It should sizzle. Stir until the glaze clings, about 15 seconds. If the glaze smells sharp or turns dull, pull the skillet fully off and turn that coil off.
 4. If the skillet is still on the coil, pull it fully off and turn that coil off. Add the **Zhenjiang vinegar**. Stir until it smells sharp, about 10 seconds. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精).
-5. Scatter the **scallion** and the **white sesame seeds**. Eat it hot.
+5. Scatter the **white of 1 scallion**, the **green of 1 scallion**, and the **white sesame seeds**. Eat it hot.

@@ -34,7 +34,8 @@ Lines set close together share a cup.
 
 - 1/2 tsp sugar
 - 1 tsp Shaoxing wine (绍兴料酒), for the toss
-- 3 scallions, cut into 1 in lengths
+- whites of 3 scallions, halved lengthwise and cut into 1/2 in pieces
+- greens of 3 scallions, cut into 1 in lengths
 
 **Fry**
 
@@ -75,13 +76,14 @@ Do this while the chicken marinates. Use whole dried erjingtiao marked 二荆条
 
 - 1/2 tsp sugar
 - 1 tsp Shaoxing wine (绍兴料酒), for the toss
-- 3 scallions, cut into 1 in lengths
+- whites of 3 scallions, halved lengthwise and cut into 1/2 in pieces
+- greens of 3 scallions, cut into 1 in lengths
 
 1. With the 8 in cleaver, slice the **garlic** and the **ginger** thin. Put them in one cup.
 2. Put the **Sichuan peppercorns** in a bowl.
 3. Snip the **dried erjingtiao** in half and shake out the loose seeds. Put them in that bowl.
 4. Put the **sugar** and the **Shaoxing wine for the toss** in one cup.
-5. With the 8 in cleaver, cut the **scallions** into 1 in lengths. Put them in that cup.
+5. With the 8 in cleaver, halve the **whites of 3 scallions** lengthwise and cut them into 1/2 in pieces. Cut the **greens of 3 scallions** into 1 in lengths. They come from the same 3 scallions. Put them in that cup.
 
 ## Fry
 
@@ -126,7 +128,8 @@ These amounts were measured above. The wok is still seated.
 
 - 1/2 tsp sugar
 - 1 tsp Shaoxing wine (绍兴料酒), for the toss
-- 3 scallions, cut into 1 in lengths
+- whites of 3 scallions, halved lengthwise and cut into 1/2 in pieces
+- greens of 3 scallions, cut into 1 in lengths
 
 **Chicken**
 
@@ -135,8 +138,8 @@ These amounts were measured above. The wok is still seated.
 1. Turn the left dial to 300°F. When the remaining **peanut oil** shimmers and has stopped smoking, go on.
 2. Add the **garlic** and the **ginger** together. Stir until fragrant, about 15 seconds. If they color, press pause/clear once and stir until they cool. Press start.
 3. Add the **Sichuan peppercorns** and the **dried erjingtiao** together. Stir until the chilies smell toasty and turn one shade darker, still red, about 30 seconds. If they blacken, press pause/clear once and stir until they cool. Press start.
-4. Add the **fried chicken thighs**, the **sugar**, the **Shaoxing wine for the toss**, and the **scallions** together. Toss until the chicken is coated and the wine has cooked off, about 1 minute. Press on/off.
-5. Scoop the chicken, the scallions, the chilies, and the peppercorns onto a plate. Set the wok on its stand. Eat the chicken and the scallions. The chilies and the peppercorns stay on the plate for their aroma.
+4. Add the **fried chicken thighs**, the **sugar**, the **Shaoxing wine for the toss**, the **whites of 3 scallions**, and the **greens of 3 scallions** together. Toss until the chicken is coated and the wine has cooked off, about 1 minute. Press on/off.
+5. Scoop the chicken, the scallion whites, the scallion greens, the chilies, and the peppercorns onto a plate. Set the wok on its stand. Eat the chicken, the scallion whites, and the scallion greens. The chilies and the peppercorns stay on the plate for their aroma.
 
 ---
 

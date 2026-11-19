@@ -140,8 +140,8 @@ Cut the parchment before the wok is hot.
 8. Set the parchment back in the steamer. Set the remaining **dumpling wrappers** on it, pleat side up, with space between them. Set the steamer over the wok and cover the steamer with its lid. The water should keep boiling, and the lid should drip. If the boil dies, turn the left dial up 10°F. If the boil reaches the basket, turn the left dial down 10°F. Watch the water so the wok does not boil dry.
 9. Steam until the wrappers look glossy and a dumpling feels firm when pressed, about 10 minutes. If a wrapper still looks chalky, cover the steamer and steam 2 minutes more.
 10. Lift that batch onto the plate and cover the plate.
-11. Use the wok ladle to move the **water for the steamer** into a heatproof bowl until the wok is empty. Leave the wok seated.
-12. Brush the wok with hot water. Seat the wok. Press start. Turn the left dial to 300°F and dry it until the water is gone. Wipe on a little peanut oil, then wipe it back until the metal looks almost dry. Turn the left dial to 450°F. Stop when that film just smokes and the surface looks dry. If it has not smoked, turn the left dial up 10°F. If the smoke thickens, press pause/clear once. Press on/off. The fan may run about a minute. Set the wok on its stand. Eat them hot with Dumpling dipping sauce (饺子蘸料).
+11. Use the wok ladle to move the **water for the steamer** into a heatproof bowl until the wok is empty. Press on/off.
+12. Set the wok on its stand. Eat them hot with Dumpling dipping sauce (饺子蘸料).
 
 ---
 

@@ -2,7 +2,7 @@
 
 Serves 2. About 35 minutes.
 
-The squid blanches in a deep heavy saucepan. The fry starts on the Mosaic at 350°F, and the toss stays in that wok. The Mosaic is at 1500 watts.
+The squid blanches in a deep heavy saucepan. The fry starts on the Mosaic at 350°F, and the toss stays in that wok at 300°F. The Mosaic is at 1500 watts.
 
 Cut the squid before the water goes on high. Cut the toss before the oil is hot, then fry, and toss the squid as soon as it comes out.
 

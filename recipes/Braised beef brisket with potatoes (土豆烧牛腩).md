@@ -115,8 +115,7 @@ Use a waxy potato so the pieces stay whole, and salted Shaoxing.
 9. Add the **potatoes** and the **kosher salt**. Press the potatoes into the liquid. Cover the wok with the glass lid and cook until a potato breaks under a spoon, about 15 minutes. If a potato is still firm, cover and cook until it breaks under a spoon, about 5 minutes more.
 10. Uncover. Lift the potatoes out with a slotted spoon and set them aside.
 11. Turn the left dial to 375°F. Cook until the sauce coats a spoon, about 8 minutes. If it still runs like water, keep cooking until it coats a spoon. If the center boils hard, press pause/clear once until the surface settles. Press start. If the bottom starts to catch, press pause/clear once and stir until it releases. Press start.
-12. Fold the **potatoes** back in. Press pause/clear once and leave it paused. Pick out the star anise and the cassia bark. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精). Spoon it into a bowl and eat it hot.
-13. Brush the wok with hot water. Seat the wok. Press start. Turn the left dial to 300°F and dry it until the water is gone. Wipe on a little peanut oil, then wipe it back until the metal looks almost dry. Turn the left dial to 450°F. Stop when that film just smokes and the surface looks dry. If it has not smoked, turn the left dial up 10°F. If the smoke thickens, press pause/clear once. Press on/off. The fan may run about a minute. Set the wok on its stand.
+12. Fold the **potatoes** back in. Press on/off. Pick out the star anise and the cassia bark. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精). Spoon it into a bowl and eat it hot. Set the wok on its stand.
 
 ---
 

@@ -2,7 +2,7 @@
 
 Serves 2. About 35 minutes.
 
-The peppercorns toast in a small skillet. The squid fries on the Mosaic at 350°F, and the toss stays in that wok. The Mosaic is at 1500 watts.
+The peppercorns toast in a small skillet. The squid fries on the Mosaic at 350°F, and the toss stays in that wok at 300°F. The Mosaic is at 1500 watts.
 
 Cut the squid and let it sit 10 minutes. Toast the pepper salt and cut the toss while it sits. When the timer rings, finish the pepper salt if it is not done, then drain the squid and keep going. Toss the squid as soon as it comes out.
 
@@ -35,7 +35,8 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 
 **Fry**
 
@@ -88,12 +89,13 @@ Use cleaned squid tubes, and salted Shaoxing.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 
 1. Put the **Sichuan peppercorns** in a small skillet. Set the skillet fully on a coil turned to medium-low. Shake it often until the peppercorns smell citrusy, about 1 minute. Slide the skillet off the coil and turn that coil off.
 2. Cool them 1 minute. Crush them to a powder with the back of a spoon.
 3. Stir in the **kosher salt** and the **ground white pepper** until the powder looks even.
-4. Slice the **garlic**. Slice the **ginger**. Slice the **red chili**. Chop the **scallion**. Leave the pepper salt in the skillet. Put the garlic, the ginger, and the red chili in one cup. Put the scallion in a cup.
+4. Slice the **garlic**. Slice the **ginger**. Slice the **red chili**. Halve the **white of 1 scallion** lengthwise and chop it. Chop the **green of 1 scallion**. They come from the same scallion. Leave the pepper salt in the skillet. Put the garlic, the ginger, and the red chili in one cup. Put the **white of 1 scallion** and the **green of 1 scallion** in a cup.
 
 ## Fry
 
@@ -157,7 +159,8 @@ These amounts were measured above.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 
 **Squid**
 
@@ -165,7 +168,7 @@ These amounts were measured above.
 
 1. Ladle the spare **peanut oil for frying** into a heatproof bowl with the wok ladle until a thin film is left. Leave the wok seated.
 2. Turn the left dial to 300°F. Add the **peanut oil for the toss**. When it shimmers and has stopped smoking, add the **garlic**, the **ginger**, and the **red chili** together. Stir until the garlic is pale gold, about 40 seconds. If the garlic darkens, press pause/clear once and stir until it stops darkening. Press start.
-3. Add the **fried squid tubes**, the **scallion**, the **toasted and crushed Sichuan peppercorns**, the **kosher salt**, and the **ground white pepper** together. Toss until every ring is seasoned and the coating is still crisp, about 20 seconds. Press on/off. Eat it hot, while the coating is still crisp.
+3. Add the **fried squid tubes**, the **white of 1 scallion**, the **green of 1 scallion**, the **toasted and crushed Sichuan peppercorns**, the **kosher salt**, and the **ground white pepper** together. Toss until every ring is seasoned and the coating is still crisp, about 20 seconds. Press on/off. Eat it hot, while the coating is still crisp.
 
 ---
 

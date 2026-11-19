@@ -2,7 +2,7 @@
 
 Serves 2. About 45 minutes.
 
-Fry on the Mosaic at 350°F, then glaze in that wok. The Mosaic is at 1500 watts.
+Fry on the Mosaic at 350°F, then glaze in that wok at 300°F. The Mosaic is at 1500 watts.
 
 Marinate the fish. Mix the sauce while it sits, then start the fry oil. When the fish timer rings and the oil reads 350°F, coat and fry the slices. Ladle the spare oil out and glaze them while the coating is still crisp.
 
@@ -40,7 +40,8 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 
 <!-- cup -->
 
@@ -92,7 +93,8 @@ Do this while the fish marinates. Use tomato ketchup, and plain rice vinegar.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 
 <!-- cup -->
 
@@ -101,7 +103,7 @@ Do this while the fish marinates. Use tomato ketchup, and plain rice vinegar.
 1. Mince the **ginger**. Mince the **garlic**. Put them in one cup.
 2. Stir the **tomato ketchup**, the **sugar**, the **light soy sauce**, the **kosher salt for the sauce**, and the **water for the sauce** together in one cup until the sugar dissolves.
 3. Stir the **potato starch for the sauce** and the **cold water for the slurry** together in a small bowl until smooth. Stir it again just before it goes into the wok.
-4. Chop the **scallion** and put it in a cup. Leave the **rice vinegar** in its cup.
+4. Halve the **white of 1 scallion** lengthwise and chop it. Chop the **green of 1 scallion**. They come from the same scallion. Put them in a cup. Leave the **rice vinegar** in its cup.
 
 ## Fry
 
@@ -152,7 +154,8 @@ These amounts were measured above.
 
 <!-- cup -->
 
-- 1 scallion, chopped
+- white of 1 scallion, halved lengthwise and chopped
+- green of 1 scallion, chopped
 
 <!-- cup -->
 
@@ -166,7 +169,7 @@ These amounts were measured above.
 2. Turn the left dial to 300°F. When the film shimmers and has stopped smoking, about 30 seconds, add the **ginger** and the **garlic** together. Stir until they smell sweet, about 15 seconds. If the oil smokes, press pause/clear once and stir until the smoke stops. Press start.
 3. Add the **tomato ketchup**, the **sugar**, the **light soy sauce**, the **kosher salt for the sauce**, and the **water for the sauce** together. Stir until the sauce bubbles and smells sweet, about 30 seconds. If it has not bubbled, turn the left dial up 10°F. If it smells sharp, press pause/clear once and stir until the smell sweetens. Press start.
 4. Stir the **potato starch for the sauce** and the **cold water for the slurry** again. Pour them in. Stir until the sauce is glossy and a spoon dragged through it leaves a clear trail, about 30 seconds. If the center boils hard, press pause/clear once until the surface settles. Press start.
-5. Add the **fried snakehead fillet** and the **scallion** together. Fold until every slice is coated and the sauce clings, about 20 seconds.
+5. Add the **fried snakehead fillet**, the **white of 1 scallion**, and the **green of 1 scallion** together. Fold until every slice is coated and the sauce clings, about 20 seconds.
 6. Press on/off. Add the **rice vinegar**. Stir until the sauce smells sharp, about 5 seconds. Taste. If it is flat, stir in one more pinch of the kosher salt.
 7. Scrape the fish onto a plate. Set the wok on its stand. Eat it hot, while the coating is still crisp.
 
