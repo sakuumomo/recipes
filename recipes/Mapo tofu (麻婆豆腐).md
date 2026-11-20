@@ -40,7 +40,7 @@ Lines set close together share a cup.
 
 <!-- cup -->
 
-- 3 tbsp peanut oil, for the doubanjiang
+- 4 tbsp peanut oil, for the doubanjiang
 
 <!-- cup -->
 
@@ -106,7 +106,7 @@ Do this before the wok is hot. Use the coarse Pixian paste, and medium 二荆条
 
 <!-- cup -->
 
-- 3 tbsp peanut oil, for the doubanjiang
+- 4 tbsp peanut oil, for the doubanjiang
 
 <!-- cup -->
 
@@ -146,7 +146,7 @@ These amounts were measured above.
 
 <!-- cup -->
 
-- 3 tbsp peanut oil, for the doubanjiang
+- 4 tbsp peanut oil, for the doubanjiang
 
 <!-- cup -->
 

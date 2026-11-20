@@ -19,7 +19,7 @@ Lines set close together share a cup.
 
 **Stir-fry**
 
-- 1 1/2 tbsp peanut oil
+- 2 tbsp peanut oil
 
 <!-- cup -->
 
@@ -67,7 +67,7 @@ Use thin threads with mung bean starch first. A little pea starch is fine, and t
 
 Use ground pork that shows some fat, the coarse Pixian paste, medium 二荆条 flakes marked 中辣, and salted Shaoxing.
 
-- 1 1/2 tbsp peanut oil
+- 2 tbsp peanut oil
 
 <!-- cup -->
 

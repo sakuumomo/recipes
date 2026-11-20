@@ -30,7 +30,7 @@ Lines set close together share a cup.
 
 **Stew**
 
-- 1 tsp peanut oil
+- 1 tbsp peanut oil
 
 <!-- cup -->
 
@@ -89,7 +89,7 @@ Leave the skin on.
 
 Do this before the wok is hot. Use salted Shaoxing.
 
-- 1 tsp peanut oil
+- 1 tbsp peanut oil
 
 <!-- cup -->
 
