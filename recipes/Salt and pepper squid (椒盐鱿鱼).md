@@ -168,7 +168,7 @@ These amounts were measured above.
 
 1. Ladle the spare **peanut oil for frying** into a heatproof bowl with the wok ladle until a thin film is left. Leave the wok seated.
 2. Turn the left dial to 300°F. Add the **peanut oil for the toss**. When it shimmers and has stopped smoking, add the **garlic**, the **ginger**, and the **red chili** together. Stir until the garlic is pale gold, about 40 seconds. If the garlic darkens, press pause/clear once and stir until it stops darkening. Press start.
-3. Add the **fried squid tubes**, the **white of 1 scallion**, the **green of 1 scallion**, the **toasted and crushed Sichuan peppercorns**, the **kosher salt**, and the **ground white pepper** together. Toss until every ring is seasoned and the coating is still crisp, about 20 seconds. Press on/off. Eat it hot, while the coating is still crisp.
+3. Add the **fried squid tubes**, the **white of 1 scallion**, the **green of 1 scallion**, the **toasted and crushed Sichuan peppercorns**, the **kosher salt**, and the **ground white pepper** together. Stir until every ring is seasoned and the coating is still crisp, about 20 seconds. Press on/off. Eat it hot, while the coating is still crisp.
 
 ---
 

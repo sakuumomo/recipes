@@ -142,7 +142,7 @@ These amounts were measured above.
 - 10 oz large shrimp, peeled and deveined, fried
 
 1. Turn the left dial to 300°F. Add the **peanut oil for the toss**. When it shimmers and has stopped smoking, about 30 seconds, add the **garlic** and the **red chili** together. Stir until the garlic is pale gold, about 40 seconds. If the garlic darkens, press pause/clear once and stir until it stops darkening. Press start.
-2. Add the **fried large shrimp**, the **white of 1 scallion**, the **green of 1 scallion**, the **toasted and crushed Sichuan peppercorns**, the **kosher salt**, and the **ground white pepper** together. Toss until every shrimp is seasoned and the coating is still crisp, about 20 seconds.
+2. Add the **fried large shrimp**, the **white of 1 scallion**, the **green of 1 scallion**, the **toasted and crushed Sichuan peppercorns**, the **kosher salt**, and the **ground white pepper** together. Stir until every shrimp is seasoned and the coating is still crisp, about 20 seconds.
 3. Press on/off. Scrape the shrimp onto a plate. Set the wok on its stand. Eat them hot, while the coating is still crisp.
 
 ---

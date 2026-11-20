@@ -180,6 +180,6 @@ These amounts were measured above.
 1. Turn the left dial to 300°F. Add the **peanut oil for the toss**. When it shimmers and has stopped smoking, about 30 seconds, add the **garlic**, the **ginger**, and the **dried erjingtiao** together. Stir until the garlic smells sweet and the chilies turn one shade darker, still red, about 30 seconds. If they blacken, press pause/clear once and stir until they cool. Press start.
 2. Add the **Chinese celery**, the **roasted salted peanuts**, the **white of 1 scallion**, and the **green of 1 scallion**. Stir until the celery is bright green and the white smells sweet, about 30 seconds.
 3. Add the **light soy sauce**, the **sugar**, the **chili oil**, and the **toasted sesame oil** together. Stir until the soy bubbles, about 10 seconds.
-4. Add the **fried potato** and the **fried large shrimp** together. Toss until every piece looks glossy and the shrimp are still tender, about 30 seconds. If the shrimp have cooled, toss until they are hot again, about 30 seconds more. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精).
-5. Press on/off. Add the **white sesame seeds**. Toss until they stick, about 10 seconds.
+4. Add the **fried potato** and the **fried large shrimp** together. Stir until every piece looks glossy and the shrimp are still tender, about 30 seconds. If the shrimp have cooled, stir until they are hot again, about 30 seconds more. Taste. If it is flat, stir in one more pinch of the kosher salt. If you want it, stir in one pinch of MSG (味精).
+5. Press on/off. Add the **white sesame seeds**. Stir until they stick, about 10 seconds.
 6. Scrape it onto a plate. Set the wok on its stand. Eat it hot.
